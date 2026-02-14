@@ -1,20 +1,27 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: "O Legado de Silício",
-  description: "Uma aventura épica em um mundo esquecido.",
+  title: "A Última Frequência",
+  description: "Uma distopia cyberpunk onde o som é proibido e a música é a revolução.",
   themeConfig: {
     nav: [
       { text: 'Início', link: '/' },
       { text: 'Sobre', link: '/sobre' },
+      { text: 'Personagens', link: '/personagens' },
       { text: 'Capítulo 1', link: '/capitulo-1' }
     ],
     sidebar: [
       {
-        text: 'O Livro',
+        text: 'A História',
         items: [
-          { text: 'Sobre a Obra', link: '/sobre' },
-          { text: 'Capítulo 1: O Despertar da Ruína', link: '/capitulo-1' }
+          { text: 'Sobre o Universo', link: '/sobre' },
+          { text: 'Personagens', link: '/personagens' }
+        ]
+      },
+      {
+        text: 'Capítulos',
+        items: [
+          { text: 'Capítulo 1: O Sinal Fantasma', link: '/capitulo-1' }
         ]
       }
     ],
