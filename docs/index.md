@@ -3,21 +3,28 @@ layout: home
 
 hero:
   name: "A Última Frequência"
-  text: "Uma distopia sonora de ação e suspense."
-  tagline: "Quando o silêncio é a lei, o som é a revolução."
+  text: "Um thriller distópico sobre memória, música e revolução."
+  tagline: "Quando o Estado controla até o silêncio, lembrar-se de cantar vira terrorismo."
+  image:
+    src: /midia/capa-capitulo-1.svg
+    alt: Capa artística do capítulo 1
   actions:
     - theme: brand
       text: "Ler Capítulo 1"
       link: /capitulo-1
     - theme: alt
-      text: "Sobre o Universo"
-      link: /sobre
+      text: "Conhecer Personagens"
+      link: /personagens
 
 features:
-  - title: Um Mundo Silencioso
-    details: Nova Cadência, uma metrópole onde falar alto é crime e a música foi erradicada para manter a ordem.
-  - title: Guerra Sônica
-    details: Armas de frequência, implantes auditivos de controle e a luta desesperada pelo espectro de rádio.
-  - title: A Resistência
-    details: Junte-se aos Nascidos Livres, rebeldes que usam instrumentos proibidos e transmissores piratas para desafiar O Silêncio.
+  - title: Estado Opressor
+    details: Em Nova Cadência, o Ministério da Harmonia classifica emoções sonoras como ameaça nacional.
+  - title: Lore Coesa
+    details: A história acompanha o mesmo conflito político, tecnológico e humano entre Kael, Vera e o Alto Inquisidor Maestro.
+  - title: Capítulo Multimídia
+    details: Cada capítulo pode ganhar imagens, trailer curto e narração gerados automaticamente via GitHub Actions.
 ---
+
+<div class="story-card">
+Este projeto usa <strong>VitePress + GitHub Pages</strong> para publicar um livro em capítulos com estética cyberpunk e recursos multimídia.
+</div>

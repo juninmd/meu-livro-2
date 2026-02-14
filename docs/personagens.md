@@ -1,26 +1,37 @@
-# Personagens de "A Última Frequência"
+# Personagens de **A Última Frequência**
 
-## Kael
-**Protagonista | Técnico da Resistência**
+## Kael Voss
+**Protagonista | Técnico de Espectro da Resistência**
 
-Kael é um fantasma nas ruas de Nova Cadência. Um técnico brilhante que vive nas sombras, construindo transmissores ilegais para manter viva a chama da rebelião.
+Kael cresceu nos bairros de manutenção de Nova Cadência, onde crianças aprendiam a desmontar sirenes antes de aprender a ler. Após perder a irmã para uma sentença de "reeducação acústica", ele se tornou o maior especialista em sabotagem de implantes auditivos do setor leste.
 
-*   **Aparência:** Magro, com cabelos escuros e desgrenhados que caem sobre os olhos cansados. Suas mãos estão sempre manchadas de graxa e cobertas por pequenas cicatrizes de queimaduras de solda. Ele veste uma jaqueta de couro surrada, cheia de bolsos ocultos onde esconde componentes eletrônicos vitais.
-*   **Personalidade:** Cínico por fora, mas movido por uma esperança teimosa. Ele carrega a culpa de não ter conseguido salvar sua irmã, que foi levada pelo Silêncio por cantar em público.
+- **Aparência:** magro, olhos âmbar cansados, jaqueta de couro surrada com bobinas de cobre costuradas no forro.
+- **Talento:** invadir redes de vigilância sonora e transformar sucata em transmissores clandestinos.
+- **Conflito interno:** culpa por sobreviver quando não conseguiu salvar a própria família.
 
-## Vera
-**Líder da Resistência | Ex-Violinista**
+## Vera Nyx
+**Líder dos Nascidos Livres | Ex-violinista de Conservatório Estatal**
 
-Antes do Silêncio, Vera era uma virtuosa. Agora, ela usa sua música como uma arma, liderando os Nascidos Livres na luta contra a opressão sonora.
+Vera foi prodígio musical no antigo Programa Nacional de Virtuoses. Quando o programa virou ferramenta de propaganda, ela desertou e fundou células artísticas rebeldes que usam música como código de guerra.
 
-*   **Aparência:** Possui traços afiados e olhos azuis penetrantes que parecem ver através das mentiras do regime. Seu cabelo é raspado nas laterais, revelando uma tatuagem de uma onda sonora atrás da orelha esquerda. Ela carrega um estojo de violino modificado, que contém um instrumento capaz de emitir frequências sônicas devastadoras.
-*   **Personalidade:** Determinada e feroz. Vera é a chama que guia a resistência, inspirando lealdade e coragem em todos ao seu redor.
+- **Aparência:** cabeça raspada nas laterais, tatuagem de onda sonora no pescoço e olhar calculista.
+- **Talento:** violino ressonante capaz de quebrar drones e sincronizar ataques da resistência.
+- **Conflito interno:** medo de se tornar tão implacável quanto o regime que combate.
 
-## O Maestro
-**Antagonista | Alto Inquisidor do Silêncio**
+## Alto Inquisidor Maestro
+**Antagonista | Comandante do Ministério da Harmonia**
 
-A figura encapuzada que orquestra a supressão de todo som não autorizado. O Maestro acredita que a ordem perfeita só pode existir no silêncio absoluto.
+O Maestro acredita que a liberdade emocional foi a causa do colapso do mundo antigo. Ele implantou o Protocolo de Quietude: um sistema em que IA estatal lê microvibrações de voz para prever dissidência.
 
-*   **Aparência:** Alto e imponente, sempre vestido em um terno branco impecável que contrasta com a sujeira da cidade. Ele usa uma máscara de porcelana lisa que cobre completamente sua boca, simbolizando sua doutrina.
-*   **Voz:** Ele nunca fala diretamente; sua comunicação é feita através de uma voz sintetizada, fria e sem emoção, transmitida diretamente para os implantes auditivos de seus subordinados.
-*   **Motivação:** Erradicar o "caos" da música e da expressão livre, impondo uma paz estéril e silenciosa sobre a humanidade.
+- **Aparência:** terno branco cerimonial, máscara de porcelana sem boca, luvas cirúrgicas pretas.
+- **Talento:** manipulação de frequências neurais e guerra psicológica em massa.
+- **Conflito interno:** esconder a origem de sua própria voz, perdida em um experimento fracassado.
+
+## Lira
+**Personagem-chave | Criança cartógrafa de ruídos proibidos**
+
+Lira, 12 anos, mapeia "zonas mortas" onde sensores estatais falham por poucos segundos. Ela representa a geração que nasceu sem música, mas aprendeu a sonhar com ela.
+
+- **Aparência:** cabelo curto azul-escuro, mochila com antenas artesanais.
+- **Talento:** memória auditiva absoluta e navegação urbana.
+- **Conflito interno:** escolher entre fugir da guerra ou tornar-se símbolo dela.

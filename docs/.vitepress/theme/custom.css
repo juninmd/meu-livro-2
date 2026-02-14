@@ -1,0 +1,32 @@
+:root {
+  --vp-c-brand-1: #7c3aed;
+  --vp-c-brand-2: #6d28d9;
+  --vp-c-brand-3: #5b21b6;
+}
+
+.VPHome {
+  background: radial-gradient(circle at top right, rgba(124, 58, 237, 0.2), transparent 45%),
+    radial-gradient(circle at bottom left, rgba(59, 130, 246, 0.15), transparent 40%);
+}
+
+.story-card {
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 14px;
+  padding: 1rem;
+  margin: 1rem 0;
+  background: var(--vp-c-bg-soft);
+}
+
+.media-grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  margin: 1rem 0;
+}
+
+.media-grid img,
+.media-grid video,
+.media-grid audio {
+  width: 100%;
+  border-radius: 12px;
+}
