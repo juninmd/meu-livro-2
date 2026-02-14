@@ -1,0 +1,51 @@
+name: Gerar mídia do capítulo
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+    paths:
+      - 'docs/capitulo-1.md'
+      - 'docs/personagens.md'
+      - 'scripts/gerar_midia.py'
+      - '.github/workflows/gerar-midia-capitulo.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  gerar-midia:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Instalar dependências
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg librsvg2-bin espeak-ng curl
+
+      - name: Instalar Ollama
+        run: |
+          curl -fsSL https://ollama.com/install.sh | sh
+          ollama serve > /tmp/ollama.log 2>&1 &
+          sleep 5
+          ollama pull llama3.1
+
+      - name: Gerar imagens, áudio e vídeo
+        run: python3 scripts/gerar_midia.py
+
+      - name: Commitar artefatos gerados
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/public/midia
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: atualiza mídia gerada do capítulo 1"
+            git push
+          else
+            echo "Sem mudanças para commit"
+          fi

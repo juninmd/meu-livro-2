@@ -1,78 +1,95 @@
 # Capítulo 1: O Sinal Fantasma
 
-A chuva ácida de Nova Cadência tamborilava no capuz de Kael, um ritmo constante que mascarava o som de sua respiração irregular. Ele estava ajoelhado na borda enferrujada do Setor 4, noventa andares acima do asfalto, onde a neblina de neon escondia os pecados da cidade.
+> **Nova Cadência, 03:00.** O minuto em que os sensores do Estado piscam. O único minuto em que uma canção pode atravessar o medo.
 
-Suas mãos, cobertas de graxa e cicatrizes, tremiam levemente enquanto conectavam o último fio ao transmissor portátil. Era uma caixa de metal tosca, montada com peças roubadas de drones abatidos e rádios antigos. Mas para Kael, era a coisa mais preciosa do mundo.
+A chuva ácida riscava os letreiros do Setor 4 quando Kael encaixou o último fio no transmissor portátil. A cidade parecia dormir, mas em Nova Cadência ninguém dormia de verdade: só esperava o próximo comando nos implantes auditivos.
 
-— Vamos lá, velha amiga — sussurrou ele, a voz quase inaudível. — Só mais uma vez.
+No topo do arranha-céu, ele respirou fundo e abriu o canal da resistência. A tela piscou com estatística vermelha:
 
-Ele olhou para o relógio em seu pulso. 03:00. A hora do Silêncio Profundo, quando os escâneres da Inquisição reiniciavam seus protocolos. Ele tinha uma janela de trinta segundos.
+- **Risco de rastreio:** 92%
+- **Tempo de transmissão segura:** 30 segundos
+- **Pena prevista em caso de captura:** reeducação acústica vitalícia
 
-Kael girou o dial. A agulha do medidor de frequência saltou. Estática. E então, um tom limpo.
+Kael sorriu, um sorriso curto de quem já tinha perdido o bastante para não recuar.
 
-Ele conectou um pequeno chip de memória ao aparelho. Não havia microfone; falar era perigoso demais. O que ele ia transmitir era muito pior do que palavras. Era música.
+— Vera, se você ainda estiver viva, me ouve agora.
 
-Um fragmento de vinte segundos de um violino. Uma melodia melancólica e feroz, tocada por alguém que ele não via há meses. Vera.
+Ele conectou o chip e pressionou enviar. Não era texto. Não era código. Era o arco de um violino rasgando o silêncio imposto — vinte segundos de humanidade comprimida.
 
-— Transmitindo em 3... 2... 1.
+A melodia subiu na frequência proibida 17.3. Na rua, janelas se entreabriram. Em apartamentos escuros, pessoas imóveis fecharam os olhos por um instante, como quem lembrava o nome de alguém esquecido.
 
-Ele apertou o botão.
+No subsolo do Ministério da Harmonia, o painel central acendeu com alerta escarlate.
 
-O transmissor zumbiu, aquecendo-se instantaneamente. As luzes de LED piscaram em vermelho frenético. Kael observou a barra de progresso em seu visor holográfico.
+**ANOMALIA EMOCIONAL COLETIVA DETECTADA**
 
-*10%... 40%...*
+O Alto Inquisidor Maestro observou o gráfico subir como febre.
 
-De repente, o ar atrás dele mudou. Não houve som, apenas uma pressão, uma vibração nos dentes. O instinto de Kael gritou.
+— Enviem um Silenciador — ordenou sua voz sintética. — E tragam o transmissor. Quero saber quem ensinou o povo a sentir de novo.
 
-Ele se jogou para o lado no momento em que um feixe de energia sônica pulverizou o concreto onde ele estava ajoelhado. O impacto lançou estilhaços de pedra contra suas costas, rasgando o couro de sua jaqueta.
+---
 
-Kael rolou e se levantou, sacando uma pistola de pulso eletromagnético (EMP).
+Kael ouviu o zumbido antes de ver a máquina. O Drone Silenciador surgiu da neblina como uma lua negra, lente vermelha travada em seu peito.
 
-Flutuando a dez metros de distância, silhuetado contra as luzes da cidade, estava um Drone Silenciador. Uma esfera negra perfeita, exceto pela lente vermelha brilhante que o encarava como um olho demoníaco.
+— **RUÍDO ILEGAL IDENTIFICADO. RENDIÇÃO OBRIGATÓRIA.**
 
-— *DETECÇÃO DE RUIDO ILEGAL. NIVEL 5.* — A voz sintética do drone ecoou diretamente no implante auditivo de Kael, fazendo sua cabeça latejar. — *RENDIÇÃO IMEDIATA.*
+— Vocês chamam de ruído o que não conseguem controlar — respondeu.
 
-— Vai se ferrar — rosnou Kael.
+O primeiro disparo sônico atingiu o concreto e abriu uma cratera branca. Kael se lançou para trás, girou a pistola EMP e atirou. O pulso fez a blindagem do drone tremular, mas não cair.
 
-Ele disparou. O pulso azul atingiu o campo de força do drone, dissipando-se inofensivamente. O Silenciador nem se moveu.
+A barra de envio na tela: **68%**.
 
-Kael olhou para o transmissor. *85%*.
+Outro disparo. Estilhaços cortaram seu rosto. Sangue e chuva se misturaram.
 
-— Só mais um pouco — ele implorou.
+**89%**.
 
-O drone carregou seu canhão sônico novamente. O zumbido agudo subiu de tom, uma frequência projetada para estourar os tímpanos e desorientar o cérebro.
+Kael puxou a granada de fumaça, lançou no chão e mergulhou na nuvem cinza. O drone trocou para modo térmico, vasculhando o ar como um predador sem fome, movido apenas por protocolo.
 
-Kael sabia que não podia vencer aquilo numa luta direta. Ele precisava de tempo. Ele arrancou uma granada de fumaça do cinto e a jogou no chão. A nuvem densa e cinza envolveu o terraço.
+**100%. Transmissão concluída.**
 
-*95%...*
+Ele chutou o transmissor para o vazio. Sem prova, sem confissão.
 
-O drone disparou às cegas. O raio cortou a fumaça, passando a centímetros do ombro de Kael. O calor da energia chamuscou seu cabelo.
+Depois correu e saltou.
 
-*100%. Transmissão concluída.*
+O gancho de rapel prendeu na torre vizinha no último segundo. O tranco quase arrancou seu ombro, mas ele atravessou o abismo e quebrou uma janela abandonada, caindo entre mesas antigas e poeira metálica.
 
-Kael sorriu, um esgar de triunfo e dor. Ele chutou o transmissor para fora da borda do prédio, deixando-o cair na escuridão abaixo. Se eles o pegassem, não teriam a prova.
+No silêncio do escritório morto, seu implante zumbiu. Canal clandestino.
 
-Agora, a parte difícil: sobreviver.
+A voz de Vera entrou como um raio de sol em bunker:
 
-Ele correu em direção à borda oposta do terraço. O drone, detectando seu movimento através do calor corporal, avançou através da fumaça.
+— **Nós ouvimos, Kael. E não foi só a resistência. A cidade inteira ouviu.**
 
-Kael não parou. Ele saltou para o vazio.
+Ele fechou os olhos. Pela primeira vez em anos, não teve medo do próximo minuto.
 
-O vento uivou em seus ouvidos. Por um segundo aterrorizante, ele foi apenas um corpo em queda livre. Então, ele disparou seu gancho de rapel. O cabo de aço sibilou, prendendo-se em uma gárgula de metal do prédio vizinho.
+---
 
-O tranco quase deslocou seu ombro, mas ele segurou firme. Ele balançou através do abismo, chocando-se contra a janela de um escritório abandonado. O vidro estilhaçou, e ele rolou para dentro, coberto de cacos e sangue.
+Enquanto isso, no Distrito Branco, o Maestro caminhava por uma sala de ecos artificiais. Técnicos exibiam mapas com surtos de memória emocional em cinco setores. Crianças haviam começado a bater em panelas no mesmo ritmo da transmissão. Trabalhadores sussurravam letras que nunca aprenderam oficialmente.
 
-Ele ficou deitado no chão por um momento, ofegante, esperando o som da perseguição. Mas ouviu apenas a chuva. O drone devia ter perdido seu rastro térmico na queda.
+O Inquisidor parou diante de um nome projetado no vidro:
 
-Kael se levantou, gemendo. Ele tocou o implante atrás da orelha. Estava zumbindo. Não com dor, mas com algo mais.
+**LIRA // 12 ANOS // PADRÃO AUDITIVO IRREGULAR**
 
-Uma resposta.
+— Tragam essa menina — disse ele. — Se ela reconheceu a melodia, ela conhece o caminho até a fonte.
 
-Em meio à estática do canal criptografado da resistência, uma voz familiar sussurrou, clara como cristal:
+A guerra pelo som tinha mudado de fase.
 
-— *Nós ouvimos, Kael. A música vive.*
+Kael não sabia ainda, mas o sinal fantasma não era apenas um ato de rebeldia. Era a primeira faísca de uma insurreição capaz de derrubar o Estado que proibira até o direito de tremer com uma música.
 
-Ele encostou a cabeça na parede fria e fechou os olhos. A caçada estava apenas começando, e o Maestro viria atrás dele com tudo o que tinha. Mas por hoje, o silêncio havia sido quebrado.
+## Galeria do capítulo (gerada automaticamente)
+
+> A pipeline de GitHub Actions usa o texto deste capítulo + personagens para gerar artes com Ollama (SVG->PNG), trailer curto e narração.
+
+<div class="media-grid">
+  <img src="/midia/capa-capitulo-1.svg" alt="Capa do capítulo 1">
+  <img src="/midia/cena-kael-no-topo.svg" alt="Kael no topo do Setor 4">
+  <img src="/midia/cena-maestro-ministerio.svg" alt="Maestro no Ministério da Harmonia">
+</div>
+
+## Trailer e narração (gerados pela pipeline)
+
+- 🎬 Trailer curto: `/midia/capitulo-1-trailer.mp4`
+- 🔊 Narração em voz: `/midia/capitulo-1-narracao.wav`
+
+> Os arquivos são atualizados automaticamente pelo workflow após execução no GitHub Actions.
 
 ---
 [Voltar ao Início](/)
