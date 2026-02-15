@@ -1,38 +1,35 @@
-# Personagens de Protocolo Éden
+# Personagens de O Legado de Silício
 
-## Kaelen Rhyne
+## Elara
 
-*   **Função:** Mensageiro Fantasma / Contrabandista de Dados
-*   **Localização:** Setor 9 (O Abismo)
+*   **Função:** Protagonista / Sucateira
+*   **Idade:** 22 anos
+*   **Localização:** Ruínas de Nova Aether
 *   **Descrição:**
-    *   Fisicamente magro, com cicatrizes de implantes mal sucedidos no pescoço.
-    *   Usa roupas de proteção desgastadas e modificadas para bloquear sinais de rastreamento.
-    *   Possui um olhar inquieto, fruto de viver sempre alerta.
-*   **História:**
-    *   Ex-técnico de manutenção que foi dado como morto após um acidente industrial.
-    *   Reconstruiu sua identidade digital e agora vive transportando informações confidenciais que a Mãe prefere esconder.
-
-## Inspetor Varrick
-
-*   **Função:** Chefe de Segurança do Setor 9
-*   **Afiliação:** Corporação Orbital / Segurança da Mãe
-*   **Descrição:**
-    *   Imponente, sempre vestido com uniforme tático preto impecável.
-    *   Possui implantes oculares cibernéticos vermelhos que varrem constantemente o ambiente em busca de infrações.
-    *   Sua voz é fria e metálica, sugerindo modificações vocais.
+    *   Fisicamente magra e ágil, com **olhos violeta brilhantes** — uma mutação rara causada pela radiação dos núcleos de dados.
+    *   Veste couro desgastado reforçado com placas de cerâmica recuperada.
+    *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes.
 *   **Motivação:**
-    *   Manter a ordem a qualquer custo.
-    *   Vê os "Fantasmas" como falhas no sistema que precisam ser depuradas.
+    *   Encontrar a "Fonte Primordial", uma lenda que promete purificar a terra e trazer de volta a era de ouro.
 
-## Lyra
+## Alto Sacerdote Malakar
 
-*   **Função:** Hacker / Engenheira de Sistemas
-*   **Localização:** Esconderijo Subterrâneo no Setor 9
+*   **Função:** Antagonista / Líder da Ordem do Silício
+*   **Afiliação:** Ordem do Silício
 *   **Descrição:**
-    *   Cabelos curtos tingidos de violeta neon.
-    *   Sempre vista com óculos de realidade aumentada e luvas hápticas.
-    *   Tem uma prótese mecânica no braço esquerdo, construída com sucata de droides.
-*   **Habilidades:**
-    *   Conhecimento profundo dos protocolos da Mãe.
-    *   Capacidade de criar interferências locais para ocultar a presença de Kaelen.
-    *   Única pessoa em quem Kaelen confia plenamente.
+    *   Uma figura imponente, sempre envolta em vestes sintéticas cintilantes.
+    *   Seu rosto é oculto por uma **máscara digital** que projeta emoções simuladas.
+    *   Acredita que a carne é fraca e busca a "Ascensão", a fusão total da consciência humana com a máquina.
+*   **Motivação:**
+    *   Capturar Elara para usar seu dom e despertar o **Deus-Máquina** adormecido.
+
+## Jaxon
+
+*   **Função:** Coadjuvante / Mercenário
+*   **Idade:** 40 anos
+*   **Descrição:**
+    *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
+    *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
+    *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
+*   **Motivação:**
+    *   Inicialmente dinheiro, mas sua lealdade muda à medida que ele vê em Elara a esperança que pensava ter perdido.
