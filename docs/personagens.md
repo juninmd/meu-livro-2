@@ -1,37 +1,38 @@
-# Personagens de **A Última Frequência**
+# Personagens de Protocolo Éden
 
-## Kael Voss
-**Protagonista | Técnico de Espectro da Resistência**
+## Kaelen Rhyne
 
-Kael cresceu nos bairros de manutenção de Nova Cadência, onde crianças aprendiam a desmontar sirenes antes de aprender a ler. Após perder a irmã para uma sentença de "reeducação acústica", ele se tornou o maior especialista em sabotagem de implantes auditivos do setor leste.
+*   **Função:** Mensageiro Fantasma / Contrabandista de Dados
+*   **Localização:** Setor 9 (O Abismo)
+*   **Descrição:**
+    *   Fisicamente magro, com cicatrizes de implantes mal sucedidos no pescoço.
+    *   Usa roupas de proteção desgastadas e modificadas para bloquear sinais de rastreamento.
+    *   Possui um olhar inquieto, fruto de viver sempre alerta.
+*   **História:**
+    *   Ex-técnico de manutenção que foi dado como morto após um acidente industrial.
+    *   Reconstruiu sua identidade digital e agora vive transportando informações confidenciais que a Mãe prefere esconder.
 
-- **Aparência:** magro, olhos âmbar cansados, jaqueta de couro surrada com bobinas de cobre costuradas no forro.
-- **Talento:** invadir redes de vigilância sonora e transformar sucata em transmissores clandestinos.
-- **Conflito interno:** culpa por sobreviver quando não conseguiu salvar a própria família.
+## Inspetor Varrick
 
-## Vera Nyx
-**Líder dos Nascidos Livres | Ex-violinista de Conservatório Estatal**
+*   **Função:** Chefe de Segurança do Setor 9
+*   **Afiliação:** Corporação Orbital / Segurança da Mãe
+*   **Descrição:**
+    *   Imponente, sempre vestido com uniforme tático preto impecável.
+    *   Possui implantes oculares cibernéticos vermelhos que varrem constantemente o ambiente em busca de infrações.
+    *   Sua voz é fria e metálica, sugerindo modificações vocais.
+*   **Motivação:**
+    *   Manter a ordem a qualquer custo.
+    *   Vê os "Fantasmas" como falhas no sistema que precisam ser depuradas.
 
-Vera foi prodígio musical no antigo Programa Nacional de Virtuoses. Quando o programa virou ferramenta de propaganda, ela desertou e fundou células artísticas rebeldes que usam música como código de guerra.
+## Lyra
 
-- **Aparência:** cabeça raspada nas laterais, tatuagem de onda sonora no pescoço e olhar calculista.
-- **Talento:** violino ressonante capaz de quebrar drones e sincronizar ataques da resistência.
-- **Conflito interno:** medo de se tornar tão implacável quanto o regime que combate.
-
-## Alto Inquisidor Maestro
-**Antagonista | Comandante do Ministério da Harmonia**
-
-O Maestro acredita que a liberdade emocional foi a causa do colapso do mundo antigo. Ele implantou o Protocolo de Quietude: um sistema em que IA estatal lê microvibrações de voz para prever dissidência.
-
-- **Aparência:** terno branco cerimonial, máscara de porcelana sem boca, luvas cirúrgicas pretas.
-- **Talento:** manipulação de frequências neurais e guerra psicológica em massa.
-- **Conflito interno:** esconder a origem de sua própria voz, perdida em um experimento fracassado.
-
-## Lira
-**Personagem-chave | Criança cartógrafa de ruídos proibidos**
-
-Lira, 12 anos, mapeia "zonas mortas" onde sensores estatais falham por poucos segundos. Ela representa a geração que nasceu sem música, mas aprendeu a sonhar com ela.
-
-- **Aparência:** cabelo curto azul-escuro, mochila com antenas artesanais.
-- **Talento:** memória auditiva absoluta e navegação urbana.
-- **Conflito interno:** escolher entre fugir da guerra ou tornar-se símbolo dela.
+*   **Função:** Hacker / Engenheira de Sistemas
+*   **Localização:** Esconderijo Subterrâneo no Setor 9
+*   **Descrição:**
+    *   Cabelos curtos tingidos de violeta neon.
+    *   Sempre vista com óculos de realidade aumentada e luvas hápticas.
+    *   Tem uma prótese mecânica no braço esquerdo, construída com sucata de droides.
+*   **Habilidades:**
+    *   Conhecimento profundo dos protocolos da Mãe.
+    *   Capacidade de criar interferências locais para ocultar a presença de Kaelen.
+    *   Única pessoa em quem Kaelen confia plenamente.
