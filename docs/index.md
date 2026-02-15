@@ -15,15 +15,19 @@ hero:
     - theme: alt
       text: "Conhecer Personagens"
       link: /personagens
-
-features:
-  - title: Estado Opressor
-    details: Em Nova Cadência, o Ministério da Harmonia classifica emoções sonoras como ameaça nacional.
-  - title: Lore Coesa
-    details: A história acompanha o mesmo conflito político, tecnológico e humano entre Kael, Vera e o Alto Inquisidor Maestro.
-  - title: Capítulo Multimídia
-    details: Cada capítulo pode ganhar imagens, trailer curto e narração gerados automaticamente via GitHub Actions.
 ---
+
+## Sumário
+
+### Capítulos
+
+- [Capítulo 1: O Sinal Fantasma](/capitulo-1)
+
+### Personagens
+
+- [Kael Voss](/personagens#kael-voss)
+- [Vera Nyx](/personagens#vera-nyx)
+- [Alto Inquisidor Maestro](/personagens#alto-inquisidor-maestro)
 
 <div class="story-card">
 Este projeto usa <strong>VitePress + GitHub Pages</strong> para publicar um livro em capítulos com estética cyberpunk e recursos multimídia.
