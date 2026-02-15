@@ -32,9 +32,9 @@ jobs:
 
       - name: Generate Images
         env:
-          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          HF_TOKEN: ${ secrets.HF_TOKEN }
         run: |
-          files=${{ steps.changed-files.outputs.all_changed_files }}
+          files=${ steps.changed-files.outputs.all_changed_files }
           for file in $files; do
             echo "Generating image for $file"
             python scripts/generate_image.py "$file"
@@ -44,6 +44,16 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add docs/public/midia/*.jpg
-          git commit -m "chore: generate chapter images" || echo "No changes to commit"
-          git push
+
+          # Check if any jpg files were created/modified
+          if ls docs/public/midia/*.jpg 1> /dev/null 2>&1; then
+            git add docs/public/midia/*.jpg
+            if git diff --staged --quiet; then
+              echo "No changes to commit"
+            else
+              git commit -m "chore: generate chapter images"
+              git push
+            fi
+          else
+            echo "No images generated to commit"
+          fi
