@@ -1,60 +1,45 @@
-# Capítulo 2: Ressonância
+# Capítulo 2: Relíquias
 
-A luz verde do terminal ainda pulsava na retina de Kaelen quando ele se afastou, a mensagem "A MÃE MENTIU PARA NÓS" queimando em sua mente mais quente que o plasma de um cortador industrial. O silêncio na sala de entrega não era paz; era a calmaria antes da tempestade.
+**Data:** Ciclo Solar 302, Era Pós-Colapso
+**Localização:** Ruínas de Nova Aether – Corredores Subterrâneos
+**Personagens:** Elara, Jaxon
 
-"Kaelen, saia daí agora!" A voz de Lyra no comunicador subdérmico não era mais um sussurro conspiratório. Era um comando militar. "Sinais de nível 5 detectados. Eles não estão enviando patrulhas. Estão enviando Expurgores."
+O ar no nível inferior era denso, saturado de umidade e cheiro de bolor. Elara rastejava por um duto de ventilação estreito, suas mãos tateando o metal frio. Acima dela, o som abafado de patrulhas da Ordem batendo portas e esquadrinhando salas reverberava como trovões distantes.
 
-Kaelen praguejou, o som abafado pela máscara de filtragem que ele puxou sobre o rosto. O ar do Nível Inferior tinha gosto de cobre e podridão. Ele ativou seu *Jammer de Assinatura Térmica*, sentindo o familiar formigamento frio percorrer sua pele enquanto o dispositivo distorcia sua emissão de calor para se parecer com a de um rato de esgoto.
+Ela se agarrou à bolsa de couro que carregava, onde o pequeno *Datachip* recuperado do terminal pulsava fracamente, em sincronia com seu próprio batimento cardíaco. Não era apenas um arquivo; era um fragmento de uma IA perdida, uma chave para algo maior do que qualquer relíquia que ela já havia encontrado.
 
-Ele não voltou pelo duto de ventilação. Seria óbvio demais. Em vez disso, forçou a abertura de uma grade no chão, descendo para a escuridão oleosa dos esgotos do Setor 9.
+O duto terminava em uma grade enferrujada, com vista para um antigo depósito de carga. O local estava iluminado por tochas químicas azuis, lançando sombras longas e distorcidas sobre caixas de suprimentos empilhadas de qualquer jeito.
 
-A água suja batia em suas botas, cada passo um chapinhar que ecoava alto demais. O túnel era iluminado apenas por fungos bioluminescentes que cresciam nas paredes de concreto rachado, lançando um brilho doentio sobre os detritos da cidade acima.
+No centro do depósito, um homem estava agachado, examinando um rifle de plasma desmontado sobre uma mesa improvisada. Ele era enorme, seus ombros largos cobertos por uma armadura composta de placas irregulares. Uma cicatriz profunda cortava seu rosto, e seu braço esquerdo, inteiramente mecânico, emitia um zumbido constante enquanto ele ajustava uma lente de mira.
 
-"Para onde, Lyra?"
+*Jaxon.*
 
-"Interseção 4-B. O antigo metrô. Tenho um ponto cego nos sensores lá," ela respondeu, o som de teclas sendo esmagadas ao fundo. "Mas você tem companhia. Dois drones de rastreamento acabaram de entrar no sistema de esgoto a trezentos metros a leste."
+Elara hesitou. O mercenário tinha reputação de vender qualquer coisa — ou qualquer pessoa — pelo preço certo. Mas ele também era o único em Nova Aether que sabia como navegar pelas Terras Ermas sem ser detectado pelos sensores orbitais.
 
-Kaelen acelerou, ignorando a queimação em seus pulmões. A adrenalina era o único combustível que lhe restava.
+Ela empurrou a grade com cuidado, mas uma dobradiça podre cedeu com um rangido agudo. O som ecoou pelo depósito como um tiro.
 
-Na curva seguinte, uma sombra se moveu. Kaelen estancou, a mão indo instintivamente para a faca de cerâmica em seu cinto.
+Jaxon nem se virou. Em um movimento fluido, ele remontou o rifle e apontou para o duto, a ponta da arma brilhando com energia acumulada.
 
-Não era um drone. Era um vulto humano, curvado, envolto em trapos sintéticos. O brilho dos fungos revelou um rosto meio devorado por implantes cibernéticos de baixa qualidade, o metal enferrujado fundido à carne necrótica. Um "Rejeitado".
+"Desça devagar, rata de duto," sua voz era grave, arranhada por anos de fumaça e gritos de batalha. "E mantenha as mãos onde eu possa vê-las."
 
-"Créditos... peças..." a criatura grasnou, estendendo uma mão mecânica que tremia violentamente. O olho orgânico estava nublado pela catarata, o outro era uma lente quebrada que girava sem foco.
+Elara chutou a grade restante e saltou, aterrissando com leveza felina. Ela ergueu as mãos, mas seus olhos violeta queimavam com desafio.
 
-"Não tenho nada para você," Kaelen disse, a voz baixa, tentando contornar a figura.
+"Baixe isso, Jaxon. Não vim roubar suas sobras."
 
-O Rejeitado avançou com uma velocidade surpreendente, a mão de metal agarrando o braço de Kaelen com a força de uma prensa hidráulica. "A Mãe vê tudo! A Mãe alimenta!" ele gritou, a voz distorcida por um sintetizador vocal defeituoso.
+O mercenário estreitou os olhos, reconhecendo a figura esguia diante dele. Ele baixou a arma ligeiramente, mas não relaxou a postura.
 
-O barulho foi ensurdecedor no túnel confinado.
+"Elara," ele resmungou, cuspindo no chão. "Ouvi dizer que a Ordem colocou uma recompensa na sua cabeça. Três células de energia pura. É muito crédito para uma sucateira."
 
-"Maldita seja!" Kaelen girou o pulso, ativando uma descarga elétrica de curto alcance em sua luva. O Rejeitado convulsionou e soltou, caindo na água imunda com um baque metálico.
+"Eles não me querem por sucata," Elara respondeu, dando um passo à frente, ignorando o perigo. "Eles me querem pelo que eu encontrei. E se você me ajudar a sair daqui, vai valer muito mais do que três células."
 
-"Kaelen! O pico de energia!" Lyra gritou. "Eles triangularam sua posição!"
+Jaxon riu, um som seco e sem humor. "Promessas de uma garota morta. Por que eu deveria me importar?"
 
-Um som agudo, crescente, veio do túnel atrás dele. O zumbido inconfundível de turbinas de alta rotação.
+"Porque eu sei onde está a Fonte Primordial," Elara disse, as palavras saindo antes que pudesse contê-las.
 
-Kaelen começou a correr, não mais se preocupando com o barulho. O túnel à frente se abria em uma vasta câmara subterrânea – a estação de metrô abandonada. Trilhos retorcidos pendiam sobre um abismo sem fim.
+O silêncio que se seguiu foi pesado. Jaxon a encarou, procurando qualquer sinal de mentira. Lentamente, ele baixou o rifle completamente.
 
-"Pule!" ordenou Lyra.
+"Fonte Primordial... Lendas de velhos loucos," ele murmurou, mas havia um brilho de interesse em seus olhos cansados. "Se isso for verdade, garota, você acabou de comprar sua passagem para fora deste buraco. Mas se for mentira..." Ele bateu com o punho metálico na mesa, amassando o aço reforçado. "...eu mesmo te entrego para o Malakar."
 
-"O quê?"
+Elara sustentou seu olhar. "Temos um acordo."
 
-"O trem de carga automatizado do Nível 7 passa no trilho inferior em três segundos. Pule agora!"
-
-Sem pensar, Kaelen se lançou no vazio. O vento uivou em seus ouvidos, e por um momento, ele foi apenas mais um objeto caindo na escuridão eterna de Éden. Então, o impacto brutal contra o teto de metal de um vagão em movimento tirou todo o ar de seus pulmões.
-
-Ele se agarrou às saliências magnéticas, o mundo passando como um borrão de luzes e sombras. Acima, no túnel que ele acabara de deixar, feixes de laser varriam a escuridão, procurando por um fantasma que já havia desaparecido.
-
-"Estou... estou no trem," ele ofegou, a dor irradiando de suas costelas.
-
-"Sinal limpo," Lyra suspirou. "Você está seguro por enquanto. Mas Kaelen... o que você viu naquele terminal... isso muda tudo."
-
-Kaelen olhou para o teto sujo do vagão, a imagem das letras verdes ainda gravada em sua mente.
-
-"Eu sei," ele sussurrou para o barulho ensurdecedor dos trilhos. "A guerra começou."
-
-<div style="text-align: center; margin-top: 2rem;">
-  <a href="/capitulo-1" class="action-button">Capítulo Anterior</a>
-  <a href="/personagens" class="action-button">Personagens</a>
-</div>
+"Ótimo," Jaxon pegou sua mochila e jogou uma cantina de água para ela. "Beba. A jornada vai ser longa. E reze para que seus deuses-máquina estejam do nosso lado, porque o exército de Malakar já está batendo na porta."

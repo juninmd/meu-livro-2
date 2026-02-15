@@ -1,26 +1,24 @@
-# Reflexão: Capítulo 2 - Ressonância
+# Reflexão: Capítulo 2 - Relíquias
 
-## Análise Crítica (Nota 8/10)
+## Análise Crítica (Nota 8.5/10)
 
 ### Ritmo (Pacing)
-A tensão foi mantida alta desde o início. A transição da descoberta da mensagem para a fuga foi imediata, sem deixar o leitor respirar, o que condiz com a urgência da situação. A cena com o "Rejeitado" serviu como um obstáculo físico e moral, mas talvez tenha sido resolvida rápido demais. O salto para o trem foi um clímax de ação clássico, mas eficaz.
+O capítulo começou com tensão furtiva e evoluiu para um confronto tenso com Jaxon. A negociação foi rápida, condizente com o perigo iminente. O final selou a parceria necessária para a jornada.
 
 ### Diálogos
-Os diálogos com Lyra foram funcionais e transmitiram a urgência. A interação com o Rejeitado foi breve, mas a frase "A Mãe alimenta!" adicionou uma camada de fanatismo religioso à distopia tecnológica. O monólogo interno de Kaelen foi reduzido em favor da ação, o que funcionou para este capítulo.
+A interação entre Elara e Jaxon foi carregada de desconfiança mútua, típica do gênero. Jaxon soa cínico e perigoso, como descrito. A revelação da "Fonte Primordial" serviu como um trunfo crível.
 
 ### Atmosfera
-O ambiente dos esgotos e do metrô antigo foi descrito com detalhes sensoriais (cheiro de cobre, fungos bioluminescentes, escuridão oleosa). A tecnologia (jammer, drones) foi integrada organicamente. A sensação de "sujeira" e decadência foi bem estabelecida.
+O ambiente subterrâneo e o depósito iluminado por tochas químicas mantiveram a estética sombria. O braço mecânico de Jaxon adicionou um elemento visual forte ao personagem.
 
 ## Pontos Fortes
-- **Imersão Sensorial:** As descrições do ambiente subterrâneo foram vividas.
-- **Tensão:** A perseguição manteve o interesse.
-- **Lore:** A introdução dos "Rejeitados" e "Expurgores" expandiu o universo sem exposição massiva.
+- **Dinâmica de Personagens:** O contraste entre a idealista (Elara) e o pragmático (Jaxon) cria potencial para conflito futuro.
+- **Tensão:** A ameaça constante da Ordem (som de patrulhas) manteve a urgência.
 
 ## Pontos Fracos / A Melhorar
-- **Resolução do Conflito com o Rejeitado:** A luta foi muito rápida. Poderia ter explorado mais a hesitação moral de Kaelen ou a ameaça física.
-- **Repetição:** O uso de "luz verde/vermelha" e "zumbido" apareceu várias vezes. Variar o vocabulário sensorial nos próximos capítulos.
+- **Transição:** A chegada de Elara ao depósito foi um pouco conveniente. Poderia ter havido um obstáculo menor antes de encontrar Jaxon.
 
 ## Sanity Check
-- **Coerência:** O drive ainda está com Kaelen? Sim.
-- **Lore:** A mensagem "A Mãe mentiu" foi reforçada como o catalisador.
-- **Personagens:** Lyra continua sendo o suporte remoto essencial.
+- **Coerência:** O Datachip está com Elara? Sim.
+- **Lore:** Malakar foi mencionado como uma ameaça real.
+- **Personagens:** Jaxon foi introduzido como mercenário com braço mecânico.

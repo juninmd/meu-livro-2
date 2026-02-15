@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   lang: 'pt-BR',
-  title: 'Protocolo Éden',
-  description: 'Um thriller sci-fi distópico sobre sobrevivência, segredos e rebelião na estação orbital Éden.',
+  title: 'O Legado de Silício',
+  description: 'Um thriller sci-fi/fantasia pós-apocalíptico onde Elara busca reacender o mundo à sombra de deuses-máquina.',
   themeConfig: {
     nav: [
       { text: 'Início', link: '/' },
@@ -17,8 +17,8 @@ export default defineConfig({
         text: 'Leitura',
         items: [
           { text: 'Início', link: '/' },
-          { text: 'Capítulo 1: Sombra Digital', link: '/capitulo-1' },
-          { text: 'Capítulo 2: Ressonância', link: '/capitulo-2' },
+          { text: 'Capítulo 1: O Canto', link: '/capitulo-1' },
+          { text: 'Capítulo 2: Relíquias', link: '/capitulo-2' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]

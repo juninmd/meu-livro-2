@@ -1,55 +1,38 @@
-# Capítulo 1: Sombra Digital
+# Capítulo 1: O Canto
 
-A chuva ácida batia contra o domo de policarbonato do Setor 9, criando um ritmo frenético que combinava com a batida do coração de Kaelen. Ele corria pelos becos estreitos, onde o neon rosa e azul refletia nas poças de óleo e água suja. O ar cheirava a ozônio e desesperança.
+**Data:** Ciclo Solar 302, Era Pós-Colapso
+**Localização:** Ruínas de Nova Aether – Setor 4 (Antiga Zona Industrial)
+**Personagens:** Elara
 
-"Você tem três minutos, Kael," a voz de Lyra chiou em seu comunicador subdérmico, uma vibração que ele sentia nos dentes. "Os cães de Varrick estão varrendo a grade. Se eles te pegarem com esse pacote..."
+A tempestade de poeira uivava contra a carcaça enferrujada do leviatã de metal. Elara ajustou seus óculos de proteção, limpando a camada de areia avermelhada que insistia em cobrir suas lentes. O vento trazia o cheiro familiar de ozônio e decomposição, o perfume de um mundo morto.
 
-"Eu sei," Kaelen respondeu, sua respiração formando nuvens brancas no frio artificial. Ele saltou sobre uma pilha de lixo cibernético, seus coturnos magnéticos aderindo momentaneamente a uma tubulação exposta para impulsioná-lo para o telhado seguinte. "Estou quase no ponto de entrega."
+Ela se arrastou por entre os cabos expostos que pendiam do teto como entranhas de uma besta abatida. Suas botas de couro reforçado rangiam no chão de grade metálica, cada passo calculado para não despertar os sistemas de segurança adormecidos.
 
-O pacote pesava em sua mochila. Não fisicamente — era apenas um drive de cristal, leve como uma pena — mas o peso do que ele continha parecia curvar sua coluna. Dados brutos do Núcleo da Mãe. Algo que ninguém deveria ver.
+*Lá estava ele.* O zumbido.
 
-Um zumbido baixo cortou o som da chuva. Kaelen parou, agachando-se atrás de uma unidade de ar-condicionado que zumbia como uma abelha gigante.
+Não era um som que se ouvia com os ouvidos. Era uma vibração na base do crânio, um gosto metálico na língua. O "canto".
 
-*Drones.*
+"Vamos ver o que você tem a dizer, velhote," sussurrou Elara, ajoelhando-se diante de um console terminal coberto de musgo sintético.
 
-Dois deles. Esferas negras flutuando silenciosamente, seus olhos vermelhos escaneando cada centímetro da rua abaixo. Eram Sentinelas de Nível 4, equipados com armas de choque e neutralizadores neurais.
+Ela retirou as luvas, revelando dedos finos e calejados. Ao tocar a superfície fria do painel, não precisou digitar códigos ou procurar por portas de conexão. Seus olhos violeta brilharam com uma intensidade repentina, iluminando a penumbra do corredor.
 
-"Lyra, preciso de uma distração," sussurrou Kaelen.
+*Conexão estabelecida. Identificando usuário... Erro. Assinatura biológica não reconhecida.*
+*Protocolo de substituição iniciado. Bem-vinda, Admin.*
 
-"Estou trabalhando nisso. A segurança do Setor 9 atualizou o firewall. Me dê dez segundos."
+A voz em sua mente era suave, desprovida de emoção, mas carregada de uma melancolia digital. Dados fluíram para sua consciência: mapas estelares antigos, registros de manutenção de máquinas que pararam de funcionar há séculos, e algo mais. Uma coordenada.
 
-Dez segundos era uma eternidade. Um dos drones girou, seu sensor térmico varrendo o telhado onde Kaelen estava. O feixe de luz vermelha passou a centímetros de seu rosto. Ele prendeu a respiração, rezando para que seu jammer de sinal estivesse funcionando.
+"Fonte Primordial," Elara murmurou, a respiração presa. Era apenas uma lenda. Uma história para ninar crianças famintas ao redor de fogueiras de lixo. Mas ali estava, pulsando em dourado no mapa mental que a máquina projetava em seu córtex.
 
-*Cinco segundos.*
+De repente, o canto mudou. Tornou-se agudo, estridente. Um aviso.
 
-O drone parou. Ele sabia. Algum algoritmo preditivo havia alertado a máquina. O canhão de choque começou a girar, emitindo um brilho azulado.
+*Alerta de proximidade. Assinaturas de calor detectadas. Unidades da Ordem.*
 
-*Três segundos.*
+Elara cortou a conexão com um pensamento, cambaleando para trás enquanto a dor aguda da desconexão forçada latejava em suas têmporas. Ela puxou seu rifle de sucata das costas, verificando a carga da bateria de plasma.
 
-Kaelen preparou-se para correr, sabendo que seria inútil.
+Passos pesados ecoaram no corredor. O som inconfundível de botas magnéticas e pistões hidráulicos.
 
-*Um segundo.*
+"Sabemos que você está aqui, impura," uma voz sintetizada ecoou, distorcida por alto-falantes de baixa qualidade. "Entregue-se à Ordem do Silício, e sua carne será purificada."
 
-De repente, todos os holofotes da rua piscaram e explodiram em uma chuva de faíscas. Os painéis de publicidade holográfica distorceram, exibindo estática e ruído branco ensurdecedor. Os drones vacilaram, seus sistemas de navegação sobrecarregados pela interferência repentina.
+Elara sorriu, um sorriso fino e perigoso. Ela conhecia aquele discurso. Conhecia o destino dos "purificados".
 
-"Agora, Kael!" gritou Lyra.
-
-Kaelen não hesitou. Ele correu, saltando do telhado em direção a uma varanda precária do outro lado da rua. Ele aterrissou com um baque surdo, rolando para absorver o impacto. Sem olhar para trás, ele mergulhou na escuridão de um poço de ventilação desativado.
-
-Deslizando pela tubulação enferrujada, ele finalmente parou no nível do solo, em um beco sem saída. O ponto de entrega era uma porta de aço reforçado, marcada apenas com um símbolo de um olho fechado.
-
-Ele encostou o drive no leitor biométrico. A luz ficou verde. A porta se abriu com um silvo hidráulico.
-
-Mas não havia ninguém esperando.
-
-Apenas uma sala vazia, iluminada por uma única tela terminal. Na tela, uma mensagem piscava em letras verdes arcaicas:
-
-**"PROTOCOLO ÉDEN: INICIADO. A MÃE MENTIU PARA NÓS."**
-
-Kaelen sentiu um frio na espinha que nada tinha a ver com a temperatura do setor. Ele olhou para o drive em sua mão. Ele não era apenas um mensageiro. Ele era o portador da verdade que poderia derrubar o céu.
-
-E agora, ele era o homem mais procurado da estação.
-
-<div style="text-align: center; margin-top: 2rem;">
-  <a href="/personagens" class="action-button">Conhecer os Personagens</a>
-</div>
+"Hoje não, lata velha," ela disse para si mesma, deslizando para as sombras. "Hoje não."
