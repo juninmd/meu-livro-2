@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   lang: 'pt-BR',
-  title: 'A Última Frequência',
-  description: 'Uma distopia cyberpunk onde o som é proibido e a música é a revolução.',
+  title: 'Protocolo Éden',
+  description: 'Um thriller sci-fi distópico sobre sobrevivência, segredos e rebelião na estação orbital Éden.',
   themeConfig: {
     nav: [
       { text: 'Início', link: '/' },
@@ -16,7 +16,7 @@ export default defineConfig({
         text: 'Leitura',
         items: [
           { text: 'Início', link: '/' },
-          { text: 'Capítulo 1: O Sinal Fantasma', link: '/capitulo-1' },
+          { text: 'Capítulo 1: Sombra Digital', link: '/capitulo-1' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]

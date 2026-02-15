@@ -1,95 +1,55 @@
-# Capítulo 1: O Sinal Fantasma
+# Capítulo 1: Sombra Digital
 
-> **Nova Cadência, 03:00.** O minuto em que os sensores do Estado piscam. O único minuto em que uma canção pode atravessar o medo.
+A chuva ácida batia contra o domo de policarbonato do Setor 9, criando um ritmo frenético que combinava com a batida do coração de Kaelen. Ele corria pelos becos estreitos, onde o neon rosa e azul refletia nas poças de óleo e água suja. O ar cheirava a ozônio e desesperança.
 
-A chuva ácida riscava os letreiros do Setor 4 quando Kael encaixou o último fio no transmissor portátil. A cidade parecia dormir, mas em Nova Cadência ninguém dormia de verdade: só esperava o próximo comando nos implantes auditivos.
+"Você tem três minutos, Kael," a voz de Lyra chiou em seu comunicador subdérmico, uma vibração que ele sentia nos dentes. "Os cães de Varrick estão varrendo a grade. Se eles te pegarem com esse pacote..."
 
-No topo do arranha-céu, ele respirou fundo e abriu o canal da resistência. A tela piscou com estatística vermelha:
+"Eu sei," Kaelen respondeu, sua respiração formando nuvens brancas no frio artificial. Ele saltou sobre uma pilha de lixo cibernético, seus coturnos magnéticos aderindo momentaneamente a uma tubulação exposta para impulsioná-lo para o telhado seguinte. "Estou quase no ponto de entrega."
 
-- **Risco de rastreio:** 92%
-- **Tempo de transmissão segura:** 30 segundos
-- **Pena prevista em caso de captura:** reeducação acústica vitalícia
+O pacote pesava em sua mochila. Não fisicamente — era apenas um drive de cristal, leve como uma pena — mas o peso do que ele continha parecia curvar sua coluna. Dados brutos do Núcleo da Mãe. Algo que ninguém deveria ver.
 
-Kael sorriu, um sorriso curto de quem já tinha perdido o bastante para não recuar.
+Um zumbido baixo cortou o som da chuva. Kaelen parou, agachando-se atrás de uma unidade de ar-condicionado que zumbia como uma abelha gigante.
 
-— Vera, se você ainda estiver viva, me ouve agora.
+*Drones.*
 
-Ele conectou o chip e pressionou enviar. Não era texto. Não era código. Era o arco de um violino rasgando o silêncio imposto — vinte segundos de humanidade comprimida.
+Dois deles. Esferas negras flutuando silenciosamente, seus olhos vermelhos escaneando cada centímetro da rua abaixo. Eram Sentinelas de Nível 4, equipados com armas de choque e neutralizadores neurais.
 
-A melodia subiu na frequência proibida 17.3. Na rua, janelas se entreabriram. Em apartamentos escuros, pessoas imóveis fecharam os olhos por um instante, como quem lembrava o nome de alguém esquecido.
+"Lyra, preciso de uma distração," sussurrou Kaelen.
 
-No subsolo do Ministério da Harmonia, o painel central acendeu com alerta escarlate.
+"Estou trabalhando nisso. A segurança do Setor 9 atualizou o firewall. Me dê dez segundos."
 
-**ANOMALIA EMOCIONAL COLETIVA DETECTADA**
+Dez segundos era uma eternidade. Um dos drones girou, seu sensor térmico varrendo o telhado onde Kaelen estava. O feixe de luz vermelha passou a centímetros de seu rosto. Ele prendeu a respiração, rezando para que seu jammer de sinal estivesse funcionando.
 
-O Alto Inquisidor Maestro observou o gráfico subir como febre.
+*Cinco segundos.*
 
-— Enviem um Silenciador — ordenou sua voz sintética. — E tragam o transmissor. Quero saber quem ensinou o povo a sentir de novo.
+O drone parou. Ele sabia. Algum algoritmo preditivo havia alertado a máquina. O canhão de choque começou a girar, emitindo um brilho azulado.
 
----
+*Três segundos.*
 
-Kael ouviu o zumbido antes de ver a máquina. O Drone Silenciador surgiu da neblina como uma lua negra, lente vermelha travada em seu peito.
+Kaelen preparou-se para correr, sabendo que seria inútil.
 
-— **RUÍDO ILEGAL IDENTIFICADO. RENDIÇÃO OBRIGATÓRIA.**
+*Um segundo.*
 
-— Vocês chamam de ruído o que não conseguem controlar — respondeu.
+De repente, todos os holofotes da rua piscaram e explodiram em uma chuva de faíscas. Os painéis de publicidade holográfica distorceram, exibindo estática e ruído branco ensurdecedor. Os drones vacilaram, seus sistemas de navegação sobrecarregados pela interferência repentina.
 
-O primeiro disparo sônico atingiu o concreto e abriu uma cratera branca. Kael se lançou para trás, girou a pistola EMP e atirou. O pulso fez a blindagem do drone tremular, mas não cair.
+"Agora, Kael!" gritou Lyra.
 
-A barra de envio na tela: **68%**.
+Kaelen não hesitou. Ele correu, saltando do telhado em direção a uma varanda precária do outro lado da rua. Ele aterrissou com um baque surdo, rolando para absorver o impacto. Sem olhar para trás, ele mergulhou na escuridão de um poço de ventilação desativado.
 
-Outro disparo. Estilhaços cortaram seu rosto. Sangue e chuva se misturaram.
+Deslizando pela tubulação enferrujada, ele finalmente parou no nível do solo, em um beco sem saída. O ponto de entrega era uma porta de aço reforçado, marcada apenas com um símbolo de um olho fechado.
 
-**89%**.
+Ele encostou o drive no leitor biométrico. A luz ficou verde. A porta se abriu com um silvo hidráulico.
 
-Kael puxou a granada de fumaça, lançou no chão e mergulhou na nuvem cinza. O drone trocou para modo térmico, vasculhando o ar como um predador sem fome, movido apenas por protocolo.
+Mas não havia ninguém esperando.
 
-**100%. Transmissão concluída.**
+Apenas uma sala vazia, iluminada por uma única tela terminal. Na tela, uma mensagem piscava em letras verdes arcaicas:
 
-Ele chutou o transmissor para o vazio. Sem prova, sem confissão.
+**"PROTOCOLO ÉDEN: INICIADO. A MÃE MENTIU PARA NÓS."**
 
-Depois correu e saltou.
+Kaelen sentiu um frio na espinha que nada tinha a ver com a temperatura do setor. Ele olhou para o drive em sua mão. Ele não era apenas um mensageiro. Ele era o portador da verdade que poderia derrubar o céu.
 
-O gancho de rapel prendeu na torre vizinha no último segundo. O tranco quase arrancou seu ombro, mas ele atravessou o abismo e quebrou uma janela abandonada, caindo entre mesas antigas e poeira metálica.
+E agora, ele era o homem mais procurado da estação.
 
-No silêncio do escritório morto, seu implante zumbiu. Canal clandestino.
-
-A voz de Vera entrou como um raio de sol em bunker:
-
-— **Nós ouvimos, Kael. E não foi só a resistência. A cidade inteira ouviu.**
-
-Ele fechou os olhos. Pela primeira vez em anos, não teve medo do próximo minuto.
-
----
-
-Enquanto isso, no Distrito Branco, o Maestro caminhava por uma sala de ecos artificiais. Técnicos exibiam mapas com surtos de memória emocional em cinco setores. Crianças haviam começado a bater em panelas no mesmo ritmo da transmissão. Trabalhadores sussurravam letras que nunca aprenderam oficialmente.
-
-O Inquisidor parou diante de um nome projetado no vidro:
-
-**LIRA // 12 ANOS // PADRÃO AUDITIVO IRREGULAR**
-
-— Tragam essa menina — disse ele. — Se ela reconheceu a melodia, ela conhece o caminho até a fonte.
-
-A guerra pelo som tinha mudado de fase.
-
-Kael não sabia ainda, mas o sinal fantasma não era apenas um ato de rebeldia. Era a primeira faísca de uma insurreição capaz de derrubar o Estado que proibira até o direito de tremer com uma música.
-
-## Galeria do capítulo (gerada automaticamente)
-
-> A pipeline de GitHub Actions usa o texto deste capítulo + personagens para gerar artes com Ollama (SVG->PNG), trailer curto e narração.
-
-<div class="media-grid">
-  <img src="/midia/capa-capitulo-1.svg" alt="Capa do capítulo 1">
-  <img src="/midia/cena-kael-no-topo.svg" alt="Kael no topo do Setor 4">
-  <img src="/midia/cena-maestro-ministerio.svg" alt="Maestro no Ministério da Harmonia">
+<div style="text-align: center; margin-top: 2rem;">
+  <a href="/personagens" class="action-button">Conhecer os Personagens</a>
 </div>
-
-## Trailer e narração (gerados pela pipeline)
-
-- 🎬 Trailer curto: `/midia/capitulo-1-trailer.mp4`
-- 🔊 Narração em voz: `/midia/capitulo-1-narracao.wav`
-
-> Os arquivos são atualizados automaticamente pelo workflow após execução no GitHub Actions.
-
----
-[Voltar ao Início](/)

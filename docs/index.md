@@ -2,12 +2,9 @@
 layout: home
 
 hero:
-  name: "A Última Frequência"
-  text: "Um thriller distópico sobre memória, música e revolução."
-  tagline: "Quando o Estado controla até o silêncio, lembrar-se de cantar vira terrorismo."
-  image:
-    src: /midia/capa-capitulo-1.svg
-    alt: Capa artística do capítulo 1
+  name: "Protocolo Éden"
+  text: "Onde o silêncio é a única lei."
+  tagline: "Uma distopia sci-fi sobre sobrevivência, segredos e a rebelião invisível na estação orbital Éden."
   actions:
     - theme: brand
       text: "Ler Capítulo 1"
@@ -21,14 +18,14 @@ hero:
 
 ### Capítulos
 
-- [Capítulo 1: O Sinal Fantasma](/capitulo-1)
+- [Capítulo 1: Sombra Digital](/capitulo-1)
 
-### Personagens
+### Personagens Principais
 
-- [Kael Voss](/personagens#kael-voss)
-- [Vera Nyx](/personagens#vera-nyx)
-- [Alto Inquisidor Maestro](/personagens#alto-inquisidor-maestro)
+- [Kaelen Rhyne](/personagens#kaelen-rhyne)
+- [Inspetor Varrick](/personagens#inspetor-varrick)
+- [Lyra](/personagens#lyra)
 
 <div class="story-card">
-Este projeto usa <strong>VitePress + GitHub Pages</strong> para publicar um livro em capítulos com estética cyberpunk e recursos multimídia.
+<strong>Protocolo Éden</strong> é uma obra de ficção científica publicada em capítulos, explorando temas de vigilância, inteligência artificial e desigualdade social em um futuro onde a Terra é apenas uma memória distante.
 </div>
