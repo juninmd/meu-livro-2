@@ -19,6 +19,7 @@ hero:
 ### Capítulos
 
 - [Capítulo 1: Sombra Digital](/capitulo-1)
+- [Capítulo 2: Ressonância](/capitulo-2)
 
 ### Personagens Principais
 

@@ -1,0 +1,49 @@
+name: Generate Chapter Image
+on:
+  push:
+    paths:
+      - 'docs/capitulo-*.md'
+
+jobs:
+  generate-image:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          pip install requests
+
+      - name: Get changed files
+        id: changed-files
+        uses: tj-actions/changed-files@v35
+        with:
+          files: docs/capitulo-*.md
+
+      - name: Generate Images
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: |
+          files=${{ steps.changed-files.outputs.all_changed_files }}
+          for file in $files; do
+            echo "Generating image for $file"
+            python scripts/generate_image.py "$file"
+          done
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add docs/public/midia/*.jpg
+          git commit -m "chore: generate chapter images" || echo "No changes to commit"
+          git push
