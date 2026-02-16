@@ -33,3 +33,14 @@
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
 *   **Motivação:**
     *   Inicialmente dinheiro, mas sua lealdade muda à medida que ele vê em Elara a esperança que pensava ter perdido.
+
+## Sentinelas
+
+*   **Função:** Unidade de Elite / Caçadores
+*   **Afiliação:** Ordem do Silício
+*   **Descrição:**
+    *   Autômatos humanoides de combate com movimentos fluidos e artificiais.
+    *   Possuem sensores óticos que brilham em **carmesim**.
+    *   Operam em enxames coordenados e são imunes a dor ou medo.
+*   **Motivação:**
+    *   Cumprir a vontade da Ordem: localizar, purificar ou eliminar alvos designados.

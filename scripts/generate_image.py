@@ -1,74 +1,75 @@
 import os
-import sys
 import requests
-import argparse
+import re
+import sys
 
-API_URL = "https://api-inference.huggingface.co/models/stabilityai/stable-diffusion-xl-base-1.0"
+HF_API_URL = "https://api-inference.huggingface.co/models/stabilityai/stable-diffusion-xl-base-1.0"
 HF_TOKEN = os.environ.get("HF_TOKEN")
 
-def query(payload):
-    headers = {"Authorization": f"Bearer {HF_TOKEN}"}
-    response = requests.post(API_URL, headers=headers, json=payload)
-    return response.content
-
-def generate_prompt(content):
-    # Simple extraction: Title + first paragraph
-    lines = content.split('\n')
-    title = "Cyberpunk Scene"
-    paragraph = ""
-    for line in lines:
-        if line.startswith("# "):
-            title = line.replace("# ", "").strip()
-        elif line.strip() and not line.startswith("#") and not line.startswith("<"):
-            paragraph = line.strip()
-            break
-
-    # Construct prompt with specific style instructions
-    prompt = f"cyberpunk noir style, {title}, {paragraph[:200]}, inspired by nano banana, cinematic lighting, highly detailed, 8k, dystopian atmosphere"
-    return prompt
-
-def main():
-    parser = argparse.ArgumentParser(description='Generate chapter image.')
-    parser.add_argument('file_path', type=str, help='Path to the chapter markdown file')
-    args = parser.parse_args()
-
-    if not HF_TOKEN:
-        print("HF_TOKEN environment variable not set. Skipping image generation.")
-        return
-
-    file_path = args.file_path
-    if not os.path.exists(file_path):
-        print(f"File {file_path} not found.")
-        sys.exit(1)
-
-    with open(file_path, 'r') as f:
+def get_chapter_data(filepath):
+    with open(filepath, 'r', encoding='utf-8') as f:
         content = f.read()
 
-    prompt = generate_prompt(content)
-    print(f"Generating image for {file_path} with prompt: {prompt}")
+    # Extract Title
+    title_match = re.search(r'# (.*)', content)
+    title = title_match.group(1).strip() if title_match else "Cyberpunk Scene"
 
+    # Extract Location and Characters (simple heuristics)
+    location_match = re.search(r'\*\*Localização:\*\* (.*)', content)
+    location = location_match.group(1).strip() if location_match else "Dystopian City"
+
+    chars_match = re.search(r'\*\*Personagens:\*\* (.*)', content)
+    characters = chars_match.group(1).strip() if chars_match else "Protagonist"
+
+    return title, location, characters
+
+def generate_prompt(title, location, characters):
+    # Construct a prompt for "Nano Banana" style (assuming high quality, cinematic, cyberpunk)
+    prompt = f"Cyberpunk Noir style illustration, {title}. Scene in {location}. Featuring {characters}. " \
+             f"Neon lights, rain, high tech, low life, highly detailed, cinematic lighting, 8k resolution, " \
+             f"artstation style, gloom, dystopian atmosphere."
+    return prompt
+
+def generate_image(prompt, output_path):
+    if not HF_TOKEN:
+        print("HF_TOKEN not found. Skipping image generation.")
+        return
+
+    headers = {"Authorization": f"Bearer {HF_TOKEN}"}
+    payload = {"inputs": prompt}
+
+    print(f"Generating image for prompt: {prompt}")
     try:
-        image_bytes = query({"inputs": prompt})
-
-        # Check if response is JSON (error) or bytes (image)
-        if image_bytes.startswith(b'{') and b'error' in image_bytes:
-            print(f"Error from API: {image_bytes}")
-            sys.exit(1)
-
-        # Determine output path
-        filename = os.path.basename(file_path).replace('.md', '.jpg')
-        output_dir = os.path.join('docs', 'public', 'midia')
-        os.makedirs(output_dir, exist_ok=True)
-        output_path = os.path.join(output_dir, filename)
-
-        with open(output_path, 'wb') as f:
-            f.write(image_bytes)
-
-        print(f"Image saved to {output_path}")
-
+        response = requests.post(HF_API_URL, headers=headers, json=payload)
+        if response.status_code == 200:
+            with open(output_path, 'wb') as f:
+                f.write(response.content)
+            print(f"Image saved to {output_path}")
+        else:
+            print(f"Error generating image: {response.status_code} - {response.text}")
     except Exception as e:
-        print(f"Failed to generate image: {e}")
-        sys.exit(1)
+        print(f"Exception during generation: {e}")
+
+def main():
+    chapters_dir = "docs/capitulos"
+    output_dir = "docs/public/midia"
+
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+
+    for filename in os.listdir(chapters_dir):
+        if filename.endswith(".md"):
+            chapter_path = os.path.join(chapters_dir, filename)
+            image_filename = filename.replace(".md", ".png")
+            output_path = os.path.join(output_dir, image_filename)
+
+            if os.path.exists(output_path):
+                print(f"Image for {filename} already exists. Skipping.")
+                continue
+
+            title, location, characters = get_chapter_data(chapter_path)
+            prompt = generate_prompt(title, location, characters)
+            generate_image(prompt, output_path)
 
 if __name__ == "__main__":
     main()

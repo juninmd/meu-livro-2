@@ -7,8 +7,9 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: 'Início', link: '/' },
-      { text: 'Capítulo 1', link: '/capitulo-1' },
-      { text: 'Capítulo 2', link: '/capitulo-2' },
+      { text: 'Capítulo 1', link: '/capitulos/capitulo-1' },
+      { text: 'Capítulo 2', link: '/capitulos/capitulo-2' },
+      { text: 'Capítulo 3', link: '/capitulos/capitulo-3' },
       { text: 'Personagens', link: '/personagens' },
       { text: 'Sobre', link: '/sobre' }
     ],
@@ -17,8 +18,9 @@ export default defineConfig({
         text: 'Leitura',
         items: [
           { text: 'Início', link: '/' },
-          { text: 'Capítulo 1: O Canto', link: '/capitulo-1' },
-          { text: 'Capítulo 2: Relíquias', link: '/capitulo-2' },
+          { text: 'Capítulo 1: O Canto', link: '/capitulos/capitulo-1' },
+          { text: 'Capítulo 2: Relíquias', link: '/capitulos/capitulo-2' },
+          { text: 'Capítulo 3: O Silêncio de Neon', link: '/capitulos/capitulo-3' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]
