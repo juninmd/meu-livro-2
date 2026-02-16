@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: "Começar a Ler"
-      link: /capitulo-1
+      link: /capitulos/capitulo-1
     - theme: alt
       text: "Conhecer Elara"
       link: /personagens
@@ -27,6 +27,7 @@ Séculos após o "Grande Colapso", a humanidade vive nas sombras de seus criador
 - [Elara](/personagens#elara): Protagonista, sucateira com olhos violeta.
 - [Alto Sacerdote Malakar](/personagens#alto-sacerdote-malakar): Antagonista, líder da Ordem do Silício.
 - [Jaxon](/personagens#jaxon): Mercenário veterano.
+- [Sentinelas](/personagens#sentinelas): Unidade de elite da Ordem.
 
 ## O Mundo: Nova Aether
 O mundo é uma mistura de natureza retomando seu espaço e esqueletos de megacidades. Tempestades de poeira varrem as planícies, e as noites são iluminadas pelo brilho fraco de antigas redes de energia que ainda funcionam erraticamente.
@@ -35,8 +36,9 @@ O mundo é uma mistura de natureza retomando seu espaço e esqueletos de megacid
 
 ### Capítulos
 
-- [Capítulo 1: O Canto](/capitulo-1)
-- [Capítulo 2: Relíquias](/capitulo-2)
+- [Capítulo 1: O Canto](/capitulos/capitulo-1)
+- [Capítulo 2: Relíquias](/capitulos/capitulo-2)
+- [Capítulo 3: O Silêncio de Neon](/capitulos/capitulo-3)
 
 <div class="story-card">
 <strong>O Legado de Silício</strong> explora a linha tênue entre tecnologia e magia em um futuro esquecido.
