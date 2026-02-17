@@ -24,10 +24,12 @@ def get_chapter_data(filepath):
     return title, location, characters
 
 def generate_prompt(title, location, characters):
-    # Construct a prompt for "Nano Banana" style (assuming high quality, cinematic, cyberpunk)
-    prompt = f"Cyberpunk Noir style illustration, {title}. Scene in {location}. Featuring {characters}. " \
-             f"Neon lights, rain, high tech, low life, highly detailed, cinematic lighting, 8k resolution, " \
-             f"artstation style, gloom, dystopian atmosphere."
+    # Construct a prompt for "Nano Banana" style (high quality, cinematic, cyberpunk noir)
+    prompt = f"Cyberpunk Noir masterpiece, {title}. Scene in {location}. Featuring {characters}. " \
+             f"Neon-drenched streets, rain-slicked surfaces, high tech decay, low life gritty atmosphere. " \
+             f"Cinematic lighting, volumetric fog, 8k resolution, highly detailed, sharp focus, photorealistic textures, " \
+             f"intricate machinery, dramatic shadows, vibrant colors against dark background, artstation trending, " \
+             f"unreal engine 5 render style."
     return prompt
 
 def generate_image(prompt, output_path):
