@@ -11,6 +11,7 @@ export default defineConfig({
       { text: 'Capítulo 2', link: '/capitulos/capitulo-2' },
       { text: 'Capítulo 3', link: '/capitulos/capitulo-3' },
       { text: 'Capítulo 4', link: '/capitulos/capitulo-4' },
+      { text: 'Capítulo 5', link: '/capitulos/capitulo-5' },
       { text: 'Personagens', link: '/personagens' },
       { text: 'Sobre', link: '/sobre' }
     ],
@@ -23,6 +24,7 @@ export default defineConfig({
           { text: 'Capítulo 2: Relíquias', link: '/capitulos/capitulo-2' },
           { text: 'Capítulo 3: O Silêncio de Neon', link: '/capitulos/capitulo-3' },
           { text: 'Capítulo 4: Sombras e Sinapses', link: '/capitulos/capitulo-4' },
+          { text: 'Capítulo 5: Ressonância Fantasma', link: '/capitulos/capitulo-5' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]

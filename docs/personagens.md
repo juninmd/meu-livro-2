@@ -50,6 +50,13 @@
 ## Tecnologias Proibidas e Substâncias
 
 ### Protocolo-V (Valkyr)
-*   **Tipo:** Droga Sintética Experimental
-*   **Efeito:** Promete a "imortalidade digital", induzindo alucinações vívidas de anjos de silício. Usuários em estágio avançado perdem a distinção entre realidade e pesadelo, tornando-se violentos e insensíveis à dor.
-*   **Origem:** Rumores apontam para laboratórios clandestinos financiados por facções dissidentes da Ordem.
+*   **Tipo:** Droga Sintética Experimental / Ferramenta de Preparação Neural
+*   **Efeito:** Inicialmente induz euforia e alucinações de "anjos de silício". Em estágios avançados, atua como um solvente de consciência, apagando a personalidade do usuário para preparar o corpo (hardware) para receber novos dados (upload).
+*   **Origem:** Laboratórios da Ordem do Silício, disfarçados como operações clandestinas.
+*   **Revelação (Cap. 5):** Malakar usa o Valkyr para esvaziar "recipientes" humanos. Os viciados são "falhas de upload" ou corpos rejeitados pelo sistema.
+
+## Conceitos Chave
+
+### A Ascensão
+*   **Definição Pública:** A promessa religiosa de transcender a carne e viver eternamente no ciberespaço.
+*   **Realidade Oculta:** Um processo de colheita de dados em massa onde a individualidade é apagada para alimentar o "Deus-Máquina".
