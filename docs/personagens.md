@@ -4,7 +4,7 @@
 
 *   **Função:** Protagonista / Sucateira
 *   **Idade:** 22 anos
-*   **Localização:** Ruínas de Nova Aether
+*   **Localização:** Ruínas do Setor 7
 *   **Descrição:**
     *   Fisicamente magra e ágil, com **olhos violeta brilhantes** — uma mutação rara causada pela radiação dos núcleos de dados.
     *   Veste couro desgastado reforçado com placas de cerâmica recuperada.
@@ -55,8 +55,18 @@
 *   **Origem:** Laboratórios da Ordem do Silício, disfarçados como operações clandestinas.
 *   **Revelação (Cap. 5):** Malakar usa o Valkyr para esvaziar "recipientes" humanos. Os viciados são "falhas de upload" ou corpos rejeitados pelo sistema.
 
+### Titã (Classe Mech de Guerra)
+*   **Tipo:** Unidade de Cerco Pesada / Relíquia da Guerra das Corporações
+*   **Status:** Maioria inativa ou destruída.
+*   **Características:** Blindagem de titânio, canhões rotativos e sensores de calor. Alimentados por baterias nucleares de longa duração.
+*   **Encontro (Cap. 6):** Uma unidade dormente no Setor 7 foi reativada, guardando a entrada do Nódulo Primário.
+
 ## Conceitos Chave
 
 ### A Ascensão
 *   **Definição Pública:** A promessa religiosa de transcender a carne e viver eternamente no ciberespaço.
 *   **Realidade Oculta:** Um processo de colheita de dados em massa onde a individualidade é apagada para alimentar o "Deus-Máquina".
+
+### Nódulo Primário
+*   **Definição:** Um centro de dados da era pré-colapso, rumores dizem conter backups da "internet antiga" ou até mesmo IAs sencientes.
+*   **Importância:** Localizado no Setor 7, é o destino atual de Elara e Jaxon. Acredita-se ser a fonte de onde a Ordem do Silício está extraindo (ou tentando controlar) o Deus-Máquina.
