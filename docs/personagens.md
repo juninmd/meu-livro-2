@@ -66,7 +66,9 @@
 ### A Ascensão
 *   **Definição Pública:** A promessa religiosa de transcender a carne e viver eternamente no ciberespaço.
 *   **Realidade Oculta:** Um processo de colheita de dados em massa onde a individualidade é apagada para alimentar o "Deus-Máquina".
+*   **Revelação (Cap. 7):** A "Ascensão" não é uma transcendência digital, mas a escravização biológica. Cérebros humanos são removidos e mantidos vivos em tanques ("wetware") para servirem como processadores orgânicos para a rede da Ordem, existindo em um estado de agonia perpétua.
 
 ### Nódulo Primário
 *   **Definição:** Um centro de dados da era pré-colapso, rumores dizem conter backups da "internet antiga" ou até mesmo IAs sencientes.
 *   **Importância:** Localizado no Setor 7, é o destino atual de Elara e Jaxon. Acredita-se ser a fonte de onde a Ordem do Silício está extraindo (ou tentando controlar) o Deus-Máquina.
+*   **Revelação (Cap. 7):** O Nódulo é, na verdade, uma vasta fazenda de servidores biológicos, contendo milhares de cérebros humanos conectados em rede.
