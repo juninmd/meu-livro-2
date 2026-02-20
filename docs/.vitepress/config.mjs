@@ -14,6 +14,7 @@ export default defineConfig({
       { text: 'Capítulo 5', link: '/capitulos/capitulo-5' },
       { text: 'Capítulo 6', link: '/capitulos/capitulo-6' },
       { text: 'Capítulo 7', link: '/capitulos/capitulo-7' },
+      { text: 'Capítulo 8', link: '/capitulos/capitulo-8' },
       { text: 'Personagens', link: '/personagens' },
       { text: 'Sobre', link: '/sobre' }
     ],
@@ -29,6 +30,7 @@ export default defineConfig({
           { text: 'Capítulo 5: Ressonância Fantasma', link: '/capitulos/capitulo-5' },
           { text: 'Capítulo 6: Sombras do Setor 7', link: '/capitulos/capitulo-6' },
           { text: 'Capítulo 7: O Coração da Máquina', link: '/capitulos/capitulo-7' },
+          { text: 'Capítulo 8: Fuga do Abismo', link: '/capitulos/capitulo-8' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]
