@@ -8,7 +8,7 @@
 *   **Descrição:**
     *   Fisicamente magra e ágil, com **olhos violeta brilhantes** — uma mutação rara causada pela radiação dos núcleos de dados. Agora, após o contato com o Nódulo, o brilho é mais intenso e instável.
     *   Veste couro desgastado reforçado com placas de cerâmica recuperada.
-    *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9).
+    *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Permite acelerar a percepção do tempo, reagindo a ameaças com precisão sobre-humana (efeito "Bullet Time"). O uso excessivo causa danos físicos e mentais. Mantém uma conexão psíquica persistente e dolorosa com o Deus-Máquina.
 *   **Motivação:**
     *   Encontrar a "Fonte Primordial", uma lenda que promete purificar a terra e trazer de volta a era de ouro. Agora, busca sobreviver ao despertar do Deus-Máquina e entender a extensão de seus novos poderes.
@@ -32,7 +32,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 9):** Gravemente ferido no abdômen durante a fuga do Nódulo. Depende de analgésicos militares para continuar se movendo.
+    *   **Estado Atual (Cap. 10):** Condição Crítica. Ferimento no abdômen cauterizado precariamente por Elara. Perdeu muito sangue e está à beira do colapso.
     *   **Equipamento:** Carrega frascos de **analgésicos militares** para suprimir a dor de antigos ferimentos e manter o foco em combate.
 *   **Motivação:**
     *   Inicialmente dinheiro, mas sua lealdade muda à medida que ele vê em Elara a esperança que pensava ter perdido. Determinado a proteger Elara, mesmo que isso custe sua vida.
@@ -55,7 +55,7 @@
 *   **Descrição:**
     *   Pequenas máquinas aracnídeas projetadas para manutenção e limpeza de detritos.
     *   Atuam em enxames ("swarm") e possuem serras circulares e mandíbulas de trituração.
-    *   Foram ativados/agressivados pela perturbação no Nódulo Primário, atacando qualquer matéria orgânica que considerem "lixo".
+    *   Foram ativados/agressivados pela perturbação no Nódulo Primário, atacando qualquer matéria orgânica que considerem "lixo". No Cap. 10, perseguem Elara e Jaxon pelos túneis.
 
 ## Tecnologias Proibidas e Substâncias
 
