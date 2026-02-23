@@ -1,82 +1,84 @@
 import os
-import requests
-import re
 import sys
+import argparse
+import requests
 
-HF_API_URL = "https://api-inference.huggingface.co/models/stabilityai/stable-diffusion-xl-base-1.0"
-HF_TOKEN = os.environ.get("HF_TOKEN")
-
-def get_chapter_data(filepath):
-    with open(filepath, 'r', encoding='utf-8') as f:
-        content = f.read()
-
-    # Extract Title
-    title_match = re.search(r'# (.*)', content)
-    title = title_match.group(1).strip() if title_match else "Cyberpunk Scene"
-
-    # Extract Location and Characters (simple heuristics)
-    location_match = re.search(r'\*\*Localização:\*\* (.*)', content)
-    location = location_match.group(1).strip() if location_match else "Dystopian City"
-
-    chars_match = re.search(r'\*\*Personagens:\*\* (.*)', content)
-    characters = chars_match.group(1).strip() if chars_match else "Protagonist"
-
-    return title, location, characters
-
-def generate_prompt(title, location, characters):
-    # Construct a prompt for "Nano Banana" style (high quality, cinematic, cyberpunk noir)
-    # Adding 'Nano Banana style' might not be recognized by SDXL, so we interpret it as:
-    # Vibrant, High Contrast, Neon, Tech-heavy, Sharp Details.
-    prompt = f"Cyberpunk Noir masterpiece, {title}. Scene in {location}. Featuring {characters}. " \
-             f"Style of Nano Banana. Neon-drenched streets, rain-slicked surfaces, high tech decay, low life gritty atmosphere. " \
-             f"Cinematic lighting, volumetric fog, 8k resolution, highly detailed, sharp focus, photorealistic textures, " \
-             f"intricate machinery, dramatic shadows, vibrant colors against dark background, artstation trending, " \
-             f"unreal engine 5 render style, ray tracing, octane render, hyper-realistic, high contrast."
-    return prompt
+API_URL = "https://api-inference.huggingface.co/models/stabilityai/stable-diffusion-xl-base-1.0"
+HEADERS = {"Authorization": f"Bearer {os.environ.get('HF_TOKEN')}"}
 
 def generate_image(prompt, output_path):
-    if not HF_TOKEN:
-        print("HF_TOKEN not found. Skipping image generation.")
+    if not os.environ.get('HF_TOKEN'):
+        print("HF_TOKEN environment variable not set. Skipping image generation.")
         return
 
-    headers = {"Authorization": f"Bearer {HF_TOKEN}"}
-    payload = {"inputs": prompt}
+    payload = {
+        "inputs": prompt,
+    }
 
-    print(f"Generating image for prompt: {prompt}")
     try:
-        response = requests.post(HF_API_URL, headers=headers, json=payload)
-        if response.status_code == 200:
-            with open(output_path, 'wb') as f:
-                f.write(response.content)
-            print(f"Image saved to {output_path}")
-        else:
-            print(f"Error generating image: {response.status_code} - {response.text}")
-    except Exception as e:
-        print(f"Exception during generation: {e}")
+        response = requests.post(API_URL, headers=HEADERS, json=payload)
+        response.raise_for_status()
+
+        # Check if the response is actually an image (bytes)
+        if response.headers.get('content-type') == 'application/json':
+             print(f"Error: Received JSON response instead of image: {response.json()}")
+             sys.exit(1)
+
+        with open(output_path, "wb") as f:
+            f.write(response.content)
+        print(f"Image saved to {output_path}")
+
+    except requests.exceptions.RequestException as e:
+        print(f"Error querying API: {e}")
+        # Don't fail the build if image gen fails, just log it.
+        # Unless it's critical, but usually for docs it's better to proceed.
+        # But for this task, let's just print error.
+        pass
 
 def main():
-    chapters_dir = "docs/capitulos"
-    output_dir = "docs/public/midia"
+    parser = argparse.ArgumentParser(description="Generate image for a chapter.")
+    parser.add_argument("filepath", help="Path to the chapter markdown file.")
+    args = parser.parse_args()
 
-    if not os.path.exists(output_dir):
-        os.makedirs(output_dir)
+    filepath = args.filepath
+    if not os.path.exists(filepath):
+        print(f"File not found: {filepath}")
+        sys.exit(1)
 
-    # Sort files to ensure processing order (optional but nice)
-    files = sorted([f for f in os.listdir(chapters_dir) if f.endswith(".md")])
+    # Read content to generate prompt
+    with open(filepath, "r", encoding="utf-8") as f:
+        content = f.read()
 
-    for filename in files:
-        chapter_path = os.path.join(chapters_dir, filename)
-        # Use .png for high quality
-        image_filename = filename.replace(".md", ".png")
-        output_path = os.path.join(output_dir, image_filename)
-
-        if os.path.exists(output_path):
-            print(f"Image for {filename} already exists. Skipping.")
+    # Simple prompt extraction: Take first 500 characters, remove markdown headers
+    # A better approach would be to ask an LLM to summarize, but we don't have that access here easily without another API key.
+    # So we'll use the text directly.
+    # remove metadata header if present (between ---)
+    lines = content.split('\n')
+    text_content = []
+    in_metadata = False
+    for line in lines:
+        if line.strip() == '---':
+            if in_metadata:
+                in_metadata = False
+            else:
+                in_metadata = True
             continue
+        if not in_metadata and line.strip():
+            text_content.append(line.strip())
 
-        title, location, characters = get_chapter_data(chapter_path)
-        prompt = generate_prompt(title, location, characters)
-        generate_image(prompt, output_path)
+    raw_text = " ".join(text_content)[:500]
+
+    style_prompt = "Cyberpunk Noir style, Nano Banana aesthetic, vibrant neon, high contrast, surreal, tech-heavy, intricate details, 8k resolution. "
+    full_prompt = f"{style_prompt} based on: {raw_text}"
+
+    # Determine output path
+    filename = os.path.basename(filepath).replace(".md", ".png")
+    output_dir = "docs/public/midia"
+    os.makedirs(output_dir, exist_ok=True)
+    output_path = os.path.join(output_dir, filename)
+
+    print(f"Generating image for {filename}...")
+    generate_image(full_prompt, output_path)
 
 if __name__ == "__main__":
     main()
