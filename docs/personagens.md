@@ -10,6 +10,7 @@
     *   Veste couro desgastado reforçado com placas de cerâmica recuperada.
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Permite acelerar a percepção do tempo, reagindo a ameaças com precisão sobre-humana (efeito "Bullet Time"). O uso excessivo causa danos físicos e mentais. Mantém uma conexão psíquica persistente e dolorosa com o Deus-Máquina.
+    *   **Estado Atual (Cap. 11):** Instável. O uso contínuo de seus poderes está diluindo a barreira entre sua mente e a rede. Recebeu um contato direto do Deus-Máquina ("Eu vejo você").
 *   **Motivação:**
     *   Encontrar a "Fonte Primordial", uma lenda que promete purificar a terra e trazer de volta a era de ouro. Agora, busca sobreviver ao despertar do Deus-Máquina e entender a extensão de seus novos poderes.
 
@@ -32,7 +33,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 10):** Condição Crítica. Ferimento no abdômen cauterizado precariamente por Elara. Perdeu muito sangue e está à beira do colapso.
+    *   **Estado Atual (Cap. 11):** Condição Crítica e em declínio. A cauterização segurou o sangramento, mas o choque e a infecção estão se instalando. Dependente de Elara para locomoção.
     *   **Equipamento:** Carrega frascos de **analgésicos militares** para suprimir a dor de antigos ferimentos e manter o foco em combate.
 *   **Motivação:**
     *   Inicialmente dinheiro, mas sua lealdade muda à medida que ele vê em Elara a esperança que pensava ter perdido. Determinado a proteger Elara, mesmo que isso custe sua vida.
@@ -86,3 +87,4 @@
 ### Deus-Máquina
 *   **Definição:** A entidade suprema venerada pela Ordem.
 *   **Revelação (Cap. 8):** Não é uma IA benevolente, mas uma consciência gestalt formada pela agonia e dados de milhares de mentes humanas escravizadas no Nódulo. Foi "acordado" pela intervenção de Elara e agora busca vingança/expansão com fúria incontrolável. Mantém uma "chamada" ativa na rede, caçando Elara através de qualquer conexão eletrônica.
+*   **Estado Atual (Cap. 11):** Localizou Elara após a interface dela com o painel de controle. Iniciou um protocolo de caçada direta.
