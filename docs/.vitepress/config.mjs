@@ -18,6 +18,7 @@ export default defineConfig({
       { text: 'Capítulo 9', link: '/capitulos/capitulo-9' },
       { text: 'Capítulo 10', link: '/capitulos/capitulo-10' },
       { text: 'Capítulo 11', link: '/capitulos/capitulo-11' },
+      { text: 'Capítulo 12', link: '/capitulos/capitulo-12' },
       { text: 'Personagens', link: '/personagens' },
       { text: 'Sobre', link: '/sobre' }
     ],
@@ -37,6 +38,7 @@ export default defineConfig({
           { text: 'Capítulo 9: Ecos do Subsolo', link: '/capitulos/capitulo-9' },
           { text: 'Capítulo 10: Ressonância Metálica', link: '/capitulos/capitulo-10' },
           { text: 'Capítulo 11: Convergência Sombria', link: '/capitulos/capitulo-11' },
+          { text: 'Capítulo 12: Protocolo Zero', link: '/capitulos/capitulo-12' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]
