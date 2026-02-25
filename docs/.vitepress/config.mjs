@@ -19,6 +19,7 @@ export default defineConfig({
       { text: 'Capítulo 10', link: '/capitulos/capitulo-10' },
       { text: 'Capítulo 11', link: '/capitulos/capitulo-11' },
       { text: 'Capítulo 12', link: '/capitulos/capitulo-12' },
+      { text: 'Capítulo 13', link: '/capitulos/capitulo-13' },
       { text: 'Personagens', link: '/personagens' },
       { text: 'Sobre', link: '/sobre' }
     ],
@@ -39,6 +40,7 @@ export default defineConfig({
           { text: 'Capítulo 10: Ressonância Metálica', link: '/capitulos/capitulo-10' },
           { text: 'Capítulo 11: Convergência Sombria', link: '/capitulos/capitulo-11' },
           { text: 'Capítulo 12: Protocolo Zero', link: '/capitulos/capitulo-12' },
+          { text: 'Capítulo 13: Glaciação Sináptica', link: '/capitulos/capitulo-13' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]
