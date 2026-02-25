@@ -10,7 +10,7 @@
     *   Veste couro desgastado reforçado com placas de cerâmica recuperada.
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Permite acelerar a percepção do tempo, reagindo a ameaças com precisão sobre-humana (efeito "Bullet Time"). O uso excessivo causa danos físicos e mentais. Mantém uma conexão psíquica persistente e dolorosa com o Deus-Máquina.
-    *   **Estado Atual (Cap. 12):** Exaurida. Após ativar o **Protocolo Zero** forçando uma interface neural, sofre de sangramentos nasais e tremores. A barreira entre sua mente e o Deus-Máquina está cada vez mais tênue.
+    *   **Estado Atual (Cap. 13):** Extremamente exaurida. Usou bioeletricidade para escapar do setor congelado, causando queimaduras nos dedos e intensificando o sangramento nasal. A voz do Deus-Máquina é uma presença constante.
 *   **Motivação:**
     *   Encontrar a "Fonte Primordial", uma lenda que promete purificar a terra e trazer de volta a era de ouro. Agora, busca sobreviver ao despertar do Deus-Máquina e entender a extensão de seus novos poderes.
 
@@ -33,7 +33,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 12):** Inconsciente/Delirante. Sobreviveu ao ataque dos drones graças ao congelamento da sala, mas sua temperatura corporal está perigosamente baixa.
+    *   **Estado Atual (Cap. 13):** Hipotérmico e em estado crítico. Carregado por Elara. O frio estancou temporariamente o sangramento, mas ele precisa de aquecimento urgente.
     *   **Equipamento:** Carrega frascos de **analgésicos militares** para suprimir a dor de antigos ferimentos e manter o foco em combate.
 *   **Motivação:**
     *   Inicialmente dinheiro, mas sua lealdade muda à medida que ele vê em Elara a esperança que pensava ter perdido. Determinado a proteger Elara, mesmo que isso custe sua vida.
@@ -75,7 +75,7 @@
 ### Protocolo Zero
 *   **Tipo:** Sistema de Contingência de Emergência
 *   **Função:** Inundar setores comprometidos com refrigerante industrial (nitrogênio líquido) para conter falhas críticas de núcleo ou radiação.
-*   **Uso (Cap. 12):** Elara ativou o protocolo manualmente via interface neural para congelar e neutralizar um enxame de Ratos-Drones.
+*   **Uso (Cap. 12/13):** Elara ativou o protocolo manualmente, congelando instantaneamente o Subnível 8. Neutralizou os Ratos-Drones, mas transformou o ambiente em uma zona letal de frio extremo.
 
 ## Conceitos Chave
 
