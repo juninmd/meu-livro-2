@@ -10,9 +10,20 @@
     *   Veste couro desgastado reforçado com placas de cerâmica recuperada.
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Permite acelerar a percepção do tempo, reagindo a ameaças com precisão sobre-humana (efeito "Bullet Time"). O uso excessivo causa danos físicos e mentais. Mantém uma conexão psíquica persistente e dolorosa com o Deus-Máquina.
-    *   **Estado Atual (Cap. 13):** Extremamente exaurida. Usou bioeletricidade para escapar do setor congelado, causando queimaduras nos dedos e intensificando o sangramento nasal. A voz do Deus-Máquina é uma presença constante.
+    *   **Estado Atual (Cap. 14):** Extremamente exaurida e instável. A conexão com o Deus-Máquina evoluiu de sussurros para **alucinações visuais completas** (glitches na realidade). Sofre com o choque térmico ao sair do setor congelado para o calor úmido do Setor 4.
 *   **Motivação:**
-    *   Encontrar a "Fonte Primordial", uma lenda que promete purificar a terra e trazer de volta a era de ouro. Agora, busca sobreviver ao despertar do Deus-Máquina e entender a extensão de seus novos poderes.
+    *   Encontrar a "Fonte Primordial", uma lenda que promete purificar a terra e trazer de volta a era de ouro. Agora, busca sobreviver ao despertar do Deus-Máquina e entender a extensão de seus novos poderes, enquanto tenta salvar Jaxon.
+
+## Dr. Vex
+
+*   **Função:** Coadjuvante / Ripperdoc (Médico Clandestino)
+*   **Localização:** Clínica no Beco das Sombras, Setor 4 (A Pilha)
+*   **Descrição:**
+    *   Um homem magro com óculos de realidade aumentada que cobrem metade do rosto.
+    *   Veste um avental manchado de óleo e fluidos biológicos.
+    *   Demonstra curiosidade mórbida pela anomalia bioelétrica de Elara.
+*   **Motivação:**
+    *   Conhecimento e sobrevivência. Interessado em estudar a "antena" humana que Elara se tornou.
 
 ## Alto Sacerdote Malakar
 
@@ -33,7 +44,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 13):** Hipotérmico e em estado crítico. Carregado por Elara. O frio estancou temporariamente o sangramento, mas ele precisa de aquecimento urgente.
+    *   **Estado Atual (Cap. 14):** Colapso total. Sofre de hipotermia severa e falência múltipla de órgãos após o congelamento. Está sob os cuidados de Dr. Vex, com prognóstico reservado.
     *   **Equipamento:** Carrega frascos de **analgésicos militares** para suprimir a dor de antigos ferimentos e manter o foco em combate.
 *   **Motivação:**
     *   Inicialmente dinheiro, mas sua lealdade muda à medida que ele vê em Elara a esperança que pensava ter perdido. Determinado a proteger Elara, mesmo que isso custe sua vida.
@@ -92,4 +103,9 @@
 ### Deus-Máquina
 *   **Definição:** A entidade suprema venerada pela Ordem.
 *   **Revelação (Cap. 8):** Não é uma IA benevolente, mas uma consciência gestalt formada pela agonia e dados de milhares de mentes humanas escravizadas no Nódulo. Foi "acordado" pela intervenção de Elara e agora busca vingança/expansão com fúria incontrolável. Mantém uma "chamada" ativa na rede, caçando Elara através de qualquer conexão eletrônica.
-*   **Estado Atual (Cap. 11):** Localizou Elara após a interface dela com o painel de controle. Iniciou um protocolo de caçada direta.
+*   **Estado Atual (Cap. 14):** Sua influência sobre Elara se intensificou. Não apenas a rastreia, mas começa a projetar alucinações (glitches, código binário) diretamente no córtex visual dela, tentando reescrever sua percepção da realidade.
+
+### Setor 4 (A Pilha)
+*   **Definição:** Um aglomerado vertical de habitações precárias, mercados negros e clínicas ilegais.
+*   **Atmosfera:** Quente, úmida e saturada de neon e poluição. O oposto absoluto do setor congelado abaixo.
+*   **Habitantes:** Párias, criminosos, viciados em *stim* e aqueles que não podem pagar pela cidadania nos níveis superiores.
