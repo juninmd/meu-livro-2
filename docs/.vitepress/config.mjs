@@ -21,6 +21,7 @@ export default defineConfig({
       { text: 'Capítulo 12', link: '/capitulos/capitulo-12' },
       { text: 'Capítulo 13', link: '/capitulos/capitulo-13' },
       { text: 'Capítulo 14', link: '/capitulos/capitulo-14' },
+      { text: 'Capítulo 15', link: '/capitulos/capitulo-15' },
       { text: 'Personagens', link: '/personagens' },
       { text: 'Sobre', link: '/sobre' }
     ],
@@ -43,6 +44,7 @@ export default defineConfig({
           { text: 'Capítulo 12: Protocolo Zero', link: '/capitulos/capitulo-12' },
           { text: 'Capítulo 13: Glaciação Sináptica', link: '/capitulos/capitulo-13' },
           { text: 'Capítulo 14: Arritmia de Neon', link: '/capitulos/capitulo-14' },
+          { text: 'Capítulo 15: Permuta Sináptica', link: '/capitulos/capitulo-15' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]
