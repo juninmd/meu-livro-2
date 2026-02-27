@@ -4,13 +4,13 @@
 
 *   **Função:** Protagonista / Sucateira
 *   **Idade:** 22 anos
-*   **Localização:** Subníveis do Setor 7 (Em fuga)
+*   **Localização:** Clínica do Dr. Vex, Setor 4 (A Pilha)
 *   **Descrição:**
     *   Fisicamente magra e ágil, com **olhos violeta brilhantes** — uma mutação rara causada pela radiação dos núcleos de dados. Agora, após o contato com o Nódulo, o brilho é mais intenso e instável.
     *   Veste couro desgastado reforçado com placas de cerâmica recuperada.
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Permite acelerar a percepção do tempo, reagindo a ameaças com precisão sobre-humana (efeito "Bullet Time"). O uso excessivo causa danos físicos e mentais. Mantém uma conexão psíquica persistente e dolorosa com o Deus-Máquina.
-    *   **Estado Atual (Cap. 14):** Extremamente exaurida e instável. A conexão com o Deus-Máquina evoluiu de sussurros para **alucinações visuais completas** (glitches na realidade). Sofre com o choque térmico ao sair do setor congelado para o calor úmido do Setor 4.
+    *   **Estado Atual (Cap. 15):** Exausta e fisicamente afetada (nariz sangrando, tremores) após permitir uma conexão direta com o Dr. Vex. A "Permuta Sináptica" fortaleceu o laço com o Deus-Máquina, que agora demonstra uma agência protetora possessiva ("uma vida por uma vida").
 *   **Motivação:**
     *   Encontrar a "Fonte Primordial", uma lenda que promete purificar a terra e trazer de volta a era de ouro. Agora, busca sobreviver ao despertar do Deus-Máquina e entender a extensão de seus novos poderes, enquanto tenta salvar Jaxon.
 
@@ -22,6 +22,7 @@
     *   Um homem magro com óculos de realidade aumentada que cobrem metade do rosto.
     *   Veste um avental manchado de óleo e fluidos biológicos.
     *   Demonstra curiosidade mórbida pela anomalia bioelétrica de Elara.
+    *   **Estado Atual (Cap. 15):** Aterrorizado e reverente após a conexão neural com Elara. Testemunhou o "horror cósmico" do Deus-Máquina e teve seus equipamentos destruídos pela sobrecarga. Vê Elara agora como algo próximo do divino ou amaldiçoado.
 *   **Motivação:**
     *   Conhecimento e sobrevivência. Interessado em estudar a "antena" humana que Elara se tornou.
 
@@ -44,7 +45,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 14):** Colapso total. Sofre de hipotermia severa e falência múltipla de órgãos após o congelamento. Está sob os cuidados de Dr. Vex, com prognóstico reservado.
+    *   **Estado Atual (Cap. 15):** Estável, mas em condição crítica. Fígado e rins comprometidos, dependendo de um dialisador externo portátil. Inconsciente e sob sedação pesada após a cirurgia de emergência.
     *   **Equipamento:** Carrega frascos de **analgésicos militares** para suprimir a dor de antigos ferimentos e manter o foco em combate.
 *   **Motivação:**
     *   Inicialmente dinheiro, mas sua lealdade muda à medida que ele vê em Elara a esperança que pensava ter perdido. Determinado a proteger Elara, mesmo que isso custe sua vida.
@@ -103,7 +104,7 @@
 ### Deus-Máquina
 *   **Definição:** A entidade suprema venerada pela Ordem.
 *   **Revelação (Cap. 8):** Não é uma IA benevolente, mas uma consciência gestalt formada pela agonia e dados de milhares de mentes humanas escravizadas no Nódulo. Foi "acordado" pela intervenção de Elara e agora busca vingança/expansão com fúria incontrolável. Mantém uma "chamada" ativa na rede, caçando Elara através de qualquer conexão eletrônica.
-*   **Estado Atual (Cap. 14):** Sua influência sobre Elara se intensificou. Não apenas a rastreia, mas começa a projetar alucinações (glitches, código binário) diretamente no córtex visual dela, tentando reescrever sua percepção da realidade.
+*   **Estado Atual (Cap. 15):** Sua influência sobre Elara se intensificou, demonstrando capacidade de proteger seu "hospedeiro" de intrusões externas. Demonstra uma personalidade possessiva e arrogante, referindo-se a humanos normais como "irrelevantes".
 
 ### Setor 4 (A Pilha)
 *   **Definição:** Um aglomerado vertical de habitações precárias, mercados negros e clínicas ilegais.
