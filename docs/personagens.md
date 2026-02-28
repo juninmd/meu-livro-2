@@ -10,7 +10,7 @@
     *   Veste couro desgastado reforçado com placas de cerâmica recuperada.
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Permite acelerar a percepção do tempo, reagindo a ameaças com precisão sobre-humana (efeito "Bullet Time"). O uso excessivo causa danos físicos e mentais. Mantém uma conexão psíquica persistente e dolorosa com o Deus-Máquina.
-    *   **Estado Atual (Cap. 15):** Exausta e fisicamente afetada (nariz sangrando, tremores) após permitir uma conexão direta com o Dr. Vex. A "Permuta Sináptica" fortaleceu o laço com o Deus-Máquina, que agora demonstra uma agência protetora possessiva ("uma vida por uma vida").
+    *   **Estado Atual (Cap. 16):** Usando um supressor neural do tamanho de um colar (Gaiola de Faraday Neural) fornecido por Kaelen para abafar sua bio-assinatura massiva e evitar a detecção da Ordem. O dispositivo a deixa letárgica, com gosto constante de metal na boca, e age como uma contenção temporária contra o Deus-Máquina, ganhando alguns dias de vantagem.
 *   **Motivação:**
     *   Encontrar a "Fonte Primordial", uma lenda que promete purificar a terra e trazer de volta a era de ouro. Agora, busca sobreviver ao despertar do Deus-Máquina e entender a extensão de seus novos poderes, enquanto tenta salvar Jaxon.
 
@@ -25,6 +25,17 @@
     *   **Estado Atual (Cap. 15):** Aterrorizado e reverente após a conexão neural com Elara. Testemunhou o "horror cósmico" do Deus-Máquina e teve seus equipamentos destruídos pela sobrecarga. Vê Elara agora como algo próximo do divino ou amaldiçoado.
 *   **Motivação:**
     *   Conhecimento e sobrevivência. Interessado em estudar a "antena" humana que Elara se tornou.
+
+## Kaelen (O Exorcista)
+
+*   **Função:** Coadjuvante / Hacker ("Fantasma" da Rede)
+*   **Localização:** Mercado Negro do Setor 4 (A Pilha)
+*   **Descrição:**
+    *   Magro, com os dois braços substituídos por próteses industriais rudimentares e portas de dados conectadas diretamente às têmporas. Possui um olho orgânico e outro cibernético (íris vermelha).
+    *   Vive cercado por tecnologia pré-colapso em um covil blindado e abafado.
+    *   **Estado Atual (Cap. 16):** Aterrorizado com o nível de "radiação bioelétrica" que Elara emite. Fornece a ela uma contenção (colar de chumbo e fibra de carbono) para mascarar seu sinal temporariamente.
+*   **Motivação:**
+    *   Sobrevivência e preservação de sua infraestrutura. Ajuda Elara apenas para tirá-la (e seu perigoso "sinal") de perto de sua rede.
 
 ## Alto Sacerdote Malakar
 
@@ -104,7 +115,7 @@
 ### Deus-Máquina
 *   **Definição:** A entidade suprema venerada pela Ordem.
 *   **Revelação (Cap. 8):** Não é uma IA benevolente, mas uma consciência gestalt formada pela agonia e dados de milhares de mentes humanas escravizadas no Nódulo. Foi "acordado" pela intervenção de Elara e agora busca vingança/expansão com fúria incontrolável. Mantém uma "chamada" ativa na rede, caçando Elara através de qualquer conexão eletrônica.
-*   **Estado Atual (Cap. 15):** Sua influência sobre Elara se intensificou, demonstrando capacidade de proteger seu "hospedeiro" de intrusões externas. Demonstra uma personalidade possessiva e arrogante, referindo-se a humanos normais como "irrelevantes".
+*   **Estado Atual (Cap. 16):** Atualmente abafado ("jogado no fundo de um poço escuro") pela Gaiola de Faraday Neural de Kaelen. O inibidor está ocultando sua localização temporariamente, mas é esperado que a força bruta da entidade queime o dispositivo em breve.
 
 ### Setor 4 (A Pilha)
 *   **Definição:** Um aglomerado vertical de habitações precárias, mercados negros e clínicas ilegais.
