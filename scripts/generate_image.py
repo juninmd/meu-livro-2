@@ -75,6 +75,7 @@ def main():
     lines = content.split('\n')
     text_content = []
     in_metadata = False
+    personagens = ""
     for line in lines:
         if line.strip() == '---':
             if in_metadata:
@@ -82,6 +83,9 @@ def main():
             else:
                 in_metadata = True
             continue
+        if in_metadata:
+            if line.startswith("personagens:"):
+                personagens = line.replace("personagens:", "").strip()
         if not in_metadata and line.strip() and not line.startswith('#'):
             text_content.append(line.strip())
 
@@ -89,7 +93,8 @@ def main():
 
     # Enhanced Style Prompt
     style_prompt = "Cyberpunk Noir style, Nano Banana aesthetic, vibrant neon, high contrast, surreal, tech-heavy, intricate details, 8k resolution, cinematic lighting."
-    full_prompt = f"{style_prompt} based on scene: {raw_text}"
+    personagens_prompt = f" Featuring characters: {personagens}." if personagens else ""
+    full_prompt = f"{style_prompt}{personagens_prompt} based on scene: {raw_text}"
 
     # Determine output path
     filename = os.path.basename(filepath).replace(".md", ".png")
