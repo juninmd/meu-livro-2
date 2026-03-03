@@ -10,7 +10,7 @@
     *   Veste couro desgastado reforçado com placas de cerâmica recuperada.
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Permite acelerar a percepção do tempo, reagindo a ameaças com precisão sobre-humana (efeito "Bullet Time"). O uso excessivo causa danos físicos e mentais. Mantém uma conexão psíquica persistente e dolorosa com o Deus-Máquina.
-    *   **Estado Atual (Cap. 16):** Usando um supressor neural do tamanho de um colar (Gaiola de Faraday Neural) fornecido por Kaelen para abafar sua bio-assinatura massiva e evitar a detecção da Ordem. O dispositivo a deixa letárgica, com gosto constante de metal na boca, e age como uma contenção temporária contra o Deus-Máquina, ganhando alguns dias de vantagem.
+    *   **Estado Atual (Cap. 17):** Usando um supressor neural do tamanho de um colar (Gaiola de Faraday Neural) fornecido por Kaelen para abafar sua bio-assinatura massiva e evitar a detecção da Ordem. O dispositivo a deixa letárgica, com gosto constante de metal na boca, e age como uma contenção temporária contra o Deus-Máquina. Prepara-se para retornar ao subsolo em direção ao Nódulo Primário.
 *   **Motivação:**
     *   Encontrar a "Fonte Primordial", uma lenda que promete purificar a terra e trazer de volta a era de ouro. Agora, busca sobreviver ao despertar do Deus-Máquina e entender a extensão de seus novos poderes, enquanto tenta salvar Jaxon.
 
@@ -22,7 +22,7 @@
     *   Um homem magro com óculos de realidade aumentada que cobrem metade do rosto.
     *   Veste um avental manchado de óleo e fluidos biológicos.
     *   Demonstra curiosidade mórbida pela anomalia bioelétrica de Elara.
-    *   **Estado Atual (Cap. 15):** Aterrorizado e reverente após a conexão neural com Elara. Testemunhou o "horror cósmico" do Deus-Máquina e teve seus equipamentos destruídos pela sobrecarga. Vê Elara agora como algo próximo do divino ou amaldiçoado.
+    *   **Estado Atual (Cap. 17):** Aterrorizado e reverente após a conexão neural com Elara, ele cedeu equipamentos críticos para que ela e Jaxon pudessem tentar a descida ao Nódulo Primário. Permanece em sua clínica, presumivelmente preparando-se para a inevitável varredura dos Sentinelas na Pilha.
 *   **Motivação:**
     *   Conhecimento e sobrevivência. Interessado em estudar a "antena" humana que Elara se tornou.
 
@@ -56,8 +56,8 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 15):** Estável, mas em condição crítica. Fígado e rins comprometidos, dependendo de um dialisador externo portátil. Inconsciente e sob sedação pesada após a cirurgia de emergência.
-    *   **Equipamento:** Carrega frascos de **analgésicos militares** para suprimir a dor de antigos ferimentos e manter o foco em combate.
+    *   **Estado Atual (Cap. 17):** Consciente, mas fisicamente destruído. Usando um **Exo-suporte Lombar** roubado e doses pesadas de **adrenalina de combate concentrada** para se manter de pé e auxiliar Elara na descida ao Setor 7. Rins e fígado severamente comprometidos.
+    *   **Equipamento:** Carrega frascos de **analgésicos militares** e injetores de adrenalina. Veste um arnês de exo-suporte e carrega seu rifle de plasma.
 *   **Motivação:**
     *   Inicialmente dinheiro, mas sua lealdade muda à medida que ele vê em Elara a esperança que pensava ter perdido. Determinado a proteger Elara, mesmo que isso custe sua vida.
 
