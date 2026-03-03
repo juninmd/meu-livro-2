@@ -1,0 +1,65 @@
+name: Gerar Imagem do Capítulo (Nano Banana)
+
+on:
+  push:
+    paths:
+      - 'docs/capitulos/*.md'
+      - 'scripts/generate_chapter_image.py'
+  workflow_dispatch:
+
+jobs:
+  generate-chapter-images:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Generate Images
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: |
+          BASE_SHA=${{ github.event.before }}
+          if [ -z "$BASE_SHA" ] || [ "$BASE_SHA" == "0000000000000000000000000000000000000000" ]; then
+            BASE_SHA="HEAD^"
+          fi
+
+          CHANGED_FILES=$(git diff --name-only $BASE_SHA ${{ github.sha }} | grep '^docs/capitulos/.*\.md$' || true)
+
+          if [ -z "$CHANGED_FILES" ]; then
+            echo "Nenhum capítulo alterado."
+            exit 0
+          fi
+
+          for file in $CHANGED_FILES; do
+            if [ -f "$file" ]; then
+              echo "Gerando imagem para $file..."
+              python3 scripts/generate_chapter_image.py "$file"
+            else
+              echo "Arquivo $file foi apagado, pulando."
+            fi
+          done
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add docs/public/midia/
+
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: gerar imagens dos capitulos (Nano Banana) [skip ci]"
+            git push
+          else
+            echo "Nenhuma imagem nova para commitar."
+          fi
