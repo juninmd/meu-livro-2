@@ -1,7 +1,7 @@
 ---
 title: Descida ao Gelado
 data: 2042.11.17
-localizacao: Túneis entre Setor 4 e Setor 7
+localização: Túneis entre Setor 4 e Setor 7
 personagens: Elara, Jaxon
 ---
 
