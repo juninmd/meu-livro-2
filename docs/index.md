@@ -45,6 +45,17 @@ O mundo é uma mistura de natureza retomando seu espaço e esqueletos de megacid
 - [Capítulo 7: O Coração da Máquina](/capitulos/capitulo-7)
 - [Capítulo 8: Fuga do Abismo](/capitulos/capitulo-8)
 
+- [Capítulo 9: Ecos do Subsolo](/capitulos/capitulo-9)
+- [Capítulo 10: Ressonância Metálica](/capitulos/capitulo-10)
+- [Capítulo 11: Convergência Sombria](/capitulos/capitulo-11)
+- [Capítulo 12: Protocolo Zero](/capitulos/capitulo-12)
+- [Capítulo 13: Glaciação Sináptica](/capitulos/capitulo-13)
+- [Capítulo 14: Arritmia de Neon](/capitulos/capitulo-14)
+- [Capítulo 15: Permuta Sináptica](/capitulos/capitulo-15)
+- [Capítulo 16: Ecos de Ferrugem e Neon](/capitulos/capitulo-16)
+- [Capítulo 17: Fugas e Filamentos](/capitulos/capitulo-17)
+- [Capítulo 18: Descida ao Gelado](/capitulos/capitulo-18)
+
 <div class="story-card">
 <strong>O Legado de Silício</strong> explora a linha tênue entre tecnologia e magia em um futuro esquecido.
 </div>

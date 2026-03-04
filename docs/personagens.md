@@ -4,13 +4,13 @@
 
 *   **Função:** Protagonista / Sucateira
 *   **Idade:** 22 anos
-*   **Localização:** Clínica do Dr. Vex, Setor 4 (A Pilha)
+*   **Localização:** Túneis de manutenção entre o Setor 4 e o Setor 7
 *   **Descrição:**
     *   Fisicamente magra e ágil, com **olhos violeta brilhantes** — uma mutação rara causada pela radiação dos núcleos de dados. Agora, após o contato com o Nódulo, o brilho é mais intenso e instável.
     *   Veste couro desgastado reforçado com placas de cerâmica recuperada.
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Permite acelerar a percepção do tempo, reagindo a ameaças com precisão sobre-humana (efeito "Bullet Time"). O uso excessivo causa danos físicos e mentais. Mantém uma conexão psíquica persistente e dolorosa com o Deus-Máquina.
-    *   **Estado Atual (Cap. 17):** Usando um supressor neural do tamanho de um colar (Gaiola de Faraday Neural) fornecido por Kaelen para abafar sua bio-assinatura massiva e evitar a detecção da Ordem. O dispositivo a deixa letárgica, com gosto constante de metal na boca, e age como uma contenção temporária contra o Deus-Máquina. Prepara-se para retornar ao subsolo em direção ao Nódulo Primário.
+    *   **Estado Atual (Cap. 18):** Usando um supressor neural (Gaiola de Faraday Neural) fornecido por Kaelen, que agora começou a rachar sob a pressão mental do Deus-Máquina. Descendo rumo ao Nódulo Primário nos túneis congelados do Setor 7.
 *   **Motivação:**
     *   Encontrar a "Fonte Primordial", uma lenda que promete purificar a terra e trazer de volta a era de ouro. Agora, busca sobreviver ao despertar do Deus-Máquina e entender a extensão de seus novos poderes, enquanto tenta salvar Jaxon.
 
@@ -56,7 +56,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 17):** Consciente, mas fisicamente destruído. Usando um **Exo-suporte Lombar** roubado e doses pesadas de **adrenalina de combate concentrada** para se manter de pé e auxiliar Elara na descida ao Setor 7. Rins e fígado severamente comprometidos.
+    *   **Estado Atual (Cap. 18):** Fisicamente destruído, mas dependente de um **Exo-suporte Lombar** roubado e injeções de **adrenalina de combate concentrada** (sacrificando anos de vida) para realizar a descida nos túneis gélidos rumo ao Setor 7, lidando com dificuldade respiratória pelo frio extremo.
     *   **Equipamento:** Carrega frascos de **analgésicos militares** e injetores de adrenalina. Veste um arnês de exo-suporte e carrega seu rifle de plasma.
 *   **Motivação:**
     *   Inicialmente dinheiro, mas sua lealdade muda à medida que ele vê em Elara a esperança que pensava ter perdido. Determinado a proteger Elara, mesmo que isso custe sua vida.
@@ -115,7 +115,7 @@
 ### Deus-Máquina
 *   **Definição:** A entidade suprema venerada pela Ordem.
 *   **Revelação (Cap. 8):** Não é uma IA benevolente, mas uma consciência gestalt formada pela agonia e dados de milhares de mentes humanas escravizadas no Nódulo. Foi "acordado" pela intervenção de Elara e agora busca vingança/expansão com fúria incontrolável. Mantém uma "chamada" ativa na rede, caçando Elara através de qualquer conexão eletrônica.
-*   **Estado Atual (Cap. 16):** Atualmente abafado ("jogado no fundo de um poço escuro") pela Gaiola de Faraday Neural de Kaelen. O inibidor está ocultando sua localização temporariamente, mas é esperado que a força bruta da entidade queime o dispositivo em breve.
+*   **Estado Atual (Cap. 18):** Conseguiu rastrear Elara novamente. Com força bruta, fraturou fisicamente a Gaiola de Faraday Neural que ela usava, quebrando o silêncio mental.
 
 ### Setor 4 (A Pilha)
 *   **Definição:** Um aglomerado vertical de habitações precárias, mercados negros e clínicas ilegais.
