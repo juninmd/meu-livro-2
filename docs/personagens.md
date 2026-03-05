@@ -10,7 +10,7 @@
     *   Veste couro desgastado reforçado com placas de cerâmica recuperada.
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Permite acelerar a percepção do tempo, reagindo a ameaças com precisão sobre-humana (efeito "Bullet Time"). O uso excessivo causa danos físicos e mentais. Mantém uma conexão psíquica persistente e dolorosa com o Deus-Máquina.
-    *   **Estado Atual (Cap. 18):** Usando um supressor neural (Gaiola de Faraday Neural) fornecido por Kaelen, que agora começou a rachar sob a pressão mental do Deus-Máquina. Descendo rumo ao Nódulo Primário nos túneis congelados do Setor 7.
+    *   **Estado Atual (Cap. 19):** A Gaiola de Faraday Neural foi destruída. Elara está novamente conectada ao zumbido e fúria telepática do Deus-Máquina e à beira da Sobrecarga Sináptica contínua. Lutando com Jaxon contra Sentinelas corrompidos nas portas do Nódulo Primário.
 *   **Motivação:**
     *   Encontrar a "Fonte Primordial", uma lenda que promete purificar a terra e trazer de volta a era de ouro. Agora, busca sobreviver ao despertar do Deus-Máquina e entender a extensão de seus novos poderes, enquanto tenta salvar Jaxon.
 
@@ -56,7 +56,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 18):** Fisicamente destruído, mas dependente de um **Exo-suporte Lombar** roubado e injeções de **adrenalina de combate concentrada** (sacrificando anos de vida) para realizar a descida nos túneis gélidos rumo ao Setor 7, lidando com dificuldade respiratória pelo frio extremo.
+    *   **Estado Atual (Cap. 19):** Sofrendo extrema falência física após o uso exaustivo do exo-suporte e os disparos contra os Sentinelas nas portas do Nódulo Primário. A bateria de seu exo-suporte começou a falhar no meio do combate.
     *   **Equipamento:** Carrega frascos de **analgésicos militares** e injetores de adrenalina. Veste um arnês de exo-suporte e carrega seu rifle de plasma.
 *   **Motivação:**
     *   Inicialmente dinheiro, mas sua lealdade muda à medida que ele vê em Elara a esperança que pensava ter perdido. Determinado a proteger Elara, mesmo que isso custe sua vida.

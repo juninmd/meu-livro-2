@@ -25,6 +25,7 @@ export default defineConfig({
       { text: 'Capítulo 16', link: '/capitulos/capitulo-16' },
       { text: 'Capítulo 17', link: '/capitulos/capitulo-17' },
       { text: 'Capítulo 18', link: '/capitulos/capitulo-18' },
+      { text: 'Capítulo 19', link: '/capitulos/capitulo-19' },
       { text: 'Personagens', link: '/personagens' },
       { text: 'Sobre', link: '/sobre' }
     ],
@@ -51,6 +52,7 @@ export default defineConfig({
           { text: 'Capítulo 16: Ecos de Ferrugem e Neon', link: '/capitulos/capitulo-16' },
           { text: 'Capítulo 17: Fugas e Filamentos', link: '/capitulos/capitulo-17' },
           { text: 'Capítulo 18: Descida ao Gelado', link: '/capitulos/capitulo-18' },
+          { text: 'Capítulo 19: Sobrecarga e Estilhaços', link: '/capitulos/capitulo-19' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]
