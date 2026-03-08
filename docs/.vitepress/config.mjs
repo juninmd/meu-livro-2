@@ -26,6 +26,7 @@ export default defineConfig({
       { text: 'Capítulo 17', link: '/capitulos/capitulo-17' },
       { text: 'Capítulo 18', link: '/capitulos/capitulo-18' },
       { text: 'Capítulo 19', link: '/capitulos/capitulo-19' },
+      { text: 'Capítulo 20', link: '/capitulos/capitulo-20' },
       { text: 'Personagens', link: '/personagens' },
       { text: 'Sobre', link: '/sobre' }
     ],
@@ -53,6 +54,7 @@ export default defineConfig({
           { text: 'Capítulo 17: Fugas e Filamentos', link: '/capitulos/capitulo-17' },
           { text: 'Capítulo 18: Descida ao Gelado', link: '/capitulos/capitulo-18' },
           { text: 'Capítulo 19: Sobrecarga e Estilhaços', link: '/capitulos/capitulo-19' },
+          { text: 'Capítulo 20: O Ventre da Besta', link: '/capitulos/capitulo-20' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]

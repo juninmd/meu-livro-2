@@ -4,7 +4,7 @@ import re
 import time
 import requests
 
-API_URL = "https://api-inference.huggingface.co/models/stabilityai/stable-diffusion-xl-base-1.0"
+API_URL = "https://router.huggingface.co/models/stabilityai/stable-diffusion-xl-base-1.0"
 headers = {"Authorization": f"Bearer {os.environ.get('HF_TOKEN')}"}
 
 def extract_metadata(filepath):
