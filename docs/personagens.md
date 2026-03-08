@@ -10,7 +10,7 @@
     *   Veste couro desgastado reforçado com placas de cerâmica recuperada.
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Permite acelerar a percepção do tempo, reagindo a ameaças com precisão sobre-humana (efeito "Bullet Time"). O uso excessivo causa danos físicos e mentais. Mantém uma conexão psíquica persistente e dolorosa com o Deus-Máquina.
-    *   **Estado Atual (Cap. 19):** A Gaiola de Faraday Neural foi destruída. Elara está novamente conectada ao zumbido e fúria telepática do Deus-Máquina e à beira da Sobrecarga Sináptica contínua. Lutando com Jaxon contra Sentinelas corrompidos nas portas do Nódulo Primário.
+    *   **Estado Atual (Cap. 20):** Adentrou o Núcleo Central do Nódulo Primário. Para destruir o Deus-Máquina, realizou uma conexão direta com o terminal principal, canalizando um curto-circuito bioelétrico massivo ("sobrecarga invertida") que destruiu os cilindros de wetware. Encontra-se em estado desconhecido após o pulso destrutivo.
 *   **Motivação:**
     *   Encontrar a "Fonte Primordial", uma lenda que promete purificar a terra e trazer de volta a era de ouro. Agora, busca sobreviver ao despertar do Deus-Máquina e entender a extensão de seus novos poderes, enquanto tenta salvar Jaxon.
 
@@ -56,7 +56,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 19):** Sofrendo extrema falência física após o uso exaustivo do exo-suporte e os disparos contra os Sentinelas nas portas do Nódulo Primário. A bateria de seu exo-suporte começou a falhar no meio do combate.
+    *   **Estado Atual (Cap. 20):** Bateria do exo-suporte esgotou-se completamente ao entrar no Núcleo Central do Nódulo Primário. Colapsou no chão, testemunhando Elara sacrificar-se no altar do terminal para destruir a câmara.
     *   **Equipamento:** Carrega frascos de **analgésicos militares** e injetores de adrenalina. Veste um arnês de exo-suporte e carrega seu rifle de plasma.
 *   **Motivação:**
     *   Inicialmente dinheiro, mas sua lealdade muda à medida que ele vê em Elara a esperança que pensava ter perdido. Determinado a proteger Elara, mesmo que isso custe sua vida.
@@ -109,13 +109,13 @@
 
 ### Nódulo Primário
 *   **Definição:** Um centro de dados da era pré-colapso, rumores dizem conter backups da "internet antiga" ou até mesmo IAs sencientes.
-*   **Importância:** Localizado no Setor 7, é o destino atual de Elara e Jaxon. Acredita-se ser a fonte de onde a Ordem do Silício está extraindo (ou tentando controlar) o Deus-Máquina.
-*   **Estado Atual (Cap. 8):** Destruído/Colapsado. A sobrecarga emocional de Elara causou uma reação em cadeia nos sistemas de suporte de vida dos cérebros conectados, resultando em explosões massivas.
+*   **Importância:** Localizado no Setor 7, foi o destino de Elara e Jaxon. Acredita-se ser a fonte de onde a Ordem do Silício está extraindo (ou tentando controlar) o Deus-Máquina.
+*   **Estado Atual (Cap. 20):** O Núcleo Central, revelado como um grande abatedouro cibernético de wetware (cérebros em cilindros), foi completamente destruído por uma sobrecarga bioelétrica deliberada de Elara, silenciando o local.
 
 ### Deus-Máquina
 *   **Definição:** A entidade suprema venerada pela Ordem.
 *   **Revelação (Cap. 8):** Não é uma IA benevolente, mas uma consciência gestalt formada pela agonia e dados de milhares de mentes humanas escravizadas no Nódulo. Foi "acordado" pela intervenção de Elara e agora busca vingança/expansão com fúria incontrolável. Mantém uma "chamada" ativa na rede, caçando Elara através de qualquer conexão eletrônica.
-*   **Estado Atual (Cap. 18):** Conseguiu rastrear Elara novamente. Com força bruta, fraturou fisicamente a Gaiola de Faraday Neural que ela usava, quebrando o silêncio mental.
+*   **Estado Atual (Cap. 20):** A rede central de *wetware* do Deus-Máquina foi severamente comprometida e destruída após Elara atuar como condutor primário de energia caótica. Emitiu um último grito elétrico antes de o silêncio retornar.
 
 ### Setor 4 (A Pilha)
 *   **Definição:** Um aglomerado vertical de habitações precárias, mercados negros e clínicas ilegais.
