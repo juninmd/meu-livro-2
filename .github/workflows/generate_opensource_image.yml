@@ -3,7 +3,7 @@ name: Generate Open Source Image
 on:
   push:
     paths:
-      - 'docs/public/capitulos/*.md'
+      - 'docs/capitulos/*.md'
   workflow_dispatch:
 
 jobs:
@@ -38,10 +38,10 @@ jobs:
             BASE_SHA="HEAD^"
           fi
 
-          CHANGED_FILES=$(git diff --name-only $BASE_SHA ${{ github.sha }} | grep '^docs/public/capitulos/.*\.md$' || true)
+          CHANGED_FILES=$(git diff --name-only $BASE_SHA ${{ github.sha }} | grep '^docs/capitulos/.*\.md$' || true)
 
           if [ -z "$CHANGED_FILES" ]; then
-            echo "Nenhum capítulo alterado em docs/public/capitulos/."
+            echo "Nenhum capítulo alterado em docs/capitulos/."
             exit 0
           fi
 
