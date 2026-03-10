@@ -48,14 +48,14 @@ def main():
 
     filepath = sys.argv[1]
     filename = os.path.basename(filepath).replace('.md', '.png')
-    out_dir = os.path.join('docs', 'public', 'midia')
+    out_dir = os.path.join('docs', 'static', 'midia')
     out_path = os.path.join(out_dir, filename)
 
     os.makedirs(out_dir, exist_ok=True)
 
     personagens = extract_metadata(filepath)
 
-    base_prompt = "Cyberpunk noir style, high contrast, vibrant neon lighting, dark shadows, decaying urban environment, nano banana style aesthetics, intricate details, masterpiece."
+    base_prompt = "Cyberpunk noir style, inspired by nano banana, high contrast, vibrant neon lighting, dark shadows, decaying urban environment, intricate details, masterpiece."
     full_prompt = f"{base_prompt} Featuring characters: {personagens}."
 
     payload = {

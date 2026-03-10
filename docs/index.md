@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: "Começar a Ler"
-      link: /capitulos/capitulo-1
+      link: /public/capitulos/capitulo-1
     - theme: alt
       text: "Conhecer Elara"
       link: /personagens
@@ -36,25 +36,29 @@ O mundo é uma mistura de natureza retomando seu espaço e esqueletos de megacid
 
 ### Capítulos
 
-- [Capítulo 1: O Canto](/capitulos/capitulo-1)
-- [Capítulo 2: Relíquias](/capitulos/capitulo-2)
-- [Capítulo 3: O Silêncio de Neon](/capitulos/capitulo-3)
-- [Capítulo 4: Sombras e Sinapses](/capitulos/capitulo-4)
-- [Capítulo 5: Ressonância Fantasma](/capitulos/capitulo-5)
-- [Capítulo 6: Sombras do Setor 7](/capitulos/capitulo-6)
-- [Capítulo 7: O Coração da Máquina](/capitulos/capitulo-7)
-- [Capítulo 8: Fuga do Abismo](/capitulos/capitulo-8)
+- [Capítulo 1: O Canto](/public/capitulos/capitulo-1)
+- [Capítulo 2: Relíquias](/public/capitulos/capitulo-2)
+- [Capítulo 3: O Silêncio de Neon](/public/capitulos/capitulo-3)
+- [Capítulo 4: Sombras e Sinapses](/public/capitulos/capitulo-4)
+- [Capítulo 5: Ressonância Fantasma](/public/capitulos/capitulo-5)
+- [Capítulo 6: Sombras do Setor 7](/public/capitulos/capitulo-6)
+- [Capítulo 7: O Coração da Máquina](/public/capitulos/capitulo-7)
+- [Capítulo 8: Fuga do Abismo](/public/capitulos/capitulo-8)
 
-- [Capítulo 9: Ecos do Subsolo](/capitulos/capitulo-9)
-- [Capítulo 10: Ressonância Metálica](/capitulos/capitulo-10)
-- [Capítulo 11: Convergência Sombria](/capitulos/capitulo-11)
-- [Capítulo 12: Protocolo Zero](/capitulos/capitulo-12)
-- [Capítulo 13: Glaciação Sináptica](/capitulos/capitulo-13)
-- [Capítulo 14: Arritmia de Neon](/capitulos/capitulo-14)
-- [Capítulo 15: Permuta Sináptica](/capitulos/capitulo-15)
-- [Capítulo 16: Ecos de Ferrugem e Neon](/capitulos/capitulo-16)
-- [Capítulo 17: Fugas e Filamentos](/capitulos/capitulo-17)
-- [Capítulo 18: Descida ao Gelado](/capitulos/capitulo-18)
+- [Capítulo 9: Ecos do Subsolo](/public/capitulos/capitulo-9)
+- [Capítulo 10: Ressonância Metálica](/public/capitulos/capitulo-10)
+- [Capítulo 11: Convergência Sombria](/public/capitulos/capitulo-11)
+- [Capítulo 12: Protocolo Zero](/public/capitulos/capitulo-12)
+- [Capítulo 13: Glaciação Sináptica](/public/capitulos/capitulo-13)
+- [Capítulo 14: Arritmia de Neon](/public/capitulos/capitulo-14)
+- [Capítulo 15: Permuta Sináptica](/public/capitulos/capitulo-15)
+- [Capítulo 16: Ecos de Ferrugem e Neon](/public/capitulos/capitulo-16)
+- [Capítulo 17: Fugas e Filamentos](/public/capitulos/capitulo-17)
+- [Capítulo 18: Descida ao Gelado](/public/capitulos/capitulo-18)
+- [Capítulo 19: Sobrecarga e Estilhaços](/public/capitulos/capitulo-19)
+- [Capítulo 20: O Ventre da Besta](/public/capitulos/capitulo-20)
+- [Capítulo 21: Cinzas e Silício](/public/capitulos/capitulo-21)
+- [Capítulo 22: Fios Desencapados](/public/capitulos/capitulo-22)
 
 <div class="story-card">
 <strong>O Legado de Silício</strong> explora a linha tênue entre tecnologia e magia em um futuro esquecido.
