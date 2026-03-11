@@ -10,7 +10,7 @@
     *   Veste couro desgastado reforçado com placas de cerâmica recuperada.
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Permite acelerar a percepção do tempo, reagindo a ameaças com precisão sobre-humana (efeito "Bullet Time"). O uso excessivo causa danos físicos e mentais. Mantém uma conexão psíquica persistente e dolorosa com o Deus-Máquina.
-    *   **Estado Atual (Cap. 22):** Sobreviveu à destruição do Núcleo Central e guiou o incapacitado Jaxon de volta à Clínica do Dr. Vex no Setor 4 (A Pilha). Seu corpo está pulsando incontrolavelmente com bioeletricidade violeta visível sob a pele ("fio desencapado"). Foi instruída a se aterrar em um banco capacitivo industrial para não causar um curto-circuito em seu próprio córtex.
+    *   **Estado Atual (Cap. 23):** Drenou com sucesso sua carga de bioeletricidade residual através do capacitor de Vex, mas encontra-se profundamente exausta e trêmula devido à sobrecarga sináptica. Prepara-se para fugir através de túneis de contrabando no Mercado Negro do Setor 4 após os Sentinelas ativarem a "Quarentena de Bloco".
 *   **Motivação:**
     *   Encontrar a "Fonte Primordial", uma lenda que promete purificar a terra e trazer de volta a era de ouro. Agora, busca sobreviver ao despertar do Deus-Máquina e entender a extensão de seus novos poderes, enquanto tenta salvar Jaxon.
 
@@ -22,7 +22,7 @@
     *   Um homem magro com óculos de realidade aumentada que cobrem metade do rosto.
     *   Veste um avental manchado de óleo e fluidos biológicos.
     *   Demonstra curiosidade mórbida pela anomalia bioelétrica de Elara.
-    *   **Estado Atual (Cap. 22):** Entrou em pânico ao descobrir o estado crítico de Elara e o "frenesi" cego dos Sentinelas, que agora fazem varreduras por toda a Rede baseados em calor no Setor 5. Enquanto empacota seus equipamentos de sobrevivência, concorda em tratar Jaxon e direciona Elara para se aterrar em seu capacitor antes que os Sentinelas desçam.
+    *   **Estado Atual (Cap. 23):** Removeu o exo-suporte derretido de Jaxon usando um maçarico e aplicou curativo de biogel. Declinou o convite de fugir com Elara e Jaxon, preferindo se esconder sozinho das varreduras em andamento após compartilhar as rotas de túneis do Mercado Negro.
 *   **Motivação:**
     *   Conhecimento e sobrevivência. Interessado em estudar a "antena" humana que Elara se tornou.
 
@@ -56,8 +56,8 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 22):** Arrasta-se em extrema agonia de volta para o Setor 4 junto com Elara. Seu braço metálico pende inerte e ele tosse sangue. Chegou à clínica do Dr. Vex, e seu tratamento com estabilizadores iniciou enquanto ainda está confinado no arruinado exo-suporte de batalha.
-    *   **Equipamento:** Carrega frascos de **analgésicos militares** e injetores de adrenalina. Veste um arnês de exo-suporte e carrega seu rifle de plasma.
+    *   **Estado Atual (Cap. 23):** Seu exo-suporte e a blindagem foram forçadamente cortados da carne viva por Dr. Vex, para impedir sepse mecânica de uma junta soldada à sua clavícula. Com curativo de biogel nas feridas e uma única carga restante no seu rifle de plasma, ele acompanha Elara para a rota de fuga.
+    *   **Equipamento:** Carrega frascos de **analgésicos militares** e injetores de adrenalina. O seu exo-suporte foi cortado, sobrando apenas as roupas rasgadas, as botas táticas e seu rifle de plasma (agora com capacidade limitada de bateria).
 *   **Motivação:**
     *   Inicialmente dinheiro, mas sua lealdade muda à medida que ele vê em Elara a esperança que pensava ter perdido. Determinado a proteger Elara, mesmo que isso custe sua vida.
 

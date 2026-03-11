@@ -30,6 +30,7 @@ export default defineConfig({
       { text: 'Capítulo 20', link: '/public/capitulos/capitulo-20' },
       { text: 'Capítulo 21', link: '/public/capitulos/capitulo-21' },
       { text: 'Capítulo 22', link: '/public/capitulos/capitulo-22' },
+      { text: 'Capítulo 23', link: '/public/capitulos/capitulo-23' },
       { text: 'Personagens', link: '/personagens' },
       { text: 'Sobre', link: '/sobre' }
     ],
@@ -60,6 +61,7 @@ export default defineConfig({
           { text: 'Capítulo 20: O Ventre da Besta', link: '/public/capitulos/capitulo-20' },
           { text: 'Capítulo 21: Cinzas e Silício', link: '/public/capitulos/capitulo-21' },
           { text: 'Capítulo 22: Fios Desencapados', link: '/public/capitulos/capitulo-22' },
+          { text: 'Capítulo 23: O Peso do Aterramento', link: '/public/capitulos/capitulo-23' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]
