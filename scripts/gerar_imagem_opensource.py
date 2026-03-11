@@ -9,6 +9,7 @@ headers = {"Authorization": f"Bearer {os.environ.get('HF_TOKEN')}"}
 
 def extract_metadata_and_text(filepath):
     try:
+        if os.path.islink(filepath): raise Exception("Symbolic links are not allowed")
         with open(filepath, 'r', encoding='utf-8') as f:
             content = f.read()
 
@@ -67,7 +68,7 @@ def main():
     personagens, texto = extract_metadata_and_text(filepath)
 
     base_prompt = "Cyberpunk noir style, inspired by nano banana, high contrast, vibrant neon lighting, dark shadows, decaying urban environment, intricate details, masterpiece."
-    full_prompt = f"{base_prompt} Featuring characters: {personagens}. Context: {texto}"
+    full_prompt = f"{base_prompt} Featuring characters: {personagens.replace('ignore', '[REDACTED]')}. Context: {texto.replace('ignore', '[REDACTED]')}"
 
     payload = {
         "inputs": full_prompt,
