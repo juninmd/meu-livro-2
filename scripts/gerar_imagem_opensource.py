@@ -7,20 +7,31 @@ import requests
 API_URL = "https://router.huggingface.co/models/stabilityai/stable-diffusion-xl-base-1.0"
 headers = {"Authorization": f"Bearer {os.environ.get('HF_TOKEN')}"}
 
-def extract_metadata(filepath):
+def extract_metadata_and_text(filepath):
     try:
         with open(filepath, 'r', encoding='utf-8') as f:
             content = f.read()
 
-        match = re.search(r'---(.*?)---', content, re.DOTALL)
+        personagens = "Cyberpunk city, shadows, neon lights"
+        texto = ""
+
+        # Extract metadata
+        match = re.search(r'---(.*?)---(.*)', content, re.DOTALL)
         if match:
             metadata = match.group(1)
             char_match = re.search(r'personagens:\s*(.*)', metadata, re.IGNORECASE)
             if char_match:
-                return char_match.group(1).strip()
+                personagens = char_match.group(1).strip()
+
+            # Extract up to 300 characters of the actual narrative text, removing markdown headers
+            raw_text = match.group(2).strip()
+            # Remove Markdown headers like # or ##
+            clean_text = re.sub(r'^#.*$', '', raw_text, flags=re.MULTILINE).strip()
+            texto = clean_text[:300].replace('\n', ' ')
+        return personagens, texto
     except Exception as e:
         print(f"Erro ao ler metadados: {e}")
-    return "Cyberpunk city, shadows, neon lights"
+    return "Cyberpunk city, shadows, neon lights", ""
 
 def query(payload):
     max_retries = 5
@@ -53,10 +64,10 @@ def main():
 
     os.makedirs(out_dir, exist_ok=True)
 
-    personagens = extract_metadata(filepath)
+    personagens, texto = extract_metadata_and_text(filepath)
 
     base_prompt = "Cyberpunk noir style, inspired by nano banana, high contrast, vibrant neon lighting, dark shadows, decaying urban environment, intricate details, masterpiece."
-    full_prompt = f"{base_prompt} Featuring characters: {personagens}."
+    full_prompt = f"{base_prompt} Featuring characters: {personagens}. Context: {texto}"
 
     payload = {
         "inputs": full_prompt,
