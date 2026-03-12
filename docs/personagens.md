@@ -10,7 +10,7 @@
     *   Veste couro desgastado reforçado com placas de cerâmica recuperada.
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Permite acelerar a percepção do tempo, reagindo a ameaças com precisão sobre-humana (efeito "Bullet Time"). O uso excessivo causa danos físicos e mentais. Mantém uma conexão psíquica persistente e dolorosa com o Deus-Máquina.
-    *   **Estado Atual (Cap. 23):** Drenou com sucesso sua carga de bioeletricidade residual através do capacitor de Vex, mas encontra-se profundamente exausta e trêmula devido à sobrecarga sináptica. Prepara-se para fugir através de túneis de contrabando no Mercado Negro do Setor 4 após os Sentinelas ativarem a "Quarentena de Bloco".
+    *   **Estado Atual (Cap. 24):** Totalmente destituída de sua bioeletricidade após descarregar no capacitor de Vex, está severamente enfraquecida fisicamente, sem acesso à Sobrecarga Sináptica. Ela e Jaxon estão presos no escuro nos túneis sob o Setor 4.
 *   **Motivação:**
     *   Encontrar a "Fonte Primordial", uma lenda que promete purificar a terra e trazer de volta a era de ouro. Agora, busca sobreviver ao despertar do Deus-Máquina e entender a extensão de seus novos poderes, enquanto tenta salvar Jaxon.
 
@@ -56,8 +56,8 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 23):** Seu exo-suporte e a blindagem foram forçadamente cortados da carne viva por Dr. Vex, para impedir sepse mecânica de uma junta soldada à sua clavícula. Com curativo de biogel nas feridas e uma única carga restante no seu rifle de plasma, ele acompanha Elara para a rota de fuga.
-    *   **Equipamento:** Carrega frascos de **analgésicos militares** e injetores de adrenalina. O seu exo-suporte foi cortado, sobrando apenas as roupas rasgadas, as botas táticas e seu rifle de plasma (agora com capacidade limitada de bateria).
+    *   **Estado Atual (Cap. 24):** Ele usou a última carga de seu rifle de plasma para colapsar o teto do túnel e conter o enxame de Ratos-Drones. Gravemente ferido, sem exo-suporte e com o rifle agora inútil, ele e Elara estão no escuro.
+    *   **Equipamento:** Carrega frascos de **analgésicos militares** e injetores de adrenalina. O seu exo-suporte foi cortado, sobrando apenas as roupas rasgadas, as botas táticas e seu rifle de plasma (agora sem carga e inútil).
 *   **Motivação:**
     *   Inicialmente dinheiro, mas sua lealdade muda à medida que ele vê em Elara a esperança que pensava ter perdido. Determinado a proteger Elara, mesmo que isso custe sua vida.
 
@@ -79,7 +79,8 @@
 *   **Descrição:**
     *   Pequenas máquinas aracnídeas projetadas para manutenção e limpeza de detritos.
     *   Atuam em enxames ("swarm") e possuem serras circulares e mandíbulas de trituração.
-    *   Foram ativados/agressivados pela perturbação no Nódulo Primário, atacando qualquer matéria orgânica que considerem "lixo". No Cap. 10, perseguem Elara e Jaxon pelos túneis.
+    *   Foram ativados/agressivados pela perturbação no Nódulo Primário, atacando qualquer matéria orgânica que considerem "lixo".
+    *   **Estado Atual (Cap. 24):** No auge de seu frenesi após o silenciamento do Nódulo, quase alcançaram Elara e Jaxon, mas foram bloqueados por um teto colapsado provocado pelo disparo de plasma de Jaxon nos túneis do Setor 4.
 
 ## Tecnologias Proibidas e Substâncias
 
