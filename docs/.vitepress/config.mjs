@@ -31,6 +31,7 @@ export default defineConfig({
       { text: 'Capítulo 21', link: '/public/capitulos/capitulo-21' },
       { text: 'Capítulo 22', link: '/public/capitulos/capitulo-22' },
       { text: 'Capítulo 23', link: '/public/capitulos/capitulo-23' },
+      { text: 'Capítulo 24', link: '/public/capitulos/capitulo-24' },
       { text: 'Personagens', link: '/personagens' },
       { text: 'Sobre', link: '/sobre' }
     ],
@@ -62,6 +63,7 @@ export default defineConfig({
           { text: 'Capítulo 21: Cinzas e Silício', link: '/public/capitulos/capitulo-21' },
           { text: 'Capítulo 22: Fios Desencapados', link: '/public/capitulos/capitulo-22' },
           { text: 'Capítulo 23: O Peso do Aterramento', link: '/public/capitulos/capitulo-23' },
+          { text: 'Capítulo 24: Ecos no Escuro', link: '/public/capitulos/capitulo-24' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]
