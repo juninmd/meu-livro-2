@@ -59,6 +59,9 @@ O mundo é uma mistura de natureza retomando seu espaço e esqueletos de megacid
 - [Capítulo 20: O Ventre da Besta](/public/capitulos/capitulo-20)
 - [Capítulo 21: Cinzas e Silício](/public/capitulos/capitulo-21)
 - [Capítulo 22: Fios Desencapados](/public/capitulos/capitulo-22)
+- [Capítulo 23: O Peso do Aterramento](/public/capitulos/capitulo-23)
+- [Capítulo 24: Ecos no Escuro](/public/capitulos/capitulo-24)
+- [Capítulo 25: Fissuras Invisíveis](/public/capitulos/capitulo-25)
 
 <div class="story-card">
 <strong>O Legado de Silício</strong> explora a linha tênue entre tecnologia e magia em um futuro esquecido.

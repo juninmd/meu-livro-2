@@ -32,6 +32,7 @@ export default defineConfig({
       { text: 'Capítulo 22', link: '/public/capitulos/capitulo-22' },
       { text: 'Capítulo 23', link: '/public/capitulos/capitulo-23' },
       { text: 'Capítulo 24', link: '/public/capitulos/capitulo-24' },
+      { text: 'Capítulo 25', link: '/public/capitulos/capitulo-25' },
       { text: 'Personagens', link: '/personagens' },
       { text: 'Sobre', link: '/sobre' }
     ],
@@ -64,6 +65,7 @@ export default defineConfig({
           { text: 'Capítulo 22: Fios Desencapados', link: '/public/capitulos/capitulo-22' },
           { text: 'Capítulo 23: O Peso do Aterramento', link: '/public/capitulos/capitulo-23' },
           { text: 'Capítulo 24: Ecos no Escuro', link: '/public/capitulos/capitulo-24' },
+          { text: 'Capítulo 25: Fissuras Invisíveis', link: '/public/capitulos/capitulo-25' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]
