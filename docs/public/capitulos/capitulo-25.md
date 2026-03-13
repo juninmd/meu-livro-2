@@ -9,7 +9,7 @@ personagens: Elara, Jaxon
 
 A escuridão nos túneis sob o Setor 4 não era apenas a ausência de luz; era uma presença física. Ela se comprimia contra a minha pele, pesada e fria, cheirando a terra podre, ferrugem oxidada e sangue seco. Sem o zumbido familiar da rede para me orientar, minha mente era um quarto vazio e silencioso. Cada passo era um exercício de pura adivinhação.
 
-Meus dedos rasparam a superfície irregular da parede direita. O concreto estava escorregadio, coberto de um lodo que eu não queria identificar. A dor de cabeça havia se transformado em uma pulsação lenta e constante atrás dos meus olhos, um lembrete físico de que o Nódulo Primário havia levado consigo muito mais do que apenas a minha centelha.
+Meus dedos rasparam a superfície irregular da parede direita. O concreto estava escorregadio, coberto de um lodo que eu não queria identificar. A dor de cabeça havia se transformado em uma pulsação lenta e constante atrás dos meus olhos, um lembrete físico de que o confronto com o Nódulo Primário me custou muito mais do que apenas a minha centelha.
 
 — A parede está cedendo para a direita. Acho que é uma curva. — Minha voz soou fraca, abafada pela vastidão opressiva do subsolo.
 
