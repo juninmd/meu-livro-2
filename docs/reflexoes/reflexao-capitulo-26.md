@@ -3,8 +3,8 @@
 ## Análise Crítica
 **Nota Técnica:** 9.2/10
 
-*   **Ritmo (Pacing):** O capítulo foca em uma pausa necessária após o clímax da fuga pelo túnel. O ritmo desacelera, focando no exaustão, na tensão emocional e no peso das consequências das ações passadas (principalmente o uso da adrenalina e a perda dos poderes de Elara).
-*   **Diálogos:** Cínicos, rudes, mas com um laço subjacente de dependência e cuidado mútuo. A troca de palavras soa autêntica a pessoas que estão próximas do colapso físico e psicológico. As revelações sobre Malakar e o Valkyr adicionam camadas ao enredo.
+*   **Ritmo (Pacing):** O capítulo foca em uma pausa necessária após o clímax da fuga pelo túnel. O ritmo desacelera, focando na exaustão, na tensão emocional e no peso das consequências das ações passadas (principalmente o uso da adrenalina e a perda dos poderes de Elara).
+*   **Diálogos:** Cínicos, rudes, mas com um laço subjacente de dependência e cuidado mútuo. A troca de palavras soa autêntica para pessoas que estão próximas do colapso físico e psicológico. As revelações sobre Malakar e o Valkyr adicionam camadas ao enredo.
 *   **Atmosfera:** A sensação constante de abandono e degradação é bem trabalhada com a chuva ácida, o frio do Setor 3, a loja abandonada e o neon intermitente, vendendo bem a estética Cyberpunk Noir.
 
 ## Pontos Fortes e Fracos
