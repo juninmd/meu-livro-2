@@ -10,7 +10,7 @@
     *   Veste couro desgastado reforçado com placas de cerâmica recuperada.
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Permite acelerar a percepção do tempo, reagindo a ameaças com precisão sobre-humana (efeito "Bullet Time"). O uso excessivo causa danos físicos e mentais. Mantém uma conexão psíquica persistente e dolorosa com o Deus-Máquina.
-    *   **Estado Atual (Cap. 26):** Após conseguirem sair dos túneis e chegarem à fronteira do Setor 3, ela e Jaxon encontram refúgio temporário num posto de distribuição abandonado. Elara permanece sem a sua bioeletricidade, sentindo a ausência como um vazio físico e limitador.
+    *   **Estado Atual (Cap. 27):** Após conseguirem sair dos túneis e chegarem à fronteira do Setor 3, ela e Jaxon encontram refúgio num posto de distribuição abandonado. Elara permanece sem a sua bioeletricidade. Sabendo que o Deus-Máquina a caça através das câmeras da cidade, ela improvisou uma cobertura usando uma velha manta térmica de chumbo e fibra de vidro para criar um "ponto cego", escondeu-se com sucesso de um hover-drone de vigilância e determinou que precisam voltar ao Setor 4 para procurar o Ripperdoc Vex.
 *   **Motivação:**
     *   Encontrar a "Fonte Primordial", uma lenda que promete purificar a terra e trazer de volta a era de ouro. Agora, busca sobreviver ao despertar do Deus-Máquina e entender a extensão de seus novos poderes, enquanto tenta salvar Jaxon.
 
@@ -56,7 +56,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 26):** Após esgotar o efeito do injetor militar de adrenalina e tomar suas duas últimas pílulas analgésicas, está muito debilitado com suspeita de sangue nos pulmões devido a ferimentos que exigem um Ripperdoc urgentemente. Estão escondidos num prédio abandonado no Setor 3.
+    *   **Estado Atual (Cap. 27):** Debilitado e com suspeita de hemorragia pulmonar devido ao agravamento de seus ferimentos, está perdendo a batalha contra a infecção e o trauma. Sobreviveu escondido sob uma manta térmica de chumbo ao lado de Elara no Setor 3, implorando por ajuda médica do Ripperdoc Vex antes de desmaiar.
     *   **Equipamento:** Seus **analgésicos militares** se esgotaram. Restam-lhe apenas as roupas rasgadas, as botas táticas e o rifle de plasma descarregado (agora inútil e servindo mal como bengala).
 *   **Motivação:**
     *   Inicialmente dinheiro, mas sua lealdade muda à medida que ele vê em Elara a esperança que pensava ter perdido. Determinado a proteger Elara, mesmo que isso custe sua vida.
