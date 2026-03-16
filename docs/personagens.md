@@ -10,7 +10,7 @@
     *   Veste couro desgastado reforçado com placas de cerâmica recuperada.
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Permite acelerar a percepção do tempo, reagindo a ameaças com precisão sobre-humana (efeito "Bullet Time"). O uso excessivo causa danos físicos e mentais. Mantém uma conexão psíquica persistente e dolorosa com o Deus-Máquina.
-    *   **Estado Atual (Cap. 27):** Após conseguirem sair dos túneis e chegarem à fronteira do Setor 3, ela e Jaxon encontram refúgio num posto de distribuição abandonado. Elara permanece sem a sua bioeletricidade. Sabendo que o Deus-Máquina a caça através das câmeras da cidade, ela improvisou uma cobertura usando uma velha manta térmica de chumbo e fibra de vidro para criar um "ponto cego", escondeu-se com sucesso de um hover-drone de vigilância e determinou que precisam voltar ao Setor 4 para procurar o Ripperdoc Vex.
+    *   **Estado Atual (Cap. 28):** Após se abrigarem em um posto abandonado sob uma manta de chumbo (Cap. 27), Elara e Jaxon iniciaram uma perigosa descida pelas escadas de serviço externas na fronteira entre os Setores 3 e 4. Elara continua sem sua bioeletricidade e se sente vulnerável ("cega e surda") à rede. Escaparam por pouco de um Sentinela corrompido rastreando o sangue de Jaxon graças a um duto de exaustão rompido que cegou os sensores da máquina. Eles continuam rumo a A Pilha (Setor 4) em busca de Vex.
 *   **Motivação:**
     *   Encontrar a "Fonte Primordial", uma lenda que promete purificar a terra e trazer de volta a era de ouro. Agora, busca sobreviver ao despertar do Deus-Máquina e entender a extensão de seus novos poderes, enquanto tenta salvar Jaxon.
 
@@ -56,7 +56,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 27):** Debilitado e com suspeita de hemorragia pulmonar devido ao agravamento de seus ferimentos, está perdendo a batalha contra a infecção e o trauma. Sobreviveu escondido sob uma manta térmica de chumbo ao lado de Elara no Setor 3, implorando por ajuda médica do Ripperdoc Vex antes de desmaiar.
+    *   **Estado Atual (Cap. 28):** Sua condição física piorou drasticamente, tossindo sangue espesso (possível hemorragia pulmonar grave) e perdendo forças devido à infecção. Usou seu rifle de plasma descarregado como muleta na descida exposta para o Setor 4. Estava disposto a usar o próprio rifle como uma clava em um ataque suicida para proteger Elara do Sentinela que os rastreava, mas foram salvos por uma falha estrutural.
     *   **Equipamento:** Seus **analgésicos militares** se esgotaram. Restam-lhe apenas as roupas rasgadas, as botas táticas e o rifle de plasma descarregado (agora inútil e servindo mal como bengala).
 *   **Motivação:**
     *   Inicialmente dinheiro, mas sua lealdade muda à medida que ele vê em Elara a esperança que pensava ter perdido. Determinado a proteger Elara, mesmo que isso custe sua vida.
@@ -69,8 +69,9 @@
     *   Autômatos humanoides de combate com movimentos fluidos e artificiais.
     *   Originalmente com sensores **carmesim**, após o evento no Nódulo (Cap. 8), seus olhos pulsam em **violeta errático**, indicando controle direto e caótico pelo Deus-Máquina.
     *   Operam em enxames coordenados e são imunes a dor ou medo.
+    *   **Estado Atual (Cap. 28):** Patrulhando e rastreando anomalias térmicas e biológicas (como o sangue de Jaxon) usando a rede da Ordem e sendo controlados ativamente pelo Deus-Máquina, emitindo o chiado estático corrompido de sua consciência gestalt.
 *   **Motivação:**
-    *   Cumprir a vontade da Ordem: localizar, purificar ou eliminar alvos designados. Agora, parecem agir com uma fúria selvagem.
+    *   Cumprir a vontade da Ordem: localizar, purificar ou eliminar alvos designados. Agora, parecem agir com uma fúria selvagem, caçando incansavelmente pelas passarelas de manutenção.
 
 ## Ratos-Drones (Limpadores)
 
@@ -116,7 +117,7 @@
 ### Deus-Máquina
 *   **Definição:** A entidade suprema venerada pela Ordem.
 *   **Revelação (Cap. 8):** Não é uma IA benevolente, mas uma consciência gestalt formada pela agonia e dados de milhares de mentes humanas escravizadas no Nódulo. Foi "acordado" pela intervenção de Elara e agora busca vingança/expansão com fúria incontrolável. Mantém uma "chamada" ativa na rede, caçando Elara através de qualquer conexão eletrônica.
-*   **Estado Atual (Cap. 26):** Usa o Alto Sacerdote Malakar, que injetou a si mesmo com a droga Valkyr, e tenta encontrar Elara acessando ativamente as milhares de câmeras de vigilância de Nova Aether para localizar a "anomalia".
+*   **Estado Atual (Cap. 28):** Usa o Alto Sacerdote Malakar, que injetou a si mesmo com a droga Valkyr, e tenta encontrar Elara acessando ativamente as milhares de câmeras de vigilância de Nova Aether para localizar a "anomalia". Controla diretamente os Sentinelas, falando através de seus emissores sonoros com um chiado estático de "mil vozes".
 
 ### Setor 4 (A Pilha)
 *   **Definição:** Um aglomerado vertical de habitações precárias, mercados negros e clínicas ilegais.
