@@ -35,6 +35,7 @@ export default defineConfig({
       { text: 'Capítulo 25', link: '/public/capitulos/capitulo-25' },
       { text: 'Capítulo 26', link: '/public/capitulos/capitulo-26' },
       { text: 'Capítulo 27', link: '/public/capitulos/capitulo-27' },
+      { text: 'Capítulo 28', link: '/public/capitulos/capitulo-28' },
       { text: 'Personagens', link: '/personagens' },
       { text: 'Sobre', link: '/sobre' }
     ],
@@ -70,6 +71,7 @@ export default defineConfig({
           { text: 'Capítulo 25: Fissuras Invisíveis', link: '/public/capitulos/capitulo-25' },
           { text: 'Capítulo 26: O Peso do Chumbo e do Neon', link: '/public/capitulos/capitulo-26' },
           { text: 'Capítulo 27: Ponto Cego', link: '/public/capitulos/capitulo-27' },
+          { text: 'Capítulo 28: Ferrugem e Queda', link: '/public/capitulos/capitulo-28' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]
