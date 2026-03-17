@@ -10,7 +10,7 @@
     *   Veste couro desgastado reforçado com placas de cerâmica recuperada.
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Permite acelerar a percepção do tempo, reagindo a ameaças com precisão sobre-humana (efeito "Bullet Time"). O uso excessivo causa danos físicos e mentais. Mantém uma conexão psíquica persistente e dolorosa com o Deus-Máquina.
-    *   **Estado Atual (Cap. 28):** Após se abrigarem em um posto abandonado sob uma manta de chumbo (Cap. 27), Elara e Jaxon iniciaram uma perigosa descida pelas escadas de serviço externas na fronteira entre os Setores 3 e 4. Elara continua sem sua bioeletricidade e se sente vulnerável ("cega e surda") à rede. Escaparam por pouco de um Sentinela corrompido rastreando o sangue de Jaxon graças a um duto de exaustão rompido que cegou os sensores da máquina. Eles continuam rumo a A Pilha (Setor 4) em busca de Vex.
+    *   **Estado Atual (Cap. 29):** Após chegarem a "A Pilha" (Setor 4), Elara arrastou Jaxon em estado crítico até a clínica clandestina do Dr. Vex no Beco das Sombras. Elara continua despida de seu dom bioelétrico, lamentando sua falta de utilidade frente à iminente ameaça dos Sentinelas.
 *   **Motivação:**
     *   Encontrar a "Fonte Primordial", uma lenda que promete purificar a terra e trazer de volta a era de ouro. Agora, busca sobreviver ao despertar do Deus-Máquina e entender a extensão de seus novos poderes, enquanto tenta salvar Jaxon.
 
@@ -22,7 +22,7 @@
     *   Um homem magro com óculos de realidade aumentada que cobrem metade do rosto.
     *   Veste um avental manchado de óleo e fluidos biológicos.
     *   Demonstra curiosidade mórbida pela anomalia bioelétrica de Elara.
-    *   **Estado Atual (Cap. 23):** Removeu o exo-suporte derretido de Jaxon usando um maçarico e aplicou curativo de biogel. Declinou o convite de fugir com Elara e Jaxon, preferindo se esconder sozinho das varreduras em andamento após compartilhar as rotas de túneis do Mercado Negro.
+    *   **Estado Atual (Cap. 29):** Retornou a cena quando Elara invadiu sua clínica carregando Jaxon. Ele aplicou estabilizadores de trauma clandestinos para desacelerar a hemorragia pulmonar de Jaxon, mas avisou que o mercenário precisa de uma substituição pulmonar ou câmara de regeneração inacessível em A Pilha. Está ciente que Elara está sem poderes e avisa que a clínica é um alvo ativo dos Sentinelas.
 *   **Motivação:**
     *   Conhecimento e sobrevivência. Interessado em estudar a "antena" humana que Elara se tornou.
 
@@ -56,8 +56,8 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 28):** Sua condição física piorou drasticamente, tossindo sangue espesso (possível hemorragia pulmonar grave) e perdendo forças devido à infecção. Usou seu rifle de plasma descarregado como muleta na descida exposta para o Setor 4. Estava disposto a usar o próprio rifle como uma clava em um ataque suicida para proteger Elara do Sentinela que os rastreava, mas foram salvos por uma falha estrutural.
-    *   **Equipamento:** Seus **analgésicos militares** se esgotaram. Restam-lhe apenas as roupas rasgadas, as botas táticas e o rifle de plasma descarregado (agora inútil e servindo mal como bengala).
+    *   **Estado Atual (Cap. 29):** Chegou ao Setor 4 ("A Pilha") em estado quase inerte devido à hemorragia pulmonar severa. Foi estabilizado temporariamente na clínica do Dr. Vex com injetáveis neuromusculares, mas sua sobrevivência a longo prazo exige equipamento médico avançado. Permanece semi-inconsciente.
+    *   **Equipamento:** Restam-lhe apenas as roupas rasgadas e as botas táticas, já que seu rifle de plasma descarregado caiu na clínica do Dr. Vex.
 *   **Motivação:**
     *   Inicialmente dinheiro, mas sua lealdade muda à medida que ele vê em Elara a esperança que pensava ter perdido. Determinado a proteger Elara, mesmo que isso custe sua vida.
 
