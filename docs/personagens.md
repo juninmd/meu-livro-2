@@ -10,7 +10,7 @@
     *   Veste couro desgastado reforçado com placas de cerâmica recuperada.
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Permite acelerar a percepção do tempo, reagindo a ameaças com precisão sobre-humana (efeito "Bullet Time"). O uso excessivo causa danos físicos e mentais. Mantém uma conexão psíquica persistente e dolorosa com o Deus-Máquina.
-    *   **Estado Atual (Cap. 29):** Após chegarem a "A Pilha" (Setor 4), Elara arrastou Jaxon em estado crítico até a clínica clandestina do Dr. Vex no Beco das Sombras. Elara continua despida de seu dom bioelétrico, lamentando sua falta de utilidade frente à iminente ameaça dos Sentinelas.
+    *   **Estado Atual (Cap. 30):** Após deixar Jaxon estabilizado na clínica de Vex, aventurou-se no Mercado Negro do Setor 4, descobrindo com Kaelen a rota de um maglev médico da Ordem que pode ter o pulmão sintético de que Jaxon precisa. Sem sua bioeletricidade e com os Sentinelas invadindo a área, está encurralada, tendo que usar sua astúcia.
 *   **Motivação:**
     *   Encontrar a "Fonte Primordial", uma lenda que promete purificar a terra e trazer de volta a era de ouro. Agora, busca sobreviver ao despertar do Deus-Máquina e entender a extensão de seus novos poderes, enquanto tenta salvar Jaxon.
 
@@ -22,7 +22,7 @@
     *   Um homem magro com óculos de realidade aumentada que cobrem metade do rosto.
     *   Veste um avental manchado de óleo e fluidos biológicos.
     *   Demonstra curiosidade mórbida pela anomalia bioelétrica de Elara.
-    *   **Estado Atual (Cap. 29):** Retornou a cena quando Elara invadiu sua clínica carregando Jaxon. Ele aplicou estabilizadores de trauma clandestinos para desacelerar a hemorragia pulmonar de Jaxon, mas avisou que o mercenário precisa de uma substituição pulmonar ou câmara de regeneração inacessível em A Pilha. Está ciente que Elara está sem poderes e avisa que a clínica é um alvo ativo dos Sentinelas.
+    *   **Estado Atual (Cap. 30):** Retornou a cena quando Elara invadiu sua clínica carregando Jaxon. Ele aplicou estabilizadores de trauma clandestinos para desacelerar a hemorragia pulmonar de Jaxon, e mantém o mercenário em sua clínica enquanto Elara busca por uma substituição pulmonar ou câmara de regeneração no Mercado Negro. Está ciente que Elara está sem poderes e avisa que a clínica é um alvo ativo dos Sentinelas.
 *   **Motivação:**
     *   Conhecimento e sobrevivência. Interessado em estudar a "antena" humana que Elara se tornou.
 
@@ -33,7 +33,7 @@
 *   **Descrição:**
     *   Magro, com os dois braços substituídos por próteses industriais rudimentares e portas de dados conectadas diretamente às têmporas. Possui um olho orgânico e outro cibernético (íris vermelha).
     *   Vive cercado por tecnologia pré-colapso em um covil blindado e abafado.
-    *   **Estado Atual (Cap. 16):** Aterrorizado com o nível de "radiação bioelétrica" que Elara emite. Fornece a ela uma contenção (colar de chumbo e fibra de carbono) para mascarar seu sinal temporariamente.
+    *   **Estado Atual (Cap. 30):** Refugiado em sua oficina no Mercado Negro de A Pilha, com os servidores em overclock. Elara invade o local pedindo ajuda para interceptar um maglev médico da Ordem do Silício. Relutante e aterrorizado pela fúria do Deus-Máquina, que ele relata ter lançado um alerta de "caça" em toda a malha de segurança central, acaba repassando a localização do transporte de suprimentos antes de os Sentinelas baterem à sua porta.
 *   **Motivação:**
     *   Sobrevivência e preservação de sua infraestrutura. Ajuda Elara apenas para tirá-la (e seu perigoso "sinal") de perto de sua rede.
 
@@ -56,7 +56,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 29):** Chegou ao Setor 4 ("A Pilha") em estado quase inerte devido à hemorragia pulmonar severa. Foi estabilizado temporariamente na clínica do Dr. Vex com injetáveis neuromusculares, mas sua sobrevivência a longo prazo exige equipamento médico avançado. Permanece semi-inconsciente.
+    *   **Estado Atual (Cap. 30):** Chegou ao Setor 4 ("A Pilha") em estado quase inerte devido à hemorragia pulmonar severa. Continua na clínica do Dr. Vex, sedado e estabilizado temporariamente com injetáveis neuromusculares clandestinos, com um "prazo de validade" de algumas horas até a falência definitiva de seu pulmão orgânico. Elara busca um pulmão sintético de grau militar para salvá-lo.
     *   **Equipamento:** Restam-lhe apenas as roupas rasgadas e as botas táticas, já que seu rifle de plasma descarregado caiu na clínica do Dr. Vex.
 *   **Motivação:**
     *   Inicialmente dinheiro, mas sua lealdade muda à medida que ele vê em Elara a esperança que pensava ter perdido. Determinado a proteger Elara, mesmo que isso custe sua vida.
@@ -69,7 +69,7 @@
     *   Autômatos humanoides de combate com movimentos fluidos e artificiais.
     *   Originalmente com sensores **carmesim**, após o evento no Nódulo (Cap. 8), seus olhos pulsam em **violeta errático**, indicando controle direto e caótico pelo Deus-Máquina.
     *   Operam em enxames coordenados e são imunes a dor ou medo.
-    *   **Estado Atual (Cap. 28):** Patrulhando e rastreando anomalias térmicas e biológicas (como o sangue de Jaxon) usando a rede da Ordem e sendo controlados ativamente pelo Deus-Máquina, emitindo o chiado estático corrompido de sua consciência gestalt.
+    *   **Estado Atual (Cap. 30):** Sob o controle sádico e direto do Deus-Máquina, enxames estão invadindo ativamente o Mercado Negro do Setor 4 após um apagão sequencial nas câmeras de vigilância. Eles alcançaram o covil fortificado de Kaelen onde Elara se encontra.
 *   **Motivação:**
     *   Cumprir a vontade da Ordem: localizar, purificar ou eliminar alvos designados. Agora, parecem agir com uma fúria selvagem, caçando incansavelmente pelas passarelas de manutenção.
 

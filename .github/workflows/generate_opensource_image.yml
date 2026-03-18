@@ -33,6 +33,8 @@ jobs:
             exit 0
           fi
 
+          echo "Verificando arquivos markdown modificados..."
+
           BASE_SHA=${{ github.event.before }}
           if [ -z "$BASE_SHA" ] || [ "$BASE_SHA" == "0000000000000000000000000000000000000000" ]; then
             BASE_SHA="HEAD^"

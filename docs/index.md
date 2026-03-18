@@ -66,6 +66,7 @@ O mundo é uma mistura de natureza retomando seu espaço e esqueletos de megacid
 - [Capítulo 27: Ponto Cego](/public/capitulos/capitulo-27)
 - [Capítulo 28: Ferrugem e Queda](/public/capitulos/capitulo-28)
 - [Capítulo 29: Cidade Submersa](/public/capitulos/capitulo-29)
+- [Capítulo 30: O Preço do Sangue e Neon](/public/capitulos/capitulo-30)
 
 <div class="story-card">
 <strong>O Legado de Silício</strong> explora a linha tênue entre tecnologia e magia em um futuro esquecido.
