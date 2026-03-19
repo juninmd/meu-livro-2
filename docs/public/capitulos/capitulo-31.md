@@ -41,7 +41,7 @@ Corri para a pesada grade de metal no fundo do cômodo, ouvindo o chiado de vapo
 
 A risada enferrujada de Kaelen cortou o som da morte iminente. — Eu sou o Fantasma. Eu não existo. Agora desce logo!
 
-Deixei a gravidade me puxar, a escuridão do duto engolindo meu corpo esguio. Segundos após o mergulho, a detonação veio, não um som estrondoso, mas uma onda de pressão massiva, um silêncio violento que sugou todo o ar ao redor. Senti a estática passar pelo meu corpo, um zumbido sordo que arrepiava os pelos dos meus braços, seguido por um apagão total da luz alaranjada lá em cima.
+Deixei a gravidade me puxar, a escuridão do duto engolindo meu corpo esguio. Segundos após o mergulho, a detonação veio, não um som estrondoso, mas uma onda de pressão massiva, um silêncio violento que sugou todo o ar ao redor. Senti a estática passar pelo meu corpo, um zumbido surdo que arrepiava os pelos dos meus braços, seguido por um apagão total da luz alaranjada lá em cima.
 
 O EMP de Kaelen havia detonado. O covil, a oficina de maravilhas enferrujadas, era apenas um túmulo frio agora.
 
