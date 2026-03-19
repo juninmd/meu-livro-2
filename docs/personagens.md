@@ -10,7 +10,7 @@
     *   Veste couro desgastado reforçado com placas de cerâmica recuperada.
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Permite acelerar a percepção do tempo, reagindo a ameaças com precisão sobre-humana (efeito "Bullet Time"). O uso excessivo causa danos físicos e mentais. Mantém uma conexão psíquica persistente e dolorosa com o Deus-Máquina.
-    *   **Estado Atual (Cap. 30):** Após deixar Jaxon estabilizado na clínica de Vex, aventurou-se no Mercado Negro do Setor 4, descobrindo com Kaelen a rota de um maglev médico da Ordem que pode ter o pulmão sintético de que Jaxon precisa. Sem sua bioeletricidade e com os Sentinelas invadindo a área, está encurralada, tendo que usar sua astúcia.
+    *   **Estado Atual (Cap. 31):** Escapou da emboscada dos Sentinelas na oficina de Kaelen mergulhando nos dutos de ventilação verticais cegos após Kaelen detonar um EMP de curto alcance. Ela agora despenca em direção às passagens do oeste, correndo contra o tempo para interceptar o maglev médico antes que os Sentinelas, apenas atrasados, a alcancem.
 *   **Motivação:**
     *   Encontrar a "Fonte Primordial", uma lenda que promete purificar a terra e trazer de volta a era de ouro. Agora, busca sobreviver ao despertar do Deus-Máquina e entender a extensão de seus novos poderes, enquanto tenta salvar Jaxon.
 
@@ -33,7 +33,7 @@
 *   **Descrição:**
     *   Magro, com os dois braços substituídos por próteses industriais rudimentares e portas de dados conectadas diretamente às têmporas. Possui um olho orgânico e outro cibernético (íris vermelha).
     *   Vive cercado por tecnologia pré-colapso em um covil blindado e abafado.
-    *   **Estado Atual (Cap. 30):** Refugiado em sua oficina no Mercado Negro de A Pilha, com os servidores em overclock. Elara invade o local pedindo ajuda para interceptar um maglev médico da Ordem do Silício. Relutante e aterrorizado pela fúria do Deus-Máquina, que ele relata ter lançado um alerta de "caça" em toda a malha de segurança central, acaba repassando a localização do transporte de suprimentos antes de os Sentinelas baterem à sua porta.
+    *   **Estado Atual (Cap. 31):** Sacrificou sua oficina e valiosos servidores ao induzir propositalmente um colapso nos capacitores de núcleo de energia, gerando um EMP. Isso fritou os sistemas de segurança da porta do duto para permitir a fuga de Elara, além de cegar temporariamente as unidades ópticas dos Sentinelas, tornando seu covil um "túmulo frio".
 *   **Motivação:**
     *   Sobrevivência e preservação de sua infraestrutura. Ajuda Elara apenas para tirá-la (e seu perigoso "sinal") de perto de sua rede.
 
@@ -69,7 +69,7 @@
     *   Autômatos humanoides de combate com movimentos fluidos e artificiais.
     *   Originalmente com sensores **carmesim**, após o evento no Nódulo (Cap. 8), seus olhos pulsam em **violeta errático**, indicando controle direto e caótico pelo Deus-Máquina.
     *   Operam em enxames coordenados e são imunes a dor ou medo.
-    *   **Estado Atual (Cap. 30):** Sob o controle sádico e direto do Deus-Máquina, enxames estão invadindo ativamente o Mercado Negro do Setor 4 após um apagão sequencial nas câmeras de vigilância. Eles alcançaram o covil fortificado de Kaelen onde Elara se encontra.
+    *   **Estado Atual (Cap. 31):** Invadiram e rasgaram a estrutura da oficina de Kaelen, mas foram momentaneamente cegos e incapacitados pela detonação de um EMP gerado pelo hacker. O Deus-Máquina os realinhará em breve, reiniciando a caçada por Elara.
 *   **Motivação:**
     *   Cumprir a vontade da Ordem: localizar, purificar ou eliminar alvos designados. Agora, parecem agir com uma fúria selvagem, caçando incansavelmente pelas passarelas de manutenção.
 
