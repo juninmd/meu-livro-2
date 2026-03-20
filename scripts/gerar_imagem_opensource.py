@@ -10,6 +10,7 @@ headers = {"Authorization": f"Bearer {os.environ.get('HF_TOKEN')}"}
 def extract_metadata_and_text(filepath):
     try:
         if os.path.islink(filepath): raise Exception("Symbolic links are not allowed")
+        if os.path.islink(filepath): raise Exception("Symbolic links are not allowed")
         with open(filepath, 'r', encoding='utf-8') as f:
             content = f.read()
 
