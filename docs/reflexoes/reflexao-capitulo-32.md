@@ -7,7 +7,7 @@
 *   **Diálogos: 8/10**
     *   O diálogo é escasso, servindo principalmente como um elemento de pressão ("ticking clock") através da comunicação fragmentada com o Dr. Vex. Soam curtos e desesperados, o que encaixa bem na situação.
 *   **Atmosfera: 10/10**
-    *   A sujeira do cyberpunk está extremamente presente: a chuva ácida que corrói o metal, a graxa, o lodo, os poços escuros, o neon rosa doentio. A vulnerabilidade de Elara sem sua "faísca" aterra a história, tornando o mundo hostil muito mais perigoso do que costumava ser.
+    *   A sujeira do cyberpunk está extremamente presente: a chuva ácida que corrói o metal, a graxa, o lodo, os poços escuros, o neon rosa doentio. A vulnerabilidade de Elara sem sua "faísca" ancora a história na realidade, tornando o mundo hostil muito mais perigoso do que costumava ser.
 
 ## Pontos Fortes e Fracos
 
