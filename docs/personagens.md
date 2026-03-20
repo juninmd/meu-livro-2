@@ -10,7 +10,7 @@
     *   Veste couro desgastado reforçado com placas de cerâmica recuperada.
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Permite acelerar a percepção do tempo, reagindo a ameaças com precisão sobre-humana (efeito "Bullet Time"). O uso excessivo causa danos físicos e mentais. Mantém uma conexão psíquica persistente e dolorosa com o Deus-Máquina.
-    *   **Estado Atual (Cap. 31):** Escapou da emboscada dos Sentinelas na oficina de Kaelen mergulhando nos dutos de ventilação verticais cegos após Kaelen detonar um EMP de curto alcance. Ela agora despenca em direção às passagens do oeste, correndo contra o tempo para interceptar o maglev médico antes que os Sentinelas, apenas atrasados, a alcancem.
+    *   **Estado Atual (Cap. 32):** Conseguiu chegar às Passagens do Oeste após a queda brusca no duto de exaustão. Encontra-se completamente exausta, machucada e sem sua "faísca" bioelétrica ativa. Sob chuva ácida contínua, conseguiu ludibriar um dos Sentinelas que a perseguiam atraindo-o para uma caixa de distribuição de força, causando um curto-circuito, e está agora prestes a embarcar no maglev médico.
 *   **Motivação:**
     *   Encontrar a "Fonte Primordial", uma lenda que promete purificar a terra e trazer de volta a era de ouro. Agora, busca sobreviver ao despertar do Deus-Máquina e entender a extensão de seus novos poderes, enquanto tenta salvar Jaxon.
 
@@ -22,7 +22,7 @@
     *   Um homem magro com óculos de realidade aumentada que cobrem metade do rosto.
     *   Veste um avental manchado de óleo e fluidos biológicos.
     *   Demonstra curiosidade mórbida pela anomalia bioelétrica de Elara.
-    *   **Estado Atual (Cap. 30):** Retornou a cena quando Elara invadiu sua clínica carregando Jaxon. Ele aplicou estabilizadores de trauma clandestinos para desacelerar a hemorragia pulmonar de Jaxon, e mantém o mercenário em sua clínica enquanto Elara busca por uma substituição pulmonar ou câmara de regeneração no Mercado Negro. Está ciente que Elara está sem poderes e avisa que a clínica é um alvo ativo dos Sentinelas.
+    *   **Estado Atual (Cap. 32):** Retornou a cena quando Elara invadiu sua clínica carregando Jaxon. Ele aplicou estabilizadores de trauma clandestinos para desacelerar a hemorragia pulmonar de Jaxon, e mantém o mercenário em sua clínica enquanto Elara busca por uma substituição pulmonar ou câmara de regeneração no Mercado Negro. Avisa pelo comunicador que os estabilizadores estão acabando e os bloqueadores de rastreamento falhando.
 *   **Motivação:**
     *   Conhecimento e sobrevivência. Interessado em estudar a "antena" humana que Elara se tornou.
 
@@ -56,7 +56,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 30):** Chegou ao Setor 4 ("A Pilha") em estado quase inerte devido à hemorragia pulmonar severa. Continua na clínica do Dr. Vex, sedado e estabilizado temporariamente com injetáveis neuromusculares clandestinos, com um "prazo de validade" de algumas horas até a falência definitiva de seu pulmão orgânico. Elara busca um pulmão sintético de grau militar para salvá-lo.
+    *   **Estado Atual (Cap. 32):** Chegou ao Setor 4 ("A Pilha") em estado quase inerte devido à hemorragia pulmonar severa. Continua na clínica do Dr. Vex, sedado e com os bloqueadores falhando enquanto seu corpo cede mais a cada instante.
     *   **Equipamento:** Restam-lhe apenas as roupas rasgadas e as botas táticas, já que seu rifle de plasma descarregado caiu na clínica do Dr. Vex.
 *   **Motivação:**
     *   Inicialmente dinheiro, mas sua lealdade muda à medida que ele vê em Elara a esperança que pensava ter perdido. Determinado a proteger Elara, mesmo que isso custe sua vida.
@@ -69,7 +69,7 @@
     *   Autômatos humanoides de combate com movimentos fluidos e artificiais.
     *   Originalmente com sensores **carmesim**, após o evento no Nódulo (Cap. 8), seus olhos pulsam em **violeta errático**, indicando controle direto e caótico pelo Deus-Máquina.
     *   Operam em enxames coordenados e são imunes a dor ou medo.
-    *   **Estado Atual (Cap. 31):** Invadiram e rasgaram a estrutura da oficina de Kaelen, mas foram momentaneamente cegos e incapacitados pela detonação de um EMP gerado pelo hacker. O Deus-Máquina os realinhará em breve, reiniciando a caçada por Elara.
+    *   **Estado Atual (Cap. 32):** Após o EMP na oficina de Kaelen, se reativaram e um deles rastreou e perseguiu ativamente Elara pelas Passagens do Oeste sob a chuva ácida. Esse foi temporariamente incapacitado quando suas garras causaram um curto-circuito pesado numa caixa de distribuição de energia, mas ele e seus pares continuam no encalço de Elara à medida que o maglev chega na estação.
 *   **Motivação:**
     *   Cumprir a vontade da Ordem: localizar, purificar ou eliminar alvos designados. Agora, parecem agir com uma fúria selvagem, caçando incansavelmente pelas passarelas de manutenção.
 
