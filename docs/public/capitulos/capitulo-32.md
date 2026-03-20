@@ -19,7 +19,7 @@ O comunicador integrado à minha jaqueta, uma sucata que eu mal mantinha funcion
 
 — *Elara...* — A voz do Dr. Vex soou metálica e distorcida, o áudio quebrando a cada sílaba. — *Os bloqueadores... não vão durar muito. Ele... não vai durar.*
 
-— Eu estou indo, Vex — rosnei, me apoiando nos joelhos tremeluzentes, as roupas molhadas de suor e ácido pesando como chumbo. — Mantenha o coração dele batendo, não importa o custo. Eu estou quase na rota do maglev.
+— Eu estou indo, Vex — rosnei, me apoiando nos joelhos trêmulos, as roupas molhadas de suor e ácido pesando como chumbo. — Mantenha o coração dele batendo, não importa o custo. Eu estou quase na rota do maglev.
 
 — *Os Sentinelas... eles já estão... recalibrando.* — A comunicação se perdeu em um guincho agudo. Vex estava certo. A trégua do EMP de Kaelen tinha um prazo de validade estrito.
 
