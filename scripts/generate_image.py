@@ -21,8 +21,8 @@ def generate_image(prompt, output_path):
 
         # Check if the response is actually an image (bytes)
         if response.headers.get('content-type') == 'application/json':
-             print(f"Error: Received JSON response instead of image: {response.json()}")
-             sys.exit(1)
+             print(f"Error: Received JSON response instead of image: {response.json()}. Skipping generation.")
+             return
 
         with open(output_path, "wb") as f:
             f.write(response.content)
