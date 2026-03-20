@@ -39,6 +39,7 @@ export default defineConfig({
       { text: 'Capítulo 29', link: '/public/capitulos/capitulo-29' },
       { text: 'Capítulo 30', link: '/public/capitulos/capitulo-30' },
       { text: 'Capítulo 31', link: '/public/capitulos/capitulo-31' },
+      { text: 'Capítulo 32', link: '/public/capitulos/capitulo-32' },
       { text: 'Personagens', link: '/personagens' },
       { text: 'Sobre', link: '/sobre' }
     ],
@@ -78,6 +79,7 @@ export default defineConfig({
           { text: 'Capítulo 29: Cidade Submersa', link: '/public/capitulos/capitulo-29' },
           { text: 'Capítulo 30: O Preço do Sangue e Neon', link: '/public/capitulos/capitulo-30' },
           { text: 'Capítulo 31: O Ponto Cego do Deus-Máquina', link: '/public/capitulos/capitulo-31' },
+          { text: 'Capítulo 32: O Sangue e a Passagem', link: '/public/capitulos/capitulo-32' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]
