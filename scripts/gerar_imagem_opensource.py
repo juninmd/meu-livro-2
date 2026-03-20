@@ -12,6 +12,7 @@ def extract_metadata_and_text(filepath):
         if os.path.islink(filepath): raise Exception("Symbolic links are not allowed")
         if os.path.islink(filepath): raise Exception("Symbolic links are not allowed")
         with open(filepath, 'r', encoding='utf-8') as f:
+        with open(filepath, 'r', encoding='utf-8') as f:
             content = f.read()
 
         personagens = "Cyberpunk city, shadows, neon lights"
