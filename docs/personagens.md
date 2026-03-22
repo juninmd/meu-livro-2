@@ -10,7 +10,7 @@
     *   Veste couro desgastado reforçado com placas de cerâmica recuperada.
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Permite acelerar a percepção do tempo, reagindo a ameaças com precisão sobre-humana (efeito "Bullet Time"). O uso excessivo causa danos físicos e mentais. Mantém uma conexão psíquica persistente e dolorosa com o Deus-Máquina.
-    *   **Estado Atual (Cap. 33):** Conseguiu embarcar no maglev médico para buscar o pulmão sintético de Jaxon. Foi encurralada pelo Sentinela que sobrevivera ao curto-circuito. Completamente esgotada de seus poderes bioelétricos, Elara sobreviveu utilizando o ambiente a seu favor (gás desfibrilador em alta pressão), derrotando a máquina. Com as portas fechadas e em segurança nos trilhos magnéticos, recuperou o pulmão sintético militar e se dirige aos setores internos.
+    *   **Estado Atual (Cap. 34):** Descarrilou o maglev na Estação Clandestina 9 usando sua própria bioeletricidade de forma brutal para evitar ser levada ao Terminal de Processamento Norte pelo controle central corrompido. Embora ferida e exausta pelo choque da frenagem brusca, ela conseguiu proteger a caixa térmica com o pulmão sintético e acaba de retornar ao ar tóxico do Setor 4 para levar a peça até a clínica.
 *   **Motivação:**
     *   Encontrar a "Fonte Primordial", uma lenda que promete purificar a terra e trazer de volta a era de ouro. Agora, busca sobreviver ao despertar do Deus-Máquina e entender a extensão de seus novos poderes, enquanto tenta salvar Jaxon.
 
@@ -22,7 +22,7 @@
     *   Um homem magro com óculos de realidade aumentada que cobrem metade do rosto.
     *   Veste um avental manchado de óleo e fluidos biológicos.
     *   Demonstra curiosidade mórbida pela anomalia bioelétrica de Elara.
-    *   **Estado Atual (Cap. 33):** Mantém Jaxon vivo na clínica improvisada. O sinal com Elara foi interrompido pelas blindagens de grau militar do maglev após a médica confirmar a entrada, restando a ele aguardar o retorno incerto de sua parceira com o implante pulmonar.
+    *   **Estado Atual (Cap. 34):** Restaurou brevemente o contato com Elara, informando que os túneis estavam sendo fechados e o maglev roteado para uma emboscada no Terminal Norte. Instruiu-a a descarrilar o trem na Estação Clandestina 9 e agora prepara a sala de cirurgia, ciente de que o corpo de Jaxon (em grave hemorragia na pleura) tem apenas trinta minutos restantes.
 *   **Motivação:**
     *   Conhecimento e sobrevivência. Interessado em estudar a "antena" humana que Elara se tornou.
 
@@ -56,7 +56,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 33):** Ainda em estado quase inerte na clínica do Dr. Vex devido à hemorragia pulmonar severa. Elara acaba de garantir o pulmão sintético de grau militar a bordo do maglev, a chave para sua salvação.
+    *   **Estado Atual (Cap. 34):** Continua na mesa de cirurgia de Vex. Seu corpo começou a rejeitar o próprio sangue e a hemorragia na pleura limitou seu tempo de vida a cerca de trinta minutos, tornando a chegada de Elara com o pulmão sintético uma corrida contra a morte imediata.
     *   **Equipamento:** Restam-lhe apenas as roupas rasgadas e as botas táticas, já que seu rifle de plasma descarregado caiu na clínica do Dr. Vex.
 *   **Motivação:**
     *   Inicialmente dinheiro, mas sua lealdade muda à medida que ele vê em Elara a esperança que pensava ter perdido. Determinado a proteger Elara, mesmo que isso custe sua vida.
