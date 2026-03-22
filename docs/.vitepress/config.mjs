@@ -41,6 +41,7 @@ export default defineConfig({
       { text: 'Capítulo 31', link: '/public/capitulos/capitulo-31' },
       { text: 'Capítulo 32', link: '/public/capitulos/capitulo-32' },
       { text: 'Capítulo 33', link: '/public/capitulos/capitulo-33' },
+      { text: 'Capítulo 34', link: '/public/capitulos/capitulo-34' },
       { text: 'Personagens', link: '/personagens' },
       { text: 'Sobre', link: '/sobre' }
     ],
@@ -82,6 +83,7 @@ export default defineConfig({
           { text: 'Capítulo 31: O Ponto Cego do Deus-Máquina', link: '/public/capitulos/capitulo-31' },
           { text: 'Capítulo 32: O Sangue e a Passagem', link: '/public/capitulos/capitulo-32' },
           { text: 'Capítulo 33: Trilhos de Prata e Sangue', link: '/public/capitulos/capitulo-33' },
+          { text: 'Capítulo 34: O Sangue Frio do Maglev', link: '/public/capitulos/capitulo-34' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]
