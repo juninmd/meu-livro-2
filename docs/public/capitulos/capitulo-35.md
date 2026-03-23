@@ -1,6 +1,6 @@
 ---
 title: O Respiro Sintético
-data: 2042.11.21
+data: 2042-11-21
 localização: Clínica do Dr. Vex, Setor 4 (A Pilha)
 personagens: Elara, Dr. Vex, Jaxon
 ---
