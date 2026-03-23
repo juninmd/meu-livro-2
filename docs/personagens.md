@@ -10,7 +10,7 @@
     *   Veste couro desgastado reforçado com placas de cerâmica recuperada.
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Permite acelerar a percepção do tempo, reagindo a ameaças com precisão sobre-humana (efeito "Bullet Time"). O uso excessivo causa danos físicos e mentais. Mantém uma conexão psíquica persistente e dolorosa com o Deus-Máquina.
-    *   **Estado Atual (Cap. 34):** Descarrilou o maglev na Estação Clandestina 9 usando sua própria bioeletricidade de forma brutal para evitar ser levada ao Terminal de Processamento Norte pelo controle central corrompido. Embora ferida e exausta pelo choque da frenagem brusca, ela conseguiu proteger a caixa térmica com o pulmão sintético e acaba de retornar ao ar tóxico do Setor 4 para levar a peça até a clínica.
+    *   **Estado Atual (Cap. 35):** Auxiliou o Dr. Vex na cirurgia emergencial de Jaxon. Sofre de espasmos e tremores devido à sobrecarga bioelétrica de ter parado o maglev. A sua conexão com o Deus-Máquina piorou, convertendo-se num zumbido de pressão mental avassaladora e um aviso claro: sua "assinatura energética" está sendo rastreada e as forças de Malakar se aproximam para varrer o Setor 4.
 *   **Motivação:**
     *   Encontrar a "Fonte Primordial", uma lenda que promete purificar a terra e trazer de volta a era de ouro. Agora, busca sobreviver ao despertar do Deus-Máquina e entender a extensão de seus novos poderes, enquanto tenta salvar Jaxon.
 
@@ -22,7 +22,7 @@
     *   Um homem magro com óculos de realidade aumentada que cobrem metade do rosto.
     *   Veste um avental manchado de óleo e fluidos biológicos.
     *   Demonstra curiosidade mórbida pela anomalia bioelétrica de Elara.
-    *   **Estado Atual (Cap. 34):** Restaurou brevemente o contato com Elara, informando que os túneis estavam sendo fechados e o maglev roteado para uma emboscada no Terminal Norte. Instruiu-a a descarrilar o trem na Estação Clandestina 9 e agora prepara a sala de cirurgia, ciente de que o corpo de Jaxon (em grave hemorragia na pleura) tem apenas trinta minutos restantes.
+    *   **Estado Atual (Cap. 35):** Realizou a complexa e rústica cirurgia para transplantar o pulmão sintético negro militar em Jaxon, acoplando filamentos neurais a matriz orgânica enquanto lidava com um choque hipovolêmico iminente do mercenário. Informou a Elara que as defesas do sistema imunológico não estavam combatendo o polímero, e agora prepara inibidores de dor e recursos de defesa, prevendo a "limpeza" do Setor 4.
 *   **Motivação:**
     *   Conhecimento e sobrevivência. Interessado em estudar a "antena" humana que Elara se tornou.
 
@@ -56,7 +56,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 34):** Continua na mesa de cirurgia de Vex. Seu corpo começou a rejeitar o próprio sangue e a hemorragia na pleura limitou seu tempo de vida a cerca de trinta minutos, tornando a chegada de Elara com o pulmão sintético uma corrida contra a morte imediata.
+    *   **Estado Atual (Cap. 35):** Sobreviveu ao choque do implante e ao esgotamento do metabolismo natural durante a cirurgia de última hora com o implante do pulmão sintético. Agora dependente do ritmo forçado e militar da máquina no próprio peito para respirar, sua convalescença promete ser dolorosa e demorada, mas sua sobrevivência é o único foco atual de Vex e Elara.
     *   **Equipamento:** Restam-lhe apenas as roupas rasgadas e as botas táticas, já que seu rifle de plasma descarregado caiu na clínica do Dr. Vex.
 *   **Motivação:**
     *   Inicialmente dinheiro, mas sua lealdade muda à medida que ele vê em Elara a esperança que pensava ter perdido. Determinado a proteger Elara, mesmo que isso custe sua vida.

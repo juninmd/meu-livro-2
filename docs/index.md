@@ -71,6 +71,7 @@ O mundo é uma mistura de natureza retomando seu espaço e esqueletos de megacid
 - [Capítulo 32: O Sangue e a Passagem](/public/capitulos/capitulo-32)
 - [Capítulo 33: Trilhos de Prata e Sangue](/public/capitulos/capitulo-33)
 - [Capítulo 34: O Sangue Frio do Maglev](/public/capitulos/capitulo-34)
+- [Capítulo 35: O Respiro Sintético](/public/capitulos/capitulo-35)
 
 <div class="story-card">
 <strong>O Legado de Silício</strong> explora a linha tênue entre tecnologia e magia em um futuro esquecido.
