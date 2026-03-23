@@ -4,34 +4,36 @@
 **Localização:** Periferia de Nova Aether – A Zona Morta
 **Personagens:** Elara, Jaxon
 
-O "rover" de Jaxon não era um veículo; era uma ofensa à aerodinâmica, uma caixa de metal reforçada sobre seis rodas independentes que mastigavam o asfalto quebrado da Zona Morta. O motor gemia, um barulho constante que competia com o uivo do vento carregado de sílica.
+O "rover" de Jaxon não era um veículo; era uma heresia estética contra a aerodinâmica, uma caixa de metal de blindagem irregular soldada sobre seis rodas independentes que mastigavam sem piedade o asfalto quebrado da Zona Morta. O motor gemia implorando por clemência, um barulho constante e furioso que competia com o uivo rasgante do vento carregado de sílica fina.
 
-Dentro da cabine, o cheiro de óleo queimado e suor antigo era sufocante. Elara observava a paisagem passar através do vidro blindado, riscado e amarelado pelo tempo. Ruínas de arranha-céus se erguiam como dentes podres contra o céu cor de chumbo. Hologramas publicitários, glitchados e esquecidos, piscavam em loops frenéticos, vendendo produtos que ninguém fabricava há séculos. *Coca-Cola Sintética: O sabor da memória.*
+Dentro da cabine abafada, o cheiro de óleo queimado, tabaco e suor antigo era asfixiante. Elara observava a paisagem engolida pela fumaça através do vidro blindado, riscado e permanentemente amarelado por décadas de chuva ácida e exposição ao lixo tóxico do Setor 4. Ruínas de arranha-céus erguiam-se à distância como ossadas pontiagudas contra o céu opressor cor de chumbo. No horizonte arruinado, outdoors holográficos glitchados piscavam em loops epiléticos e desbotados de neon azul e magenta. Um comercial antigo tremulou, vendendo implantes neurais para um mercado que já estava reduzido a cinzas. *Ascensão Neural: Apenas um clique.*
 
-"Pare de encarar," Jaxon rosnou, sem tirar os olhos do horizonte digital projetado em seu painel. "Seus olhos. Eles brilham quando você fica nervosa. É como um farol para os drones."
+"Pare de encarar," Jaxon rosnou, a voz como cacos de vidro, seus olhos fixos no horizonte tático escarlate projetado em seu visor retiniano acoplado. "Seus olhos. Eles estão piscando como um farol no escuro. Se as unidades ópticas de um Sentinela captarem sua voltagem, a blindagem não vai nos salvar."
 
-Elara piscou, forçando-se a desviar o olhar. Ela puxou o capuz de sua capa, tentando ocultar o brilho violeta. "Não estou nervosa. Estou... escutando."
+Elara piscou, cerrando as pálpebras em um esforço para conter a pulsação de energia em suas retinas. Ela puxou ainda mais o capuz encardido de sua jaqueta sobre o rosto. "Não estou nervosa," ela resmungou, apertando o *Datachip* no bolso interno. "Estou... sintonizando."
 
-"Escutando o quê? Só tem estática lá fora."
+"Sintonizando o quê? Essa área é um buraco negro de radiação."
 
-"Não a estática do rádio," ela murmurou, tocando a têmpora. "A rede. A Ordem está quieta demais. Eles não estão transmitindo padrões de busca."
+"A rede. A Ordem está quieta demais," ela sussurrou, a mão direita instintivamente massageando a base de sua nuca, onde uma agonia surda começava a irradiar. "Não há pacotes de dados, não há ordens de busca cruzando o espectro baixo. Nada."
 
-Jaxon apertou o volante, os nós dos dedos brancos — e os de metal, imóveis. "Silêncio de Neon," ele disse, a voz grave. "Eles cortaram o tráfego de dados para isolar o setor. É o prelúdio de um cerco."
+Jaxon apertou o volante rudimentar, os nós dos dedos da mão esquerda — pistões frios de metal cinzento — rangendo em protesto. "Silêncio de Neon," ele diagnosticou com o peso de uma maldição. "Isolaram o tráfego de dados do setor inteiro. Eles não estão procurando por nós, garota. Eles estão montando um cerco de extermínio."
 
-De repente, o rover deu um solavanco violento. Uma luz vermelha pulsou no console.
+De repente, a carcaça do rover sofreu um impacto sísmico invisível. O veículo deslizou violentamente, rasgando o asfalto. Uma luz estroboscópica vermelha explodiu no painel rústico.
 
-"Merda," Jaxon praguejou, batendo em um interruptor. "Campo de interferência. Estamos cegos."
+"Maldição," Jaxon vociferou, golpeando um interruptor no console superior que lançou faíscas alaranjadas na cabine. "Interferência EMP localizada. O radar está cego e os escudos estão drenando."
 
-Elara sentiu o *canto* mudar. Não era mais um zumbido distante, mas um grito agudo, metálico, vindo de todas as direções.
+Elara sentiu o *canto* em sua mente mudar de um sussurro opressor para um estalo metálico ensurdecedor, perfurando seus sentidos de todas as direções ao mesmo tempo. Era a assinatura do Deus-Máquina apertando a rede.
 
-"Eles não estão nos procurando, Jaxon," ela disse, sua voz tremendo levemente. "Eles já nos encontraram."
+"Jaxon... eles não estão rastreando o veículo," ela disse, a voz trêmula mas fria. "Eles estão rastreando *a mim*."
 
-No horizonte, sombras se destacaram da escuridão. Silhuetas humanoides, mas com movimentos fluidos demais, artificiais demais. Os olhos das figuras brilharam em um uníssono carmesim.
+Nas sombras retorcidas das antigas rodovias, vultos descolaram-se da fuligem ambiental. Eram mais altos que um humano normal, a anatomia biomecânica delineada perfeitamente contra a névoa, fluidos de forma sobrenatural, macabramente inumanos. E nos rostos onde não havia feições, sensores ópticos ganharam vida, ascendendo num carmesim mortífero que cortou a escuridão absoluta.
 
-*Sentinelas.*
+*Sentinelas.* Caçadores da Ordem do Silício.
 
-"Segure-se," Jaxon gritou, engatando uma marcha que fez o motor rugir como uma besta ferida. "Isso vai ficar feio."
+"Prende essa respiração, garota," Jaxon gritou, sua bota esmagando o acelerador e engatando um supercompressor que fez o motor uivar como um demônio despertado.
 
-O mercenário girou o volante, jogando o veículo para fora da estrada, direto para o labirinto de concreto das favelas verticais. O primeiro raio de plasma atingiu o solo onde eles estavam um segundo antes, vitrificando a areia em vidro fumegante.
+O mercenário arrancou o volante para a esquerda, forçando as seis rodas a morderem a terra árida para fora da via principal, mergulhando de cabeça no labirinto de pilares colapsados das antigas favelas verticais.
 
-A caçada havia começado.
+O primeiro raio de plasma cortou o ar como um chicote ofuscante de pura energia, atingindo exatamente o pedaço de asfalto onde o pneu traseiro direito do rover estivera uma fração de segundo antes, vitrificando o cascalho instantaneamente num clarão ardente.
+
+A perseguição não estava mais contida nas sombras. A caçada sangrenta de Nova Aether havia começado.

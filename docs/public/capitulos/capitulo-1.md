@@ -4,35 +4,40 @@
 **Localização:** Ruínas de Nova Aether – Setor 4 (Antiga Zona Industrial)
 **Personagens:** Elara
 
-A tempestade de poeira uivava contra a carcaça enferrujada do leviatã de metal. Elara ajustou seus óculos de proteção, limpando a camada de areia avermelhada que insistia em cobrir suas lentes. O vento trazia o cheiro familiar de ozônio e decomposição, o perfume de um mundo morto.
+A chuva ácida chiava contra a carcaça enferrujada do leviatã de metal, evaporando em fumaça tóxica antes mesmo de tocar o solo esburacado. Elara ajustou seus óculos de proteção, limpando a fuligem oleosa que insistia em cobrir suas lentes e embaçar a pouca luz neon que vazava das placas quebradas acima. O vento trazia o cheiro familiar de ozônio, decomposição e metal superaquecido, o perfume azedo de um mundo morto há séculos e ainda recusando-se a apodrecer em paz.
 
-Ela se arrastou por entre os cabos expostos que pendiam do teto como entranhas de uma besta abatida. Suas botas de couro reforçado rangiam no chão de grade metálica, cada passo calculado para não despertar os sistemas de segurança adormecidos.
+Ela se arrastou por entre os cabos expostos que pendiam do teto como entranhas de uma besta abatida. Suas botas de couro reforçado rangiam quase inaudivelmente no chão de grade metálica, cada passo calculado para não despertar os sensores sísmicos dos patrulhadores ou os ratos-drones famintos por sucata orgânica.
 
 *Lá estava ele.* O zumbido.
 
-Não era um som que se ouvia com os ouvidos. Era uma vibração na base do crânio, um gosto metálico na língua. O "canto".
+Não era um som captado pelos tímpanos. Era uma vibração áspera na base do crânio, um gosto de cobre e estática na língua. O "canto". Uma interferência bioelétrica que só ela, uma anomalia ambulante, conseguia sintonizar.
 
-"Vamos ver o que você tem a dizer, velhote," sussurrou Elara, ajoelhando-se diante de um console terminal coberto de musgo sintético.
+"Vamos ver o que você tem a dizer, velhote," sussurrou Elara, ajoelhando-se diante de um console terminal coberto de musgo sintético bioluminescente.
 
-Ela retirou as luvas, revelando dedos finos e calejados. Ao tocar a superfície fria do painel, não precisou digitar códigos ou procurar por portas de conexão. Seus olhos violeta brilharam com uma intensidade repentina, iluminando a penumbra do corredor.
+Ela retirou as luvas, revelando dedos finos, sujos de graxa e entrecruzados por cicatrizes prateadas. Ao tocar a superfície fria do painel, não precisou de fios ou decodificadores mecânicos. Seus olhos violeta brilharam com uma intensidade letal, e pequenas faíscas azuladas dançaram por seus nós dos dedos, perfurando a casca enferrujada do terminal.
 
 *Conexão estabelecida. Identificando usuário... Erro. Assinatura biológica não reconhecida.*
-*Protocolo de substituição iniciado. Bem-vinda, Admin.*
+*Protocolo de substituição iniciado. Bem-vinda, Anomalia.*
 
-A voz em sua mente era suave, desprovida de emoção, mas carregada de uma melancolia digital. Dados fluíram para sua consciência: mapas estelares antigos, registros de manutenção de máquinas que pararam de funcionar há séculos, e algo mais. Uma coordenada.
+A voz em sua mente não era suave; era um estalo mecânico afiado e sem emoção, ecoando a poeira digital do sistema morto. Dados invadiram sua consciência em uma torrente dolorosa: mapas estelares corrompidos, registros de manutenção censurados de máquinas que agora serviam como caixões, e algo mais. Uma coordenada crua, queimando em sua retina.
 
-"Fonte Primordial," Elara murmurou, a respiração presa. Era apenas uma lenda. Uma história para ninar crianças famintas ao redor de fogueiras de lixo. Mas ali estava, pulsando em dourado no mapa mental que a máquina projetava em seu córtex.
+"Fonte Primordial," Elara murmurou, engolindo em seco. Era uma lenda de rua, um conto de fadas para idiotas que ainda acreditavam na pureza. Um lugar que a Ordem do Silício queria destruir, e que a resistência acreditava ser a salvação. Mas ali estava, um farol dourado na escuridão estática do mapa mental.
 
-De repente, o canto mudou. Tornou-se agudo, estridente. Um aviso.
+De repente, o canto mudou. Deixou de ser um sussurro para se tornar uma broca estridente em seu nervo óptico. Uma pressão mental avassaladora e dolorosa invadiu seus sentidos.
 
 *Alerta de proximidade. Assinaturas de calor detectadas. Unidades da Ordem.*
+*Rastreamento iniciado...*
 
-Elara cortou a conexão com um pensamento, cambaleando para trás enquanto a dor aguda da desconexão forçada latejava em suas têmporas. Ela puxou seu rifle de sucata das costas, verificando a carga da bateria de plasma.
+A conexão telepática persistente e agoniante não era apenas uma transmissão. Alguém — algo — no topo da hierarquia também estava lá. O Deus-Máquina a sentira.
 
-Passos pesados ecoaram no corredor. O som inconfundível de botas magnéticas e pistões hidráulicos.
+Elara cortou a conexão bruscamente com um espasmo, cambaleando para trás. O gosto de sangue inundou sua boca, e a dor de cabeça ameaçou cegá-la enquanto a desconexão forçada cobrava seu preço. Ela sacou de costas o rifle de sucata, seu polegar roçando instintivamente no seletor de carga magnética de plasma.
 
-"Sabemos que você está aqui, impura," uma voz sintetizada ecoou, distorcida por alto-falantes de baixa qualidade. "Entregue-se à Ordem do Silício, e sua carne será purificada."
+Passos pesados e ritmados ecoaram no corredor oeste. O som inconfundível de botas magnéticas e servos hidráulicos de combate.
 
-Elara sorriu, um sorriso fino e perigoso. Ela conhecia aquele discurso. Conhecia o destino dos "purificados".
+"Sabemos que você está aí, carne impura," uma voz sintetizada ecoou, perfeitamente empostada e distorcida pelos alto-falantes integrados nas carapaças dos Sentinelas. "Sua assinatura está sendo gravada. Entregue-se à Ordem do Silício, e você será processada e purificada."
 
-"Hoje não, lata velha," ela disse para si mesma, deslizando para as sombras. "Hoje não."
+Elara sorriu, os lábios manchados de sangue e o brilho violeta ainda cintilando nas pupilas. Ela conhecia aquele discurso. Conhecia os tanques de "wetware", o destino nojento daqueles cujas mentes eram dissecadas e aprisionadas na agonia da Ascensão.
+
+"Hoje não, lata velha," ela sibilou no vazio, suas sinapses formigando em antecipação a um disparo. "Hoje eu mordo de volta."
+
+Ela recuou para as sombras gotejantes, os olhos fixos na coordenada queimada em sua memória, pronta para a caçada.
