@@ -43,6 +43,7 @@ export default defineConfig({
       { text: 'Capítulo 33', link: '/public/capitulos/capitulo-33' },
       { text: 'Capítulo 34', link: '/public/capitulos/capitulo-34' },
       { text: 'Capítulo 35', link: '/public/capitulos/capitulo-35' },
+      { text: 'Capítulo 36', link: '/public/capitulos/capitulo-36' },
       { text: 'Personagens', link: '/personagens' },
       { text: 'Sobre', link: '/sobre' }
     ],
@@ -86,6 +87,7 @@ export default defineConfig({
           { text: 'Capítulo 33: Trilhos de Prata e Sangue', link: '/public/capitulos/capitulo-33' },
           { text: 'Capítulo 34: O Sangue Frio do Maglev', link: '/public/capitulos/capitulo-34' },
           { text: 'Capítulo 35: O Respiro Sintético', link: '/public/capitulos/capitulo-35' },
+          { text: 'Capítulo 36: A Queda da Pilha', link: '/public/capitulos/capitulo-36' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]
