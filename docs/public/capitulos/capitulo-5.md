@@ -68,8 +68,12 @@ Um alarme começou a soar, baixo e grave. As luzes das cápsulas mudaram de verd
 
 "Hora de ir," disse Jaxon, já correndo para a saída.
 
-Elara olhou uma última vez para o jovem na cápsula. *Sinto muito*, pensou ela. *Sua dor será lembrada.*
+Painéis no teto se abriram, revelando metralhadoras automáticas em formato de esferas prateadas, cujos sensores laser verdes começaram a varrer freneticamente as passarelas do laboratório.
 
-Eles correram pelo corredor enquanto o laboratório começava a entrar em colapso atrás deles, o fogo purificador apagando os erros da Ordem, mas não a verdade que agora queimava na mente de Elara.
+"Deixe-os comigo!" Elara gritou. Ela lançou um pulso contundente de bioeletricidade através das telas holográficas próximas, que chicoteou pelos conduítes do teto. Duas das torres começaram a disparar descontroladamente em direção às próprias paredes e tubulações de estase.
+
+Elara olhou uma última vez para o jovem na cápsula enquanto o vidro trincava com os tiros de supressão de Jaxon, que explodia a terceira torre no final do corredor. *Sinto muito*, pensou ela. *Sua dor será lembrada.*
+
+Eles correram pelos destroços de metal enquanto o laboratório entrava em colapso total, jatos de chamas purificadoras brotando do chão e apagando os erros da Ordem, mas não a verdade que agora queimava na mente de Elara.
 
 A guerra não era mais apenas pela sobrevivência. Era pela própria alma da humanidade.

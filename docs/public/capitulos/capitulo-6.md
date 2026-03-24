@@ -56,15 +56,15 @@ Eles dispararam em direção à base do Mech. A única chance era entrar na zona
 
 Elara correu, seus pulmões queimando com o ar tóxico. Ela podia sentir a mente da máquina, uma consciência rudimentar feita de lógica de combate e ordens corrompidas. Ela não tentou hackeá-la; era complexo demais, antigo demais. Em vez disso, ela gritou mentalmente, projetando o "ruído" que havia sentido no laboratório, a dor das vítimas do Protocolo-V.
 
-O Titã hesitou. Por um milissegundo, sua programação de defesa vacilou diante da inundação de dados orgânicos corrompidos.
+O Titã hesitou. Por um milissegundo, sua programação de defesa vacilou diante da inundação de dados orgânicos corrompidos, engasgando suas engrenagens hidráulicas. O recuo elétrico subiu pelo braço de Elara, rasgando um grito mudo de sua garganta antes de desvanecer.
 
 Foi o suficiente. Eles deslizaram para uma abertura na blindagem do peito do gigante, caindo em uma escuridão oleosa.
 
-Lá dentro, o barulho da chuva desapareceu, substituído pelo zumbido grave do reator.
+Lá dentro, o barulho da chuva desapareceu, substituído pelo zumbido grave do reator. Elara desabou de joelhos no piso gradeado, tremendo incontrolavelmente. A estática residual arranhava a parte interna de seu crânio, fazendo seu nariz sangrar profusamente num filete escuro.
 
-"Você está bem?" perguntou Jaxon, acendendo um sinalizador químico. A luz vermelha iluminou um corredor de manutenção estreito, descendo para as profundezas da terra.
+"Ei, olha para mim," Jaxon demandou, acendendo um sinalizador químico que banhou o corredor estreito em luz vermelha, se abaixando ao lado dela. O rosto dele mostrava uma preocupação que ele raramente exibia.
 
-"Estou," ofegou Elara, limpando o suor frio da testa. "A entrada para o Nódulo... deve ser por aqui. Ele estava guardando o acesso."
+"Eu... estou," ela ofegou, pressionando a manga suja contra o nariz e lutando para ficar de pé enquanto o mundo rodava. A exaustão pesava em cada músculo. "O Nódulo... deve ser por aqui. Ele estava guardando o acesso."
 
 Jaxon olhou para o corredor escuro. "Ou talvez ele estivesse tentando manter algo lá embaixo, e não nós aqui fora."
 

@@ -24,7 +24,7 @@ Um ruído metálico à frente fez os dois congelarem. Do vapor que subia dos bue
 
 "Carne fresca..." sibilou o da frente, brandindo um cano de chumbo envolto em arame farpado.
 
-Jaxon ergueu o rifle com o braço bom, mas ele estava lento. A droga ainda não tinha feito efeito total. O viciado avançou com uma velocidade maníaca, gritando algo sobre o silêncio das estrelas.
+Jaxon tentou erguer o rifle, mas a servomotor de sua prótese esquerda engasgou com um zumbido estridente, travando pela metade e soltando uma fumaça com cheiro de cobre queimado. Ele xingou, precisando usar o joelho como apoio para estabilizar a pesada arma de plasma apenas com o braço bom. O movimento desajeitado custou segundos preciosos. A droga ainda não tinha feito efeito total. O viciado avançou com uma velocidade maníaca, gritando algo sobre o silêncio das estrelas.
 
 Elara sentiu o *zumbido* em sua mente. O medo tentou paralisá-la, mas ela o transformou em combustível.
 
