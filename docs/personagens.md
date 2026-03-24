@@ -10,7 +10,7 @@
     *   Veste couro desgastado reforçado com placas de cerâmica recuperada.
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Permite acelerar a percepção do tempo, reagindo a ameaças com precisão sobre-humana (efeito "Bullet Time"). O uso excessivo causa danos físicos e mentais. Mantém uma conexão psíquica persistente e dolorosa com o Deus-Máquina.
-    *   **Estado Atual (Cap. 36):** Foge da clínica do Beco das Sombras (A Pilha) enquanto as forças da Ordem do Silício iniciam uma "limpeza" no setor. Seus poderes bioelétricos criam uma ponte involuntária, permitindo que ela sinta a invasão dos Sentinelas controlados pelo Deus-Máquina rastreando sua assinatura de energia, forçando a descida com Vex e Jaxon para os antigos dutos térmicos para cegar os rastreadores.
+Seus poderes bioelétricos criam uma ponte involuntária, permitindo que ela sinta a invasão dos Sentinelas controlados pelo Deus-Máquina rastreando sua assinatura de energia. Isso força a descida com Vex e Jaxon para os antigos dutos térmicos, a fim de cegar os rastreadores.
 *   **Motivação:**
     *   Encontrar a "Fonte Primordial", uma lenda que promete purificar a terra e trazer de volta a era de ouro. Agora, busca sobreviver ao despertar do Deus-Máquina e entender a extensão de seus novos poderes, enquanto tenta salvar Jaxon.
 
@@ -22,7 +22,7 @@
     *   Um homem magro com óculos de realidade aumentada que cobrem metade do rosto.
     *   Veste um avental manchado de óleo e fluidos biológicos.
     *   Demonstra curiosidade mórbida pela anomalia bioelétrica de Elara.
-    *   **Estado Atual (Cap. 36):** Forçado a abandonar sua clínica no Beco das Sombras enquanto a Ordem do Silício inicia um extermínio. Liderou a fuga para um poço vertical de dutos térmicos desativados para mascarar a assinatura bioelétrica de Elara, injetando Jaxon com pesados inibidores de dor para que pudessem fugir.
+    *   **Estado Atual (Cap. 36):** Forçado a abandonar sua clínica no Beco das Sombras enquanto a Ordem do Silício inicia uma limpeza.
 *   **Motivação:**
     *   Conhecimento e sobrevivência. Interessado em estudar a "antena" humana que Elara se tornou.
 
@@ -57,7 +57,7 @@
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
     *   **Estado Atual (Cap. 36):** Levantou-se à força da mesa de operação para escapar da invasão da Ordem do Silício. Cada respiração através do implante sintético é mecânica e tortuosa. Movimenta-se graças a pesados inibidores de dor injetados por Vex, descendo aos escuros dutos térmicos abaixo da Pilha.
-    *   **Equipamento:** Roupas rasgadas, pulmão cibernético recém-implantado. Abandonou seu rifle de plasma na clínica devido ao dreno de bateria e urgência da fuga.
+    *   **Equipamento:** Roupas rasgadas, pulmão cibernético recém-implantado. Abandonou seu rifle de plasma na clínica devido à bateria descarregada e à urgência da fuga.
 *   **Motivação:**
     *   Inicialmente dinheiro, mas sua lealdade muda à medida que ele vê em Elara a esperança que pensava ter perdido. Determinado a proteger Elara, mesmo que isso custe sua vida.
 
@@ -117,7 +117,7 @@
 ### Deus-Máquina
 *   **Definição:** A entidade suprema venerada pela Ordem.
 *   **Revelação (Cap. 8):** Não é uma IA benevolente, mas uma consciência gestalt formada pela agonia e dados de milhares de mentes humanas escravizadas no Nódulo. Foi "acordado" pela intervenção de Elara e agora busca vingança/expansão com fúria incontrolável. Mantém uma "chamada" ativa na rede, caçando Elara através de qualquer conexão eletrônica.
-    *   **Estado Atual (Cap. 36):** Usa o Alto Sacerdote Malakar, que injetou a si mesmo com a droga Valkyr, e tenta encontrar Elara rastreando diretamente sua "assinatura bioelétrica" com uma invasão psíquica em sua mente, além da vigilância constante. Despachou Sentinelas e drones térmicos para a Pilha, iniciando uma "limpeza" mortal de contenção.
+    *   **Estado Atual (Cap. 36):** Usa o Alto Sacerdote Malakar, que injetou a si mesmo com a droga Valkyr, e tenta encontrar Elara rastreando diretamente sua "assinatura bioelétrica" através de uma invasão psíquica em sua mente, além da vigilância constante. Despachou Sentinelas e drones térmicos para a Pilha, iniciando uma "limpeza" mortal de contenção.
 
 ### Setor 4 (A Pilha)
 *   **Definição:** Um aglomerado vertical de habitações precárias, mercados negros e clínicas ilegais.
