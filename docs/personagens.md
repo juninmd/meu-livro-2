@@ -4,25 +4,26 @@
 
 *   **Função:** Protagonista / Sucateira
 *   **Idade:** 22 anos
-*   **Localização:** Túneis de manutenção entre o Setor 4 e o Setor 7
+*   **Localização:** Dutos Térmicos, Abaixo do Setor 4
 *   **Descrição:**
     *   Fisicamente magra e ágil, com **olhos violeta brilhantes** — uma mutação rara causada pela radiação dos núcleos de dados. Agora, após o contato com o Nódulo, o brilho é mais intenso e instável.
     *   Veste couro desgastado reforçado com placas de cerâmica recuperada.
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Permite acelerar a percepção do tempo, reagindo a ameaças com precisão sobre-humana (efeito "Bullet Time"). O uso excessivo causa danos físicos e mentais. Mantém uma conexão psíquica persistente e dolorosa com o Deus-Máquina.
-Seus poderes bioelétricos criam uma ponte involuntária, permitindo que ela sinta a invasão dos Sentinelas controlados pelo Deus-Máquina rastreando sua assinatura de energia. Isso força a descida com Vex e Jaxon para os antigos dutos térmicos, a fim de cegar os rastreadores.
+    *   Seus poderes bioelétricos criam uma ponte involuntária, permitindo que ela sinta a invasão dos Sentinelas controlados pelo Deus-Máquina rastreando sua assinatura de energia.
+    *   **Estado Atual (Cap. 37):** Esconde-se nos dutos térmicos profundos para despistar o rastreamento bioelétrico do Deus-Máquina. Aceitou a decisão drástica de parar de fugir e iniciar uma investida desesperada rumo às ruínas do Nódulo Primário.
 *   **Motivação:**
     *   Encontrar a "Fonte Primordial", uma lenda que promete purificar a terra e trazer de volta a era de ouro. Agora, busca sobreviver ao despertar do Deus-Máquina e entender a extensão de seus novos poderes, enquanto tenta salvar Jaxon.
 
 ## Dr. Vex
 
 *   **Função:** Coadjuvante / Ripperdoc (Médico Clandestino)
-*   **Localização:** Clínica no Beco das Sombras, Setor 4 (A Pilha)
+*   **Localização:** Dutos Térmicos, Abaixo do Setor 4
 *   **Descrição:**
     *   Um homem magro com óculos de realidade aumentada que cobrem metade do rosto.
     *   Veste um avental manchado de óleo e fluidos biológicos.
     *   Demonstra curiosidade mórbida pela anomalia bioelétrica de Elara.
-    *   **Estado Atual (Cap. 36):** Forçado a abandonar sua clínica no Beco das Sombras enquanto a Ordem do Silício inicia uma limpeza.
+    *   **Estado Atual (Cap. 37):** Escondido em uma câmara de condensação desativada nos dutos profundos com Elara e Jaxon após sua clínica ter sido destruída. Tenta manter o grupo vivo enquanto avalia a sanidade do plano suicida de Jaxon.
 *   **Motivação:**
     *   Conhecimento e sobrevivência. Interessado em estudar a "antena" humana que Elara se tornou.
 
@@ -56,7 +57,7 @@ Seus poderes bioelétricos criam uma ponte involuntária, permitindo que ela sin
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 36):** Levantou-se à força da mesa de operação para escapar da invasão da Ordem do Silício. Cada respiração através do implante sintético é mecânica e tortuosa. Movimenta-se graças a pesados inibidores de dor injetados por Vex, descendo aos escuros dutos térmicos abaixo da Pilha.
+    *   **Estado Atual (Cap. 37):** Escondido nos dutos térmicos abaixo da Pilha, sentindo dores atrozes da rejeição do polímero. Decidido a não morrer sufocado num buraco escuro, ele propõe uma investida final e suicida rumo ao Nódulo Primário.
     *   **Equipamento:** Roupas rasgadas, pulmão cibernético recém-implantado. Abandonou seu rifle de plasma na clínica devido à bateria descarregada e à urgência da fuga.
 *   **Motivação:**
     *   Inicialmente dinheiro, mas sua lealdade muda à medida que ele vê em Elara a esperança que pensava ter perdido. Determinado a proteger Elara, mesmo que isso custe sua vida.
