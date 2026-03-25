@@ -68,7 +68,7 @@ def main():
     personagens, texto = extract_metadata_and_text(filepath)
 
     # Ensure the prompt uses the open source model requirement "inspired by nano banana"
-    base_prompt = "Cyberpunk noir style, inspired by nano banana, high contrast, vibrant neon lighting, dark shadows, decaying urban environment, intricate details, cinematic masterpiece."
+    base_prompt = "Cyberpunk noir style, inspired by nano banana, melancholic and cynical tone, high contrast, vibrant neon lighting, dark shadows, decaying urban environment, intricate details, cinematic masterpiece."
     # Appends the extracted characters and chapter text snippet to form the complete prompt
     full_prompt = f"{base_prompt} Featuring characters: {personagens.replace('ignore', '[REDACTED]')}. Context: {texto.replace('ignore', '[REDACTED]')}"
 
