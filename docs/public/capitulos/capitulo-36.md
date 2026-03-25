@@ -56,7 +56,7 @@ Jaxon sugou o ar sintético com força, seus músculos relaxando marginalmente, 
 — Andem. — O mercenário disse, a voz ainda rouca, mas incrivelmente firme.
 
 Eu me aproximei da grade aberta, olhando para o abismo escuro. O cheiro de lodo antigo e ferrugem subiu como um hálito rançoso. Não havia como voltar. Atrás de nós, as forças de Malakar, controladas por um deus enfurecido; à nossa frente, a escuridão absoluta do submundo esquecido.
-    *   **Estado Atual (Cap. 36):** Levantou-se à força da mesa de operação para escapar da invasão da Ordem do Silício. Cada respiração através do implante sintético é mecânica e tortuosa. Movimenta-se, impulsionado por um choque adrenérgico e pesados inibidores de dor injetados por Vex, descendo aos escuros dutos térmicos abaixo da Pilha.
+
 Um som estridente de metal sendo rasgado ecoou do corredor principal. As luzes da clínica falharam de vez, restando apenas os displays de energia de emergência e o brilho estático que continuava saltando dos meus dedos.
 
 — Descida imediata. Eu cubro a retaguarda. — Vex disse, puxando uma pistola compacta do cinto. Uma arma minúscula, quase cômica perto do arsenal de Jaxon, mas nas mãos do ripperdoc parecia letal.
