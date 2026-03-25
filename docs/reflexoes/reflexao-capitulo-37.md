@@ -12,7 +12,7 @@
 ## Pontos Fortes e Fracos
 
 *   **Pontos Fortes:** O foco no sofrimento orgânico-mecânico de Jaxon torna a transição física brutal do capítulo anterior mais palpável. A sensação de impotência sendo lentamente transformada na decisão drástica de voltar ao Nódulo Primário é bem desenvolvida.
-*   **Pontos Fracos:** A progressão de "onde estamos" para "vamos invadir a base deles" pode parecer rápida. O salto de lógica do Jaxon (atacado e meio morto) sugerir um ataque frontal sem equipamento poderia ser melhor explorado, mas reflete o desespero e a natureza cínica do mercenário.
+*   **Pontos Fracos:** A progressão de "onde estamos" para "vamos invadir a base deles" pode parecer rápida. O salto de lógica do Jaxon (atacado e meio morto) ao sugerir um ataque frontal sem equipamento poderia ser melhor explorado, mas reflete o desespero e a natureza cínica do mercenário.
 
 ## Sanity Check
 
