@@ -10,7 +10,7 @@
     *   Veste couro desgastado reforçado com placas de cerâmica recuperada.
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Permite acelerar a percepção do tempo, reagindo a ameaças com precisão sobre-humana (efeito "Bullet Time"). O uso excessivo causa danos físicos e mentais. Mantém uma conexão psíquica persistente e dolorosa com o Deus-Máquina.
-Seus poderes bioelétricos criam uma ponte involuntária, permitindo que ela sinta a invasão dos Sentinelas controlados pelo Deus-Máquina rastreando sua assinatura de energia.
+    *   Seus poderes bioelétricos criam uma ponte involuntária, permitindo que ela sinta a invasão dos Sentinelas controlados pelo Deus-Máquina rastreando sua assinatura de energia.
     *   **Estado Atual (Cap. 37):** Esconde-se nos dutos térmicos profundos para despistar o rastreamento bioelétrico do Deus-Máquina. Aceitou a decisão drástica de parar de fugir e iniciar uma investida desesperada rumo às ruínas do Nódulo Primário.
 *   **Motivação:**
     *   Encontrar a "Fonte Primordial", uma lenda que promete purificar a terra e trazer de volta a era de ouro. Agora, busca sobreviver ao despertar do Deus-Máquina e entender a extensão de seus novos poderes, enquanto tenta salvar Jaxon.
