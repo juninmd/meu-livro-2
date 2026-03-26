@@ -11,7 +11,7 @@
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Permite acelerar a percepção do tempo, reagindo a ameaças com precisão sobre-humana (efeito "Bullet Time"). O uso excessivo causa danos físicos e mentais. Mantém uma conexão psíquica persistente e dolorosa com o Deus-Máquina.
     *   Seus poderes bioelétricos criam uma ponte involuntária, permitindo que ela sinta a invasão dos Sentinelas controlados pelo Deus-Máquina rastreando sua assinatura de energia.
-    *   **Estado Atual (Cap. 37):** Esconde-se nos dutos térmicos profundos para despistar o rastreamento bioelétrico do Deus-Máquina. Aceitou a decisão drástica de parar de fugir e iniciar uma investida desesperada rumo às ruínas do Nódulo Primário.
+    *   **Estado Atual (Cap. 38):** Deixou os dutos térmicos e iniciou a marcha suicida em direção ao Nódulo Primário, enfrentando o frio extremo e os escombros da destruição prévia. A conexão mental com o Deus-Máquina funciona agora como um "sonar" inquietante de aproximação.
 *   **Motivação:**
     *   Encontrar a "Fonte Primordial", uma lenda que promete purificar a terra e trazer de volta a era de ouro. Agora, busca sobreviver ao despertar do Deus-Máquina e entender a extensão de seus novos poderes, enquanto tenta salvar Jaxon.
 
@@ -23,7 +23,7 @@
     *   Um homem magro com óculos de realidade aumentada que cobrem metade do rosto.
     *   Veste um avental manchado de óleo e fluidos biológicos.
     *   Demonstra curiosidade mórbida pela anomalia bioelétrica de Elara.
-    *   **Estado Atual (Cap. 37):** Escondido em uma câmara de condensação desativada nos dutos profundos com Elara e Jaxon após sua clínica ter sido destruída. Tenta manter o grupo vivo enquanto avalia a sanidade do plano suicida de Jaxon.
+    *   **Estado Atual (Cap. 38):** Lidera o caminho pelas ruínas congeladas a caminho do Nódulo Primário utilizando seu visor infravermelho. Mantém Jaxon medicado contra a rejeição do pulmão sintético.
 *   **Motivação:**
     *   Conhecimento e sobrevivência. Interessado em estudar a "antena" humana que Elara se tornou.
 
@@ -57,7 +57,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 37):** Escondido nos dutos térmicos abaixo da Pilha, sentindo dores atrozes da rejeição do polímero. Decidido a não morrer sufocado num buraco escuro, ele propõe uma investida final e suicida rumo ao Nódulo Primário.
+    *   **Estado Atual (Cap. 38):** Avança teimosamente pelas ruínas congeladas em direção ao Nódulo Primário. O pulmão sintético apresenta desgaste sonoro, mas ele ignora a rejeição orgânica auxiliado por inibidores. Armado apenas com sua pesada pistola magnética.
     *   **Equipamento:** Roupas rasgadas, pulmão cibernético recém-implantado. Abandonou seu rifle de plasma na clínica devido à bateria descarregada e à urgência da fuga.
 *   **Motivação:**
     *   Inicialmente dinheiro, mas sua lealdade muda à medida que ele vê em Elara a esperança que pensava ter perdido. Determinado a proteger Elara, mesmo que isso custe sua vida.
@@ -118,7 +118,7 @@
 ### Deus-Máquina
 *   **Definição:** A entidade suprema venerada pela Ordem.
 *   **Revelação (Cap. 8):** Não é uma IA benevolente, mas uma consciência gestalt formada pela agonia e dados de milhares de mentes humanas escravizadas no Nódulo. Foi "acordado" pela intervenção de Elara e agora busca vingança/expansão com fúria incontrolável. Mantém uma "chamada" ativa na rede, caçando Elara através de qualquer conexão eletrônica.
-    *   **Estado Atual (Cap. 36):** Usa o Alto Sacerdote Malakar, que injetou a si mesmo com a droga Valkyr, e tenta encontrar Elara rastreando diretamente sua "assinatura bioelétrica" através de uma invasão psíquica em sua mente, além da vigilância constante. Despachou Sentinelas e drones térmicos para a Pilha, iniciando uma "limpeza" mortal de contenção.
+    *   **Estado Atual (Cap. 38):** Sente ativamente a aproximação de Elara ao Nódulo Primário através da ponte bioelétrica. A comunicação invasiva se transformou em uma "estática" de expectativa.
 
 ### Setor 4 (A Pilha)
 *   **Definição:** Um aglomerado vertical de habitações precárias, mercados negros e clínicas ilegais.

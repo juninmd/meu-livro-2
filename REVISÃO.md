@@ -14,11 +14,11 @@
 - [x] Capítulos 28, 29, 30
 - [x] Capítulos 31, 32, 33
 - [x] Capítulos 34, 35, 36
-- [x] Capítulo 37 (Lido)
+- [x] Capítulo 37, 38 (Lido)
 
 ## Avaliação de Personagens (Elenco)
 
-**Coerência:** O Capítulo 37 consolida a nova dinâmica do trio nos dutos térmicos. Jaxon, recém-operado e sustentado por drogas, propõe um ataque suicida de volta ao Nódulo Primário. Essa decisão reflete seu pragmatismo militar (melhor morrer lutando do que asfixiado num buraco). Elara concorda porque sua fuga constante tem custado muito caro (a queda de A Pilha, Kaelen, etc). O médico Vex atua como a voz da razão que é ignorada, completando o equilíbrio do grupo.
+**Coerência:** O Capítulo 37 e 38 consolidam a dinâmica do trio fora dos dutos térmicos. Jaxon, recém-operado e sustentado por drogas, avança teimosamente em direção ao ataque suicida no Nódulo Primário. Essa decisão reflete seu pragmatismo militar. Elara assume a linha de frente de detecção. O médico Vex atua como o balanço técnico com sua visão de mundo cínica e pragmática, liderando através das ruínas congeladas. O elenco permanece enxuto e conciso, sem introduções desnecessárias.
 
 **Necessidade de Novos Personagens:** O elenco está perfeitamente definido para o último ato. Eles vão voltar para o "inferno deles" (Nódulo Primário / Malakar). A história foca no encerramento da jornada com os personagens que a construíram.
 

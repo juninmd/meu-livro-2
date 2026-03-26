@@ -45,6 +45,7 @@ export default defineConfig({
       { text: 'Capítulo 35', link: '/public/capitulos/capitulo-35' },
       { text: 'Capítulo 36', link: '/public/capitulos/capitulo-36' },
       { text: 'Capítulo 37', link: '/public/capitulos/capitulo-37' },
+      { text: 'Capítulo 38', link: '/public/capitulos/capitulo-38' },
       { text: 'Personagens', link: '/personagens' },
       { text: 'Sobre', link: '/sobre' }
     ],
@@ -90,6 +91,7 @@ export default defineConfig({
           { text: 'Capítulo 35: O Respiro Sintético', link: '/public/capitulos/capitulo-35' },
           { text: 'Capítulo 36: A Queda da Pilha', link: '/public/capitulos/capitulo-36' },
           { text: 'Capítulo 37: Ecos no Abismo', link: '/public/capitulos/capitulo-37' },
+          { text: 'Capítulo 38: A Marcha dos Condenados', link: '/public/capitulos/capitulo-38' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]
