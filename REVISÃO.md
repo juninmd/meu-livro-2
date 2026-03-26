@@ -22,7 +22,7 @@
 
 **Necessidade de Novos Personagens:** O elenco está perfeitamente definido para o último ato. Eles vão voltar para o "inferno deles" (Nódulo Primário / Malakar). A história foca no encerramento da jornada com os personagens que a construíram.
 
-*Ação:* A "Continuidade" do estado físico de Jaxon é excelente (o chiado mecânico constante do pulmão sintético). O ambiente (dutos térmicos ofuscando a assinatura térmica deles) faz sentido com o lore e as regras estabelecidas para os Sentinelas. A história atingiu um ponto de não-retorno de forma orgânica e impactante. Não há necessidade de reescritas no Cap 37.
+**Ação:** A "Continuidade" do estado físico de Jaxon é excelente (o chiado mecânico constante do pulmão sintético). O ambiente (dutos térmicos ofuscando a assinatura térmica deles) faz sentido com o lore e as regras estabelecidas para os Sentinelas. A história atingiu um ponto de não-retorno de forma orgânica e impactante. Não há necessidade de reescritas no Cap 37.
 
 ## Conclusão da Revisão
 A história de "O Legado de Silício" apresenta personagens coerentes e com agência. A progressão de seus ferimentos, limitações (físicas e dos poderes) e os sacrifícios exigidos estão ancorados nas regras estabelecidas em `personagens.md`. O ritmo Noir Cyberpunk é mantido de forma exemplar em todos os 37 capítulos. A obra não necessita da inserção abrupta de novos personagens no momento atual. A trama está no clímax final rumo ao Nódulo Primário. A revisão atesta a alta qualidade do material presente.
