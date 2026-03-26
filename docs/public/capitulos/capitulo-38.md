@@ -7,7 +7,7 @@ personagens: Elara, Dr. Vex, Jaxon
 
 # A Marcha dos Condenados
 
-Deixar os dutos térmicos para trás foi como abandonar o ventre de uma fera febril. A umidade sufocante e o cheiro de lodo e vapor foram gradualmente substituídos por uma lufada de ar frio, seco e cortante. O calor opressivo que camuflava nossas assinaturas termais desaparecia a cada degrau de ferro enferrujado que subíamos na escuridão. O mundo lá em cima não fedia a ferrugem úmida, fedia a ozônio, concreto triturado e ao vazio deixado pelo Colapso.
+Deixar os dutos térmicos para trás foi como abandonar o ventre de uma fera febril. A umidade sufocante e o cheiro de lodo e vapor foram gradualmente substituídos por uma lufada de ar frio, seco e cortante. O calor opressivo que camuflava nossas assinaturas térmicas desaparecia a cada degrau de ferro enferrujado que subíamos na escuridão. O mundo lá em cima não fedia a ferrugem úmida, fedia a ozônio, concreto triturado e ao vazio deixado pelo Colapso.
 
 *Ssssh-clique.*
 
