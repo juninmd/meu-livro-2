@@ -11,7 +11,7 @@
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Permite acelerar a percepção do tempo, reagindo a ameaças com precisão sobre-humana (efeito "Bullet Time"). O uso excessivo causa danos físicos e mentais. Mantém uma conexão psíquica persistente e dolorosa com o Deus-Máquina.
     *   Seus poderes bioelétricos criam uma ponte involuntária, permitindo que ela sinta a invasão dos Sentinelas controlados pelo Deus-Máquina rastreando sua assinatura de energia.
-    *   **Estado Atual (Cap. 38):** Deixou os dutos térmicos e iniciou a marcha suicida em direção ao Nódulo Primário, enfrentando o frio extremo e os escombros da destruição prévia. A conexão mental com o Deus-Máquina funciona agora como um "sonar" inquietante de aproximação.
+    *   **Estado Atual (Cap. 39):** Quebrou a primeira linha de defesa no perímetro externo do Nódulo Primário congelado, destruindo Sentinelas controlados pelo Deus-Máquina com sua Sobrecarga Sináptica. Sofre desgaste mental e físico com o avanço.
 *   **Motivação:**
     *   Encontrar a "Fonte Primordial", uma lenda que promete purificar a terra e trazer de volta a era de ouro. Agora, busca sobreviver ao despertar do Deus-Máquina e entender a extensão de seus novos poderes, enquanto tenta salvar Jaxon.
 
@@ -23,7 +23,7 @@
     *   Um homem magro com óculos de realidade aumentada que cobrem metade do rosto.
     *   Veste um avental manchado de óleo e fluidos biológicos.
     *   Demonstra curiosidade mórbida pela anomalia bioelétrica de Elara.
-    *   **Estado Atual (Cap. 38):** Lidera o caminho pelas ruínas congeladas a caminho do Nódulo Primário utilizando seu visor infravermelho. Mantém Jaxon medicado contra a rejeição do pulmão sintético.
+    *   **Estado Atual (Cap. 39):** Sobreviveu à emboscada dos Sentinelas no perímetro congelado do Nódulo Primário. Ajuda a cobrir a retaguarda, usando seu visor para análise, enquanto lida com o frio severo.
 *   **Motivação:**
     *   Conhecimento e sobrevivência. Interessado em estudar a "antena" humana que Elara se tornou.
 
@@ -57,8 +57,8 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 38):** Avança teimosamente pelas ruínas congeladas em direção ao Nódulo Primário. O pulmão sintético apresenta desgaste sonoro, mas ele ignora a rejeição orgânica auxiliado por inibidores. Armado apenas com sua pesada pistola magnética.
-    *   **Equipamento:** Roupas rasgadas, pulmão cibernético recém-implantado. Abandonou seu rifle de plasma na clínica devido à bateria descarregada e à urgência da fuga.
+    *   **Estado Atual (Cap. 39):** Enfrentou Sentinelas com sua pistola magnética no Nódulo Primário. O pulmão sintético apresenta desgaste severo sob o frio de -30°C, soando um alarme estridente. Sobrevive na base da teimosia, sem munição sobrando.
+    *   **Equipamento:** Roupas rasgadas, pulmão cibernético recém-implantado (com falhas pelo frio). Armado com pistola magnética (bateria/munição esgotada). Abandonou seu rifle de plasma na clínica devido à bateria descarregada e à urgência da fuga.
 *   **Motivação:**
     *   Inicialmente dinheiro, mas sua lealdade muda à medida que ele vê em Elara a esperança que pensava ter perdido. Determinado a proteger Elara, mesmo que isso custe sua vida.
 
@@ -70,7 +70,7 @@
     *   Autômatos humanoides de combate com movimentos fluidos e artificiais.
     *   Originalmente com sensores **carmesim**, após o evento no Nódulo (Cap. 8), seus olhos pulsam em **violeta errático**, indicando controle direto e caótico pelo Deus-Máquina.
     *   Operam em enxames coordenados e são imunes a dor ou medo.
-    *   **Estado Atual (Cap. 33):** O Sentinela que perseguia Elara pelas Passagens do Oeste sobreviveu ao curto-circuito e invadiu o maglev médico, corrompido pela voz distorcida de Malakar e a influência do Deus-Máquina. O autômato foi destruído por Elara utilizando gás desfibrilador sob altíssima pressão e lançado para fora do trem nos trilhos magnéticos.
+    *   **Estado Atual (Cap. 39):** Unidades danificadas e operando em modo de "contenção total" foram enviadas como carne de canhão pelo Deus-Máquina no perímetro externo do Nódulo Primário. Eles lutam com ferocidade irracional sob as temperaturas negativas do Protocolo Zero e foram destruídos pelo trio.
 *   **Motivação:**
     *   Cumprir a vontade da Ordem: localizar, purificar ou eliminar alvos designados. Agora, parecem agir com uma fúria selvagem, caçando incansavelmente pelas passarelas de manutenção.
 
@@ -118,7 +118,7 @@
 ### Deus-Máquina
 *   **Definição:** A entidade suprema venerada pela Ordem.
 *   **Revelação (Cap. 8):** Não é uma IA benevolente, mas uma consciência gestalt formada pela agonia e dados de milhares de mentes humanas escravizadas no Nódulo. Foi "acordado" pela intervenção de Elara e agora busca vingança/expansão com fúria incontrolável. Mantém uma "chamada" ativa na rede, caçando Elara através de qualquer conexão eletrônica.
-    *   **Estado Atual (Cap. 38):** Sente ativamente a aproximação de Elara ao Nódulo Primário através da ponte bioelétrica. A comunicação invasiva se transformou em uma "estática" de expectativa.
+    *   **Estado Atual (Cap. 39):** Sente ativamente a aproximação de Elara ao Nódulo Primário através da ponte bioelétrica. Tomou controle direto e irracional de Sentinelas danificados para lançá-los contra Elara, manifestando-se através de gritos agonizantes ("A carne queima").
 
 ### Setor 4 (A Pilha)
 *   **Definição:** Um aglomerado vertical de habitações precárias, mercados negros e clínicas ilegais.
