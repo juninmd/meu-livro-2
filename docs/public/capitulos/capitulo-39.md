@@ -27,7 +27,7 @@ Um zumbido irregular. Descompassado. Assinaturas elétricas se movendo pelas som
 
 — Parem. — Minha voz cortou o chiado do pulmão de Jaxon. Abri os olhos, a íris esquerda irradiando uma bioluminescência roxa intensa que pintou o gelo ao meu redor.
 
-Vex congelou no lugar. Jaxon ergueu a pistola, destravando o imã de aceleração com um *clique* surdo.
+Vex congelou no lugar. Jaxon ergueu a pistola, destravando o ímã de aceleração com um *clique* surdo.
 
 Do alto de uma viga transversal congelada, a dez metros de altura, a escuridão se fragmentou. Não houve o brilho carmesim característico dos Sentinelas da Ordem do Silício. Houve apenas flashes esporádicos e erráticos de violeta doentio — os "olhos" corrompidos pelo controle direto do Deus-Máquina.
 
