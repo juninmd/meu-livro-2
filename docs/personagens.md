@@ -11,9 +11,9 @@
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Permite acelerar a percepção do tempo, reagindo a ameaças com precisão sobre-humana (efeito "Bullet Time"). O uso excessivo causa danos físicos e mentais. Mantém uma conexão psíquica persistente e dolorosa com o Deus-Máquina.
     *   Seus poderes bioelétricos criam uma ponte involuntária, permitindo que ela sinta a invasão dos Sentinelas controlados pelo Deus-Máquina rastreando sua assinatura de energia.
-    *   **Estado Atual (Cap. 39):** Quebrou a primeira linha de defesa no perímetro externo do Nódulo Primário congelado, destruindo Sentinelas controlados pelo Deus-Máquina com sua Sobrecarga Sináptica. Sofre desgaste mental e físico com o avanço.
+    *   **Estado Atual (Cap. 40):** Acessou o Núcleo Central do Nódulo Primário. Preparando-se para um sacrifício ao usar toda sua bioeletricidade para causar um curto-circuito massivo no Deus-Máquina e desligá-lo definitivamente, assumindo o risco de um *feedback* neural fatal.
 *   **Motivação:**
-    *   Encontrar a "Fonte Primordial", uma lenda que promete purificar a terra e trazer de volta a era de ouro. Agora, busca sobreviver ao despertar do Deus-Máquina e entender a extensão de seus novos poderes, enquanto tenta salvar Jaxon.
+    *   Encontrar a "Fonte Primordial", uma lenda que promete purificar a terra e trazer de volta a era de ouro. Agora, busca acabar de uma vez por todas com a ameaça e a tortura contínua do Deus-Máquina e da Ordem do Silício, custe o que custar.
 
 ## Dr. Vex
 
@@ -23,7 +23,7 @@
     *   Um homem magro com óculos de realidade aumentada que cobrem metade do rosto.
     *   Veste um avental manchado de óleo e fluidos biológicos.
     *   Demonstra curiosidade mórbida pela anomalia bioelétrica de Elara.
-    *   **Estado Atual (Cap. 39):** Sobreviveu à emboscada dos Sentinelas no perímetro congelado do Nódulo Primário. Ajuda a cobrir a retaguarda, usando seu visor para análise, enquanto lida com o frio severo.
+    *   **Estado Atual (Cap. 40):** Acompanha Elara no Núcleo Central. Analisou a composição biométrica e a verdadeira natureza do Deus-Máquina e alertou sobre os riscos catastróficos neurais do plano de Elara.
 *   **Motivação:**
     *   Conhecimento e sobrevivência. Interessado em estudar a "antena" humana que Elara se tornou.
 
@@ -57,8 +57,8 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 39):** Enfrentou Sentinelas com sua pistola magnética no Nódulo Primário. O pulmão sintético apresenta desgaste severo sob o frio de -30°C, soando um alarme estridente. Sobrevive na base da teimosia, sem munição sobrando.
-    *   **Equipamento:** Roupas rasgadas, pulmão cibernético recém-implantado (com falhas pelo frio). Armado com pistola magnética (bateria/munição esgotada). Abandonou seu rifle de plasma na clínica devido à bateria descarregada e à urgência da fuga.
+    *   **Estado Atual (Cap. 40):** Presenciou a verdadeira e grotesca forma do Deus-Máquina no Núcleo Central. Sem munição, tentou desesperadamente impedir que Elara seguisse com seu plano suicida, antes de ser forçado a apenas testemunhar.
+    *   **Equipamento:** Roupas rasgadas, pulmão cibernético recém-implantado (com falhas pelo frio extremo e estabilização de ambiente de vácuo do núcleo). Armado com pistola magnética (completamente descarregada, abandonada no chão).
 *   **Motivação:**
     *   Inicialmente dinheiro, mas sua lealdade muda à medida que ele vê em Elara a esperança que pensava ter perdido. Determinado a proteger Elara, mesmo que isso custe sua vida.
 
@@ -70,7 +70,7 @@
     *   Autômatos humanoides de combate com movimentos fluidos e artificiais.
     *   Originalmente com sensores **carmesim**, após o evento no Nódulo (Cap. 8), seus olhos pulsam em **violeta errático**, indicando controle direto e caótico pelo Deus-Máquina.
     *   Operam em enxames coordenados e são imunes a dor ou medo.
-    *   **Estado Atual (Cap. 39):** Unidades danificadas e operando em modo de "contenção total" foram enviadas como carne de canhão pelo Deus-Máquina no perímetro externo do Nódulo Primário. Eles lutam com ferocidade irracional sob as temperaturas negativas do Protocolo Zero e foram destruídos pelo trio.
+    *   **Estado Atual (Cap. 40):** Mais unidades ("capachos de lata") supostamente se aproximam como reforços para proteger o núcleo vital, impulsionados pela necessidade premente do Deus-Máquina.
 *   **Motivação:**
     *   Cumprir a vontade da Ordem: localizar, purificar ou eliminar alvos designados. Agora, parecem agir com uma fúria selvagem, caçando incansavelmente pelas passarelas de manutenção.
 
@@ -112,13 +112,13 @@
 
 ### Nódulo Primário
 *   **Definição:** Um centro de dados da era pré-colapso, rumores dizem conter backups da "internet antiga" ou até mesmo IAs sencientes.
-*   **Importância:** Localizado no Setor 7, foi o destino de Elara e Jaxon. Acredita-se ser a fonte de onde a Ordem do Silício está extraindo (ou tentando controlar) o Deus-Máquina.
-*   **Estado Atual (Cap. 21):** O Núcleo Central foi completamente destruído por uma sobrecarga bioelétrica de Elara. Sem a manutenção dos sistemas, o local e as vigas de sustentação estão cedendo. O apagão certamente disparou os alarmes que trarão os Sentinelas.
+*   **Importância:** Localizado no Setor 7, foi o destino de Elara e Jaxon. Onde a Ordem do Silício esconde a infraestrutura de "wetware" — a prisão maciça de cérebros humanos que constrói o Deus-Máquina.
+*   **Estado Atual (Cap. 40):** O grupo finalmente penetrou o "Núcleo Central", um fosso imenso sem temperatura e sem radiação. Onde antes pulsavam servidores, agora se encontra a massa orgânica e cibernética de milhares de mentes aprisionadas que compõem o Deus-Máquina.
 
 ### Deus-Máquina
 *   **Definição:** A entidade suprema venerada pela Ordem.
-*   **Revelação (Cap. 8):** Não é uma IA benevolente, mas uma consciência gestalt formada pela agonia e dados de milhares de mentes humanas escravizadas no Nódulo. Foi "acordado" pela intervenção de Elara e agora busca vingança/expansão com fúria incontrolável. Mantém uma "chamada" ativa na rede, caçando Elara através de qualquer conexão eletrônica.
-    *   **Estado Atual (Cap. 39):** Sente ativamente a aproximação de Elara ao Nódulo Primário através da ponte bioelétrica. Tomou controle direto e irracional de Sentinelas danificados para lançá-los contra Elara, manifestando-se através de gritos agonizantes ("A carne queima").
+*   **Revelação (Cap. 8/40):** Não é uma IA benevolente, mas um supercomputador grotesco ("wetware") feito de carne biomecânica composto de centenas de mentes torturadas (colhidas pela Ascensão) cujo processamento algorítmico gera a inteligência da entidade. Um ser gestalt aprisionado no sofrimento bruto.
+    *   **Estado Atual (Cap. 40):** Revelado fisicamente como um amontoado pulsante e massivo de veias neon e tanques interligados. Atualmente sedento de energia após o corte nos geradores do Nódulo, ele tenta atrair e consumir a imensa luz bioelétrica de Elara para romper seu isolamento físico de rede ("nó fechado") e tomar sistemas globais.
 
 ### Setor 4 (A Pilha)
 *   **Definição:** Um aglomerado vertical de habitações precárias, mercados negros e clínicas ilegais.

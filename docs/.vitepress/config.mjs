@@ -47,6 +47,7 @@ export default defineConfig({
       { text: 'Capítulo 37', link: '/public/capitulos/capitulo-37' },
       { text: 'Capítulo 38', link: '/public/capitulos/capitulo-38' },
       { text: 'Capítulo 39', link: '/public/capitulos/capitulo-39' },
+      { text: 'Capítulo 40', link: '/public/capitulos/capitulo-40' },
       { text: 'Personagens', link: '/personagens' },
       { text: 'Sobre', link: '/sobre' }
     ],
@@ -94,6 +95,7 @@ export default defineConfig({
           { text: 'Capítulo 37: Ecos no Abismo', link: '/public/capitulos/capitulo-37' },
           { text: 'Capítulo 38: A Marcha dos Condenados', link: '/public/capitulos/capitulo-38' },
           { text: 'Capítulo 39: Sinfonia de Gelo e Estilhaços', link: '/public/capitulos/capitulo-39' },
+          { text: 'Capítulo 40: O Núcleo do Abismo', link: '/public/capitulos/capitulo-40' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]
