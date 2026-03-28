@@ -58,7 +58,7 @@
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
     *   **Estado Atual (Cap. 40):** Presenciou a verdadeira e grotesca forma do Deus-Máquina no Núcleo Central. Sem munição, tentou desesperadamente impedir que Elara seguisse com seu plano suicida, antes de ser forçado a apenas testemunhar.
-    *   **Equipamento:** Roupas rasgadas, pulmão cibernético recém-implantado (com falhas pelo frio extremo e estabilização de ambiente de vácuo do núcleo). Armado com pistola magnética (completamente descarregada, abandonada no chão).
+*   **Equipamento:** Roupas rasgadas, pulmão cibernético recém-implantado (com falhas devido ao frio extremo e ao ambiente de vácuo do núcleo). Armado com pistola magnética (completamente descarregada, abandonada no chão).
 *   **Motivação:**
     *   Inicialmente dinheiro, mas sua lealdade muda à medida que ele vê em Elara a esperança que pensava ter perdido. Determinado a proteger Elara, mesmo que isso custe sua vida.
 
@@ -113,7 +113,7 @@
 ### Nódulo Primário
 *   **Definição:** Um centro de dados da era pré-colapso, rumores dizem conter backups da "internet antiga" ou até mesmo IAs sencientes.
 *   **Importância:** Localizado no Setor 7, foi o destino de Elara e Jaxon. Onde a Ordem do Silício esconde a infraestrutura de "wetware" — a prisão maciça de cérebros humanos que constrói o Deus-Máquina.
-*   **Estado Atual (Cap. 40):** O grupo finalmente penetrou o "Núcleo Central", um fosso imenso sem temperatura e sem radiação. Onde antes pulsavam servidores, agora se encontra a massa orgânica e cibernética de milhares de mentes aprisionadas que compõem o Deus-Máquina.
+*   **Estado Atual (Cap. 40):** O grupo finalmente penetrou o "Núcleo Central", um fosso imenso de temperatura absoluta e sem radiação. Onde antes pulsavam servidores, agora se encontra a massa orgânica e cibernética de milhares de mentes aprisionadas que compõem o Deus-Máquina.
 
 ### Deus-Máquina
 *   **Definição:** A entidade suprema venerada pela Ordem.
