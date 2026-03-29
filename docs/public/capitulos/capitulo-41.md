@@ -47,7 +47,7 @@ Senti a estrutura gestalt começar a fraturar sob a voltagem excessiva. A fome d
 
 *ERRO... CATASTRÓFICO... COLAPSO... SISTÊMICO...*
 
-A voz na minha cabeça fragmentou-se em milhares de gemidos digitais individuais. E então, um a um, os elos se romperam. A catedral inverteida tremeu violentamente. Centenas de tanques estouraram simultaneamente, liberando cascatas de fluido e carne morta no abismo sem fim.
+A catedral invertida tremeu violentamente.
 
 O brilho branco atingiu seu ápice, engolindo minha visão, obliterando a escuridão gelada, e transformando o ar em plasma puro.
 
@@ -57,6 +57,6 @@ Minha conexão com a rede foi cortada brutalmente. O mundo físico desapareceu. 
 
 Caí na grade de aço do piso. O baque surdo pareceu vir de muito longe. Tentei respirar, mas meus pulmões se recusavam a abrir. O zumbido no meu ouvido era constante e monótono, a trilha sonora do silêncio final.
 
-A última coisa que minha visão turva registrou antes de o negro completo assumir o controle, foi a luz violeta do coração do Deus-Máquina apagando, deitando o núcleo monstruoso e retorcido na escuridão eterna. O silício finalmente silenciado. O legado quebrado.
+A última coisa que minha visão turva registrou antes de o negro completo assumir o controle, foi a luz violeta do coração do Deus-Máquina apagando, lançando o núcleo monstruoso e retorcido na escuridão eterna.
 
 Eu não sabia se ainda estava viva. Mas eu sabia que ele estava morto.
