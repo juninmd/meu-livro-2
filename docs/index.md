@@ -77,6 +77,7 @@ O mundo é uma mistura de natureza retomando seu espaço e esqueletos de megacid
 - [Capítulo 38: A Marcha dos Condenados](/public/capitulos/capitulo-38)
 - [Capítulo 39: Sinfonia de Gelo e Estilhaços](/public/capitulos/capitulo-39)
 - [Capítulo 40: O Núcleo do Abismo](/public/capitulos/capitulo-40)
+- [Capítulo 41: A Centelha Final](/public/capitulos/capitulo-41)
 
 <div class="story-card">
 <strong>O Legado de Silício</strong> explora a linha tênue entre tecnologia e magia em um futuro esquecido.
