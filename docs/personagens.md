@@ -11,7 +11,7 @@
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Permite acelerar a percepção do tempo, reagindo a ameaças com precisão sobre-humana (efeito "Bullet Time"). O uso excessivo causa danos físicos e mentais. Mantém uma conexão psíquica persistente e dolorosa com o Deus-Máquina.
     *   Seus poderes bioelétricos criam uma ponte involuntária, permitindo que ela sinta a invasão dos Sentinelas controlados pelo Deus-Máquina rastreando sua assinatura de energia.
-    *   **Estado Atual (Cap. 40):** Acessou o Núcleo Central do Nódulo Primário. Preparando-se para um sacrifício ao usar toda sua bioeletricidade para causar um curto-circuito massivo no Deus-Máquina e desligá-lo definitivamente, assumindo o risco de um *feedback* neural fatal.
+    *   **Estado Atual (Cap. 41):** Realizou o sacrifício supremo no Núcleo Central, fundindo sua própria força vital com a fúria da Sobrecarga Sináptica para colapsar o Deus-Máquina com uma explosão letal de bioeletricidade. Seu destino final (vida, morte, ou algo entre os dois) após o terrível *feedback* neural permanece desconhecido no escuro profundo.
 *   **Motivação:**
     *   Encontrar a "Fonte Primordial", uma lenda que promete purificar a terra e trazer de volta a era de ouro. Agora, busca acabar de uma vez por todas com a ameaça e a tortura contínua do Deus-Máquina e da Ordem do Silício, custe o que custar.
 
@@ -23,7 +23,7 @@
     *   Um homem magro com óculos de realidade aumentada que cobrem metade do rosto.
     *   Veste um avental manchado de óleo e fluidos biológicos.
     *   Demonstra curiosidade mórbida pela anomalia bioelétrica de Elara.
-    *   **Estado Atual (Cap. 40):** Acompanha Elara no Núcleo Central. Analisou a composição biométrica e a verdadeira natureza do Deus-Máquina e alertou sobre os riscos catastróficos neurais do plano de Elara.
+    *   **Estado Atual (Cap. 41):** Testemunhou a destruição e silenciamento do Deus-Máquina provocado por Elara. Ele agora se encontra na escuridão resultante, enfrentando o fim da entidade sem precedentes.
 *   **Motivação:**
     *   Conhecimento e sobrevivência. Interessado em estudar a "antena" humana que Elara se tornou.
 
@@ -57,7 +57,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 40):** Presenciou a verdadeira e grotesca forma do Deus-Máquina no Núcleo Central. Sem munição, tentou desesperadamente impedir que Elara seguisse com seu plano suicida, antes de ser forçado a apenas testemunhar.
+    *   **Estado Atual (Cap. 41):** Lutou inutilmente contra as condições absolutas do Núcleo Central para impedir Elara de prosseguir. Após assistir o curto-circuito final causado por ela e a morte do Deus-Máquina, encontra-se imerso nas trevas da sala estilhaçada.
 *   **Equipamento:** Roupas rasgadas, pulmão cibernético recém-implantado (com falhas devido ao frio extremo e ao ambiente de vácuo do núcleo). Armado com pistola magnética (completamente descarregada, abandonada no chão).
 *   **Motivação:**
     *   Inicialmente dinheiro, mas sua lealdade muda à medida que ele vê em Elara a esperança que pensava ter perdido. Determinado a proteger Elara, mesmo que isso custe sua vida.
@@ -118,7 +118,7 @@
 ### Deus-Máquina
 *   **Definição:** A entidade suprema venerada pela Ordem.
 *   **Revelação (Cap. 8/40):** Não é uma IA benevolente, mas um supercomputador grotesco ("wetware") feito de carne biomecânica composto de centenas de mentes torturadas (colhidas pela Ascensão) cujo processamento algorítmico gera a inteligência da entidade. Um ser gestalt aprisionado no sofrimento bruto.
-    *   **Estado Atual (Cap. 40):** Revelado fisicamente como um amontoado pulsante e massivo de veias neon e tanques interligados. Atualmente sedento de energia após o corte nos geradores do Nódulo, ele tenta atrair e consumir a imensa luz bioelétrica de Elara para romper seu isolamento físico de rede ("nó fechado") e tomar sistemas globais.
+    *   **Estado Atual (Cap. 41):** Silenciado definitivamente. O supercomputador composto de "wetware" entrou em colapso catastrófico e teve seus milhares de tanques estilhaçados após Elara saturar suas conexões com toda sua bioeletricidade acumulada, matando a entidade.
 
 ### Setor 4 (A Pilha)
 *   **Definição:** Um aglomerado vertical de habitações precárias, mercados negros e clínicas ilegais.
