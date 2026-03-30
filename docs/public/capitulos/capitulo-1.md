@@ -1,8 +1,11 @@
-# Capítulo 1: O Canto
+---
+title: O Canto
+data: Ciclo Solar 302, Era Pós-Colapso
+localização: Ruínas de Nova Aether – Setor 4 (Antiga Zona Industrial)
+personagens: Elara, Sentinelas
+---
 
-**Data:** Ciclo Solar 302, Era Pós-Colapso
-**Localização:** Ruínas de Nova Aether – Setor 4 (Antiga Zona Industrial)
-**Personagens:** Elara
+# Capítulo 1: O Canto
 
 A chuva ácida chiava contra a carcaça enferrujada do leviatã de metal, evaporando em fumaça tóxica antes mesmo de tocar o solo esburacado. Elara ajustou seus óculos de proteção, limpando a fuligem oleosa que insistia em cobrir suas lentes e embaçar a pouca luz neon que vazava das placas quebradas acima. O vento trazia o cheiro familiar de ozônio, decomposição e metal superaquecido, o perfume azedo de um mundo morto há séculos e ainda recusando-se a apodrecer em paz.
 
@@ -36,8 +39,10 @@ Passos pesados e ritmados ecoaram no corredor oeste. O som inconfundível de bot
 
 "Sabemos que você está aí, carne impura," uma voz sintetizada ecoou, perfeitamente empostada e distorcida pelos alto-falantes integrados nas carapaças dos Sentinelas. "Sua assinatura está sendo gravada. Entregue-se à Ordem do Silício, e você será processada e purificada."
 
-Elara sorriu, os lábios manchados de sangue e o brilho violeta ainda cintilando nas pupilas. Ela conhecia aquele discurso. Conhecia os tanques de "wetware", o destino nojento daqueles cujas mentes eram dissecadas e aprisionadas na agonia da Ascensão.
+Elara sorriu, os lábios manchados de sangue e o brilho violeta ainda cintilando nas pupilas. Ela conhecia aquele discurso. Conhecia os tanques de *wetware*, o destino repulsivo daqueles cujas mentes eram dissecadas e aprisionadas na agonia da Ascensão.
 
-"Hoje não, lata velha," ela sibilou no vazio, suas sinapses formigando em antecipação a um disparo. "Hoje eu mordo de volta."
+"Hoje não, lata velha," ela sibilou no vazio.
 
-Ela recuou para as sombras gotejantes, os olhos fixos na coordenada queimada em sua memória, pronta para a caçada.
+Com um pensamento, ela ativou a *Sobrecarga Sináptica*. O mundo ao seu redor perdeu a cor, mergulhando em um cinza estático, e o som dos passos pesados dos Sentinelas transformou-se em um zumbido lento e arrastado. Cada gota de chuva ácida parecia suspensa no ar. O tempo era dela agora.
+
+Com a bioeletricidade formigando nas pontas dos dedos e a arma improvisada em mãos, Elara recuou para as sombras gotejantes. Os olhos fixos na coordenada queimada em sua memória, ela não era mais a presa. Ela estava pronta para a caçada.

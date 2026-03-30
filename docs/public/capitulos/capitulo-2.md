@@ -1,10 +1,13 @@
+---
+title: Relíquias
+data: Ciclo Solar 302, Era Pós-Colapso
+localização: Ruínas de Nova Aether – Corredores Subterrâneos (Setor 4)
+personagens: Elara, Jaxon
+---
+
 # Capítulo 2: Relíquias
 
-**Data:** Ciclo Solar 302, Era Pós-Colapso
-**Localização:** Ruínas de Nova Aether – Corredores Subterrâneos (Setor 4)
-**Personagens:** Elara, Jaxon
-
-O ar no nível inferior da Pilha era denso e oleoso, saturado de umidade ácida e um cheiro rançoso de bolor sintético. Elara rastejava por um duto de ventilação enferrujado, suas mãos, ainda formigando pela sobrecarga bioelétrica, tateavam o metal gélido e irregular. Acima dela, o som abafado de patrulhas da Ordem do Silício esquadrinhando salas e derrubando portas reverberava como trovões de artilharia, um lembrete constante de que o cerco estava fechando.
+O ar no nível inferior da Pilha era denso e oleoso, saturado de umidade ácida e um cheiro rançoso de bolor sintético. Elara rastejava por um duto de ventilação enferrujado, suas mãos, ainda formigando pela *Sobrecarga Sináptica* recém-utilizada, tateavam o metal gélido e irregular. Acima dela, o som abafado de patrulhas da Ordem do Silício esquadrinhando salas e derrubando portas reverberava como trovões de artilharia, um lembrete constante de que o cerco estava fechando.
 
 Ela apertou contra o peito a bolsa de couro surrado que carregava, onde o *Datachip* corrompido, arrancado do terminal superior, ainda aquecia levemente. Ele pulsava quase em sincronia com as batidas caóticas de seu coração e com a enxaqueca residual provocada pelo toque do Deus-Máquina. Aquilo não era um simples registro de sucata; era um farol, um fragmento radioativo da rede antiga e, mais importante, uma bússola.
 
@@ -38,10 +41,10 @@ Jaxon riu, uma tosse rouca que revelava dentes amarelados. "Você é louca se ac
 
 A provocação cortou o ambiente mais pesado que o próprio ar viciado. O braço robótico de Jaxon rangeu, e ele baixou a arma completamente pela primeira vez. Ele ficou em silêncio absoluto.
 
-"A Fonte Primordial," ele sibilou, os olhos faiscando em fúria contida antes de transparecer um traço de pura ganância e curiosidade. "Um mito do tempo das IAs. Se for mais um dos seus blefes, se isso for um fragmento de delírio de Valkyr, eu juro que arranco as suas portas cerebrais."
+"A Fonte Primordial," ele sibilou, os olhos faiscando em fúria contida antes de transparecer um traço de pura ganância e curiosidade. "Um mito do tempo das IAs. Se for mais um dos seus blefes, se isso for um fragmento de delírio de *Valkyr*, eu juro que arranco a sua cabeça."
 
 Ele bateu a mão orgânica na mesa com força, levantando uma nuvem de poeira e ferrugem.
 
-"Temos um acordo, veterano?" ela perguntou, um sorriso cínico brotando no canto da boca, sua bioeletricidade acalmando no sangue.
+"Temos um acordo, veterano?" ela perguntou, um sorriso cínico brotando no canto da boca, sua bioeletricidade recuando de volta para suas veias.
 
-"Um acordo de suicidas." Jaxon jogou um carregador sobre a bancada e agarrou uma pesada jaqueta tática e um coldre magnético. Ele arremessou um pequeno cantil metálico para ela, que o interceptou no ar com um reflexo rápido. "Engole isso e reze pro seu sistema nervoso não fritar. Pega a mochila, Elara, os cães metálicos de Malakar já devem estar descendo pelos poços dos elevadores."
+"Um acordo de suicidas." Jaxon jogou um carregador de plasma sobre a bancada e agarrou uma pesada jaqueta tática e um coldre magnético. Ele arremessou um pequeno cantil metálico para ela, que o interceptou no ar com um reflexo rápido. "Engole isso e reze pro seu sistema nervoso não fritar. Pega a mochila, Elara, os cães de metal de Malakar já devem estar descendo pelos poços dos elevadores."
