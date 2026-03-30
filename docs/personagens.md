@@ -58,7 +58,8 @@
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
     *   **Estado Atual (Cap. 42):** Resgatou Elara fisicamente das ruínas e a ajudou a escapar de volta para a Pilha. Está exausto e lidando com falhas no pulmão cibernético, mas pronto para lutar contra os remanescentes da Ordem do Silício na escuridão de Nova Aether.
-*   **Equipamento:** Roupas rasgadas, pulmão cibernético recém-implantado (com falhas severas). Armado com pistola magnética recarregada com uma única bateria reserva, pronto para o combate.
+*   **Equipamento:**
+    *   Roupas rasgadas, pulmão cibernético recém-implantado (com falhas severas). Armado com pistola magnética recarregada com uma única bateria reserva, pronto para o combate.
 *   **Motivação:**
     *   Inicialmente dinheiro, mas sua lealdade muda à medida que ele vê em Elara a esperança que pensava ter perdido. Determinado a proteger Elara, mesmo que isso custe sua vida.
 
