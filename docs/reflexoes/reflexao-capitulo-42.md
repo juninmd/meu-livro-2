@@ -18,3 +18,4 @@
 ## Pontos Fracos (Áreas para Revisão Editorial)
 
 *   **Descritivo de Fuga:** A travessia do Núcleo até a Pilha foi resolvida em poucos parágrafos para privilegiar a revelação da cidade apagada. Em uma revisão maior, o esforço da subida poderia ser ligeiramente expandido para aumentar a percepção do desafio imposto pelo frio (antes que o suporte colapsasse).
+
