@@ -9,11 +9,11 @@
     *   Fisicamente magra e ágil, com **olhos violeta brilhantes** — uma mutação rara causada pela radiação dos núcleos de dados. Agora, após o contato com o Nódulo, o brilho é mais intenso e instável.
     *   Veste couro desgastado reforçado com placas de cerâmica recuperada.
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
-    *   **Habilidade Especial:** **Sobrecarga Sináptica** — Permite acelerar a percepção do tempo, reagindo a ameaças com precisão sobre-humana (efeito "Bullet Time"). O uso excessivo causa danos físicos e mentais. Mantém uma conexão psíquica persistente e dolorosa com o Deus-Máquina.
-    *   Seus poderes bioelétricos criam uma ponte involuntária, permitindo que ela sinta a invasão dos Sentinelas controlados pelo Deus-Máquina rastreando sua assinatura de energia.
-    *   **Estado Atual (Cap. 41):** Realizou o sacrifício supremo no Núcleo Central, fundindo sua própria força vital com a fúria da Sobrecarga Sináptica para colapsar o Deus-Máquina com uma explosão letal de bioeletricidade. Seu destino final (vida, morte, ou algo entre os dois) após o terrível *feedback* neural permanece desconhecido no escuro profundo.
+    *   **Habilidade Especial:** **Sobrecarga Sináptica** — Originalmente permitia acelerar a percepção do tempo e reagir a ameaças com precisão sobre-humana. No entanto, após o embate final, seu poder bioelétrico foi quase inteiramente extinto ("queimado").
+    *   Seus poderes bioelétricos criavam uma ponte involuntária com o Deus-Máquina, mas essa conexão foi cortada de forma permanente.
+    *   **Estado Atual (Cap. 42):** Sobreviveu ao *feedback* neural, mas perdeu a Sobrecarga Sináptica e o brilho violeta dos olhos. Ela está profundamente exausta e ferida, mas finalmente livre da tortura mental da máquina. Encontra-se de volta à superfície da megacidade mergulhada na escuridão.
 *   **Motivação:**
-    *   Encontrar a "Fonte Primordial", uma lenda que promete purificar a terra e trazer de volta a era de ouro. Agora, busca acabar de uma vez por todas com a ameaça e a tortura contínua do Deus-Máquina e da Ordem do Silício, custe o que custar.
+    *   Inicialmente encontrar a "Fonte Primordial", que agora se revela uma lenda ilusória. Sua motivação central agora é pura e simplesmente a sobrevivência em uma Nova Aether desestabilizada e perigosa após a queda do núcleo da Ordem.
 
 ## Dr. Vex
 
@@ -22,8 +22,8 @@
 *   **Descrição:**
     *   Um homem magro com óculos de realidade aumentada que cobrem metade do rosto.
     *   Veste um avental manchado de óleo e fluidos biológicos.
-    *   Demonstra curiosidade mórbida pela anomalia bioelétrica de Elara.
-    *   **Estado Atual (Cap. 41):** Testemunhou a destruição e silenciamento do Deus-Máquina provocado por Elara. Ele agora se encontra na escuridão resultante, enfrentando o fim da entidade sem precedentes.
+    *   Demonstra curiosidade mórbida pela anomalia bioelétrica de Elara, agora extinta.
+    *   **Estado Atual (Cap. 42):** Conseguiu estabilizar os sinais vitais de Elara após o clímax no Núcleo Central. Acompanha-a até a superfície e mantém seu pragmatismo frio diante da nova realidade anárquica da cidade sem a Ordem.
 *   **Motivação:**
     *   Conhecimento e sobrevivência. Interessado em estudar a "antena" humana que Elara se tornou.
 
@@ -57,8 +57,9 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 41):** Lutou inutilmente contra as condições absolutas do Núcleo Central para impedir Elara de prosseguir. Após assistir o curto-circuito final causado por ela e a morte do Deus-Máquina, encontra-se imerso nas trevas da sala estilhaçada.
-*   **Equipamento:** Roupas rasgadas, pulmão cibernético recém-implantado (com falhas devido ao frio extremo e ao ambiente de vácuo do núcleo). Armado com pistola magnética (completamente descarregada, abandonada no chão).
+    *   **Estado Atual (Cap. 42):** Resgatou Elara fisicamente das ruínas e a ajudou a escapar de volta para a Pilha. Está exausto e lidando com falhas no pulmão cibernético, mas pronto para lutar contra os remanescentes da Ordem do Silício na escuridão de Nova Aether.
+*   **Equipamento:**
+    *   Roupas rasgadas, pulmão cibernético recém-implantado (com falhas severas). Armado com pistola magnética recarregada com uma única bateria reserva, pronto para o combate.
 *   **Motivação:**
     *   Inicialmente dinheiro, mas sua lealdade muda à medida que ele vê em Elara a esperança que pensava ter perdido. Determinado a proteger Elara, mesmo que isso custe sua vida.
 
@@ -70,7 +71,7 @@
     *   Autômatos humanoides de combate com movimentos fluidos e artificiais.
     *   Originalmente com sensores **carmesim**, após o evento no Nódulo (Cap. 8), seus olhos pulsam em **violeta errático**, indicando controle direto e caótico pelo Deus-Máquina.
     *   Operam em enxames coordenados e são imunes a dor ou medo.
-    *   **Estado Atual (Cap. 40):** Mais unidades ("capachos de lata") supostamente se aproximam como reforços para proteger o núcleo vital, impulsionados pela necessidade premente do Deus-Máquina.
+    *   **Estado Atual (Cap. 42):** Desconectados e desativados. Com a morte do Deus-Máquina, os poucos Sentinelas que sobreviveram à explosão no Núcleo Central tornaram-se cascas vazias e paralisadas. O status das unidades na superfície é incerto, abrindo caminho para o caos na cidade.
 *   **Motivação:**
     *   Cumprir a vontade da Ordem: localizar, purificar ou eliminar alvos designados. Agora, parecem agir com uma fúria selvagem, caçando incansavelmente pelas passarelas de manutenção.
 

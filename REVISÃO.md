@@ -17,6 +17,7 @@
 - [x] Capítulos 37, 38
 - [x] Capítulos 39, 40 (Lido)
 - [x] Capítulo 41 (Lido)
+- [x] Capítulo 42 (Lido)
 
 ## Avaliação de Personagens (Elenco)
 
@@ -26,5 +27,7 @@
 
 **Ação e Continuidade:** O ambiente letal de temperatura absoluta é excelente e segue o Protocolo Zero. Os Sentinelas corrompidos agindo em fúria animal (com lodos congelados e visores violetas estourados) em vez de purificadores precisos ressalta o desespero do Deus-Máquina "morrendo de fome". A história manteve um altíssimo nível. Nenhuma reescrita é necessária nos Capítulos 39 e 40, pois a coerência com as limitações dos personagens (como o fato de Jaxon estar sem munição e doente) e a progressão narrativa do clímax são soberbas.
 
+**Coerência Capítulo 42:** O Capítulo 42 é uma resolução cínica e sombria que respeita todas as escolhas feitas até o momento. A sobrevivência de Elara veio a um custo terrível (a perda de sua habilidade especial), enfatizando a gravidade das suas ações. As reações de Vex e Jaxon à nova realidade da cidade são coerentes com o realismo pessimista do universo Cyberpunk Noir de "O Legado de Silício", abrindo caminho para o encerramento orgânico ou uma nova fase sombria de exploração sem o ruído do "Deus".
+
 ## Conclusão da Revisão
-A história de "O Legado de Silício" apresenta personagens altamente coerentes e com profunda agência até suas últimas consequências. O Capítulo 41, atuando como o clímax final e fechamento da narrativa principal com o Deus-Máquina, executa perfeitamente a resolução do arco de sacrifício da Elara. A progressão de seus ferimentos mortais, as limitações severas enfrentadas (físicas, de poder e de equipamento), e os sacrifícios exigidos estão fortemente ancorados nas regras estabelecidas em `personagens.md` e nos capítulos anteriores. O ritmo Noir Cyberpunk é elevado à máxima potência de um terror existencial biomecânico neste desfecho. A obra não necessitou da inserção de novos personagens em hipótese alguma. A trama engajante encerrou-se perfeitamente focada no embate sacrificial de Elara. A revisão atestou a excepcional qualidade e amarração do roteiro como um todo, fechando com maestria a saga do Nódulo Primário.
+A história de "O Legado de Silício" apresenta personagens altamente coerentes e com profunda agência até suas últimas consequências. Os capítulos 41 e 42 entregam o fechamento da narrativa principal envolvendo o Deus-Máquina com precisão técnica e tom sombrio impecável. A progressão de seus ferimentos, a perda brutal de habilidades para ancorar Elara de volta à vulnerabilidade humana, as reações realistas do elenco de apoio, e a transição para um mundo ainda corrompido, porém diferente (sem luzes, mas sem ruído controlador), refletem perfeitamente os moldes do Noir Cyberpunk. A obra não necessitou da inserção de novos personagens. A trama engajante encerrou-se focada nos seus pilares principais, fechando com maestria a saga do Nódulo Primário.

@@ -49,6 +49,7 @@ export default defineConfig({
       { text: 'Capítulo 39', link: '/public/capitulos/capitulo-39' },
       { text: 'Capítulo 40', link: '/public/capitulos/capitulo-40' },
       { text: 'Capítulo 41', link: '/public/capitulos/capitulo-41' },
+      { text: 'Capítulo 42', link: '/public/capitulos/capitulo-42' },
       { text: 'Personagens', link: '/personagens' },
       { text: 'Sobre', link: '/sobre' }
     ],
@@ -98,6 +99,7 @@ export default defineConfig({
           { text: 'Capítulo 39: Sinfonia de Gelo e Estilhaços', link: '/public/capitulos/capitulo-39' },
           { text: 'Capítulo 40: O Núcleo do Abismo', link: '/public/capitulos/capitulo-40' },
           { text: 'Capítulo 41: A Centelha Final', link: '/public/capitulos/capitulo-41' },
+          { text: 'Capítulo 42: O Silêncio Após o Trovão', link: '/public/capitulos/capitulo-42' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]
