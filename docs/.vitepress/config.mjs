@@ -50,6 +50,7 @@ export default defineConfig({
       { text: 'Capítulo 40', link: '/public/capitulos/capitulo-40' },
       { text: 'Capítulo 41', link: '/public/capitulos/capitulo-41' },
       { text: 'Capítulo 42', link: '/public/capitulos/capitulo-42' },
+      { text: 'Capítulo 43', link: '/public/capitulos/capitulo-43' },
       { text: 'Personagens', link: '/personagens' },
       { text: 'Sobre', link: '/sobre' }
     ],
@@ -100,6 +101,7 @@ export default defineConfig({
           { text: 'Capítulo 40: O Núcleo do Abismo', link: '/public/capitulos/capitulo-40' },
           { text: 'Capítulo 41: A Centelha Final', link: '/public/capitulos/capitulo-41' },
           { text: 'Capítulo 42: O Silêncio Após o Trovão', link: '/public/capitulos/capitulo-42' },
+          { text: 'Capítulo 43: Cinzas e Fumaça', link: '/public/capitulos/capitulo-43' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]
