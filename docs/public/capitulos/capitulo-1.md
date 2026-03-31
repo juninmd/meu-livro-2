@@ -1,7 +1,7 @@
 ---
 title: O Canto
 data: Ciclo Solar 302, Era Pós-Colapso
-localização: Ruínas de Nova Aether – Setor 4 (Antiga Zona Industrial)
+localizacao: Ruínas de Nova Aether – Setor 4 (Antiga Zona Industrial)
 personagens: Elara, Sentinelas
 ---
 
