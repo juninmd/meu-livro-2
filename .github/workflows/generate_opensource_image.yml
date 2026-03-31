@@ -1,5 +1,6 @@
 name: Generate Open Source Image
 
+# Action to generate an image via open source model (nano banana style) for new chapters
 on:
   push:
     paths:
