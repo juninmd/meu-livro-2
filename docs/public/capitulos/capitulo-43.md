@@ -23,11 +23,11 @@ Nós caminhamos pelos becos da Pilha. A escuridão revelava a verdadeira face da
 
 Passamos por uma praça que costumava ser um centro de distribuição de rações. Uma estátua holográfica de Malakar, antes erguida ali para nos lembrar da vigilância da Ordem, havia desaparecido, deixando apenas um projetor inerte, envolto em poeira. No chão, poças de chuva ácida refletiam o nosso cansaço.
 
-Ao dobrarmos a esquina, o som de vidro quebrando quebrou nossa marcha arrastada.
+Ao dobrarmos a esquina, o som de vidro estilhaçando interrompeu nossa marcha arrastada.
 
 Três figuras emergiram da névoa de condensação à nossa frente. Vestiam trapos, os olhos arregalados, pupilas dilatadas sob o efeito de algum estimulante barato. Um deles segurava uma barra de ferro dentada. Eles não eram Sentinelas. Não havia precisão ou cálculo em seus movimentos. Apenas desespero cru.
 
-— O que vocês têm aí? — O líder deles balbuciou, os olhos recaindo sobre o kit médico de Vex e a pistola magnética de Jaxon.
+— O que vocês têm aí? — o líder deles balbuciou, os olhos recaindo sobre o kit médico de Vex e a pistola magnética de Jaxon.
 
 Jaxon nem hesitou. Apesar da tosse, ele levantou a arma, o cano tremendo levemente.
 
@@ -41,7 +41,7 @@ Por instinto, minha mão se ergueu. Meus músculos tensionaram, preparados para 
 
 Abaixei a mão lentamente e puxei do meu cinto uma pesada chave de fenda industrial, uma relíquia dos meus dias de sucateira, antes de deuses e máquinas dominarem minha vida. Pesei-a na mão direita. Fria, pesada, contundente.
 
-— Quem quer descobrir primeiro? — Perguntei, minha voz baixa e firme, escondendo o tremor interno. Mantive os olhos cravados no líder. Não havia mais luz violeta, mas o meu olhar carregava o peso de quem havia mergulhado no inferno e retornado, mesmo que vazia.
+— Quem quer descobrir primeiro? — perguntei, minha voz baixa e firme, escondendo o tremor interno. Mantive os olhos cravados no líder. Não havia mais luz violeta, mas o meu olhar carregava o peso de quem havia mergulhado no inferno e retornado, mesmo que vazia.
 
 Eles vacilaram. O silêncio se esticou, frágil e tenso. O garoto com a barra recuou meio passo. O líder cuspiu no chão, uma poça de saliva negra e alcatrão, e gesticulou com a cabeça.
 
@@ -51,7 +51,7 @@ Quando sumiram, Jaxon abaixou a arma e se escorou contra a parede, um acesso vio
 
 — Ele precisa de um purificador novo, — Vex constatou, a frustração evidente na voz. — Ou, pelo menos, de um ambiente sem essa fumaça cáustica.
 
-— Eu conheço um lugar. — Falei. Não olhei para eles. Olhei para o chão enegrecido. A adrenalina do confronto diminuiu, deixando um gosto residual de cobre e desesperança.
+— Eu conheço um lugar, — falei. Não olhei para eles. Olhei para o chão enegrecido.
 
 Era um antigo bunker de manutenção na borda do Setor 5. Escondido. Esquecido. Sem energia, mas seguro das tempestades e longe o suficiente dos olhos de quem quer que fosse reivindicar a Pilha.
 
