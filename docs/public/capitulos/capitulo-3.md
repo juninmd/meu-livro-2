@@ -1,20 +1,23 @@
+---
+title: O Silêncio de Neon
+data: Ciclo Solar 302, Era Pós-Colapso
+localizacao: Periferia de Nova Aether – A Zona Morta
+personagens: Elara, Jaxon, Sentinelas
+---
+
 # Capítulo 3: O Silêncio de Neon
 
-**Data:** Ciclo Solar 302, Era Pós-Colapso
-**Localização:** Periferia de Nova Aether – A Zona Morta
-**Personagens:** Elara, Jaxon
-
-O "rover" de Jaxon não era um veículo; era uma heresia estética contra a aerodinâmica, uma caixa de metal de blindagem irregular soldada sobre seis rodas independentes que mastigavam sem piedade o asfalto quebrado da Zona Morta. O motor gemia implorando por clemência, um barulho constante e furioso que competia com o uivo rasgante do vento carregado de sílica fina.
+O *rover* de Jaxon não era um veículo; era uma heresia estética contra a aerodinâmica, uma caixa de metal de blindagem irregular soldada sobre seis rodas independentes que mastigavam sem piedade o asfalto quebrado da Zona Morta. O motor gemia implorando por clemência, um barulho constante e furioso que competia com o uivo rasgante do vento carregado de sílica fina.
 
 Dentro da cabine abafada, o cheiro de óleo queimado, tabaco e suor antigo era asfixiante. Elara observava a paisagem engolida pela fumaça através do vidro blindado, riscado e permanentemente amarelado por décadas de chuva ácida e exposição ao lixo tóxico do Setor 4. Ruínas de arranha-céus erguiam-se à distância como ossadas pontiagudas contra o céu opressor cor de chumbo. No horizonte arruinado, outdoors holográficos glitchados piscavam em loops epiléticos e desbotados de neon azul e magenta. Um comercial antigo tremulou, vendendo implantes neurais para um mercado que já estava reduzido a cinzas. *Ascensão Neural: Apenas um clique.*
 
 "Pare de encarar," Jaxon rosnou, a voz como cacos de vidro, seus olhos fixos no horizonte tático escarlate projetado em seu visor retiniano acoplado. "Seus olhos. Eles estão piscando como um farol no escuro. Se as unidades ópticas de um Sentinela captarem sua voltagem, a blindagem não vai nos salvar."
 
-Elara piscou, cerrando as pálpebras em um esforço para conter a pulsação de energia em suas retinas. Ela puxou ainda mais o capuz encardido de sua jaqueta sobre o rosto. "Não estou nervosa," ela resmungou, apertando o *Datachip* no bolso interno. "Estou... sintonizando."
+Elara piscou, cerrando as pálpebras em um esforço para conter a pulsação de energia em suas retinas. O brilho violeta era uma anomalia que ela não conseguia desligar totalmente, um subproduto de sua capacidade de interfacear com o ruído de fundo da cidade. Ela puxou ainda mais o capuz encardido de sua jaqueta sobre o rosto. "Não estou nervosa," ela resmungou, apertando o *Datachip* no bolso interno. "Estou... sintonizando."
 
 "Sintonizando o quê? Essa área é um buraco negro de radiação."
 
-"A rede. A Ordem está quieta demais," ela sussurrou, a mão direita instintivamente massageando a base de sua nuca, onde uma agonia surda começava a irradiar. "Não há pacotes de dados, não há ordens de busca cruzando o espectro baixo. Nada."
+"A rede. A Ordem está quieta demais," ela sussurrou, a mão direita instintivamente massageando a têmpora, onde a agonia surda de sua biologia rejeitando o silêncio digital começava a irradiar. "Não há pacotes de dados, não há ordens de busca cruzando o espectro baixo. Nada."
 
 Jaxon apertou o volante rudimentar, os nós dos dedos da mão esquerda — pistões frios de metal cinzento — rangendo em protesto. "Silêncio de Neon," ele diagnosticou com o peso de uma maldição. "Isolaram o tráfego de dados do setor inteiro. Eles não estão procurando por nós, garota. Eles estão montando um cerco de extermínio."
 

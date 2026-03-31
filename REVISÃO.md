@@ -1,6 +1,15 @@
 # Revisão de Capítulos
 
-## Status
+## Segunda Revisão (Status)
+
+- [x] Capítulos 1, 2, 3
+
+**Análise dos Capítulos 1, 2 e 3:**
+- **Coerência de Personagens:** A dinâmica entre Elara e Jaxon está bem estabelecida. As habilidades de Elara foram revisadas para evidenciar melhor o uso de suas capacidades únicas (bioeletricidade e *Sobrecarga Sináptica*) de forma alinhada à *lore* atual ("sem portas neurais/implantes"). O ceticismo de Jaxon e o clima de sobrevivência Noir são muito fortes.
+- **Necessidade de Novos Personagens:** O elenco e a química atual (incluindo a ameaça dos Sentinelas) estão ótimos. A ausência de novos personagens neste momento mantém o foco intenso do enredo na ameaça inicial.
+- **Qualidade da História:** A trama é imersiva e a introdução apresenta rapidamente as apostas, o perigo (a Ordem do Silício) e a motivação central (a "Fonte Primordial"). O tom "Cyberpunk Noir" está perfeitamente executado através de descrições ricas em detalhes decrépitos. Pequenos ajustes foram feitos para padronizar o *frontmatter* dos arquivos para o VitePress.
+
+## Status Anterior
 
 - [x] Capítulos 1, 2, 3
 - [x] Capítulos 4, 5, 6
