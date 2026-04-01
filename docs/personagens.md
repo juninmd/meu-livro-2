@@ -11,7 +11,7 @@
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Originalmente permitia acelerar a percepção do tempo e reagir a ameaças com precisão sobre-humana. No entanto, após o embate final, seu poder bioelétrico foi quase inteiramente extinto ("queimado").
     *   Seus poderes bioelétricos criavam uma ponte involuntária com o Deus-Máquina, mas essa conexão foi cortada de forma permanente.
-    *   **Estado Atual (Cap. 43):** Sobreviveu ao *feedback* neural, mas perdeu completamente a Sobrecarga Sináptica e o brilho violeta dos olhos, confirmando sua vulnerabilidade ao tentar usar seus poderes em vão. Ela está exausta e ferida, mas finalmente livre da tortura mental da máquina. Encontra-se de volta à superfície da megacidade mergulhada na escuridão, guiando Jaxon e Vex para um bunker esquecido no Setor 5.
+    *   **Estado Atual (Cap. 44):** Perdeu completamente seus poderes bioelétricos ("Sobrecarga Sináptica"), retornando à condição humana básica. Sente-se vulnerável sem essa "conexão", mas resiliência é sua marca registrada. Atualmente escondida com Vex e Jaxon em um bunker isolado no Setor 5, fora da linha direta do vácuo de poder emergente nas ruas.
 *   **Motivação:**
     *   Inicialmente encontrar a "Fonte Primordial", que agora se revela uma lenda ilusória. Sua motivação central agora é pura e simplesmente a sobrevivência em uma Nova Aether desestabilizada e perigosa após a queda do núcleo da Ordem.
 
@@ -23,7 +23,7 @@
     *   Um homem magro com óculos de realidade aumentada que cobrem metade do rosto.
     *   Veste um avental manchado de óleo e fluidos biológicos.
     *   Demonstra curiosidade mórbida pela anomalia bioelétrica de Elara, agora extinta.
-    *   **Estado Atual (Cap. 43):** Conseguiu estabilizar os sinais vitais de Elara após o clímax no Núcleo Central. Acompanha-a até a superfície e mantém seu pragmatismo frio. Com os servidores centrais inoperantes, seus óculos de realidade aumentada perderam o fluxo de dados, tornando-o cego para a rede, mas ele logo percebe o vácuo de poder na cidade sem a Ordem.
+    *   **Estado Atual (Cap. 44):** Acompanha Elara e Jaxon até o bunker no Setor 5. Suas lentes de RA estão permanentemente apagadas. Demonstra seu valor clínico improvisado ao estabilizar (temporariamente) o pulmão cibernético falho de Jaxon usando suprimentos escassos, enquanto analisa metodicamente o iminente conflito de facções na cidade que perdeu seu "Deus".
 *   **Motivação:**
     *   Conhecimento e sobrevivência. Interessado em estudar a "antena" humana que Elara se tornou.
 
@@ -57,7 +57,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 43):** Resgatou Elara fisicamente das ruínas e a ajudou a escapar de volta para a Pilha. Está exausto e lidando com falhas graves no pulmão cibernético devido à fumaça e poluição sem filtragem, precisando urgentemente de um purificador novo. Mesmo debilitado, mantém-se firme na defesa do grupo com sua arma descarregada.
+    *   **Estado Atual (Cap. 44):** Em estado crítico de saúde devido à falha total do purificador de seu pulmão cibernético, danificado pela densa névoa de poluição ácida da Pilha. Está abrigado no bunker do Setor 5, e Vex utilizou um curativo clínico temporário (esteróides e oxigênio líquido) para evitar sua morte imediata. Contudo, precisa de um transplante urgente, o que torna sua sobrevivência incerta sem uma saída tática.
 *   **Equipamento:**
     *   Roupas rasgadas, pulmão cibernético recém-implantado (com falhas severas). Armado com pistola magnética recarregada com uma única bateria reserva, pronto para o combate.
 *   **Motivação:**
@@ -125,4 +125,4 @@
 *   **Definição:** Um aglomerado vertical de habitações precárias, mercados negros e clínicas ilegais.
 *   **Atmosfera:** Quente, úmida e saturada de neon e poluição. O oposto absoluto do setor congelado abaixo.
 *   **Habitantes:** Párias, criminosos, viciados em *stim* e aqueles que não podem pagar pela cidadania nos níveis superiores.
-*   **Estado Atual (Cap. 43):** Mergulhada na escuridão com o desligamento do Núcleo Central. Sem a Ordem e seus painéis de neon, a Pilha revela-se como um amontoado sujo de metal e miséria, agora imerso em um perigoso vácuo de poder onde cultistas, mercenários e saqueadores disputam controle.
+*   **Estado Atual (Cap. 44):** Mergulhada na escuridão absoluta sem a rede energética. Tornou-se um local letal, preenchido por fumaça, névoa tóxica e um caos silencioso onde gangues, cartéis de água e facções remanescentes disputam território. A poluição e o ambiente inóspito forçam o grupo de Elara a se esconder em um bunker selado no Setor 5.
