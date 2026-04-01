@@ -4,9 +4,9 @@
 **Localização:** Ruínas do Setor 7 – Zona de Exclusão
 **Personagens:** Elara, Jaxon
 
-O céu sobre o Setor 7 não era cinza; era da cor de um hematoma antigo, roxo e amarelado, inchado com nuvens químicas que choravam ácido sobre o esqueleto da cidade.
+O céu sobre o Setor 7 não era meramente cinza; era da cor de um hematoma antigo, uma mistura doentia de roxo e amarelo-cobre, inchado com nuvens químicas saturadas que choravam ácido ininterruptamente sobre o esqueleto exposto da cidade morta.
 
-Elara ajustou o capuz de seu traje, sentindo a ardência familiar onde a chuva tocava a pele exposta de seu pescoço. O cheiro aqui era diferente. Não havia ozônio ou lixo queimado como nos níveis inferiores. Cheirava a metal molhado e tempo estagnado.
+Elara ajustou com força o capuz de seu traje isolante, sentindo a ardência cáustica e familiar onde a chuva conseguia lamber a pele exposta de seu pescoço. O cheiro aqui era opressivo, diferente de tudo. Não havia as notas pungentes de ozônio ou lixo em combustão como nos níveis inferiores. Cheirava a metal molhado por séculos, a ferrugem desenfreada e a um tempo estagnado que a própria morte esquecera de reclamar.
 
 "Cuidado onde pisa," a voz de Jaxon crepitou pelo comunicador de curto alcance, distorcida pela interferência magnética que saturava a área. "O solo aqui é instável. As fundações cederam durante o Bombardeio das Corporações."
 

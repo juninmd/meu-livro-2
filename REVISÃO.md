@@ -3,6 +3,12 @@
 ## Segunda Revisão (Status)
 
 - [x] Capítulos 1, 2, 3
+- [x] Capítulos 4, 5, 6
+
+**Análise dos Capítulos 4, 5 e 6:**
+- **Coerência de Personagens:** Elara e Jaxon continuam aprofundando sua dinâmica de dependência e habilidades complementares. A demonstração de Elara de sua habilidade "Sobrecarga Sináptica" (bullet time) e de manipulação eletrônica sem implantes ("ruído", desativação de torretas) é completamente coerente e justificada narrativamente através de descrições sensoriais de sobrecarga física. Jaxon mantém sua praticidade cínica e eficácia com armas, compensando suas falhas com analgésicos e atitude de sobrevivência.
+- **Necessidade de Novos Personagens:** O foco narrativo permanece sólido com o duo principal navegando o universo perigoso, seja contra viciados (Capítulo 4), sistemas de IA e torres (Capítulo 5) ou o Titã Mecha (Capítulo 6). Não há necessidade de novos personagens ainda; a ameaça do mundo em si e de Malakar serve bem para alavancar a tensão de forma contínua.
+- **Qualidade da História:** A progressão da história é excelente, escalando o conflito com inimigos variados e demonstrando o terrível custo do "Protocolo-V" como um horror existencial "cyberpunk noir". Foram feitas pequenas melhorias textuais nesses capítulos para enfatizar o tom denso, as descrições sensoriais de cheiros e atmosfera chuvosa opressiva do Setor 7.
 
 **Análise dos Capítulos 1, 2 e 3:**
 - **Coerência de Personagens:** A dinâmica entre Elara e Jaxon está bem estabelecida. As habilidades de Elara foram revisadas para evidenciar melhor o uso de suas capacidades únicas (bioeletricidade e *Sobrecarga Sináptica*) de forma alinhada à *lore* atual ("sem portas neurais/implantes"). O ceticismo de Jaxon e o clima de sobrevivência Noir são muito fortes.
