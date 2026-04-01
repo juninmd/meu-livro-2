@@ -32,7 +32,7 @@ Elara sentiu o *zumbido* em sua mente. O medo tentou paralisá-la, mas ela o tra
 
 O mundo ao seu redor desacelerou.
 
-A chuva parou no ar, cada gota suspensa como um diamante sujo refletindo a sujeira dos letreiros moribundos. O grito do viciado se distorceu em um rugido grave e prolongado.
+A chuva parou no ar, cada gota suspensa como um diamante sujo refletindo a sujeira dos letreiros moribundos. O grito do viciado se distorceu em um rugido grave e prolongado, mas para Elara, cada detalhe do ataque se revelou: a falha na postura e a trajetória do cano de chumbo.
 
 Ela não pensou. Apenas agiu.
 
