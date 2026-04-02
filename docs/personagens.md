@@ -57,7 +57,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 45):** O tempo de vida provido pelo oxigênio líquido se esgotou. Ele permanece imóvel e em estado crítico dentro do bunker, aguardando enquanto Elara arrisca a vida para trazer-lhe o purificador pulmonar militar roubado no mercado negro.
+    *   **Estado Atual (Cap. 45):** O tempo de vida provido pelo oxigênio líquido se esgotou. Ele permanece imóvel e em estado crítico dentro do bunker, aguardando enquanto Elara arrisca a vida para trazer-lhe o purificador Tyrell-7 adquirido no mercado negro.
 *   **Equipamento:**
     *   Roupas rasgadas, pulmão cibernético recém-implantado (com falhas severas). Armado com pistola magnética recarregada com uma única bateria reserva, pronto para o combate.
 *   **Motivação:**
