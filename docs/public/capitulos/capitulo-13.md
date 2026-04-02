@@ -1,11 +1,11 @@
 ---
 title: Glaciação Sináptica
-data: 2042.11.15
+data: 2042-11-15
 localizacao: Corredores de Manutenção, Subnível 8
 personagens: Elara, Jaxon
 ---
 
-# Glaciação Sináptica
+# Capítulo 13: Glaciação Sináptica
 
 O silêncio pós-Protocolo Zero não era paz. Era a ausência de vida.
 

@@ -4,6 +4,24 @@
 
 - [x] Capítulos 1, 2, 3
 - [x] Capítulos 4, 5, 6
+- [x] Capítulos 7, 8, 9
+- [x] Capítulos 10, 11, 12
+- [x] Capítulos 13, 14, 15
+
+**Análise dos Capítulos 13, 14 e 15:**
+- **Coerência de Personagens:** Elara transita de uma combatente exaurida para alguém que está disposta a negociar um pedaço de si mesma por Jaxon. Jaxon segue debilitado, e a introdução oficial do Dr. Vex é bem integrada à necessidade médica emergencial sem que ele ofusque o núcleo da equipe. A troca entre Vex e Elara e a intromissão do Deus-Máquina fluem naturalmente.
+- **Necessidade de Novos Personagens:** O núcleo principal de personagens (Elara, Jaxon e agora Dr. Vex como suporte médico) funciona muito bem, concentrando a tensão na dinâmica de sobrevivência. Não há necessidade de novos personagens.
+- **Qualidade da História:** A trama é muito consistente e mantém o desespero e o "custo de tudo no submundo". Padronizamos o `frontmatter` das datas com traços `-`.
+
+**Análise dos Capítulos 10, 11 e 12:**
+- **Coerência de Personagens:** Jaxon passa a um estado ainda mais crítico, e Elara age em modo puro de sobrevivência protetora. A criação do "Protocolo Zero" usa com muita eficácia o cenário do Setor 7 para causar uma reviravolta ambiental, perfeitamente alinhada com as habilidades dela de interface de sistemas.
+- **Necessidade de Novos Personagens:** O foco na perseguição por Ratos-Drones mantém a tensão alta entre o duo. Sem necessidades de inserção de personagens aqui.
+- **Qualidade da História:** Excelentes descrições. O clímax do Protocolo Zero é memorável. Adicionado o YAML `frontmatter` em capítulos que faltavam para padronização no VitePress.
+
+**Análise dos Capítulos 7, 8 e 9:**
+- **Coerência de Personagens:** A revelação do verdadeiro Deus-Máquina como um "wetware" composto por inúmeras mentes é coerente e aterradora. A reação de Elara (uma mistura de repulsa com ação irrefletida) casa com seu arco e provoca a libertação instável dessa entidade. A reação combativa de Jaxon e o surgimento dos Sentinelas "infectados" consolida o cenário de caçada constante.
+- **Necessidade de Novos Personagens:** A dupla e a IA são os únicos atores em cena, e a intimidade da exploração no Nódulo Primário é beneficiada por essa ausência de muitos personagens de apoio.
+- **Qualidade da História:** O conceito por trás da "Ascensão" é sólido e amedrontador, reforçando os temas cyber-noir. Metadados de `frontmatter` ausentes nos capítulos foram inseridos, bem como títulos formatados.
 
 **Análise dos Capítulos 4, 5 e 6:**
 - **Coerência de Personagens:** Elara e Jaxon continuam aprofundando sua dinâmica de dependência e habilidades complementares. A demonstração por Elara de suas habilidades — "Sobrecarga Sináptica" (bullet time) e manipulação eletrônica sem implantes ("ruído", desativação de torretas) — é completamente coerente e justificada narrativamente através de descrições sensoriais de sobrecarga física. Jaxon mantém sua praticidade cínica e eficácia com armas, compensando suas falhas com analgésicos e atitude de sobrevivência.

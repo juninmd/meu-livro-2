@@ -1,11 +1,11 @@
 ---
 title: Permuta Sináptica
-data: 2042.11.16
+data: 2042-11-16
 localizacao: Clínica do Dr. Vex, Setor 4 (A Pilha)
 personagens: Elara, Jaxon, Dr. Vex
 ---
 
-# Permuta Sináptica
+# Capítulo 15: Permuta Sináptica
 
 O som da serra cirúrgica era um zumbido de mosquito gigante, irritante e constante.
 

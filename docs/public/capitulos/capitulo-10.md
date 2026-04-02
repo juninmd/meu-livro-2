@@ -1,8 +1,11 @@
-# Ressonância Metálica
+---
+title: Ressonância Metálica
+data: 2042-11-15
+localizacao: Estação de Metrô Abandonada "Linha Vermelha", Subníveis do Setor 7
+personagens: Elara, Jaxon
+---
 
-**Data:** 2042.11.15
-**Localização:** Estação de Metrô Abandonada "Linha Vermelha", Subníveis do Setor 7
-**Personagens:** Elara, Jaxon
+# Capítulo 10: Ressonância Metálica
 
 A chuva ácida não limpava o sangue; apenas o diluía em aquarelas grotescas sobre o concreto rachado. O cheiro de ozônio saturava o ar, não vindo da tempestade acima, mas de mim. Minhas mãos tremiam, não de frio, mas da sobrecarga que ainda percorria meus nervos como estilhaços de vidro.
 

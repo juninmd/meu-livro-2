@@ -1,11 +1,11 @@
 ---
 title: Protocolo Zero
-data: 2042.11.15
+data: 2042-11-15
 localizacao: Sala de Controle de Manutenção, Subnível 8
 personagens: Elara, Jaxon
 ---
 
-# Protocolo Zero
+# Capítulo 12: Protocolo Zero
 
 O ar na sala de controle tinha gosto de poeira estelar e medo requentado. O zumbido das travas magnéticas na porta era a única barreira entre nós e a morte certa. Do outro lado, o som de serras triturando metal ecoava, um lembrete constante de que o tempo não era um luxo, mas uma moeda que estávamos gastando rápido demais.
 

@@ -1,11 +1,11 @@
 ---
 title: Convergência Sombria
-data: 2042.11.15
+data: 2042-11-15
 localizacao: Túneis de Manutenção da Linha Vermelha, Subnível 8
 personagens: Elara, Jaxon
 ---
 
-# Convergência Sombria
+# Capítulo 11: Convergência Sombria
 
 O silêncio que se seguiu ao massacre não era paz. Era apenas a ausência de ruído, um vácuo preenchido pelo zumbido estático nos meus ouvidos e pelo cheiro acre de circuitos fritados.
 

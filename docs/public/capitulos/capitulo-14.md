@@ -1,11 +1,11 @@
 ---
 title: Arritmia de Neon
-data: 2042.11.16
+data: 2042-11-16
 localizacao: Setor 4, Favelas Verticais (A Pilha)
 personagens: Elara, Jaxon, Dr. Vex
 ---
 
-# Arritmia de Neon
+# Capítulo 14: Arritmia de Neon
 
 O choque térmico foi um soco no estômago.
 
