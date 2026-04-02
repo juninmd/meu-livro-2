@@ -9,15 +9,15 @@ personagens: Elara, Dr. Vex, Jaxon
 
 A escuridão dentro do bunker do Setor 5 era uma presença física, espessa e fria. Sem a luz esverdeada da lanterna química que começava a enfraquecer, não havia diferença entre abrir ou fechar os olhos. O único som constante era o chiado rasgado da respiração de Jaxon, uma batida de um motor que ameaçava engasgar e morrer a qualquer instante.
 
-— O oxigênio vai durar mais seis horas, estourando oito, — a voz de Vex cortou o escuro, desprovida de qualquer otimismo. Senti o farfalhar do seu avental; ele devia estar checando as válvulas improvisadas novamente. — Depois disso, o esteroide broncodilatador perde o efeito. Os pulmões dele vão encher de fluidos.
+— O oxigênio vai durar mais seis horas, estourando oito — a voz de Vex cortou o escuro, desprovida de qualquer otimismo. Senti o farfalhar do seu avental; ele devia estar checando as válvulas improvisadas novamente. — Depois disso, o esteroide broncodilatador perde o efeito. Os pulmões dele vão encher de fluidos.
 
 Eu estava sentada no chão, de costas contra a parede de concreto, abraçando os joelhos. Minhas mãos, calosas e enegrecidas pela fuligem de Nova Aether, descansavam inertes. Fiquei esperando aquele formigamento familiar, a faísca que antes respondia aos meus medos e raivas, mas apenas o vazio ecoou.
 
-— Precisamos de peças, — respondi, minha voz soando mais seca do que o normal. — Filtros novos. Talvez um purificador primário inteiro.
+— Precisamos de peças — respondi, minha voz soando mais seca do que o normal. — Filtros novos. Talvez um purificador primário inteiro.
 
-— Não seja ingênua, Elara, — Vex retrucou, o cinismo pingando como o gotejar da condensação do teto. — Um purificador primário classe B não é algo que se encontra no lixo. As clínicas do Setor 4 estão saqueando umas às outras. O vácuo de poder da Ordem do Silício transformou a Pilha num matadouro.
+— Não seja ingênua, Elara — Vex retrucou, o cinismo pingando como o gotejar da condensação do teto. — Um purificador primário classe B não é algo que se encontra no lixo. As clínicas do Setor 4 estão saqueando umas às outras. O vácuo de poder da Ordem do Silício transformou a Pilha num matadouro.
 
-— Então eu vou pro matadouro, — ergui-me, os joelhos estalando. Tateei o chão até encontrar a minha chave industrial pesada. O metal frio foi um conforto momentâneo.
+— Então eu vou pro matadouro — ergui-me, os joelhos estalando. Tateei o chão até encontrar a minha chave industrial pesada. O metal frio foi um conforto momentâneo.
 
 — Você perdeu a sua "conexão", a sua vantagem tática. Vai descer pros mercados do Setor 4 sem poder fritar os implantes de ninguém? Você não é uma sucateira comum, Elara. Há gente que paga caro pela cabeça que derrubou o Deus-Máquina.
 
