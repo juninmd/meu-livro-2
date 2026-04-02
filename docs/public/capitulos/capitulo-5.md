@@ -4,7 +4,7 @@
 **Localização:** Laboratório Subterrâneo – Profundezas do Setor Sombrio
 **Personagens:** Elara, Jaxon
 
-O silêncio no laboratório era mais perturbador do que o tiroteio no beco. Lá fora, a chuva ácida continuava a açoitar a cidade, mas aqui embaixo, o ar era estéril, filtrado e com um cheiro adocicado de ozônio e carne queimada.
+O silêncio no laboratório era opressivo, mais perturbador do que o tiroteio que deixaram para trás no beco. Lá fora, a chuva ácida continuava a açoitar as estruturas apodrecidas da cidade, mas aqui embaixo, o ar era clinicamente estéril, filtrado, carregando um cheiro adocicado e enjoativo de ozônio misturado com carne queimada.
 
 Jaxon manteve o rifle erguido, varrendo o corredor de metal escovado. A luz de sua lanterna tática cortava a escuridão, revelando cabos grossos que pulsavam com luz azul, como veias de um gigante adormecido.
 
