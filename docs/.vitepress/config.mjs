@@ -52,6 +52,7 @@ export default defineConfig({
       { text: 'Capítulo 42', link: '/public/capitulos/capitulo-42' },
       { text: 'Capítulo 43', link: '/public/capitulos/capitulo-43' },
       { text: 'Capítulo 44', link: '/public/capitulos/capitulo-44' },
+      { text: 'Capítulo 45', link: '/public/capitulos/capitulo-45' },
       { text: 'Personagens', link: '/personagens' },
       { text: 'Sobre', link: '/sobre' }
     ],
@@ -104,6 +105,7 @@ export default defineConfig({
           { text: 'Capítulo 42: O Silêncio Após o Trovão', link: '/public/capitulos/capitulo-42' },
           { text: 'Capítulo 43: Cinzas e Fumaça', link: '/public/capitulos/capitulo-43' },
           { text: 'Capítulo 44: Fôlego de Ferrugem', link: '/public/capitulos/capitulo-44' },
+          { text: 'Capítulo 45: O Preço da Fumaça', link: '/public/capitulos/capitulo-45' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]
