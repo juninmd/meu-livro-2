@@ -11,7 +11,7 @@
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Originalmente permitia acelerar a percepção do tempo e reagir a ameaças com precisão sobre-humana. No entanto, após o embate final, seu poder bioelétrico foi quase inteiramente extinto ("queimado").
     *   Seus poderes bioelétricos criavam uma ponte involuntária com o Deus-Máquina, mas essa conexão foi cortada de forma permanente.
-    *   **Estado Atual (Cap. 45):** Perdeu completamente seus poderes bioelétricos ("Sobrecarga Sináptica"), retornando à condição humana básica. Agora, com o oxigênio de Jaxon se esgotando, ela deixou o bunker do Setor 5 e se aventurou nos mercados negros perigosos do Setor 4 para procurar peças para o pulmão dele, contando apenas com seus instintos de sucateira e sua chave industrial.
+    *   **Estado Atual (Cap. 45):** Perdeu completamente seus poderes bioelétricos ("Sobrecarga Sináptica"), retornando à condição humana básica. Agora, com o oxigênio de Jaxon se esgotando, ela deixa o bunker do Setor 5 e se aventura nos mercados negros perigosos do Setor 4 para procurar peças para o pulmão dele, contando apenas com seus instintos de sucateira e sua chave industrial.
 *   **Motivação:**
     *   Inicialmente encontrar a "Fonte Primordial", que agora se revela uma lenda ilusória. Sua motivação central agora é pura e simplesmente a sobrevivência em uma Nova Aether desestabilizada e perigosa após a queda do núcleo da Ordem.
 
