@@ -11,7 +11,7 @@
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Originalmente permitia acelerar a percepção do tempo e reagir a ameaças com precisão sobre-humana. No entanto, após o embate final, seu poder bioelétrico foi quase inteiramente extinto ("queimado").
     *   Seus poderes bioelétricos criavam uma ponte involuntária com o Deus-Máquina, mas essa conexão foi cortada de forma permanente.
-    *   **Estado Atual (Cap. 44):** Perdeu completamente seus poderes bioelétricos ("Sobrecarga Sináptica"), retornando à condição humana básica. Sente-se vulnerável sem essa "conexão", mas resiliência é sua marca registrada. Atualmente escondida com Vex e Jaxon em um bunker isolado no Setor 5, fora da linha direta do vácuo de poder emergente nas ruas.
+    *   **Estado Atual (Cap. 45):** Perdeu completamente seus poderes bioelétricos ("Sobrecarga Sináptica"), retornando à condição humana básica. Sente-se vulnerável, como se tivesse perdido um "membro", mas sua resiliência a mantém em frente. Deixou o bunker isolado no Setor 5 para se esgueirar no escuro Mercado Negro subterrâneo e adquirir peças de reposição vitais (um purificador Tyrell-7) para Jaxon, correndo risco imediato contra gangues (Caçadores de Cobre).
 *   **Motivação:**
     *   Inicialmente encontrar a "Fonte Primordial", que agora se revela uma lenda ilusória. Sua motivação central agora é pura e simplesmente a sobrevivência em uma Nova Aether desestabilizada e perigosa após a queda do núcleo da Ordem.
 
@@ -57,7 +57,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 44):** Em estado crítico de saúde devido à falha total do purificador de seu pulmão cibernético, danificado pela densa névoa de poluição ácida da Pilha. Está abrigado no bunker do Setor 5, e Vex utilizou um curativo clínico temporário (esteróides e oxigênio líquido) para evitar sua morte imediata. Contudo, precisa de um transplante urgente, o que torna sua sobrevivência incerta sem uma saída tática.
+    *   **Estado Atual (Cap. 45):** O tempo de vida provido pelo oxigênio líquido se esgotou. Ele permanece imóvel e em estado crítico dentro do bunker, aguardando enquanto Elara arrisca a vida para trazer-lhe o purificador pulmonar militar roubado no mercado negro.
 *   **Equipamento:**
     *   Roupas rasgadas, pulmão cibernético recém-implantado (com falhas severas). Armado com pistola magnética recarregada com uma única bateria reserva, pronto para o combate.
 *   **Motivação:**
