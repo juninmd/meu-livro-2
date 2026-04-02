@@ -1,8 +1,11 @@
-# Capítulo 7: O Coração da Máquina
+---
+title: O Coração da Máquina
+data: 2042-11-14
+localizacao: Nódulo Primário – Profundezas do Setor 7
+personagens: Elara, Jaxon, A Voz (IA)
+---
 
-**Data:** Ciclo Solar 302, Era Pós-Colapso
-**Localização:** Nódulo Primário – Profundezas do Setor 7
-**Personagens:** Elara, Jaxon, A Voz (IA)
+# Capítulo 7: O Coração da Máquina
 
 A descida não foi física, mas ontológica. À medida que o elevador de carga gemia em sua descida interminável, a pressão no ar mudava. O cheiro de ozônio e ferrugem do mundo superior foi substituído por algo estéril, frio e vagamente antisséptico.
 

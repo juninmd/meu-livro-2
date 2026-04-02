@@ -1,8 +1,11 @@
-# Capítulo 8: Fuga do Abismo
+---
+title: Fuga do Abismo
+data: 2042-11-14
+localizacao: Nódulo Primário (Em Colapso) -> Túneis de Manutenção
+personagens: Elara, Jaxon, Sentinelas
+---
 
-**Data:** Ciclo Solar 302, Era Pós-Colapso
-**Localização:** Nódulo Primário (Em Colapso) -> Túneis de Manutenção
-**Personagens:** Elara, Jaxon, Sentinelas
+# Capítulo 8: Fuga do Abismo
 
 O mundo não gritava; ele se rasgava.
 

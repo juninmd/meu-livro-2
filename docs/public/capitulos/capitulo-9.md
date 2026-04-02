@@ -1,8 +1,11 @@
-# Capítulo 9: Ecos do Subsolo
+---
+title: Ecos do Subsolo
+data: 2042-11-14
+localizacao: Túneis de Manutenção -> Subníveis do Setor 7
+personagens: Elara, Jaxon
+---
 
-**Data:** Ciclo Solar 302, Era Pós-Colapso
-**Localização:** Túneis de Manutenção -> Subníveis do Setor 7
-**Personagens:** Elara, Jaxon
+# Capítulo 9: Ecos do Subsolo
 
 A escuridão nos túneis não era apenas a ausência de luz; era uma entidade física, pesada e sufocante. O ar cheirava a água estagnada e ferrugem antiga, um perfume de esquecimento que impregnava as roupas e a pele.
 
