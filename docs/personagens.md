@@ -11,7 +11,7 @@
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Originalmente permitia acelerar a percepção do tempo e reagir a ameaças com precisão sobre-humana. No entanto, após o embate final, seu poder bioelétrico foi quase inteiramente extinto ("queimado").
     *   Seus poderes bioelétricos criavam uma ponte involuntária com o Deus-Máquina, mas essa conexão foi cortada de forma permanente.
-    *   **Estado Atual (Cap. 44):** Perdeu completamente seus poderes bioelétricos ("Sobrecarga Sináptica"), retornando à condição humana básica. Sente-se vulnerável sem essa "conexão", mas resiliência é sua marca registrada. Atualmente escondida com Vex e Jaxon em um bunker isolado no Setor 5, fora da linha direta do vácuo de poder emergente nas ruas.
+    *   **Estado Atual (Cap. 45):** Perdeu completamente seus poderes bioelétricos ("Sobrecarga Sináptica"), retornando à condição humana básica. Agora, com o oxigênio de Jaxon se esgotando, ela deixou o bunker do Setor 5 e se aventurou nos mercados negros perigosos do Setor 4 para procurar peças para o pulmão dele, contando apenas com seus instintos de sucateira e sua chave industrial.
 *   **Motivação:**
     *   Inicialmente encontrar a "Fonte Primordial", que agora se revela uma lenda ilusória. Sua motivação central agora é pura e simplesmente a sobrevivência em uma Nova Aether desestabilizada e perigosa após a queda do núcleo da Ordem.
 
@@ -23,7 +23,7 @@
     *   Um homem magro com óculos de realidade aumentada que cobrem metade do rosto.
     *   Veste um avental manchado de óleo e fluidos biológicos.
     *   Demonstra curiosidade mórbida pela anomalia bioelétrica de Elara, agora extinta.
-    *   **Estado Atual (Cap. 44):** Acompanha Elara e Jaxon até o bunker no Setor 5. Suas lentes de RA estão permanentemente apagadas. Demonstra seu valor clínico improvisado ao estabilizar (temporariamente) o pulmão cibernético falho de Jaxon usando suprimentos escassos, enquanto analisa metodicamente o iminente conflito de facções na cidade que perdeu seu "Deus".
+    *   **Estado Atual (Cap. 45):** Permanece no bunker no Setor 5, mantendo vigília clínica sobre Jaxon enquanto Elara busca peças na cidade. Suas lentes de RA estão permanentemente apagadas, mas sua expertise improvisada é o que ainda mantém Jaxon respirando.
 *   **Motivação:**
     *   Conhecimento e sobrevivência. Interessado em estudar a "antena" humana que Elara se tornou.
 
@@ -57,7 +57,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 44):** Em estado crítico de saúde devido à falha total do purificador de seu pulmão cibernético, danificado pela densa névoa de poluição ácida da Pilha. Está abrigado no bunker do Setor 5, e Vex utilizou um curativo clínico temporário (esteróides e oxigênio líquido) para evitar sua morte imediata. Contudo, precisa de um transplante urgente, o que torna sua sobrevivência incerta sem uma saída tática.
+    *   **Estado Atual (Cap. 45):** Permanece em estado extremamente crítico no bunker do Setor 5. O oxigênio líquido administrado por Vex durará apenas algumas horas antes que seus pulmões comecem a encher de fluidos. Sua sobrevivência depende da arriscada missão de Elara nos mercados negros.
 *   **Equipamento:**
     *   Roupas rasgadas, pulmão cibernético recém-implantado (com falhas severas). Armado com pistola magnética recarregada com uma única bateria reserva, pronto para o combate.
 *   **Motivação:**
