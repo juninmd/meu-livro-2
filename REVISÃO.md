@@ -40,19 +40,61 @@
 - [x] Capítulos 7, 8, 9
 - [x] Capítulos 10, 11, 12
 - [x] Capítulos 13, 14, 15
-- [x] Capítulos 16, 17, 18
-- [x] Capítulos 19, 20, 21
-- [x] Capítulos 22, 23, 24
-- [x] Capítulos 25, 26, 27
-- [x] Capítulos 28, 29, 30
-- [x] Capítulos 31, 32, 33
-- [x] Capítulos 34, 35, 36
-- [x] Capítulos 37, 38
-- [x] Capítulos 39, 40 (Lido)
-- [x] Capítulo 41 (Lido)
-- [x] Capítulo 42 (Lido)
-- [x] Capítulo 43 (Lido)
-- [x] Capítulo 44 (Lido)
+
+**Análise dos Capítulos 16, 17 e 18:**
+- **Coerência de Personagens:** Elara sofre as consequências diretas de seus atos. O encontro com Kaelen e o uso do "silenciador" reforçam seu papel e os riscos de suas habilidades. Jaxon demonstra resiliência forçada e a dinâmica entre os dois continua forte.
+- **Necessidade de Novos Personagens:** O retorno de Kaelen é apropriado e expande o mundo de forma contida. Nenhuma necessidade de introdução de outros.
+- **Qualidade da História:** A trama desenvolve o suspense eficientemente e dá um bom foco nas limitações de Elara.
+
+**Análise dos Capítulos 19, 20 e 21:**
+- **Coerência de Personagens:** A falha da contenção neural força Elara a lutar usando a dor, alinhado com seu arco. Jaxon usa sua experiência de combate para protegê-la.
+- **Necessidade de Novos Personagens:** O clímax no Nódulo Primário concentra as tensões no núcleo Elara/Jaxon/Deus-Máquina, perfeito sem distrações.
+- **Qualidade da História:** O encontro no Nódulo Primário tem grande carga dramática e a resolução (o curto-circuito) é bastante catártica e consistente.
+
+**Análise dos Capítulos 22, 23 e 24:**
+- **Coerência de Personagens:** O aftermath da destruição do Nódulo é brutal. A transição de Elara de "poderosa" para uma casca vulnerável é crível, assim como a lealdade e os sacrifícios físicos de Jaxon.
+- **Necessidade de Novos Personagens:** Nenhuma. A interação limitada com Vex traz a urgência necessária.
+- **Qualidade da História:** O conceito de "ponto cego" e a tensão do subsolo isolado mantêm a obra coesa.
+
+**Análise dos Capítulos 25, 26 e 27:**
+- **Coerência de Personagens:** A fraqueza física de Jaxon e a vulnerabilidade de Elara aprofundam a gravidade da situação. A progressão narrativa exige sacrifícios condizentes.
+- **Necessidade de Novos Personagens:** Nenhuma.
+- **Qualidade da História:** A fuga sob o Beco do Choro é claustrofóbica e bem escrita.
+
+**Análise dos Capítulos 28, 29 e 30:**
+- **Coerência de Personagens:** Jaxon continua seu caminho até um estado irreversível, forçando Elara e Vex a agirem. Elara está em conflito por estar sem poderes.
+- **Necessidade de Novos Personagens:** Kaelen reaparece e age coerentemente com seus interesses de autopreservação. Sem necessidade de adições.
+- **Qualidade da História:** As sequências no Setor 4 e a interceptação dos suprimentos são criativas e cheias de tensão.
+
+**Análise dos Capítulos 31, 32 e 33:**
+- **Coerência de Personagens:** A fuga frenética prova que Elara sabe se virar mesmo sem a "faísca". A inteligência prática compensa a força.
+- **Necessidade de Novos Personagens:** Nenhuma.
+- **Qualidade da História:** A luta corpo a corpo com os Sentinelas usando o cenário (gás congelante) demonstra criatividade no universo noir-cyberpunk.
+
+**Análise dos Capítulos 34, 35 e 36:**
+- **Coerência de Personagens:** O descarrilamento do trem e a cirurgia brutal de Jaxon estão nos limites da resistência dos personagens. A atuação fria de Vex é central aqui.
+- **Necessidade de Novos Personagens:** Nenhuma. O trio Elara, Jaxon e Vex sustenta bem o momento crítico.
+- **Qualidade da História:** A fuga iminente na clínica do Vex empurra a trama perfeitamente para seu último ato contra o Nódulo.
+
+**Análise dos Capítulos 37, 38 e 39:**
+- **Coerência de Personagens:** A descida final. Jaxon, agora uma parte máquina e ciente de sua mortalidade. Elara tomando a dianteira, pronta para o sacrifício máximo para libertar o mundo do Deus-Máquina.
+- **Necessidade de Novos Personagens:** O ambiente frio e a ameaça invisível eliminam a necessidade de qualquer outro ator.
+- **Qualidade da História:** A "Sinfonia de Gelo e Estilhaços" prepara maravilhosamente o terreno para o núcleo central. O combate aos sentinelas caídos é primoroso.
+
+**Análise dos Capítulos 40, 41 e 42:**
+- **Coerência de Personagens:** O sacrifício é aceito por Elara, canalizando sua dor contra a entidade. A perda do dom e o retorno à humanidade marcam a catarse.
+- **Necessidade de Novos Personagens:** Nenhuma. A interação no Núcleo do Abismo encerra o grande arco do Deus-Máquina.
+- **Qualidade da História:** A destruição da entidade é visual e poderosa. A consequência de "nova escuridão" para A Pilha reafirma as raízes "noir" do livro.
+
+**Análise dos Capítulos 43, 44 e 45:**
+- **Coerência de Personagens:** A sobrevivência no novo caos (escuridão, cartéis, saqueadores) testa Elara sem poderes. Jaxon continua falhando no limite do fôlego, acentuando o custo da libertação.
+- **Necessidade de Novos Personagens:** As novas ameaças locais provam o novo estado do Setor. O trio continua guiando o plot.
+- **Qualidade da História:** As cinzas de Nova Aether forçam escolhas práticas. O retorno de Elara aos mercados em busca do "Preço do Ar" a reconecta com suas raízes de sucateira.
+
+**Análise do Capítulo 46:**
+- **Coerência de Personagens:** A negociação com Ferrão foca na falta do brilho bioelétrico de Elara e o pragmatismo das gangues, consolidando seu status de apenas humana de volta à lama.
+- **Necessidade de Novos Personagens:** Ferrão (o sucateiro) cumpre bem o papel do negociador corrupto, sem quebrar o ritmo.
+- **Qualidade da História:** A preparação para a próxima missão contra o Cartel da Água funciona muito bem para manter a roda girando.
 
 ## Avaliação de Personagens (Elenco)
 
