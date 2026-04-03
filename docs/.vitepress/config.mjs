@@ -53,6 +53,7 @@ export default defineConfig({
       { text: 'Capítulo 43', link: '/public/capitulos/capitulo-43' },
       { text: 'Capítulo 44', link: '/public/capitulos/capitulo-44' },
       { text: 'Capítulo 45', link: '/public/capitulos/capitulo-45' },
+      { text: 'Capítulo 46', link: '/public/capitulos/capitulo-46' },
       { text: 'Personagens', link: '/personagens' },
       { text: 'Sobre', link: '/sobre' }
     ],
@@ -106,6 +107,7 @@ export default defineConfig({
           { text: 'Capítulo 43: Cinzas e Fumaça', link: '/public/capitulos/capitulo-43' },
           { text: 'Capítulo 44: Fôlego de Ferrugem', link: '/public/capitulos/capitulo-44' },
           { text: 'Capítulo 45: O Custo da Carne e do Aço', link: '/public/capitulos/capitulo-45' },
+          { text: 'Capítulo 46: O Preço do Ar', link: '/public/capitulos/capitulo-46' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]
