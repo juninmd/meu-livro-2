@@ -47,6 +47,6 @@ Houve um estalo doentio de osso e metal quebrado. O aperto em meu pescoço afrou
 
 Gaspando por ar, os pulmões queimando, arrastei-me para longe do corpo inerte. Eu tremia incontrolavelmente. Olhei para as minhas mãos sujas de sangue e graxa. Este era o meu novo normal. Sangue, suor e sobrevivência brutal.
 
-Levantei-me cambaleando. Mais guardas viriam. O som do tiro atrairia atenção. Voltei cambaleante para os núcleos. Agarrei o cilindro, o peso quase me dobrando ao meio, e o acomodei contra o peito, usando as tiras da minha jaqueta para ajudar a sustentá-lo.
+Levantei-me cambaleando. O som do tiro ainda ecoava, um sinal claro para qualquer patrulha nas proximidades. Voltei para os núcleos, cada movimento uma batalha contra a dor. Agarrei o cilindro, o peso quase me dobrando ao meio, e o prendi contra o peito com as tiras da minha jaqueta.
 
-Não saí pela tubulação. Encontrei uma porta lateral de serviço e destranquei-a de dentro, fugindo para a chuva ácida que agora começava a cair, mesclando-se com as lágrimas involuntárias de dor e exaustão no meu rosto. Eu tinha o núcleo. Jaxon teria o seu ar. O preço havia sido pago, e eu era a moeda.
+Vozes abafadas e o som de botas pesadas contra o metal soaram ao longe, vindos da entrada principal. O pânico acelerou meu pulso. Não saí pela tubulação; seria lenta demais. Encontrei uma porta lateral de serviço e a destranquei, irrompendo na chuva ácida que começava a cair. A água fria lavava o sangue e a graxa, misturando-se às lágrimas de exaustão. Eu tinha o núcleo. Jaxon teria o seu ar. O preço havia sido pago, e eu era a moeda.
