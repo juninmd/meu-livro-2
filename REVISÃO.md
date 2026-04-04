@@ -56,14 +56,14 @@
 - **Necessidade de Novos Personagens:** Nenhuma. A interação limitada com Vex traz a urgência necessária.
 - **Qualidade da História:** O conceito de "ponto cego" e a tensão do subsolo isolado mantêm a obra coesa.
 
-**Análise dos Capítulos 24, 25 e 26:**
+**Análise dos Capítulos 25 e 26:**
 - **Coerência de Personagens:** A vulnerabilidade de Elara sem seus poderes bioelétricos e a deterioração física grave de Jaxon (incluindo as consequências da injeção de adrenalina) são muito bem retratadas. Ambos lutam pela sobrevivência no subsolo, mantendo suas essências cínicas e pragmáticas.
 - **Necessidade de Novos Personagens:** O foco estrito na sobrevivência e fuga da dupla contra os Ratos-Drones e o ambiente hostil dispensa a necessidade de novos personagens nesse momento.
 - **Qualidade da História:** O clima é muito bem construído, transmitindo a claustrofobia dos túneis (Cap 24 e 25) e o desespero do esconderijo na superfície (Cap 26). O uso do rifle para criar um desabamento foi um ótimo toque tático.
 
 **Análise dos Capítulos 27, 28 e 29:**
 - **Coerência de Personagens:** A falta de poderes de Elara ("o silêncio do chumbo") define o tom, aprofundando o desespero e exigindo soluções analógicas, como o uso de uma manta térmica de chumbo contra os hover-drones. A teimosia e a degradação de Jaxon estão muito consistentes com seu ferimento. O retorno de Vex reafirma o cinismo e o custo de sobrevivência em A Pilha.
-- **Necessidade de Novos Personagens:** Nenhuma. A interação entre Elara, Jaxon e Vex sustenta firmemente as apostas da narrativa. Kaelen não reaparece nesta sequência (ao contrário do review anterior), o que mantém a consistência.
+- **Necessidade de Novos Personagens:** Nenhuma. A interação entre Elara, Jaxon e Vex sustenta firmemente as apostas da narrativa. Kaelen não reaparece nesta sequência, o que mantém a consistência.
 - **Qualidade da História:** A tensão é excelente, escalando com a tentativa de evitar a patrulha e chegando ao consultório precário de Vex. O tom noir cyberpunk é impecável.
 
 **Análise dos Capítulos 30, 31, 32 e 33:**
