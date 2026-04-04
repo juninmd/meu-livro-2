@@ -83,6 +83,7 @@ O mundo é uma mistura de natureza retomando seu espaço e esqueletos de megacid
 - [Capítulo 44: Fôlego de Ferrugem](/public/capitulos/capitulo-44)
 - [Capítulo 45: O Custo da Carne e do Aço](/public/capitulos/capitulo-45)
 - [Capítulo 46: O Preço do Ar](/public/capitulos/capitulo-46)
+- [Capítulo 47: Sombras nas Docas Secas](/public/capitulos/capitulo-47)
 
 <div class="story-card">
 <strong>O Legado de Silício</strong> explora a linha tênue entre tecnologia e magia em um futuro esquecido.
