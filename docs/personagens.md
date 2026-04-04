@@ -11,7 +11,7 @@
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Originalmente permitia acelerar a percepção do tempo e reagir a ameaças com precisão sobre-humana. No entanto, após o embate final, seu poder bioelétrico foi quase inteiramente extinto ("queimado").
     *   Seus poderes bioelétricos criavam uma ponte involuntária com o Deus-Máquina, mas essa conexão foi cortada de forma permanente.
-    *   **Estado Atual (Cap. 46):** Perdeu completamente seus poderes bioelétricos ("Sobrecarga Sináptica"), retornando à condição humana básica. Para conseguir o purificador de ar que Jaxon necessita de Ferrão (um sucateiro local), ela foi encarregada de roubar um núcleo de energia de um depósito controlado pelo Cartel da Água, uma missão de altíssimo risco.
+    *   **Estado Atual (Cap. 47):** Perdeu completamente seus poderes bioelétricos ("Sobrecarga Sináptica"), retornando à condição humana básica. Conseguiu roubar um núcleo de energia do Cartel da Água após um combate brutal e desesperado onde quase foi morta, provando as dificuldades de sobreviver apenas como uma humana comum. Ela retorna com a peça para trocar pelo purificador de ar necessário para salvar Jaxon.
 *   **Motivação:**
     *   Inicialmente encontrar a "Fonte Primordial", que agora se revela uma lenda ilusória. Sua motivação central agora é pura e simplesmente a sobrevivência em uma Nova Aether desestabilizada e perigosa após a queda do núcleo da Ordem.
 
@@ -122,7 +122,7 @@
     *   **Estado Atual (Cap. 41):** Silenciado definitivamente. O supercomputador composto de "wetware" entrou em colapso catastrófico e teve seus milhares de tanques estilhaçados após Elara saturar suas conexões com toda sua bioeletricidade acumulada, matando a entidade.
 
 ### Setor 4 (A Pilha)
-*   **Definição:** Um aglomerado vertical de habitações precárias, mercados negros e clínicas ilegais.
-*   **Atmosfera:** Quente, úmida e saturada de neon e poluição. O oposto absoluto do setor congelado abaixo.
-*   **Habitantes:** Párias, criminosos, viciados em *stim* e aqueles que não podem pagar pela cidadania nos níveis superiores.
-*   **Estado Atual (Cap. 44):** Mergulhada na escuridão absoluta sem a rede energética. Tornou-se um local letal, preenchido por fumaça, névoa tóxica e um caos silencioso onde gangues, cartéis de água e facções remanescentes disputam território. A poluição e o ambiente inóspito forçam o grupo de Elara a se esconder em um bunker selado no Setor 5.
+*   **Definição:** Um aglomerado vertical de habitações precárias, mercados negros e clínicas ilegais. Possui também docas secas onde cartéis operam.
+*   **Atmosfera:** Quente, úmida e saturada de neon e poluição. O oposto absoluto do setor congelado abaixo. As docas cheiram a peixe podre e ozônio velho, com chuva ácida constante.
+*   **Habitantes:** Párias, criminosos, viciados em *stim* e aqueles que não podem pagar pela cidadania nos níveis superiores. Gangues como o Cartel da Água controlam recursos vitais.
+*   **Estado Atual (Cap. 44-47):** Mergulhada na escuridão absoluta sem a rede energética. Tornou-se um local letal, preenchido por fumaça, névoa tóxica e um caos silencioso onde gangues, como o Cartel da Água nas docas secas, disputam território ferozmente. A poluição e o ambiente inóspito forçam o grupo de Elara a se esconder em um bunker selado no Setor 5.
