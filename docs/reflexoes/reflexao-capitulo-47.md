@@ -17,4 +17,4 @@
 *   **"Show, Don't Tell":** A dificuldade de levantar o núcleo de energia e o pânico físico de ser estrangulada transmitem a sua mortalidade melhor do que parágrafos de explicação.
 
 **Pontos Fracos:**
-*   **Fuga Rápida Demais:** A fuga após pegar o núcleo de energia e sair pela porta de serviço, embora eficiente, pode ter soado muito abrupta considerando o disparo da arma. Poderia ter tido um parágrafo a mais detalhando a urgência da fuga enquanto mais passos eram ouvidos se aproximando.
+*   **Fuga e Tensão:** A urgência da fuga após o disparo da arma foi detalhada para garantir que o ritmo não parecesse abrupto, mantendo a tensão até o fim do capítulo.
