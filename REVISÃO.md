@@ -19,6 +19,7 @@
 - [x] Capítulos 40, 41, 42
 - [x] Capítulos 43, 44, 45
 - [x] Capítulos 46, 47, 48
+- [x] Capítulo 49 (Sanity Check Realizado)
 
 **Análise dos Capítulos 13, 14 e 15:**
 - **Coerência de Personagens:** Elara transita de uma combatente exaurida para alguém que está disposta a negociar um pedaço de si mesma por Jaxon. Jaxon segue debilitado, e a introdução oficial do Dr. Vex é bem integrada à necessidade médica emergencial sem que ele ofusque o núcleo da equipe. A troca entre Vex e Elara e a intromissão do Deus-Máquina fluem naturalmente.
@@ -129,6 +130,10 @@
 - **Coerência de Personagens:** A vulnerabilidade de Elara é central. A negociação com Ferrão (Cap 46 e 48) escancara sua perda de status e resiliência humana. A brutalidade física de roubar o núcleo no Depósito Três (Cap 47) e forçar a troca (Cap 48) reafirma que a ação de Elara é moldada por sua nova condição puramente orgânica, arriscando tudo por Jaxon.
 - **Necessidade de Novos Personagens:** Ferrão atua muito bem como obstáculo/aliado de conveniência. Os capangas do Cartel da Água cumprem seu papel como vilões imediatos. Não há necessidade de aprofundar ou inserir outros personagens, a dinâmica de sobrevivência está perfeitamente servida pelo elenco atual.
 - **Qualidade da História:** A infiltração nas docas secas, o combate desesperado e o confronto tenso com Ferrão fecham perfeitamente esta nova etapa, marcando as consequências permanentes de sua vitória sobre a Ordem e do sacrifício de Jaxon. O fluxo narrativo e o desenvolvimento estão excelentes.
+
+**Sanity Check: Capítulo 49**
+- **O plot twist deste capítulo invalida algo estabelecido nos capítulos anteriores?** Não há plot twist que invalide. Pelo contrário, o capítulo reforça ativamente a nova condição puramente humana de Elara (sem a Sobrecarga Sináptica), forçando-a a lutar usando física analógica (cabo de tensão) e objetos contundentes, em vez de poderes. A fragilidade física (ferimentos do Cap 47) e ambiental (ácido e decadência do Cap 42/43) foram todas respeitadas rigorosamente.
+- **O resumo da lore foi atualizado com os novos eventos?** Sim. `docs/personagens.md` foi atualizado para atestar que Elara chegou com o purificador no bunker do Setor 5, e a situação de Jaxon (ainda crítico, mas com os meios de salvação garantidos) também foi atualizada. O Cartel da Água permanece como uma ameaça no submundo agora que os Sentinelas estão inativos.
 
 
 ## Conclusão da Revisão

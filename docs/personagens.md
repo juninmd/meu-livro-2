@@ -11,7 +11,7 @@
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Originalmente permitia acelerar a percepção do tempo e reagir a ameaças com precisão sobre-humana. No entanto, após o embate final, seu poder bioelétrico foi quase inteiramente extinto ("queimado").
     *   Seus poderes bioelétricos criavam uma ponte involuntária com o Deus-Máquina, mas essa conexão foi cortada de forma permanente.
-    *   **Estado Atual (Cap. 48):** Perdeu completamente seus poderes bioelétricos ("Sobrecarga Sináptica"), retornando à condição humana básica. Conseguiu roubar um núcleo de energia do Cartel da Água após um combate brutal e desesperado onde quase foi morta. Utilizando pura intimidação tática e ameaçando detonar o núcleo instável, ela forçou o comerciante clandestino Ferrão a entregar o purificador de ar de grau militar. Agora, ela precisa retornar rapidamente ao Setor 5 para salvar Jaxon.
+    *   **Estado Atual (Cap. 49):** Após obter o purificador de ar de Ferrão, enfrentou com sucesso e de forma totalmente analógica caçadores do Cartel da Água durante sua fuga alucinada pelas passarelas ácidas e industriais entre os setores 4 e 5. Chegou esgotada fisicamente, mas a tempo de entregar o equipamento vital para a sobrevivência de Jaxon no bunker de Vex.
 *   **Motivação:**
     *   Inicialmente encontrar a "Fonte Primordial", que agora se revela uma lenda ilusória. Sua motivação central agora é pura e simplesmente a sobrevivência em uma Nova Aether desestabilizada e perigosa após a queda do núcleo da Ordem.
 
@@ -23,7 +23,7 @@
     *   Um homem magro com óculos de realidade aumentada que cobrem metade do rosto.
     *   Veste um avental manchado de óleo e fluidos biológicos.
     *   Demonstra curiosidade mórbida pela anomalia bioelétrica de Elara, agora extinta.
-    *   **Estado Atual (Cap. 45):** Permanece no bunker no Setor 5, mantendo vigília clínica sobre Jaxon enquanto Elara busca peças na cidade. Suas lentes de RA estão permanentemente apagadas, mas sua expertise improvisada é o que ainda mantém Jaxon respirando.
+    *   **Estado Atual (Cap. 49):** Permanece no bunker no Setor 5 aguardando. Com o retorno bem-sucedido de Elara e o purificador em mãos, ele possui o equipamento necessário para estabilizar os fluidos nos pulmões sintéticos de Jaxon.
 *   **Motivação:**
     *   Conhecimento e sobrevivência. Interessado em estudar a "antena" humana que Elara se tornou.
 
@@ -57,7 +57,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 45):** Permanece em estado extremamente crítico no bunker do Setor 5. O oxigênio líquido administrado por Vex durará apenas algumas horas antes que seus pulmões comecem a encher de fluidos. Sua sobrevivência depende da arriscada missão de Elara nos mercados negros.
+    *   **Estado Atual (Cap. 49):** Continua acamado e em estado crítico no bunker do Setor 5, mas Elara chegou com o purificador de ar militar, assegurando as peças vitais de que Vex precisa para salvá-lo do colapso de seus pulmões artificiais.
 *   **Equipamento:**
     *   Roupas rasgadas, pulmão cibernético recém-implantado (com falhas severas). Armado com pistola magnética recarregada com uma única bateria reserva, pronto para o combate.
 *   **Motivação:**
@@ -125,4 +125,4 @@
 *   **Definição:** Um aglomerado vertical de habitações precárias, mercados negros e clínicas ilegais. Possui também docas secas onde cartéis operam.
 *   **Atmosfera:** Quente, úmida e saturada de neon e poluição. O oposto absoluto do setor congelado abaixo. As docas cheiram a peixe podre e ozônio velho, com chuva ácida constante.
 *   **Habitantes:** Párias, criminosos, viciados em *stim* e aqueles que não podem pagar pela cidadania nos níveis superiores. Gangues como o Cartel da Água controlam recursos vitais.
-*   **Estado Atual (Cap. 44-47):** Mergulhada na escuridão absoluta sem a rede energética. Tornou-se um local letal, preenchido por fumaça, névoa tóxica e um caos silencioso onde gangues, como o Cartel da Água nas docas secas, disputam território ferozmente. A poluição e o ambiente inóspito forçam o grupo de Elara a se esconder em um bunker selado no Setor 5.
+*   **Estado Atual (Cap. 44-49):** Mergulhada na escuridão absoluta sem a rede energética. Tornou-se um local letal, preenchido por fumaça, névoa tóxica e um caos silencioso onde gangues, como o Cartel da Água nas docas secas, disputam território ferozmente. A poluição severa das passagens industriais expôs Elara aos perigos corrosivos enquanto ela fugia de volta para o Setor 5.
