@@ -19,7 +19,7 @@
 - [x] Capítulos 40, 41, 42
 - [x] Capítulos 43, 44, 45
 - [x] Capítulos 46, 47, 48
-- [x] Capítulo 49 (Sanity Check Realizado)
+- [x] Capítulo 49
 
 **Análise dos Capítulos 13, 14 e 15:**
 - **Coerência de Personagens:** Elara transita de uma combatente exaurida para alguém que está disposta a negociar um pedaço de si mesma por Jaxon. Jaxon segue debilitado, e a introdução oficial do Dr. Vex é bem integrada à necessidade médica emergencial sem que ele ofusque o núcleo da equipe. A troca entre Vex e Elara e a intromissão do Deus-Máquina fluem naturalmente.
@@ -131,10 +131,10 @@
 - **Necessidade de Novos Personagens:** Ferrão atua muito bem como obstáculo/aliado de conveniência. Os capangas do Cartel da Água cumprem seu papel como vilões imediatos. Não há necessidade de aprofundar ou inserir outros personagens, a dinâmica de sobrevivência está perfeitamente servida pelo elenco atual.
 - **Qualidade da História:** A infiltração nas docas secas, o combate desesperado e o confronto tenso com Ferrão fecham perfeitamente esta nova etapa, marcando as consequências permanentes de sua vitória sobre a Ordem e do sacrifício de Jaxon. O fluxo narrativo e o desenvolvimento estão excelentes.
 
-**Sanity Check: Capítulo 49**
-- **O plot twist deste capítulo invalida algo estabelecido nos capítulos anteriores?** Não há plot twist que invalide. Pelo contrário, o capítulo reforça ativamente a nova condição puramente humana de Elara (sem a Sobrecarga Sináptica), forçando-a a lutar usando física analógica (cabo de tensão) e objetos contundentes, em vez de poderes. A fragilidade física (ferimentos do Cap 47) e ambiental (ácido e decadência do Cap 42/43) foram todas respeitadas rigorosamente.
-- **O resumo da lore foi atualizado com os novos eventos?** Sim. `docs/personagens.md` foi atualizado para atestar que Elara chegou com o purificador no bunker do Setor 5, e a situação de Jaxon (ainda crítico, mas com os meios de salvação garantidos) também foi atualizada. O Cartel da Água permanece como uma ameaça no submundo agora que os Sentinelas estão inativos.
-
+**Análise do Capítulo 49:**
+- **Coerência de Personagens:** Elara mantém-se perfeitamente coerente com a perda de seus poderes, agindo de forma desesperada e engenhosa. Sua motivação central (salvar Jaxon) é tangível e impulsiona a narrativa. O uso do ambiente (água e cabo de força) para derrotar o inimigo ilustra bem sua transição de volta para uma humana vulnerável, porém inteligente.
+- **Necessidade de Novos Personagens:** Nenhuma. Os capangas anônimos do Cartel da Água servem perfeitamente como ameaça física imediata. A menção a Jaxon e Vex mantém os laços emocionais fortes sem saturar o capítulo com diálogos ou aparições desnecessárias.
+- **Qualidade da História:** A ambientação pós-Nódulo Primário é excelente (escuridão, névoa ácida). A tensão da perseguição e a resolução criativa e brutal do combate são extremamente condizentes com a pegada noir e de sobrevivência estabelecida nos capítulos anteriores.
 
 ## Conclusão da Revisão
 A história de "O Legado de Silício" apresenta personagens altamente coerentes e com profunda agência até suas últimas consequências. Os capítulos 41 e 42 entregam o fechamento da narrativa principal envolvendo o Deus-Máquina com precisão técnica e tom sombrio impecável. A progressão de seus ferimentos, a perda brutal de habilidades para ancorar Elara de volta à vulnerabilidade humana, as reações realistas do elenco de apoio, e a transição para um mundo ainda corrompido, porém diferente (sem luzes, mas sem ruído controlador), refletem perfeitamente os moldes do Noir Cyberpunk. A obra não necessitou da inserção de novos personagens. A trama engajante encerrou-se focada nos seus pilares principais, fechando com maestria a saga do Nódulo Primário.
