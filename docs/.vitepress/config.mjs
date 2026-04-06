@@ -56,6 +56,7 @@ export default defineConfig({
       { text: 'Capítulo 46', link: '/public/capitulos/capitulo-46' },
       { text: 'Capítulo 47', link: '/public/capitulos/capitulo-47' },
       { text: 'Capítulo 48', link: '/public/capitulos/capitulo-48' },
+      { text: 'Capítulo 49', link: '/public/capitulos/capitulo-49' },
       { text: 'Personagens', link: '/personagens' },
       { text: 'Sobre', link: '/sobre' }
     ],
@@ -112,6 +113,7 @@ export default defineConfig({
           { text: 'Capítulo 46: O Preço do Ar', link: '/public/capitulos/capitulo-46' },
           { text: 'Capítulo 47: Sombras nas Docas Secas', link: '/public/capitulos/capitulo-47' },
           { text: 'Capítulo 48: A Moeda de Ferrugem', link: '/public/capitulos/capitulo-48' },
+          { text: 'Capítulo 49: A Corrida Contra a Ferrugem', link: '/public/capitulos/capitulo-49' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]
