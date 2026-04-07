@@ -9,8 +9,7 @@ def verify_chapter_50():
         # Go to the local dev server
         page.goto("http://localhost:4173/public/capitulos/capitulo-50.html")
 
-        # Wait a bit to let it render
-        time.sleep(2)
+        # O Playwright aguarda automaticamente pela renderização na asserção expect abaixo
 
         # Verify the title
         expect(page.locator("h1")).to_have_text("O Sangue Frio do Bunker")
