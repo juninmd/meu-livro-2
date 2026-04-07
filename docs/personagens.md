@@ -11,7 +11,7 @@
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Originalmente permitia acelerar a percepção do tempo e reagir a ameaças com precisão sobre-humana. No entanto, após o embate final, seu poder bioelétrico foi quase inteiramente extinto ("queimado").
     *   Seus poderes bioelétricos criavam uma ponte involuntária com o Deus-Máquina, mas essa conexão foi cortada de forma permanente.
-    *   **Estado Atual (Cap. 49):** Após obter o purificador de ar de Ferrão, enfrentou com sucesso e de forma totalmente analógica caçadores do Cartel da Água durante sua fuga alucinada pelas passarelas ácidas e industriais entre os setores 4 e 5. Chegou esgotada fisicamente, mas a tempo de entregar o equipamento vital para a sobrevivência de Jaxon no bunker de Vex.
+    *   **Estado Atual (Cap. 50):** Após chegar ao bunker com o purificador de ar de Ferrão, ajudou Vex a realizar uma cirurgia improvisada que salvou Jaxon no último instante, enfrentando a realidade fria de sua perda permanente de poderes.
 *   **Motivação:**
     *   Inicialmente encontrar a "Fonte Primordial", que agora se revela uma lenda ilusória. Sua motivação central agora é pura e simplesmente a sobrevivência em uma Nova Aether desestabilizada e perigosa após a queda do núcleo da Ordem.
 
@@ -23,7 +23,7 @@
     *   Um homem magro com óculos de realidade aumentada que cobrem metade do rosto.
     *   Veste um avental manchado de óleo e fluidos biológicos.
     *   Demonstra curiosidade mórbida pela anomalia bioelétrica de Elara, agora extinta.
-    *   **Estado Atual (Cap. 49):** Permanece no bunker no Setor 5 aguardando. Com o retorno bem-sucedido de Elara e o purificador em mãos, ele possui o equipamento necessário para estabilizar os fluidos nos pulmões sintéticos de Jaxon.
+    *   **Estado Atual (Cap. 50):** Conduziu uma cirurgia de emergência sob pressão e falta de energia no bunker do Setor 5, acoplando com sucesso o purificador militar para bombear ar nos pulmões de Jaxon, salvando sua vida temporariamente.
 *   **Motivação:**
     *   Conhecimento e sobrevivência. Interessado em estudar a "antena" humana que Elara se tornou.
 
@@ -57,7 +57,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 49):** Continua acamado e em estado crítico no bunker do Setor 5, mas Elara chegou com o purificador de ar militar, assegurando as peças vitais de que Vex precisa para salvá-lo do colapso de seus pulmões artificiais.
+    *   **Estado Atual (Cap. 50):** Sobreviveu a uma parada cardíaca após a cirurgia de emergência feita por Vex e Elara. Seu pulmão cibernético agora respira artificialmente através do purificador de grau militar e ele está vivo, mas profundamente sedado/inconsciente no bunker do Setor 5.
 *   **Equipamento:**
     *   Roupas rasgadas, pulmão cibernético recém-implantado (com falhas severas). Armado com pistola magnética recarregada com uma única bateria reserva, pronto para o combate.
 *   **Motivação:**
