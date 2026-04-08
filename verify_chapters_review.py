@@ -18,6 +18,7 @@ def verify_chapters():
 
         except Exception as e:
             print(f"Error: {e}")
+            raise
         finally:
             browser.close()
 
