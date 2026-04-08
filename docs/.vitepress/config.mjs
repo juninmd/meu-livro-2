@@ -58,6 +58,7 @@ export default defineConfig({
       { text: 'Capítulo 48', link: '/public/capitulos/capitulo-48' },
       { text: 'Capítulo 49', link: '/public/capitulos/capitulo-49' },
       { text: 'Capítulo 50', link: '/public/capitulos/capitulo-50' },
+      { text: 'Capítulo 51', link: '/public/capitulos/capitulo-51' },
       { text: 'Personagens', link: '/personagens' },
       { text: 'Sobre', link: '/sobre' }
     ],
@@ -116,6 +117,7 @@ export default defineConfig({
           { text: 'Capítulo 48: A Moeda de Ferrugem', link: '/public/capitulos/capitulo-48' },
           { text: 'Capítulo 49: A Corrida Contra a Ferrugem', link: '/public/capitulos/capitulo-49' },
           { text: 'Capítulo 50: O Sangue Frio do Bunker', link: '/public/capitulos/capitulo-50' },
+          { text: 'Capítulo 51: O Custo do Amanhã', link: '/public/capitulos/capitulo-51' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]
