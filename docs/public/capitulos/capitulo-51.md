@@ -11,13 +11,13 @@ O chiado rítmico do purificador de grau militar era o único som constante na s
 
 Encostei a cabeça contra a parede de metal frio. A condensação úmida no aço roçava na minha bochecha, uma lembrança gélida do Setor 5 afundando sem a rede elétrica central. Antes, fechar os olhos significava mergulhar na corrente elétrica vibrante de Nova Aether — sentir cada nódulo, cada farfalhar de dados nos fios. Agora? Havia apenas escuridão na minha mente. Um vácuo silencioso que zombava do que eu costumava ser. Sem a Sobrecarga Sináptica, meus músculos doíam como os de uma humana comum, exaustos e pesados.
 
-— A bateria auxiliar do purificador tem, no máximo, quatro horas de autonomia, — a voz de Vex quebrou o silêncio, seca e desprovida de qualquer otimismo. Ele ajustou os óculos de realidade aumentada, as lentes opacas refletindo o brilho fraco e avermelhado da luz de emergência. — A integração neural exige mais energia do que previ. O peito dele está puxando carga como um titã enferrujado.
+— A bateria auxiliar do purificador tem, no máximo, quatro horas de autonomia. — A voz de Vex quebrou o silêncio, seca e desprovida de qualquer otimismo. Ele ajustou os óculos de realidade aumentada, as lentes opacas refletindo o brilho fraco e avermelhado da luz de emergência. — A integração neural exige mais energia do que previ. O peito dele está puxando carga como um titã enferrujado.
 
 Eu abri os olhos. A náusea rolou no meu estômago. Quatro horas.
 
-— Quatro horas, — repeti, minha voz soando áspera. — E depois?
+— Quatro horas — repeti, minha voz soando áspera. — E depois?
 
-— Depois ele sufoca com os próprios fluidos de novo, — retrucou Vex, cruzando os braços finos, a bata manchada de óleo negro e sangue seco. — A infraestrutura do Setor 5 está morta, Elara. Se eu ligar isso à rede da clínica, vou apagar nossos suportes vitais em menos de dez minutos. Precisamos de células de carga de alta densidade. Classe industrial.
+— Depois ele sufoca com os próprios fluidos de novo — retrucou Vex, cruzando os braços finos, a bata manchada de óleo negro e sangue seco. — A infraestrutura do Setor 5 está morta, Elara. Se eu ligar isso à rede da clínica, vou apagar nossos suportes vitais em menos de dez minutos. Precisamos de células de carga de alta densidade. Classe industrial.
 
 Me afastei da parede, ignorando o latejar agudo na minha coxa direita. Olhei para as minhas próprias mãos. Estavam sujas de graxa, arranhadas e, pela primeira vez em muito tempo, apenas mãos. Nada de faíscas. Nada de calor vibrante do fluxo de dados.
 
@@ -29,7 +29,7 @@ Vex suspirou, um som metálico raspando na sua garganta modificada.
 
 Eu acenei, uma vez. Fui até a mesa de ferramentas de Vex e recolhi a pistola magnética de Jaxon. O peso dela era reconfortante, embora desajeitado nas minhas mãos trêmulas. Verifiquei a carga. Estava quase vazia.
 
-— Fique de olho nele, — eu disse, enfiando a arma no coldre improvisado no meu quadril. — Se o purificador engasgar, você reza para o que sobrou dos seus deuses para mantê-lo respirando até eu voltar.
+— Fique de olho nele — eu disse, enfiando a arma no coldre improvisado no meu quadril. — Se o purificador engasgar, você reza para o que sobrou dos seus deuses para mantê-lo respirando até eu voltar.
 
 Vex não sorriu.
 
