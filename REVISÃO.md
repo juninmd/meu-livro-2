@@ -18,8 +18,8 @@
 - [x] Capítulos 37, 38, 39
 - [x] Capítulos 40, 41, 42
 - [x] Capítulos 43, 44, 45
-- [x] Capítulos 46, 47, 48
-- [x] Capítulo 49
+- [x] Capítulos 46, 47
+- [x] Capítulos 48, 49, 50
 
 **Análise dos Capítulos 13, 14 e 15:**
 - **Coerência de Personagens:** Elara transita de uma combatente exaurida para alguém que está disposta a negociar um pedaço de si mesma por Jaxon. Jaxon segue debilitado, e a introdução oficial do Dr. Vex é bem integrada à necessidade médica emergencial sem que ele ofusque o núcleo da equipe. A troca entre Vex e Elara e a intromissão do Deus-Máquina fluem naturalmente.
@@ -126,15 +126,15 @@
 - **Necessidade de Novos Personagens:** O foco em gangues e sobrevivência (os saqueadores no Cap 43) enriquece o mundo sem desviar a atenção do trio. Sem necessidade de adições.
 - **Qualidade da História:** O mundo "pós-Ascensão" mergulhado no escuro e no caos estabelece a tensão das ruínas. A ambientação noir se fortalece sem o neon.
 
-**Análise dos Capítulos 46, 47 e 48:**
-- **Coerência de Personagens:** A vulnerabilidade de Elara é central. A negociação com Ferrão (Cap 46 e 48) escancara sua perda de status e resiliência humana. A brutalidade física de roubar o núcleo no Depósito Três (Cap 47) e forçar a troca (Cap 48) reafirma que a ação de Elara é moldada por sua nova condição puramente orgânica, arriscando tudo por Jaxon.
+**Análise dos Capítulos 46 e 47:**
+- **Coerência de Personagens:** A vulnerabilidade de Elara é central. A negociação com Ferrão (Cap 46) escancara sua perda de status e resiliência humana. A brutalidade física de roubar o núcleo no Depósito Três (Cap 47) reafirma que a ação de Elara é moldada por sua nova condição puramente orgânica, arriscando tudo por Jaxon.
 - **Necessidade de Novos Personagens:** Ferrão atua muito bem como obstáculo/aliado de conveniência. Os capangas do Cartel da Água cumprem seu papel como vilões imediatos. Não há necessidade de aprofundar ou inserir outros personagens, a dinâmica de sobrevivência está perfeitamente servida pelo elenco atual.
-- **Qualidade da História:** A infiltração nas docas secas, o combate desesperado e o confronto tenso com Ferrão fecham perfeitamente esta nova etapa, marcando as consequências permanentes de sua vitória sobre a Ordem e do sacrifício de Jaxon. O fluxo narrativo e o desenvolvimento estão excelentes.
+- **Qualidade da História:** A infiltração nas docas secas e o combate desesperado fecham perfeitamente esta nova etapa, marcando as consequências permanentes de sua vitória sobre a Ordem e do sacrifício de Jaxon. O fluxo narrativo e o desenvolvimento estão excelentes.
 
-**Análise do Capítulo 49:**
-- **Coerência de Personagens:** Elara mantém-se perfeitamente coerente com a perda de seus poderes, agindo de forma desesperada e engenhosa. Sua motivação central (salvar Jaxon) é tangível e impulsiona a narrativa. O uso do ambiente (água e cabo de força) para derrotar o inimigo ilustra bem sua transição de volta para uma humana vulnerável, porém inteligente.
-- **Necessidade de Novos Personagens:** Nenhuma. Os capangas anônimos do Cartel da Água servem perfeitamente como ameaça física imediata. A menção a Jaxon e Vex mantém os laços emocionais fortes sem saturar o capítulo com diálogos ou aparições desnecessárias.
-- **Qualidade da História:** A ambientação pós-Nódulo Primário é excelente (escuridão, névoa ácida). A tensão da perseguição e a resolução criativa e brutal do combate são extremamente condizentes com a pegada noir e de sobrevivência estabelecida nos capítulos anteriores.
+**Análise dos Capítulos 48, 49 e 50:**
+- **Coerência de Personagens:** Elara mantém-se perfeitamente coerente com a perda de seus poderes, agindo de forma desesperada e engenhosa tanto ao negociar de forma contundente com Ferrão (Cap 48), quanto ao usar o ambiente para derrotar inimigos em fuga (Cap 49). A tentativa instintiva e frustrada de usar bioeletricidade em Jaxon (Cap 50) e a atuação médica de Vex sob pressão fecham com chave de ouro a transição da equipe para a mortalidade nua e crua.
+- **Necessidade de Novos Personagens:** Nenhuma. Os capangas anônimos do Cartel da Água servem perfeitamente como ameaça física imediata. A dinâmica fechada no bunker entre Vex, Elara e o corpo inerte de Jaxon concentra e amplifica perfeitamente a tensão emocional sem necessidade de outras interferências.
+- **Qualidade da História:** A ambientação pós-Nódulo Primário é excelente. A tensão da perseguição e a resolução criativa da fuga, seguidas pelo anticlímax visceral e desesperador da cirurgia improvisada no bunker, entregam uma conclusão pesada e realista. O tom noir cyberpunk foi mantido brilhantemente.
 
-## Conclusão da Revisão
-A história de "O Legado de Silício" apresenta personagens altamente coerentes e com profunda agência até suas últimas consequências. Os capítulos 41 e 42 entregam o fechamento da narrativa principal envolvendo o Deus-Máquina com precisão técnica e tom sombrio impecável. A progressão de seus ferimentos, a perda brutal de habilidades para ancorar Elara de volta à vulnerabilidade humana, as reações realistas do elenco de apoio, e a transição para um mundo ainda corrompido, porém diferente (sem luzes, mas sem ruído controlador), refletem perfeitamente os moldes do Noir Cyberpunk. A obra não necessitou da inserção de novos personagens. A trama engajante encerrou-se focada nos seus pilares principais, fechando com maestria a saga do Nódulo Primário.
+## Conclusão da Revisão (Até o Capítulo 50)
+A história de "O Legado de Silício" apresenta personagens altamente coerentes e com profunda agência até suas últimas consequências. A perda brutal de habilidades de Elara a força de volta à vulnerabilidade humana, as reações realistas e analíticas de Vex e o sacrifício corpóreo de Jaxon geram uma narrativa de sobrevivência suja e verossímil. A transição para um mundo ainda corrompido, em uma Nova Aether desprovida de sua rede de suporte principal, reflete perfeitamente os moldes do Noir Cyberpunk. A obra não necessitou da inserção de novos personagens. A trama engajante até o Capítulo 50 encerra essa dura jornada focada em seus pilares principais.
