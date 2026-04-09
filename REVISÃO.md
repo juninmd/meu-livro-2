@@ -20,6 +20,7 @@
 - [x] Capítulos 43, 44, 45
 - [x] Capítulos 46, 47
 - [x] Capítulos 48, 49, 50
+- [x] Capítulos 51, 52
 
 **Análise dos Capítulos 13, 14 e 15:**
 - **Coerência de Personagens:** Elara transita de uma combatente exaurida para alguém que está disposta a negociar um pedaço de si mesma por Jaxon. Jaxon segue debilitado, e a introdução oficial do Dr. Vex é bem integrada à necessidade médica emergencial sem que ele ofusque o núcleo da equipe. A troca entre Vex e Elara e a intromissão do Deus-Máquina fluem naturalmente.
@@ -141,5 +142,10 @@
 - **Necessidade de Novos Personagens:** O capítulo foca inteiramente na ação de Elara se esgueirando pelo Mercado Negro e na interação no bunker. Personagens de fundo (como os brutamontes do mercado e o vendedor) servem apenas ao cenário de sobrevivência. Não há necessidade de aprofundamento nem da inserção de personagens principais ou coadjuvantes que desviem a atenção. O foco enxuto funciona bem.
 - **Qualidade da História:** A tensão se mantém alta. O ambiente de Nova Aether mergulhado na escuridão sem a rede elétrica intensifica a atmosfera sombria (Noir). A ação é conduzida por necessidade pura e crua (baterias para suporte vital), uma desculpa perfeita para explorar o novo submundo desestabilizado.
 
-## Conclusão da Revisão (Até o Capítulo 51)
-A história de "O Legado de Silício" apresenta personagens altamente coerentes e com profunda agência até suas últimas consequências. A perda brutal de habilidades de Elara a força de volta à vulnerabilidade humana, as reações realistas e analíticas de Vex e o sacrifício corpóreo de Jaxon geram uma narrativa de sobrevivência suja e verossímil. A transição para um mundo ainda corrompido, em uma Nova Aether desprovida de sua rede de suporte principal, reflete perfeitamente os moldes do Noir Cyberpunk. A obra não necessitou da inserção de novos personagens. A trama engajante até o Capítulo 51 encerra essa dura jornada focada em seus pilares principais.
+**Análise do Capítulo 52:**
+- **Coerência de Personagens:** Elara age com a crueza de uma humana comum sem cromo ou poderes, dependendo inteiramente da intimidação verbal e de uma arma com pouca bateria. A vulnerabilidade e o desespero de tentar salvar Jaxon, usando o que ele mesmo a ensinou, são fortes lembretes do quanto a personagem evoluiu. O "luto" pelos poderes perdidos é bem retratado quando ela depende do puro reflexo em vez da Sobrecarga Sináptica.
+- **Necessidade de Novos Personagens:** O conflito foi concentrado em Elara contra capangas sem nome no mercado negro para conseguir a bateria para Jaxon. Os adversários de fundo são adequados. Nenhuma necessidade de introdução de novos personagens principais no momento.
+- **Qualidade da História:** A tensão da negociação e o combate rápido no mercado foram muito bem executados. O retorno às origens puramente cyberpunk com escassez de recursos fortalece o tom.
+
+## Conclusão Final da Revisão (Todos os Capítulos)
+A história de "O Legado de Silício" apresenta personagens altamente coerentes e com profunda agência até suas últimas consequências. A perda brutal de habilidades de Elara a força de volta à vulnerabilidade humana, as reações realistas e analíticas de Vex e o sacrifício corpóreo de Jaxon geram uma narrativa de sobrevivência suja e verossímil. A transição para um mundo ainda corrompido, em uma Nova Aether desprovida de sua rede de suporte principal, reflete perfeitamente os moldes do Noir Cyberpunk. A obra não necessitou da inserção de novos personagens principais nos capítulos finais, confiando nos personagens já estabelecidos para ancorar o clímax emocional e físico. A trama engajante encerra essa dura jornada focada em seus pilares principais de maneira satisfatória e madura.
