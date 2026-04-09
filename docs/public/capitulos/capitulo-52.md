@@ -9,7 +9,7 @@ personagens: Elara
 
 A chuva ácida batia nas tendas do Mercado Negro de Scrapyard com um som percussivo e irritante, como estilhaços finos caindo sobre lonas de polímero barato. Cada gota que escapava do meu capuz e encontrava minha pele queimava de leve, deixando um rastro químico que cheirava a amônia e metal velho. Sem o zum-zum elétrico da rede principal, o lugar parecia o cadáver de um monstro, suas entranhas reviradas por parasitas em busca de restos úteis.
 
-Os dois brutamontes na frente da barraca me viram antes de eu estar a cinco passos de distância. Os implantes ópticos baratos de um deles zumbiram, focando as lentes vermelhas na minha direção. Ele estalou o pescoço mecânico, que grunhiu com a falta de lubrificação, e colocou a mão gigantesca no cabo de uma machete de vibração presa à cintura.
+Os dois brutamontes na frente da barraca me viram antes de eu estar a cinco passos de distância. Os implantes ópticos baratos de um deles zumbiram, focando as lentes vermelhas na minha direção. Ele estalou o pescoço mecânico, que grunhiu com a falta de lubrificação, e colocou a mão gigantesca no cabo de um machete de vibração preso à cintura.
 
 — Tá perdida, ratinha? — a voz dele soava como cascalho num moedor industrial. — Aqui não é lugar de passear no escuro.
 
@@ -33,9 +33,9 @@ Os dois guardas trocaram um olhar silencioso, provavelmente transmitindo algum c
 
 — Acho que você não entendeu, bonitinha. A gente não precisa negociar. A gente pode só pegar.
 
-A machete vibrou, um zumbido letal rasgando o ar úmido quando ele a sacou.
+A machete vibrou, um zumbido letal rasgando o ar úmido quando ele o sacou.
 
-Foi a lentidão do movimento que me salvou. Antes, meu cérebro teria dilatado o tempo, analisado milimétricamente o arco da lâmina e enviado impulsos bioelétricos para interceptar o golpe antes que ele sequer começasse. Agora, foi puro reflexo condicionado. Uma resposta biológica bruta e apavorada.
+Foi a lentidão do movimento que me salvou. Antes, meu cérebro teria dilatado o tempo, analisado milimetricamente o arco da lâmina e enviado impulsos bioelétricos para interceptar o golpe antes que ele sequer começasse. Agora, foi puro reflexo condicionado. Uma resposta biológica bruta e apavorada.
 
 Eu mergulhei para a esquerda, escorregando na lama ácida. A lâmina sibilou onde minha cabeça estava um segundo antes. O choque térmico do cascalho molhado rasgou a lateral do meu joelho, mas o medo abafou a dor imediata.
 
@@ -43,13 +43,13 @@ Girei sobre os calcanhares, a pistola já fora do coldre, apontada diretamente p
 
 O recuo da arma magnética quase deslocou meu ombro. Não foi um feixe de luz limpo ou uma bala supersônica, mas uma rajada de força repulsiva condensada. O impacto o atingiu em cheio no peito, jogando seus quase duzentos quilos de carne e metal barato para trás como uma boneca de pano. Ele colidiu contra um pilar de sucata, a estrutura cedendo e desabando sobre ele com um estrondo de metal se retorcendo.
 
-O silêncio desceu sobre a praça, pontuado apenas pelo chiado da chuva e os gemidos abafados do guarda esmagado. O da lente vermelha paralisou, a machete tremendo ligeiramente em sua mão.
+O silêncio desceu sobre a praça, pontuado apenas pelo chiado da chuva e os gemidos abafados do guarda esmagado. O da lente vermelha paralisou, o machete tremendo ligeiramente em sua mão.
 
 Ergui a pistola, apontando-a agora para ele. O mostrador lateral da arma piscou no vermelho escuro. A bateria estava nas últimas. Ele não sabia disso, é claro, e eu apostei minha vida na ignorância dele.
 
 — Deixe-me passar — eu disse, a voz vacilando um pouco, mas os olhos duros e implacáveis. — Ou o próximo furo não vai ser no ego de ninguém.
 
-O guarda engoliu em seco. A lente vermelha focou no cano trêmulo da minha arma. Lentamente, ele baixou a machete e deu um passo para o lado, liberando o caminho para a barraca.
+O guarda engoliu em seco. A lente vermelha focou no cano trêmulo da minha arma. Lentamente, ele baixou o machete e deu um passo para o lado, liberando o caminho para a barraca.
 
 O velho não tinha parado de soldar. Ele murmurou algo ininteligível e continuou o trabalho, o reflexo verde da fogueira química brincando em sua pele cinzenta. Caminhei com cuidado até a beirada da tenda, mantendo a arma no meu campo de visão periférico.
 
