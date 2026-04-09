@@ -11,7 +11,7 @@
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Originalmente permitia acelerar a percepção do tempo e reagir a ameaças com precisão sobre-humana. No entanto, após o embate final, seu poder bioelétrico foi quase inteiramente extinto ("queimado").
     *   Seus poderes bioelétricos criavam uma ponte involuntária com o Deus-Máquina, mas essa conexão foi cortada de forma permanente.
-    *   **Estado Atual (Cap. 51):** Enfrentando a realidade de sua perda permanente de poderes, deixou o bunker de Vex rumo ao violento Mercado Negro de Scrapyard no apagado Setor 5, armada apenas com a arma quase descarregada de Jaxon, em busca de células de carga para mantê-lo vivo.
+    *   **Estado Atual (Cap. 52):** Conseguiu chegar à barraca do mercador no Mercado Negro de Scrapyard e, utilizando um blefe tenso e gastando a quase totalidade da energia da arma magnética, incapacitou um guarda e assegurou o acesso às células de lítio-tório necessárias para salvar Jaxon. Aceita dolorosamente suas novas limitações físicas ("apenas carne").
 *   **Motivação:**
     *   Inicialmente encontrar a "Fonte Primordial", que agora se revela uma lenda ilusória. Sua motivação central agora é pura e simplesmente a sobrevivência em uma Nova Aether desestabilizada e perigosa após a queda do núcleo da Ordem.
 
@@ -57,7 +57,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 51):** Em suporte vital precário no bunker de Vex no Setor 5. O purificador militar acoplado aos seus pulmões drenou a bateria, deixando-o com apenas quatro horas de oxigênio antes que seus pulmões falhem de novo.
+    *   **Estado Atual (Cap. 52):** Em suporte vital precário no bunker de Vex no Setor 5, aguardando as células de lítio-tório que Elara conseguiu no Mercado Negro de Scrapyard.
 *   **Equipamento:**
     *   Roupas rasgadas, pulmão cibernético recém-implantado (com falhas severas). Armado com pistola magnética recarregada com uma única bateria reserva, pronto para o combate.
 *   **Motivação:**
