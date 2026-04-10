@@ -29,4 +29,4 @@ Eu retomei a marcha, meus pés encontrando o caminho de volta aos dutos térmico
 
 A cada passo ecoando no corredor metálico, a imagem de Jaxon lutando por ar, preso àquele purificador de grau militar improvisado, martelava minha mente. Ele havia arriscado tudo por mim. O velho mercenário, que só se importava com o peso do pagamento e a força do seu rifle de plasma, agora estava ali, no escuro, confiando na garota cujas faíscas mágicas haviam se apagado.
 
-"Não vou deixar você afogar nessa poça de lixo, Jaxon", murmurei para a escuridão dos dutos, apertando as alças da mochila. O bunker de Vex estava perto, eu podia sentir o cheiro característico de antisséptico barato que vazava das aberturas de ventilação. A corrida contra o relógio e contra a decadência da minha própria carne ainda não tinha terminado.
+"Não vou deixar você se afogar nessa poça de lixo, Jaxon", murmurei para a escuridão dos dutos, apertando as alças da mochila. O bunker de Vex estava perto, eu podia sentir o cheiro característico de antisséptico barato que vazava das aberturas de ventilação. A corrida contra o relógio e contra a decadência da minha própria carne ainda não tinha terminado.
