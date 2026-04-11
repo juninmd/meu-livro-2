@@ -33,4 +33,4 @@ Me arrastei pelo chão até a mesa de Vex e puxei uma cadeira de metal desgastad
 
 "O Deus-Máquina pode estar morto, Elara", respondeu ele, a voz assumindo um tom solene e clínico, "mas a máquina de Nova Aether continua moendo. E carne que não tem faíscas... é a primeira a ser engolida."
 
-Eu abri os olhos e encarei o teto cheio de vazamentos do bunker, sentindo uma gota fria cair na minha testa. Ele estava certo. Eu havia pago o preço pela vida de Jaxon. Mas a cidade lá fora não se importava com os meus sacrifícios. A verdadeira corrida não tinha acabado de começar; ela havia acabado de mudar as regras.
+Eu abri os olhos e encarei o teto cheio de vazamentos do bunker, sentindo uma gota fria cair na minha testa. Ele estava certo. Eu havia pago o preço pela vida de Jaxon. Mas a cidade lá fora não se importava com os meus sacrifícios. A verdadeira corrida não estava apenas começando; ela havia acabado de mudar as regras.
