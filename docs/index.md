@@ -90,7 +90,7 @@ O mundo é uma mistura de natureza retomando seu espaço e esqueletos de megacid
 - [Capítulo 51: O Custo do Amanhã](/public/capitulos/capitulo-51)
 - [Capítulo 52: Troca de Bateria](/public/capitulos/capitulo-52)
 - [Capítulo 53: Corrida Contra o Relógio](/public/capitulos/capitulo-53)
-- [Capítulo 54: O Sangue Frio das Máquinas](/public/capitulos/capitulo-54)
+- [Capítulo 54: O Sangue Frio das Máquinas](/public/capitulos/capitulo-54) ([Reflexão](/reflexoes/reflexao-54))
 
 <div class="story-card">
 <strong>O Legado de Silício</strong> explora a linha tênue entre tecnologia e magia em um futuro esquecido.
