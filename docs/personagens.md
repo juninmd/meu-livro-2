@@ -11,7 +11,7 @@
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Originalmente permitia acelerar a percepção do tempo e reagir a ameaças com precisão sobre-humana. No entanto, após o embate final, seu poder bioelétrico foi quase inteiramente extinto ("queimado").
     *   Seus poderes bioelétricos criavam uma ponte involuntária com o Deus-Máquina, mas essa conexão foi cortada de forma permanente.
-    *   **Estado Atual (Cap. 53):** Após assegurar as células de lítio-tório no Mercado Negro de Scrapyard, corre apressadamente contra o tempo através das perigosas e escuras ruas do Setor 5 para alcançar o bunker do Dr. Vex. Lidando com a perda absoluta de seus poderes bioelétricos e ciente de sua fragilidade humana, ela precisa evitar gangues e sobreviver aos perigos físicos sem o auxílio de seus poderes para manter Jaxon vivo.
+    *   **Estado Atual (Cap. 54):** Conseguiu chegar ao bunker do Dr. Vex a tempo de instalar as células de lítio-tório no purificador e salvar Jaxon. Atualmente descansando, física e emocionalmente exausta, lidando com o luto de ter perdido definitivamente seus poderes bioelétricos, que antes a tornavam quase invencível.
 *   **Motivação:**
     *   Inicialmente encontrar a "Fonte Primordial", que agora se revela uma lenda ilusória. Sua motivação central agora é pura e simplesmente a sobrevivência em uma Nova Aether desestabilizada e perigosa após a queda do núcleo da Ordem.
 
@@ -23,7 +23,7 @@
     *   Um homem magro com óculos de realidade aumentada que cobrem metade do rosto.
     *   Veste um avental manchado de óleo e fluidos biológicos.
     *   Demonstra curiosidade mórbida pela anomalia bioelétrica de Elara, agora extinta.
-    *   **Estado Atual (Cap. 51):** Mantendo Jaxon vivo com o purificador de grau militar no bunker escuro do Setor 5, embora alertando que a bateria auxiliar durará apenas quatro horas, forçando Elara a ir buscar energia.
+    *   **Estado Atual (Cap. 54):** Realizou a instalação das células de lítio-tório que Elara trouxe no purificador militar de Jaxon. Funciona como um observador cínico e alerta Elara que a falta de seus poderes a tornará alvo fácil nas ruas de Nova Aether.
 *   **Motivação:**
     *   Conhecimento e sobrevivência. Interessado em estudar a "antena" humana que Elara se tornou.
 
@@ -57,7 +57,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 53):** Permanece inconsciente e em estado crítico, mantido vivo pelo purificador de grau militar improvisado no bunker de Vex, aguardando desesperadamente o retorno de Elara com a energia dentro do prazo limite.
+    *   **Estado Atual (Cap. 54):** Permanece inconsciente, mas estável. O purificador de grau militar que o mantém vivo agora opera plenamente após a instalação bem-sucedida das células de lítio-tório trazidas por Elara.
 *   **Equipamento:**
     *   Roupas rasgadas, pulmão cibernético recém-implantado (com falhas severas). Armado com pistola magnética recarregada com uma única bateria reserva, pronto para o combate.
 *   **Motivação:**
