@@ -61,6 +61,7 @@ export default defineConfig({
       { text: 'Capítulo 51', link: '/public/capitulos/capitulo-51' },
       { text: 'Capítulo 52', link: '/public/capitulos/capitulo-52' },
       { text: 'Capítulo 53', link: '/public/capitulos/capitulo-53' },
+      { text: 'Capítulo 54', link: '/public/capitulos/capitulo-54' },
       { text: 'Personagens', link: '/personagens' },
       { text: 'Sobre', link: '/sobre' }
     ],
@@ -122,6 +123,7 @@ export default defineConfig({
           { text: 'Capítulo 51: O Custo do Amanhã', link: '/public/capitulos/capitulo-51' },
           { text: 'Capítulo 52: Troca de Bateria', link: '/public/capitulos/capitulo-52' },
           { text: 'Capítulo 53: Corrida Contra o Relógio', link: '/public/capitulos/capitulo-53' },
+          { text: 'Capítulo 54: O Sangue Frio das Máquinas', link: '/public/capitulos/capitulo-54' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]
