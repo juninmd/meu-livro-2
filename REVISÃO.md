@@ -163,7 +163,7 @@
 
 **Análise do Capítulo 55:**
 - **Coerência de Personagens:** A falta de poderes de Elara ("o canal está vazio") continua conduzindo a narrativa. A interação com Jaxon, agora convalescendo mas ainda durão, e com Vex, pragmático e frio, é muito consistente. A transição para um novo estado de fuga no Setor 5 é verossímil para as capacidades atuais da equipe.
-- **Necessidade de Novos Personagens:** Não há necessidade imediata. A menção às gangues se agitando e o caos da cidade serve bem como ameaça no fundo. Como é um capítulo de transição, focar no trio principal consolida as consequências das suas ações recentes.
+- **Necessidade de Novos Personagens:** Não há necessidade imediata. A menção às gangues se agitando e ao caos da cidade serve bem como ameaça no fundo. Como é um capítulo de transição, focar no trio principal consolida as consequências das suas ações recentes.
 - **Qualidade da História:** A história está se encaminhando para a próxima fase. O clima "noir" com purificadores zumbindo e o peso das ações (e da carne) em vez do brilho do ciberespaço traz o realismo necessário após o grande clímax anterior.
 
 ## Conclusão Final da Revisão (Todos os Capítulos)
