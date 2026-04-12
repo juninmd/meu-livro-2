@@ -37,4 +37,4 @@ Levantei-me, forçando meus músculos a trabalharem. A fraqueza física era insu
 
 "Qual é o plano, então?" Jaxon perguntou, escorando-se na beirada da mesa e alcançando sua jaqueta esfarrapada, o movimento revelando o corpo coberto por novas ataduras cirúrgicas providenciadas por Vex.
 
-"Nós andamos", eu falei, apertando a mandíbula para esconder a incerteza. A ausência de poder criava um vazio imenso. A cidade se estendia acima de nós, fria, densa e implacável. "Mas desta vez, sem fazer barulho. Somos apenas fantasmas."
+"Nós andamos," eu falei, apertando a mandíbula para esconder a incerteza. A ausência de poder criava um vazio imenso. A cidade se estendia acima de nós, fria, densa e implacável. "Mas desta vez, sem fazer barulho. Somos apenas fantasmas."
