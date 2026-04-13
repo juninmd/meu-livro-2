@@ -11,7 +11,7 @@
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Originalmente permitia acelerar a percepção do tempo e reagir a ameaças com precisão sobre-humana. No entanto, após o embate final, seu poder bioelétrico foi quase inteiramente extinto ("queimado").
     *   Seus poderes bioelétricos criavam uma ponte involuntária com o Deus-Máquina, mas essa conexão foi cortada de forma permanente.
-    *   **Estado Atual (Cap. 55):** Descansando no bunker do Dr. Vex após salvar Jaxon. Fisicamente e emocionalmente exausta, ela lida com a realidade de ter perdido seus poderes e aceita que, para sobreviver à ameaça das gangues e da Ordem, eles precisam fugir do Setor 5 de maneira sorrateira, agora como "apenas carne".
+    *   **Estado Atual (Cap. 56):** Deixou o bunker de Vex e lidera uma fuga furtiva pelas ruas arruinadas e chuvosas do Setor 5, agora mergulhado na escuridão. Sem acesso à rede de dados e aos seus poderes, ela aprende a sobreviver usando pura astúcia física, como emboscar e despistar membros de um cartel de sucata com destroços.
 *   **Motivação:**
     *   Inicialmente encontrar a "Fonte Primordial", que agora se revela uma lenda ilusória. Sua motivação central agora é pura e simplesmente a sobrevivência em uma Nova Aether desestabilizada e perigosa após a queda do núcleo da Ordem.
 
@@ -23,7 +23,7 @@
     *   Um homem magro com óculos de realidade aumentada que cobrem metade do rosto.
     *   Veste um avental manchado de óleo e fluidos biológicos.
     *   Demonstra curiosidade mórbida pela anomalia bioelétrica de Elara, agora extinta.
-    *   **Estado Atual (Cap. 55):** Monitora Jaxon e o funcionamento do purificador de grau militar no seu bunker. Alertou Elara e Jaxon de que o Setor 5 não é mais seguro devido ao colapso do Mercado Negro e da aproximação das gangues, pressionando-os a encontrarem uma saída.
+    *   **Estado Atual (Cap. 56):** Permaneceu seguro em seu bunker selado no Setor 5, tendo estabilizado o purificador de Jaxon e os alertado sobre o colapso iminente antes de sua partida para enfrentar as ruas sem lei.
 *   **Motivação:**
     *   Conhecimento e sobrevivência. Interessado em estudar a "antena" humana que Elara se tornou.
 
@@ -57,7 +57,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 55):** Recuperou a consciência após a estabilização do seu purificador de grau militar. Embora consiga se levantar com dificuldade, seu corpo e partes cibernéticas estão severamente desgastados. Concorda que eles devem encontrar um jeito de escapar do Setor 5.
+    *   **Estado Atual (Cap. 56):** Caminhando com grande dificuldade pelas margens escuras do Setor 5. Suas articulações robóticas causam barulho excessivo que compromete a furtividade de Elara. Seu suporte de vida agora está rigidamente dependente do purificador em suas costas, que oferece autonomia limite de cerca de oitenta ciclos de oxigênio.
 *   **Equipamento:**
     *   Roupas rasgadas, pulmão cibernético recém-implantado (com falhas severas). Armado com pistola magnética recarregada com uma única bateria reserva, pronto para o combate.
 *   **Motivação:**

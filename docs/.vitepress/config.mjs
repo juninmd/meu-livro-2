@@ -63,6 +63,7 @@ export default defineConfig({
       { text: 'Capítulo 53', link: '/public/capitulos/capitulo-53' },
       { text: 'Capítulo 54', link: '/public/capitulos/capitulo-54' },
       { text: 'Capítulo 55', link: '/public/capitulos/capitulo-55' },
+      { text: 'Capítulo 56', link: '/public/capitulos/capitulo-56' },
       { text: 'Personagens', link: '/personagens' },
       { text: 'Sobre', link: '/sobre' }
     ],
@@ -128,6 +129,8 @@ export default defineConfig({
           { text: 'Reflexão: Capítulo 54', link: '/reflexoes/reflexao-54' },
           { text: 'Capítulo 55: O Peso da Carne', link: '/public/capitulos/capitulo-55' },
           { text: 'Reflexão: Capítulo 55', link: '/reflexoes/reflexao-55' },
+          { text: 'Capítulo 56: Fuga Furtiva', link: '/public/capitulos/capitulo-56' },
+          { text: 'Reflexão: Capítulo 56', link: '/reflexoes/reflexao-56' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]
