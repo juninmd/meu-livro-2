@@ -93,6 +93,7 @@ O mundo é uma mistura de natureza retomando seu espaço e esqueletos de megacid
 - [Capítulo 54: O Sangue Frio das Máquinas](/public/capitulos/capitulo-54) ([Reflexão](/reflexoes/reflexao-54))
 - [Capítulo 55: O Peso da Carne](/public/capitulos/capitulo-55) ([Reflexão](/reflexoes/reflexao-55))
 - [Capítulo 56: Fuga Furtiva](/public/capitulos/capitulo-56) ([Reflexão](/reflexoes/reflexao-56))
+- [Capítulo 57: Ecos na Lama](/public/capitulos/capitulo-57) ([Reflexão](/reflexoes/reflexao-57))
 
 <div class="story-card">
 <strong>O Legado de Silício</strong> explora a linha tênue entre tecnologia e magia em um futuro esquecido.
