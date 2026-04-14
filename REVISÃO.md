@@ -23,6 +23,8 @@
 - [x] Capítulos 51, 52
 - [x] Capítulo 53
 - [x] Capítulo 54
+- [x] Capítulos 55, 56
+- [x] Capítulo 57
 
 **Análise dos Capítulos 13, 14 e 15:**
 - **Coerência de Personagens:** Elara transita de uma combatente exaurida para alguém que está disposta a negociar um pedaço de si mesma por Jaxon. Jaxon segue debilitado, e a introdução oficial do Dr. Vex é bem integrada à necessidade médica emergencial sem que ele ofusque o núcleo da equipe. A troca entre Vex e Elara e a intromissão do Deus-Máquina fluem naturalmente.
@@ -159,8 +161,6 @@
 - **Necessidade de Novos Personagens:** Nenhuma. A interação solitária no bunker sublinha o isolamento após os grandes eventos. O foco permanece adequadamente nas três figuras essenciais do clímax do arco sem distrações desnecessárias.
 - **Qualidade da História:** O final sombrio e resignado traz um fechamento notável. O ruído das máquinas volta, mas com a ausência do Deus-Máquina a dinâmica da cidade se altera organicamente. É um verdadeiro fim "Cyberpunk Noir", resolvendo o conflito imediato (Jaxon vive), mas confirmando que a luta do dia a dia no submundo continua sem facilidades.
 
-- [x] Capítulos 55, 56
-
 **Análise do Capítulo 55:**
 - **Coerência de Personagens:** A falta de poderes de Elara ("o canal está vazio") continua conduzindo a narrativa. A interação com Jaxon, agora convalescendo mas ainda durão, e com Vex, pragmático e frio, é muito consistente. A transição para um novo estado de fuga no Setor 5 é verossímil para as capacidades atuais da equipe.
 - **Necessidade de Novos Personagens:** Não há necessidade imediata. A menção às gangues se agitando e ao caos da cidade serve bem como ameaça no fundo. Como é um capítulo de transição, focar no trio principal consolida as consequências das suas ações recentes.
@@ -170,6 +170,11 @@
 - **Coerência de Personagens:** A adaptação dolorosa de Elara à ausência da bioeletricidade é profundamente explorada. A tensão entre o hábito mental (tentar acessar a malha) e a realidade crua (a fisicalidade da ação com o concreto) é excelente. Jaxon lida com as próprias limitações físicas severas (joelho rangendo, tremores, purificador contando tempo), reafirmando sua sobrevivência à custa de seu corpo já desgastado. Suas reações e atitudes na tentativa de furtividade reforçam o quanto o grupo está enfraquecido e em desvantagem.
 - **Necessidade de Novos Personagens:** Não foi necessário adicionar novos personagens significativos. O grupo sem nome de saqueadores ("Cartel de Sucata") serviu perfeitamente ao propósito de criar uma ameaça imediata realista em um ambiente onde nossos protagonistas estão vulneráveis e precisam evitar o combate em vez de encará-lo, enfatizando a nova dinâmica.
 - **Qualidade da História:** A trama captura incrivelmente bem o peso da vulnerabilidade. A resolução de evitar um tiroteio (que antes seria vencido facilmente) e optar por uma distração inteligente com o cenário (derrubar os dutos) valoriza o raciocínio e a fisicalidade humana, mantendo o tom cru de um ambiente sem neon, em descompressão. O ritmo furtivo eleva a tensão com sucesso.
+
+**Análise do Capítulo 57:**
+- **Coerência de Personagens:** Elara reflete com muita vividez sobre a perda da fagulha bioelétrica, percebendo a limitação e o peso brutal de sua mortalidade orgânica. O desgaste mecânico e biológico de Jaxon — seu purificador falhando e os resmungos devido ao joelho protético — reforçam a imagem de sobreviventes se arrastando ao invés de guerreiros invencíveis. A dinâmica entre os dois está impecável, ancorada pela lealdade.
+- **Necessidade de Novos Personagens:** O foco na jornada isolada da dupla pelas bordas do Setor 5 ao 4 funciona perfeitamente para intensificar o isolamento narrativo. Gangues como o "Cartel da Água" ou "Cartel de Sucata" servem bem apenas como menções e ameaças ambientais iminentes, desnecessário aprofundar outras figuras centrais nesta cena focada na transição.
+- **Qualidade da História:** A exploração sensorial das ruínas e do som da chuva tóxica aprofunda ainda mais o tom *Cyberpunk Noir*. A narrativa foca mais no luto pela perda do controle tecnológico (pós-queda do Deus-Máquina) do que na ação, e a descida para as docas do Setor 4 ("abismo iluminado de forma mórbida") evoca imagens visuais muito fortes, conduzindo o fechamento deste ciclo perfeitamente.
 
 ## Conclusão Final da Revisão (Todos os Capítulos)
 A história de "O Legado de Silício" apresenta personagens altamente coerentes e com profunda agência até suas últimas consequências. A perda brutal de habilidades de Elara a força de volta à vulnerabilidade humana, as reações realistas e analíticas de Vex e o sacrifício corpóreo de Jaxon geram uma narrativa de sobrevivência suja e verossímil. A transição para um mundo ainda corrompido, em uma Nova Aether desprovida de sua rede de suporte principal e imersa no caos de gangues, reflete perfeitamente os moldes do Noir Cyberpunk. O clímax e os capítulos subsequentes de desdobramento não necessitaram da inserção de novos personagens principais, confiando nas figuras já estabelecidas para sustentar os desdobramentos e criar uma transição engajante. A trama amadureceu, entregando um final de arco orgânico focado em seus pilares centrais.
