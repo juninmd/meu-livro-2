@@ -15,7 +15,7 @@ Jaxon cambaleava ao meu lado. A cada movimento, seu braço cibernético gemia co
 
 Ele deu uma risada rouca e seca que acabou em uma tosse profunda. O som pareceu ressoar nos contêineres abandonados ao redor. "Garota... minhas engrenagens acham que já passamos do limite no ciclo passado," sua voz rasgou, lutando contra a máscara. Ele parou, apoiando o joelho protético no concreto manchado de óleo. "A Pilha... o Setor 4... está borbulhando. Eles sentem o cheiro de cadáver do setor de cima."
 
-Era verdade. Daqui do alto da fenda, o Setor 4 despontava como uma fenda purulenta. Não havia luz limpa, apenas a irradiação das chaminés das docas secas, espalhando uma névoa que impregnava a chuva contínua com cheiro de peixe morto e fuligem de bateria vazia. Mas era o caos daquele covil de gangues como o Cartel da Água que poderiam nos oferecer o que mais precisávamos: escuridão para nos escondermos, longe dos escombros do Setor 5 e da sombra da Ordem.
+Era verdade. Daqui do alto da fenda, o Setor 4 despontava como uma fenda purulenta. Não havia luz limpa, apenas a irradiação das chaminés das docas secas, espalhando uma névoa que impregnava a chuva contínua com cheiro de peixe morto e fuligem de bateria vazia. Mas era o caos daquele covil de gangues como o Cartel da Água que poderia nos oferecer o que mais precisávamos: escuridão para nos escondermos, longe dos escombros do Setor 5 e da sombra da Ordem.
 
 "Temos que descer," afirmei com determinação, esfregando minhas mãos geladas. A ausência da fagulha bioelétrica significava que eu sentia o frio cortante do metal oxidado entrando por debaixo das minhas roupas e rasgando minha pele. "Se ficarmos aqui, a primeira patrulha do Cartel de Sucata ou, pior, algo esquecido pela Ordem, vai nos trucidar."
 
