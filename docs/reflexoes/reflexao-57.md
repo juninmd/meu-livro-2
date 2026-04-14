@@ -18,4 +18,4 @@
   - Consolidação do cenário degradado do Setor 4 (A Pilha) já antecipando sua letalidade ambiental para os próximos capítulos.
 
 - **Pontos Fracos (Para Revisão Editorial Futura):**
-  - Como não ocorreu nenhum conflito armado direto, existe o risco do leitor achar este capítulo um mero espaço transitório. A jornada ladeira abaixo precisa culminar em um embate de apostas altas logo nas primeiras linhas do próximo capítulo para evitar a frustração pela lentidão.
+  - Como não ocorreu nenhum conflito armado direto, existe o risco do leitor achar este capítulo um mero espaço transitório. A jornada ladeira abaixo precisa culminar em um embate de apostas altas logo nas primeiras linhas do próximo capítulo para evitar a frustração pela lentidão.\n
