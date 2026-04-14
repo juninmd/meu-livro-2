@@ -57,7 +57,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 57):** Iniciou a descida para o Setor 4 (A Pilha) pelas docas periféricas a fim de fugir do Setor 5. Suas partes cibernéticas falhas ameaçam comprometer a segurança, e a exaustão física está pesando intensamente junto ao purificador, a ponto dele estar disposto a ser deixado para trás.
+    *   **Estado Atual (Cap. 57):** Iniciou a descida para o Setor 4 (A Pilha) pelas docas periféricas a fim de fugir do Setor 5. Suas partes cibernéticas falhas ameaçam comprometer a segurança, e a exaustão física está pesando intensamente junto ao purificador, a ponto de ele estar disposto a ser deixado para trás.
 *   **Equipamento:**
     *   Roupas rasgadas, pulmão cibernético recém-implantado (com falhas severas). Armado com pistola magnética recarregada com uma única bateria reserva, pronto para o combate.
 *   **Motivação:**
