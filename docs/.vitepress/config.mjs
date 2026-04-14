@@ -64,6 +64,7 @@ export default defineConfig({
       { text: 'Capítulo 54', link: '/public/capitulos/capitulo-54' },
       { text: 'Capítulo 55', link: '/public/capitulos/capitulo-55' },
       { text: 'Capítulo 56', link: '/public/capitulos/capitulo-56' },
+      { text: 'Capítulo 57', link: '/public/capitulos/capitulo-57' },
       { text: 'Personagens', link: '/personagens' },
       { text: 'Sobre', link: '/sobre' }
     ],
@@ -131,6 +132,8 @@ export default defineConfig({
           { text: 'Reflexão: Capítulo 55', link: '/reflexoes/reflexao-55' },
           { text: 'Capítulo 56: Fuga Furtiva', link: '/public/capitulos/capitulo-56' },
           { text: 'Reflexão: Capítulo 56', link: '/reflexoes/reflexao-56' },
+          { text: 'Capítulo 57: Ecos na Lama', link: '/public/capitulos/capitulo-57' },
+          { text: 'Reflexão: Capítulo 57', link: '/reflexoes/reflexao-57' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]

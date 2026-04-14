@@ -11,7 +11,7 @@
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Originalmente permitia acelerar a percepção do tempo e reagir a ameaças com precisão sobre-humana. No entanto, após o embate final, seu poder bioelétrico foi quase inteiramente extinto ("queimado").
     *   Seus poderes bioelétricos criavam uma ponte involuntária com o Deus-Máquina, mas essa conexão foi cortada de forma permanente.
-    *   **Estado Atual (Cap. 56):** Deixou o bunker de Vex e lidera uma fuga furtiva pelas ruas arruinadas e chuvosas do Setor 5, agora mergulhado na escuridão. Sem acesso à rede de dados e aos seus poderes, ela aprende a sobreviver usando pura astúcia física, como emboscar e despistar membros de um cartel de sucata com destroços.
+    *   **Estado Atual (Cap. 57):** Descendo pelas rampas enferrujadas e escuras em direção ao caos do Setor 4. Sem acesso à rede de dados e aos seus poderes, lida com o cansaço e o frio incapacitante enquanto tenta garantir a sobrevivência de Jaxon ao lado dela.
 *   **Motivação:**
     *   Inicialmente encontrar a "Fonte Primordial", que agora se revela uma lenda ilusória. Sua motivação central agora é pura e simplesmente a sobrevivência em uma Nova Aether desestabilizada e perigosa após a queda do núcleo da Ordem.
 
@@ -57,7 +57,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 56):** Caminhando com grande dificuldade pelas margens escuras do Setor 5. Suas articulações robóticas causam barulho excessivo que compromete a furtividade de Elara. Seu suporte de vida agora está rigidamente dependente do purificador em suas costas, que oferece autonomia limite de cerca de oitenta ciclos de oxigênio.
+    *   **Estado Atual (Cap. 57):** Iniciou a descida para o Setor 4 (A Pilha) pelas docas periféricas a fim de fugir do Setor 5. Suas partes cibernéticas falhas ameaçam comprometer a segurança, e a exaustão física está pesando intensamente junto ao purificador, a ponto de ele estar disposto a ser deixado para trás.
 *   **Equipamento:**
     *   Roupas rasgadas, pulmão cibernético recém-implantado (com falhas severas). Armado com pistola magnética recarregada com uma única bateria reserva, pronto para o combate.
 *   **Motivação:**
