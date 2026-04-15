@@ -11,7 +11,7 @@
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Originalmente permitia acelerar a percepção do tempo e reagir a ameaças com precisão sobre-humana. No entanto, após o embate final, seu poder bioelétrico foi quase inteiramente extinto ("queimado").
     *   Seus poderes bioelétricos criavam uma ponte involuntária com o Deus-Máquina, mas essa conexão foi cortada de forma permanente.
-    *   **Estado Atual (Cap. 57):** Descendo pelas rampas enferrujadas e escuras em direção ao caos do Setor 4. Sem acesso à rede de dados e aos seus poderes, lida com o cansaço e o frio incapacitante enquanto tenta garantir a sobrevivência de Jaxon ao lado dela.
+    *   **Estado Atual (Cap. 58):** Alcançou a base do Setor 4, na área das docas secas. Sentindo fortemente a vulnerabilidade da ausência de seus poderes bioelétricos, ela agora depende de sua astúcia (blefes) para sobreviver e proteger Jaxon das ameaças das gangues, como o Cartel da Água.
 *   **Motivação:**
     *   Inicialmente encontrar a "Fonte Primordial", que agora se revela uma lenda ilusória. Sua motivação central agora é pura e simplesmente a sobrevivência em uma Nova Aether desestabilizada e perigosa após a queda do núcleo da Ordem.
 
@@ -57,7 +57,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 57):** Iniciou a descida para o Setor 4 (A Pilha) pelas docas periféricas a fim de fugir do Setor 5. Suas partes cibernéticas falhas ameaçam comprometer a segurança, e a exaustão física está pesando intensamente junto ao purificador, a ponto de ele estar disposto a ser deixado para trás.
+    *   **Estado Atual (Cap. 58):** Seu corpo e equipamento estão falhando devido à atmosfera altamente tóxica do Setor 4. Seu purificador de ar está próximo do colapso e ele mal consegue andar. Escondeu-se com Elara na escuridão abaixo dos tubos de resfriamento das docas.
 *   **Equipamento:**
     *   Roupas rasgadas, pulmão cibernético recém-implantado (com falhas severas). Armado com pistola magnética recarregada com uma única bateria reserva, pronto para o combate.
 *   **Motivação:**
@@ -125,7 +125,7 @@
 *   **Definição:** Um aglomerado vertical de habitações precárias, mercados negros e clínicas ilegais. Possui também docas secas onde cartéis operam.
 *   **Atmosfera:** Quente, úmida e saturada de neon e poluição. O oposto absoluto do setor congelado abaixo. As docas cheiram a peixe podre e ozônio velho, com chuva ácida constante.
 *   **Habitantes:** Párias, criminosos, viciados em *stim* e aqueles que não podem pagar pela cidadania nos níveis superiores. Gangues como o Cartel da Água controlam recursos vitais.
-*   **Estado Atual (Cap. 44-49):** Mergulhada na escuridão absoluta sem a rede energética. Tornou-se um local letal, preenchido por fumaça, névoa tóxica e um caos silencioso onde gangues, como o Cartel da Água nas docas secas, disputam território ferozmente. A poluição severa das passagens industriais expôs Elara aos perigos corrosivos enquanto ela fugia de volta para o Setor 5.
+*   **Estado Atual (Cap. 58):** Mergulhada na escuridão absoluta sem a rede energética. Tornou-se um local letal, preenchido por fumaça, névoa tóxica e um caos silencioso onde gangues, como o Cartel da Água nas docas secas, disputam território ferozmente. Elara e Jaxon acabam de retornar para as bordas deste setor, sofrendo com a extrema poluição de suas docas.
 
 ### Setor 5
 *   **Estado Atual (Cap. 51):** Sem eletricidade pela queda da rede central, mergulhado na escuridão, pontuado apenas por parcos neons e fogueiras químicas. O Mercado Negro de Scrapyard, no limite com o Setor 4, tornou-se o epicentro de saques e caos.
