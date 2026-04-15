@@ -6,7 +6,7 @@
     *   O ritmo se mantém tenso. A transição da fadiga exaustiva da descida para um confronto imediato com a gangue funciona bem. A tensão é baseada nas vulnerabilidades (Jaxon doente e Elara sem poderes). O blefe que encerra o embate é resolvido de forma rápida, adequando-se ao ritmo urgente.
 
 *   **Diálogos: 8.0/10**
-    *   A troca de palavras entre Jaxon e Elara reflete o desespero e o cansaço. A fala dos capangas do Cartel é um pouco clichê dentro do gênero ("carne fresca"), mas adequada. O blefe de Elara é o ponto alto, firme e ancorado nas consequências reais (a Ordem e as Sentinelas).
+    *   A troca de palavras entre Jaxon e Elara reflete o desespero e o cansaço. A fala dos capangas do Cartel é um pouco clichê dentro do gênero ("carne fresca"), mas adequada. O blefe de Elara é o ponto alto, firme e ancorado nas consequências reais (a Ordem e os Sentinelas).
 
 *   **Atmosfera: 9.5/10**
     *   O capítulo brilha nas descrições sensoriais. A textura do ar denso, a lama oleosa, a chuva ácida queimando a pele exposta. O ambiente sufocante das docas secas, o chiado do purificador falhando e os sons mecânicos compõem bem a "sujeira" e a decadência do Setor 4.
