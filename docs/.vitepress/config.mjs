@@ -65,6 +65,7 @@ export default defineConfig({
       { text: 'Capítulo 55', link: '/public/capitulos/capitulo-55' },
       { text: 'Capítulo 56', link: '/public/capitulos/capitulo-56' },
       { text: 'Capítulo 57', link: '/public/capitulos/capitulo-57' },
+      { text: 'Capítulo 58', link: '/public/capitulos/capitulo-58' },
       { text: 'Personagens', link: '/personagens' },
       { text: 'Sobre', link: '/sobre' }
     ],
@@ -134,6 +135,8 @@ export default defineConfig({
           { text: 'Reflexão: Capítulo 56', link: '/reflexoes/reflexao-56' },
           { text: 'Capítulo 57: Ecos na Lama', link: '/public/capitulos/capitulo-57' },
           { text: 'Reflexão: Capítulo 57', link: '/reflexoes/reflexao-57' },
+          { text: 'Capítulo 58: O Covil da Ferrugem', link: '/public/capitulos/capitulo-58' },
+          { text: 'Reflexão: Capítulo 58', link: '/reflexoes/reflexao-58' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]
