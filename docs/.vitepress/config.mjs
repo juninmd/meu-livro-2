@@ -67,6 +67,7 @@ export default defineConfig({
       { text: 'Capítulo 57', link: '/public/capitulos/capitulo-57' },
       { text: 'Capítulo 58', link: '/public/capitulos/capitulo-58' },
       { text: 'Capítulo 59', link: '/public/capitulos/capitulo-59' },
+      { text: 'Capítulo 60', link: '/public/capitulos/capitulo-60' },
       { text: 'Personagens', link: '/personagens' },
       { text: 'Sobre', link: '/sobre' }
     ],
@@ -140,6 +141,8 @@ export default defineConfig({
           { text: 'Reflexão: Capítulo 58', link: '/reflexoes/reflexao-58' },
           { text: 'Capítulo 59: O Sangue Frio do Silêncio', link: '/public/capitulos/capitulo-59' },
           { text: 'Reflexão: Capítulo 59', link: '/reflexoes/reflexao-59' },
+          { text: 'Capítulo 60: O Leilão da Ferrugem', link: '/public/capitulos/capitulo-60' },
+          { text: 'Reflexão: Capítulo 60', link: '/reflexoes/reflexao-60' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]

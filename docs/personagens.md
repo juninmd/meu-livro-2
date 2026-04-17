@@ -11,7 +11,7 @@
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Originalmente permitia acelerar a percepção do tempo e reagir a ameaças com precisão sobre-humana. No entanto, após o embate final, seu poder bioelétrico foi quase inteiramente extinto ("queimado").
     *   Seus poderes bioelétricos criavam uma ponte involuntária com o Deus-Máquina, mas essa conexão foi cortada de forma permanente.
-    *   **Estado Atual (Cap. 59):** Escondida sob os tubos de resfriamento nas docas secas do Setor 4. Planejando usar um cilindro de dados com os códigos de acesso da Ordem como moeda de troca com o Cartel da Água para conseguir filtros de ar para Jaxon.
+    *   **Estado Atual (Cap. 60):** Conseguiu negociar com sucesso (através de blefe e inteligência de rua) os códigos da Ordem com o Cartel da Água, obtendo dois filtros de ar Classe-A para salvar a vida de Jaxon. Encontra-se correndo de volta para os tubos de resfriamento.
 *   **Motivação:**
     *   Inicialmente encontrar a "Fonte Primordial", que agora se revela uma lenda ilusória. Sua motivação central agora é pura e simplesmente a sobrevivência em uma Nova Aether desestabilizada e perigosa após a queda do núcleo da Ordem.
 
@@ -57,7 +57,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 59):** Em estado crítico devido à toxicidade do ar nas docas secas do Setor 4. Entregou a Elara um cilindro de dados contendo códigos de acesso da Ordem para ser usado em uma negociação perigosa com o Cartel da Água em troca de filtros de ar.
+    *   **Estado Atual (Cap. 60):** Permanece em estado crítico sob os tubos de resfriamento, aguardando o retorno de Elara com os filtros de ar recém-negociados com o Cartel da Água.
 *   **Equipamento:**
     *   Roupas rasgadas, pulmão cibernético recém-implantado (com falhas severas). Armado com pistola magnética recarregada com uma única bateria reserva, pronto para o combate.
 *   **Motivação:**
