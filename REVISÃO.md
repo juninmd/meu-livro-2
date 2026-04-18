@@ -25,6 +25,8 @@
 - [x] Capítulo 54
 - [x] Capítulos 55, 56
 - [x] Capítulo 57
+- [x] Capítulos 58, 59, 60
+- [x] Capítulo 61
 
 **Análise dos Capítulos 13, 14 e 15:**
 - **Coerência de Personagens:** Elara transita de uma combatente exaurida para alguém que está disposta a negociar um pedaço de si mesma por Jaxon. Jaxon segue debilitado, e a introdução oficial do Dr. Vex é bem integrada à necessidade médica emergencial sem que ele ofusque o núcleo da equipe. A troca entre Vex e Elara e a intromissão do Deus-Máquina fluem naturalmente.
@@ -190,6 +192,12 @@
 - **Coerência de Personagens:** A execução do blefe por parte de Elara mostra grande inteligência e a consolidação de seu desenvolvimento sem poderes. O líder do Cartel, Silas, mostra-se coerente: movido pela ganância, ele subestima Elara fisicamente, mas respeita a ameaça cibernética invisível. Elara atua puramente baseada na intimidação verbal e linguagem corporal.
 - **Necessidade de Novos Personagens:** A introdução de Silas é eficaz e cumpre o papel de antagonista e negociador do submundo pragmático. A interação foca em resolver o conflito imediato (os filtros) de forma tensa, não exigindo coadjuvantes duradouros que tirem o foco dos protagonistas em fuga.
 - **Qualidade da História:** A construção da sede do Cartel da Água expande o ambiente Noir e decadente. A resolução do conflito através de um blefe ("Leilão da Ferrugem"), sem o uso de força letal, demonstra maturidade narrativa e respeita o momento atual de fraqueza dos protagonistas no Setor 4.
+
+
+**Análise do Capítulo 61:**
+- **Coerência de Personagens:** Elara comprova sua nova eficácia como sobrevivente pura, tendo executado com sucesso um blefe massivo contra o Cartel da Água sem o uso de poderes. O alívio exausto e o desespero controlado na troca dos filtros de Jaxon fecham o arco imediato. Jaxon, agora respirando através dos filtros Classe-A que custaram a fúria de uma gangue, volta à sua postura cínica e pragmática, reconhecendo o perigo que a atitude de Elara provocou. A transição deles de predadores cibernéticos a presas ardilosas no fundo da cadeia alimentar (Setor 4) está perfeitamente executada.
+- **Necessidade de Novos Personagens:** O capítulo foca inteiramente nas consequências do sacrifício e blefe com Jaxon e Elara, mantendo a intensidade focada no dúo sem necessidade de novos personagens. A ameaça futura do Silas é suficiente.
+- **Qualidade da História:** A troca do filtro e o desfecho da respiração engasgada de Jaxon geram uma tensão excepcional que é muito bem aliviada. A confirmação de que os códigos eram uma armadilha ("vai fritar o leitor do Silas") solidifica a esperteza tática de Elara e eleva o Noir Cyberpunk para um cenário onde a inteligência da rua substitui a força bruta.
 
 ## Conclusão Final da Revisão (Todos os Capítulos)
 A história de "O Legado de Silício" apresenta personagens altamente coerentes e com profunda agência até suas últimas consequências. A perda brutal de habilidades de Elara a força de volta à vulnerabilidade humana, as reações realistas e analíticas de Vex e o sacrifício corpóreo de Jaxon geram uma narrativa de sobrevivência suja e verossímil. A transição para um mundo corrompido, em uma Nova Aether desprovida do Nódulo Primário e imersa no caos de sindicatos e gangues (como Silas e o Cartel da Água), reflete perfeitamente os moldes do Noir Cyberpunk. Os capítulos finais não necessitaram da inserção de novos personagens principais fixos, mas utilizaram figuras como Silas de forma cirúrgica para desafiar os protagonistas através da ganância e da negociação tensa, em vez da força bruta. A trama amadureceu com brilhantismo, entregando um fechamento de arco orgânico focado em sobrevivência crível e inteligência das ruas.
