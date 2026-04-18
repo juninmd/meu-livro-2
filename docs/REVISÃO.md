@@ -17,3 +17,17 @@ Este documento tem o objetivo de gerenciar o estado da revisão dos capítulos, 
 
 ### Necessidade de Novos Personagens
 *   Para o arco inicial, o núcleo formado por Elara e Jaxon carrega a trama adequadamente. Os antagonistas apresentados (Sentinelas/Ordem do Silício) fornecem a pressão necessária. **Não há necessidade de introduzir novos personagens neste lote**, pois o foco deve ser consolidar o entrosamento dessa dupla improvável e os perigos do mundo em que vivem.
+
+## Lote 21: Capítulos 61 a 63
+**Status:** Em Andamento
+**Capítulos:** 61 (O Fôlego do Mercenário)
+
+### Coerência dos Personagens
+*   **Elara:** A perda dos poderes bioelétricos no capítulo 44 continua sendo um elemento fundamental. Ela compensa com astúcia (o blefe em Silas no cap 60) e determinação física no cap 61, salvando Jaxon.
+*   **Jaxon:** Sua fragilidade devido à falha do pulmão cibernético é mantida. Sua sobrevivência no cap 61 reforça seu vínculo de dependência (e de confiança) mútua com Elara.
+
+### Qualidade da História
+*   **Atmosfera e Ritmo:** Excelente uso do subtexto noir com foco na poluição tangível do Setor 4. A sensação claustrofóbica dos tubos de resfriamento cria o palco para uma cena de resgate íntima, mas crua. A história retoma fôlego para o que deve ser uma fuga frenética na sequência.
+
+### Necessidade de Novos Personagens
+*   No momento, a ameaça imediata é a promessa de caçada do Cartel da Água de Silas. Não é necessário introduzir novos personagens por ora; o foco deve ser nas consequências da ação de Elara.

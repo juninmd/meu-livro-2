@@ -2,6 +2,7 @@ name: Generate Open Source Image
 
 # Action to generate an image via open source model (nano banana style) for new chapters
 # This fulfills the requirement to have a script that runs via GitHub Actions for chapter image generation.
+# Os capitulos são agrupados em docs/public/capitulos/ e este script gera a imagem baseada na narrativa.
 on:
   push:
     paths:
