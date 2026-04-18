@@ -68,6 +68,7 @@ export default defineConfig({
       { text: 'Capítulo 58', link: '/public/capitulos/capitulo-58' },
       { text: 'Capítulo 59', link: '/public/capitulos/capitulo-59' },
       { text: 'Capítulo 60', link: '/public/capitulos/capitulo-60' },
+      { text: 'Capítulo 61', link: '/public/capitulos/capitulo-61' },
       { text: 'Personagens', link: '/personagens' },
       { text: 'Sobre', link: '/sobre' }
     ],
@@ -143,6 +144,8 @@ export default defineConfig({
           { text: 'Reflexão: Capítulo 59', link: '/reflexoes/reflexao-59' },
           { text: 'Capítulo 60: O Leilão da Ferrugem', link: '/public/capitulos/capitulo-60' },
           { text: 'Reflexão: Capítulo 60', link: '/reflexoes/reflexao-60' },
+          { text: 'Capítulo 61: O Fôlego do Mercenário', link: '/public/capitulos/capitulo-61' },
+          { text: 'Reflexão: Capítulo 61', link: '/reflexoes/reflexao-61' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]

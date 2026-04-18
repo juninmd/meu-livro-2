@@ -97,6 +97,7 @@ O mundo é uma mistura de natureza retomando seu espaço e esqueletos de megacid
 - [Capítulo 58: O Covil da Ferrugem](/public/capitulos/capitulo-58) ([Reflexão](/reflexoes/reflexao-58))
 - [Capítulo 59: O Sangue Frio do Silêncio](/public/capitulos/capitulo-59) ([Reflexão](/reflexoes/reflexao-59))
 - [Capítulo 60: O Leilão da Ferrugem](/public/capitulos/capitulo-60) ([Reflexão](/reflexoes/reflexao-60))
+- [Capítulo 61: O Fôlego do Mercenário](/public/capitulos/capitulo-61) ([Reflexão](/reflexoes/reflexao-61))
 
 <div class="story-card">
 <strong>O Legado de Silício</strong> explora a linha tênue entre tecnologia e magia em um futuro esquecido.
