@@ -9,7 +9,7 @@ personagens: Elara, Jaxon
 
 Deixamos os tubos de resfriamento antes mesmo que os filtros de Jaxon tivessem a chance de se acostumar com a fumaça rala que impregnava as entranhas do Setor 4. A promessa silenciosa da morte já não vinha dos pulmões do mercenário, mas do faro aguçado dos cães do Cartel da Água. Silas devia ter percebido a fraude da chave criptográfica. O blefe nos comprara minutos, e nós já havíamos estourado a cota de sorte de uma vida inteira.
 
-A cada passo pesado pelas vielas inundadas de lodo químico, eu sentia a ausência do zumbido elétrico na minha nuca. Sem os poderes, sem a faísca, a neblina ácida não era mais algo que eu apenas suportava; era algo que me sufocava, aderindo aos meus pulmões como asfalto molhado. A chuva era fraca, mas carregava o gosto de chumbo. Eu não era uma deusa corrompida. Era apenas uma presa orgânica.
+A cada passo pesado pelas vielas inundadas de lodo químico, eu sentia a ausência do zumbido elétrico na minha nuca. Sem os poderes, sem a faísca, a neblina ácida não era mais algo que eu apenas suportava; era algo que me sufocava, aderindo aos meus pulmões como asfalto molhado. A chuva era fraca, mas carregava o gosto de chumbo. Eu não era uma deusa corrompida. Era apenas uma presa orgânica. Minhas pernas pesavam toneladas, o rebote de meses sobrecarregando meus nervos cobrando o preço de uma vez só.
 
 "Não faz barulho", sussurrou Jaxon, interrompendo meus pensamentos sombrios. A voz dele, filtrada pelo cilindro novo Classe-A, ainda tinha o peso mecânico de um pulmão cibernético sob constante reparo. Ele se escondeu atrás de uma caçamba enferrujada, puxando-me pelo casaco esfarrapado.
 
