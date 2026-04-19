@@ -11,7 +11,7 @@
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Originalmente permitia acelerar a percepção do tempo e reagir a ameaças com precisão sobre-humana. No entanto, após o embate final, seu poder bioelétrico foi quase inteiramente extinto ("queimado").
     *   Seus poderes bioelétricos criavam uma ponte involuntária com o Deus-Máquina, mas essa conexão foi cortada de forma permanente.
-    *   **Estado Atual (Cap. 61):** Retornou a tempo aos tubos de resfriamento para substituir o filtro do pulmão cibernético de Jaxon, salvando sua vida. Agora, a dupla precisará lidar com as consequências de ter enganado Silas e o Cartel da Água.
+    *   **Estado Atual (Cap. 62):** Em fuga pelas bordas do Setor 4, sendo ativamente caçada pelos mercenários e drones de rastreio do Cartel da Água após Silas descobrir o blefe da chave.
 *   **Motivação:**
     *   Inicialmente encontrar a "Fonte Primordial", que agora se revela uma lenda ilusória. Sua motivação central agora é pura e simplesmente a sobrevivência em uma Nova Aether desestabilizada e perigosa após a queda do núcleo da Ordem.
 
@@ -57,7 +57,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 61):** Sobreviveu à falha do seu pulmão cibernético após Elara substituir os filtros queimados pelos Classe-A obtidos com o Cartel da Água. Preparando-se para fugir das iminentes retaliações de Silas.
+    *   **Estado Atual (Cap. 62):** Com o pulmão cibernético estabilizado temporariamente por filtros novos, ele usa sua experiência militar para liderar a fuga de Elara contra as forças de Silas nas vielas do Setor 4.
 *   **Equipamento:**
     *   Roupas rasgadas, pulmão cibernético recém-implantado (com falhas severas). Armado com pistola magnética recarregada com uma única bateria reserva, pronto para o combate.
 *   **Motivação:**
@@ -125,7 +125,7 @@
 *   **Definição:** Um aglomerado vertical de habitações precárias, mercados negros e clínicas ilegais. Possui também docas secas onde cartéis operam.
 *   **Atmosfera:** Quente, úmida e saturada de neon e poluição. O oposto absoluto do setor congelado abaixo. As docas cheiram a peixe podre e ozônio velho, com chuva ácida constante.
 *   **Habitantes:** Párias, criminosos, viciados em *stim* e aqueles que não podem pagar pela cidadania nos níveis superiores. Gangues como o Cartel da Água controlam recursos vitais.
-*   **Estado Atual (Cap. 58):** Mergulhada na escuridão absoluta sem a rede energética. Tornou-se um local letal, preenchido por fumaça, névoa tóxica e um caos silencioso onde gangues, como o Cartel da Água nas docas secas, disputam território ferozmente. Elara e Jaxon acabam de retornar para as bordas deste setor, sofrendo com a extrema poluição de suas docas.
+*   **Estado Atual (Cap. 62):** Mergulhada na escuridão absoluta e tomada pela neblina tóxica. Tornou-se o palco de uma caçada implacável promovida pelo Cartel da Água contra Elara e Jaxon, com mercenários armados e drones rastreadores patrulhando a "Pilha".
 
 ### Setor 5
 *   **Estado Atual (Cap. 51):** Sem eletricidade pela queda da rede central, mergulhado na escuridão, pontuado apenas por parcos neons e fogueiras químicas. O Mercado Negro de Scrapyard, no limite com o Setor 4, tornou-se o epicentro de saques e caos.
