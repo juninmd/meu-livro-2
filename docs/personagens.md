@@ -63,6 +63,17 @@
 *   **Motivação:**
     *   Inicialmente dinheiro, mas sua lealdade muda à medida que ele vê em Elara a esperança que pensava ter perdido. Determinado a proteger Elara, mesmo que isso custe sua vida.
 
+## Silas (Líder do Cartel da Água)
+
+*   **Função:** Antagonista / Líder de Gangue
+*   **Afiliação:** Cartel da Água (Setor 4)
+*   **Descrição:**
+    *   Um chefe de gangue movido pela ganância que controla os recursos vitais e os filtros de ar no Setor 4.
+    *   Pragmático e implacável, ele subestima ameaças físicas menores, mas respeita perigos cibernéticos.
+    *   **Estado Atual (Cap. 62):** Furioso e em caçada ativa. Após perceber que o "Leilão da Ferrugem" de Elara era um blefe e que a chave criptográfica era uma armadilha, ele soltou seus mercenários e drones de rastreio para caçar Elara e Jaxon pelas vielas da Pilha.
+*   **Motivação:**
+    *   Manter o monopólio e o poder do seu Cartel. Vingança contra Elara e Jaxon por humilhá-lo e roubar os filtros Classe-A vitais.
+
 ## Sentinelas
 
 *   **Função:** Unidade de Elite / Caçadores
