@@ -70,6 +70,7 @@ export default defineConfig({
       { text: 'Capítulo 60', link: '/public/capitulos/capitulo-60' },
       { text: 'Capítulo 61', link: '/public/capitulos/capitulo-61' },
       { text: 'Capítulo 62', link: '/public/capitulos/capitulo-62' },
+      { text: 'Capítulo 63', link: '/public/capitulos/capitulo-63' },
       { text: 'Personagens', link: '/personagens' },
       { text: 'Sobre', link: '/sobre' }
     ],
@@ -149,6 +150,8 @@ export default defineConfig({
           { text: 'Reflexão: Capítulo 61', link: '/reflexoes/reflexao-61' },
           { text: 'Capítulo 62: A Caçada de Silas', link: '/public/capitulos/capitulo-62' },
           { text: 'Reflexão: Capítulo 62', link: '/reflexoes/reflexao-62' },
+          { text: 'Capítulo 63: Ecos do Rastreador', link: '/public/capitulos/capitulo-63' },
+          { text: 'Reflexão: Capítulo 63', link: '/reflexoes/reflexao-63' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]
