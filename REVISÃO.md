@@ -26,8 +26,7 @@
 - [x] Capítulos 55, 56
 - [x] Capítulo 57
 - [x] Capítulos 58, 59, 60
-- [x] Capítulo 61
-- [x] Capítulo 62
+- [x] Capítulos 61, 62, 63
 
 **Análise dos Capítulos 13, 14 e 15:**
 - **Coerência de Personagens:** Elara transita de uma combatente exaurida para alguém que está disposta a negociar um pedaço de si mesma por Jaxon. Jaxon segue debilitado, e a introdução oficial do Dr. Vex é bem integrada à necessidade médica emergencial sem que ele ofusque o núcleo da equipe. A troca entre Vex e Elara e a intromissão do Deus-Máquina fluem naturalmente.
@@ -195,21 +194,10 @@
 - **Qualidade da História:** A construção da sede do Cartel da Água expande o ambiente Noir e decadente. A resolução do conflito através de um blefe ("Leilão da Ferrugem"), sem o uso de força letal, demonstra maturidade narrativa e respeita o momento atual de fraqueza dos protagonistas no Setor 4.
 
 
-**Análise do Capítulo 61:**
-- **Coerência de Personagens:** Elara comprova sua nova eficácia como sobrevivente pura, tendo executado com sucesso um blefe massivo contra o Cartel da Água sem o uso de poderes. O alívio exausto e o desespero controlado na troca dos filtros de Jaxon fecham o arco imediato. Jaxon, agora respirando através dos filtros Classe-A que custaram a fúria de uma gangue, volta à sua postura cínica e pragmática, reconhecendo o perigo que a atitude de Elara provocou. A transição deles de predadores cibernéticos a presas ardilosas no fundo da cadeia alimentar (Setor 4) está perfeitamente executada.
-- **Necessidade de Novos Personagens:** O capítulo foca inteiramente nas consequências do sacrifício e blefe com Jaxon e Elara, mantendo a intensidade focada no dúo sem necessidade de novos personagens. A ameaça futura do Silas é suficiente.
-- **Qualidade da História:** A troca do filtro e o desfecho da respiração engasgada de Jaxon geram uma tensão excepcional que é muito bem aliviada. A confirmação de que os códigos eram uma armadilha ("vai fritar o leitor do Silas") solidifica a esperteza tática de Elara e eleva o Noir Cyberpunk para um cenário onde a inteligência da rua substitui a força bruta.
-
-
-**Análise do Capítulo 62:**
-- **Coerência de Personagens:** A dinâmica pragmática de sobrevivência entre Elara e Jaxon permanece forte. O uso de armas e suprimentos escassos por Jaxon reflete a transição brutal após a queda do Deus-Máquina. Elara mostra consistência na adoção de sua vulnerabilidade humana em contraste com a sua versão anteriormente sobre-humana.
-- **Necessidade de Novos Personagens:** Não há necessidade de introduzir novos personagens. Silas (através de seus mercenários e cães do Cartel) atua muito bem como uma força antagônica constante.
-- **Qualidade da História:** A progressão da perseguição e a construção do ambiente vertical e corrosivo (A Pilha e a chuva ácida) são excelentes, reforçando o ar Cyberpunk Noir e mantendo o suspense altíssimo.
-
-**Análise do Capítulo 63:**
-- **Coerência de Personagens:** A limitação de recursos, materializada pelas meras dez balas na arma de Jaxon, dita a tensão e a tomada de decisões, ancorando firmemente os personagens em sua vulnerabilidade atual. O plano de buscar cobertura magnética no ferro-velho desativado de Kaelen é tático e condizente com a experiência de Jaxon e as dificuldades de Elara.
-- **Necessidade de Novos Personagens:** Silas envia drones de rastreio, escalando a ameaça sem a necessidade de um novo personagem, forçando a dupla a lutar contra um adversário tecnológico impessoal e implacável.
-- **Qualidade da História:** A transição para uma ameaça tecnológica imediata ("rastreadores") no escuro dos dutos de serviço eleva o aspecto Noir de maneira orgânica. O ritmo ("Pacing") da perseguição não permite interrupções, engajando intensamente o leitor.
+**Análise dos Capítulos 61, 62 e 63:**
+- **Coerência de Personagens:** Elara comprova sua eficácia como sobrevivente sem poderes, executando um blefe massivo (Cap 61) e adotando sua vulnerabilidade humana em contraste com a sua versão anteriormente sobre-humana, liderando o avanço e sobrevivência tática da dupla. Jaxon mantém sua postura cínica e pragmática, e sua limitação de recursos (dez balas, braço mecânico desgastado, recém-instalados filtros de ar) dita a tensão e a tomada de decisões, ancorando firmemente os personagens em sua vulnerabilidade atual.
+- **Necessidade de Novos Personagens:** O foco inteiramente nas consequências do sacrifício de Jaxon e Elara mantém a intensidade. A ameaça constante de Silas (através de seus mercenários, cães do Cartel, e drones de rastreio) atua muito bem como força antagônica escalável sem a necessidade de introduzir novos personagens.
+- **Qualidade da História:** A trama de perseguição é tensa e implacável. A transição de presas cibernéticas a fugitivos ardilosos no fundo da cadeia alimentar (A Pilha e a chuva ácida) consolida o Noir Cyberpunk. O ritmo ("Pacing") e a urgência da ameaça tecnológica (rastreadores) engajam intensamente o leitor, sem interrupções.
 
 ## Conclusão Final da Revisão (Todos os 63 Capítulos)
 A história de "O Legado de Silício" apresenta personagens altamente coerentes e com profunda agência até suas últimas consequências, o que foi mantido consistentemente ao longo dos 63 capítulos. A perda brutal de habilidades de Elara a força de volta à vulnerabilidade humana, as reações realistas e analíticas de Vex e o sacrifício corpóreo de Jaxon geram uma narrativa de sobrevivência suja e verossímil. A transição para um mundo corrompido, em uma Nova Aether desprovida do Nódulo Primário e imersa no caos de sindicatos e gangues (como Silas e o Cartel da Água), reflete perfeitamente os moldes do Noir Cyberpunk. Os capítulos finais não necessitaram da inserção de novos personagens principais fixos, mas utilizaram figuras como Silas de forma cirúrgica para desafiar os protagonistas através da ganância e da negociação tensa, em vez da força bruta. A trama amadureceu com brilhantismo, entregando um fechamento de arco orgânico focado em sobrevivência crível e inteligência das ruas.
