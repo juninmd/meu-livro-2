@@ -11,7 +11,7 @@
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Originalmente permitia acelerar a percepção do tempo e reagir a ameaças com precisão sobre-humana. No entanto, após o embate final, seu poder bioelétrico foi quase inteiramente extinto ("queimado").
     *   Seus poderes bioelétricos criavam uma ponte involuntária com o Deus-Máquina, mas essa conexão foi cortada de forma permanente.
-    *   **Estado Atual (Cap. 63):** Em fuga contínua pelas passarelas da Pilha no Setor 4, agora enfrentando diretamente a caçada dos mortais drones de rastreio de Silas.
+    *   **Estado Atual (Cap. 64):** Escondida com Jaxon na antiga oficina destruída de Kaelen (o "Ponto Cego"), lidando com a exaustão física e a realidade de ser novamente "puramente humana" enquanto fogem dos rastreadores de Silas.
 *   **Motivação:**
     *   Inicialmente encontrar a "Fonte Primordial", que agora se revela uma lenda ilusória. Sua motivação central agora é pura e simplesmente a sobrevivência em uma Nova Aether desestabilizada e perigosa após a queda do núcleo da Ordem.
 
@@ -34,7 +34,7 @@
 *   **Descrição:**
     *   Magro, com os dois braços substituídos por próteses industriais rudimentares e portas de dados conectadas diretamente às têmporas. Possui um olho orgânico e outro cibernético (íris vermelha).
     *   Vive cercado por tecnologia pré-colapso em um covil blindado e abafado.
-    *   **Estado Atual (Cap. 31):** Sacrificou sua oficina e valiosos servidores ao induzir propositalmente um colapso nos capacitores de núcleo de energia, gerando um EMP. Isso fritou os sistemas de segurança da porta do duto para permitir a fuga de Elara, além de cegar temporariamente as unidades ópticas dos Sentinelas, tornando seu covil um "túmulo frio".
+    *   **Estado Atual:** O sacrifício de sua oficina no Cap 31 (EMP) criou um "ponto cego" permanentemente desconectado, que agora (Cap 64) serve como refúgio provisório para Elara e Jaxon contra as forças de Silas. O paradeiro atual de Kaelen é desconhecido.
 *   **Motivação:**
     *   Sobrevivência e preservação de sua infraestrutura. Ajuda Elara apenas para tirá-la (e seu perigoso "sinal") de perto de sua rede.
 
