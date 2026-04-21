@@ -71,6 +71,7 @@ export default defineConfig({
       { text: 'Capítulo 61', link: '/public/capitulos/capitulo-61' },
       { text: 'Capítulo 62', link: '/public/capitulos/capitulo-62' },
       { text: 'Capítulo 63', link: '/public/capitulos/capitulo-63' },
+      { text: 'Capítulo 64', link: '/public/capitulos/capitulo-64' },
       { text: 'Personagens', link: '/personagens' },
       { text: 'Sobre', link: '/sobre' }
     ],
@@ -152,6 +153,8 @@ export default defineConfig({
           { text: 'Reflexão: Capítulo 62', link: '/reflexoes/reflexao-62' },
           { text: 'Capítulo 63: Ecos do Rastreador', link: '/public/capitulos/capitulo-63' },
           { text: 'Reflexão: Capítulo 63', link: '/reflexoes/reflexao-63' },
+          { text: 'Capítulo 64: O Ponto Cego', link: '/public/capitulos/capitulo-64' },
+          { text: 'Reflexão: Capítulo 64', link: '/reflexoes/reflexao-64' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]
