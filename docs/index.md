@@ -102,6 +102,7 @@ O mundo é uma mistura de natureza retomando seu espaço e esqueletos de megacid
 - [Capítulo 63: Ecos do Rastreador](/public/capitulos/capitulo-63) ([Reflexão](/reflexoes/reflexao-63))
 - [Capítulo 64: O Ponto Cego](/public/capitulos/capitulo-64) ([Reflexão](/reflexoes/reflexao-64))
 - [Capítulo 65: A Engrenagem Analógica](/public/capitulos/capitulo-65) ([Reflexão](/reflexoes/reflexao-65))
+- [Capítulo 66: Ecos do Esgoto](/public/capitulos/capitulo-66) ([Reflexão](/reflexoes/reflexao-66))
 
 <div class="story-card">
 <strong>O Legado de Silício</strong> explora a linha tênue entre tecnologia e magia em um futuro esquecido.
