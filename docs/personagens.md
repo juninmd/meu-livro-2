@@ -57,7 +57,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 65):** Escondido com Elara na oficina de Kaelen. Com a escopeta quase inútil, recebeu de Elara explosivos químicos brutos antigos para usar na sua nova estratégia ofensiva contra Silas.
+    *   **Estado Atual (Cap. 66):** Infiltrando-se nos dutos de esgoto e exaustão do Setor 4 junto com Elara. Usou força bruta para abrir o acesso à base de purificação de água de Silas e se prepara para usar as granadas químicas.
 *   **Equipamento:**
     *   Roupas rasgadas, pulmão cibernético recém-implantado (com falhas severas). Armado com pistola magnética recarregada com uma única bateria reserva, pronto para o combate.
 *   **Motivação:**
@@ -70,7 +70,7 @@
 *   **Descrição:**
     *   Um chefe de gangue movido pela ganância que controla os recursos vitais e os filtros de ar no Setor 4.
     *   Pragmático e implacável, ele subestima ameaças físicas menores, mas respeita perigos cibernéticos.
-    *   **Estado Atual (Cap. 65):** Caçando implacavelmente Jaxon e Elara com drones térmicos no Setor 4, sem saber que eles agora têm posse de armamentos imunes ao rastreamento cibernético e estão planejando atacar seu principal nodo de água.
+    *   **Estado Atual (Cap. 66):** Caçando implacavelmente Jaxon e Elara com drones térmicos na superfície do Setor 4, ignorante de que a dupla já invadiu o ventre de seu nodo principal de água através dos esgotos.
 *   **Motivação:**
     *   Manter o monopólio e o poder do seu Cartel. Vingança contra Elara e Jaxon por humilhá-lo e roubar os filtros Classe-A vitais.
 
@@ -136,7 +136,7 @@
 *   **Definição:** Um aglomerado vertical de habitações precárias, mercados negros e clínicas ilegais. Possui também docas secas onde cartéis operam.
 *   **Atmosfera:** Quente, úmida e saturada de neon e poluição. O oposto absoluto do setor congelado abaixo. As docas cheiram a peixe podre e ozônio velho, com chuva ácida constante.
 *   **Habitantes:** Párias, criminosos, viciados em *stim* e aqueles que não podem pagar pela cidadania nos níveis superiores. Gangues como o Cartel da Água controlam recursos vitais.
-*   **Estado Atual (Cap. 65):** O ar superior d'A Pilha é varrido pelos drones assassinos de Silas, mas Jaxon e Elara planejam usar os esgotos e dutos de ar inferiores como rota de infiltração para atacar o filtro principal do Cartel da Água.
+*   **Estado Atual (Cap. 66):** O ar superior d'A Pilha continua varrido pelos drones assassinos de Silas. Enquanto isso, Jaxon e Elara já estão atravessando os dutos de esgoto tóxicos, preparando-se para lançar seu ataque explosivo diretamente debaixo do nariz de Silas.
 
 ### Setor 5
 *   **Estado Atual (Cap. 51):** Sem eletricidade pela queda da rede central, mergulhado na escuridão, pontuado apenas por parcos neons e fogueiras químicas. O Mercado Negro de Scrapyard, no limite com o Setor 4, tornou-se o epicentro de saques e caos.

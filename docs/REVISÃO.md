@@ -34,15 +34,15 @@ Este documento tem o objetivo de gerenciar o estado da revisão dos capítulos, 
 
 ## Lote 22: Capítulos 64 a 66
 **Status:** Em Andamento
-**Capítulos:** 64 (O Ponto Cego)
+**Capítulos:** 64 (O Ponto Cego), 65 (A Engrenagem Analógica), 66 (Ecos do Esgoto)
 
 ### Coerência dos Personagens
-*   **Elara:** Continua sofrendo física e emocionalmente pela ausência da "Sobrecarga Sináptica". A reflexão interna sobre ser "puramente humana" no covil de Kaelen é coerente com o desespero e o cansaço acumulado.
-*   **Jaxon:** Mantém seu foco em consertar a engrenagem quebrada (a prótese) e traçar planos para não se tornarem "cabeças penduradas na ponte".
-*   **Sanity Check:** O plot não invalida eventos anteriores. A menção ao EMP disparado por Kaelen no cap 31 foi utilizada organicamente para justificar o refúgio (ponto cego).
+*   **Elara:** Continua sofrendo física e emocionalmente pela ausência da "Sobrecarga Sináptica". A reflexão interna sobre ser "puramente humana" no covil de Kaelen é coerente com o desespero e o cansaço acumulado. Nos capítulos 65 e 66, ela transita de "fugitiva nua" para "estrategista tática", aproveitando a falta de cibernética a seu favor usando equipamentos analógicos para contornar a vigilância digital.
+*   **Jaxon:** Mantém seu foco em consertar a engrenagem quebrada (a prótese) e traçar planos para não se tornarem "cabeças penduradas na ponte". No 66, sua dependência das próteses é visível pelo desgaste e falhas no pulmão, servindo de contraponto ao novo foco de Elara em equipamento arcaico e não digital.
+*   **Sanity Check:** O plot não invalida eventos anteriores. A menção ao EMP disparado por Kaelen no cap 31 foi utilizada organicamente para justificar o refúgio (ponto cego). O movimento para o subsolo usando esgotos nos capítulos 65 e 66 foi bem ancorado no abandono da tecnologia digital após Elara ter perdido seus poderes cibernéticos no cap 44.
 
 ### Qualidade da História
-*   **Atmosfera e Ritmo:** Cap 64 entrega um respiro contemplativo "downbeat" após a fuga frenética. A atmosfera da oficina abandonada de Kaelen ("túmulo de silício") complementa o tom noir opressivo.
+*   **Atmosfera e Ritmo:** Cap 64 entrega um respiro contemplativo "downbeat" após a fuga frenética. A atmosfera da oficina abandonada de Kaelen ("túmulo de silício") complementa o tom noir opressivo. O cap 65 retoma a ação de planejamento, com o cap 66 iniciando a tensão stealth nos esgotos asfixiantes. O ritmo é metódico e tenso, alinhado à claustrofobia narrativa.
 
 ### Necessidade de Novos Personagens
-*   Nenhum personagem novo por enquanto. Foco na resolução do conflito direto e fuga da retaliação do Cartel.
+*   Nenhum personagem novo introduzido e nem é necessário agora. O foco principal tem sido resolver a infiltração de Jaxon e Elara e o conflito contra Silas usando soluções mecânicas em vez de Deus-Ex-Machina digitais.

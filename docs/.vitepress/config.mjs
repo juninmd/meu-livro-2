@@ -73,6 +73,7 @@ export default defineConfig({
       { text: 'Capítulo 63', link: '/public/capitulos/capitulo-63' },
       { text: 'Capítulo 64', link: '/public/capitulos/capitulo-64' },
       { text: 'Capítulo 65', link: '/public/capitulos/capitulo-65' },
+      { text: 'Capítulo 66', link: '/public/capitulos/capitulo-66' },
       { text: 'Personagens', link: '/personagens' },
       { text: 'Sobre', link: '/sobre' }
     ],
@@ -158,6 +159,8 @@ export default defineConfig({
           { text: 'Reflexão: Capítulo 64', link: '/reflexoes/reflexao-64' },
           { text: 'Capítulo 65: A Engrenagem Analógica', link: '/public/capitulos/capitulo-65' },
           { text: 'Reflexão: Capítulo 65', link: '/reflexoes/reflexao-65' },
+          { text: 'Capítulo 66: Ecos do Esgoto', link: '/public/capitulos/capitulo-66' },
+          { text: 'Reflexão: Capítulo 66', link: '/reflexoes/reflexao-66' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]
