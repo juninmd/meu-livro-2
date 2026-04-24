@@ -11,7 +11,7 @@
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Originalmente permitia acelerar a percepção do tempo e reagir a ameaças com precisão sobre-humana. No entanto, após o embate final, seu poder bioelétrico foi quase inteiramente extinto ("queimado").
     *   Seus poderes bioelétricos criavam uma ponte involuntária com o Deus-Máquina, mas essa conexão foi cortada de forma permanente.
-    *   **Estado Atual (Cap. 65):** Escondida com Jaxon na antiga oficina destruída de Kaelen. Ela encontrou o armamento analógico/químico que Kaelen havia guardado e elaborou um plano tático para revidar contra Silas explodindo seu filtro principal de água, mudando sua postura de fugitiva para ofensiva.
+    *   **Estado Atual (Cap. 67):** Após explodir o filtro principal de água da base de Silas usando granadas químicas analógicas, ela e Jaxon se preparam para caçá-lo diretamente, passando de fugitivos a predadores nas ruínas do Setor 4.
 *   **Motivação:**
     *   Inicialmente encontrar a "Fonte Primordial", que agora se revela uma lenda ilusória. Sua motivação central agora é pura e simplesmente a sobrevivência em uma Nova Aether desestabilizada e perigosa após a queda do núcleo da Ordem.
 
@@ -57,7 +57,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 66):** Infiltrando-se nos dutos de esgoto e exaustão do Setor 4 junto com Elara. Usou força bruta para abrir o acesso à base de purificação de água de Silas e se prepara para usar as granadas químicas.
+    *   **Estado Atual (Cap. 67):** Deu cobertura vital para Elara destruir o nodo principal de Silas com a granada química. Protegeu-a da explosão e agora, exausto, guia a investida contra Silas.
 *   **Equipamento:**
     *   Roupas rasgadas, pulmão cibernético recém-implantado (com falhas severas). Armado com pistola magnética recarregada com uma única bateria reserva, pronto para o combate.
 *   **Motivação:**
@@ -70,7 +70,7 @@
 *   **Descrição:**
     *   Um chefe de gangue movido pela ganância que controla os recursos vitais e os filtros de ar no Setor 4.
     *   Pragmático e implacável, ele subestima ameaças físicas menores, mas respeita perigos cibernéticos.
-    *   **Estado Atual (Cap. 66):** Caçando implacavelmente Jaxon e Elara com drones térmicos na superfície do Setor 4, ignorante de que a dupla já invadiu o ventre de seu nodo principal de água através dos esgotos.
+    *   **Estado Atual (Cap. 67):** Seu império sofreu um golpe devastador após Elara e Jaxon destruírem seu nodo de água primário usando armamento químico e táticas rudimentares não mapeadas por sua tecnologia de defesa.
 *   **Motivação:**
     *   Manter o monopólio e o poder do seu Cartel. Vingança contra Elara e Jaxon por humilhá-lo e roubar os filtros Classe-A vitais.
 
@@ -136,7 +136,7 @@
 *   **Definição:** Um aglomerado vertical de habitações precárias, mercados negros e clínicas ilegais. Possui também docas secas onde cartéis operam.
 *   **Atmosfera:** Quente, úmida e saturada de neon e poluição. O oposto absoluto do setor congelado abaixo. As docas cheiram a peixe podre e ozônio velho, com chuva ácida constante.
 *   **Habitantes:** Párias, criminosos, viciados em *stim* e aqueles que não podem pagar pela cidadania nos níveis superiores. Gangues como o Cartel da Água controlam recursos vitais.
-*   **Estado Atual (Cap. 66):** O ar superior d'A Pilha continua varrido pelos drones assassinos de Silas. Enquanto isso, Jaxon e Elara já estão atravessando os dutos de esgoto tóxicos, preparando-se para lançar seu ataque explosivo diretamente debaixo do nariz de Silas.
+*   **Estado Atual (Cap. 67):** O ar superior d'A Pilha continua patrulhado por Silas, mas o subsolo foi abalado pela destruição maciça do seu principal purificador de água e reservatório, alterando o equilíbrio de poder da gangue que controlava o vital recurso.
 
 ### Setor 5
 *   **Estado Atual (Cap. 51):** Sem eletricidade pela queda da rede central, mergulhado na escuridão, pontuado apenas por parcos neons e fogueiras químicas. O Mercado Negro de Scrapyard, no limite com o Setor 4, tornou-se o epicentro de saques e caos.
