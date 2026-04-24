@@ -2,7 +2,6 @@
 
 ## Segunda Revisão (Status)
 
-
 - [x] Capítulos 1, 2, 3
 - [x] Capítulos 4, 5, 6
 - [x] Capítulos 7, 8, 9
@@ -27,8 +26,8 @@
 - [x] Capítulo 57
 - [x] Capítulos 58, 59, 60
 - [x] Capítulos 61, 62, 63
-- [x] Capítulo 64
-- [x] Capítulo 65
+
+- [x] Capítulos 64, 65, 66
 
 **Análise dos Capítulos 13, 14 e 15:**
 - **Coerência de Personagens:** Elara transita de uma combatente exaurida para alguém que está disposta a negociar um pedaço de si mesma por Jaxon. Jaxon segue debilitado, e a introdução oficial do Dr. Vex é bem integrada à necessidade médica emergencial sem que ele ofusque o núcleo da equipe. A troca entre Vex e Elara e a intromissão do Deus-Máquina fluem naturalmente.
@@ -195,7 +194,6 @@
 - **Necessidade de Novos Personagens:** A introdução de Silas é eficaz e cumpre o papel de antagonista e negociador do submundo pragmático. A interação foca em resolver o conflito imediato (os filtros) de forma tensa, não exigindo coadjuvantes duradouros que tirem o foco dos protagonistas em fuga.
 - **Qualidade da História:** A construção da sede do Cartel da Água expande o ambiente Noir e decadente. A resolução do conflito através de um blefe ("Leilão da Ferrugem"), sem o uso de força letal, demonstra maturidade narrativa e respeita o momento atual de fraqueza dos protagonistas no Setor 4.
 
-
 **Análise dos Capítulos 61, 62 e 63:**
 - **Coerência de Personagens:** Elara comprova sua eficácia como sobrevivente sem poderes, executando um blefe massivo (Cap 61) e adotando sua vulnerabilidade humana em contraste com a sua versão anteriormente sobre-humana, liderando o avanço e sobrevivência tática da dupla. Jaxon mantém sua postura cínica e pragmática, e sua limitação de recursos (dez balas, braço mecânico desgastado, recém-instalados filtros de ar) dita a tensão e a tomada de decisões, ancorando firmemente os personagens em sua vulnerabilidade atual.
 - **Necessidade de Novos Personagens:** O foco inteiramente nas consequências do sacrifício de Jaxon e Elara mantém a intensidade. A ameaça constante de Silas (através de seus mercenários, cães do Cartel, e drones de rastreio) atua muito bem como força antagônica escalável sem a necessidade de introduzir novos personagens.
@@ -211,5 +209,10 @@
 - **Necessidade de Novos Personagens:** Não há necessidade de novos personagens para esse momento focado na sobrevivência, planejamento e escalada da retaliação de Elara e Jaxon. A referência a Kaelen expande o *lore* existente.
 - **Qualidade da História:** A progressão da história é cativante. O planejamento com o arsenal do fim do mundo de Kaelen injeta energia de *heist*/infiltração tática ("fantasmas analógicos"). É excelente que Elara perceba que para vencer a rede de vigilância, ela precisa "desligar" e ir fundo no físico, solidificando o tema *Noir* e de sucata.
 
-## Conclusão Final da Revisão (Todos os 65 Capítulos)
-A história de "O Legado de Silício" apresenta personagens altamente coerentes e com profunda agência até suas últimas consequências, o que foi mantido consistentemente ao longo dos 65 capítulos. A perda brutal de habilidades de Elara a força de volta à vulnerabilidade humana, as reações realistas e analíticas de Vex e o sacrifício corpóreo de Jaxon geram uma narrativa de sobrevivência suja e verossímil. A transição para um mundo corrompido, em uma Nova Aether desprovida do Nódulo Primário e imersa no caos de sindicatos e gangues (como Silas e o Cartel da Água), reflete perfeitamente os moldes do Noir Cyberpunk. Os capítulos finais não necessitaram da inserção de novos personagens principais fixos, mas utilizaram figuras como Silas de forma cirúrgica para desafiar os protagonistas através da ganância e da negociação tensa, em vez da força bruta. A trama amadureceu com brilhantismo, entregando um fechamento de arco orgânico focado em sobrevivência crível e inteligência das ruas.
+**Análise do Capítulo 66:**
+- **Coerência de Personagens:** A perda de poder de Elara é reafirmada fisicamente ao depender de seus instintos no escuro e da orientação de Kaelen de forma analógica. Jaxon, mesmo em péssimo estado com falhas mecânicas, mantém sua postura protetora e cínica, suportando a dor pelo pragmatismo ("O analógico tem o seu charme").
+- **Necessidade de Novos Personagens:** O capítulo é um prólogo de invasão, focado inteiramente na dupla. A atmosfera sombria serve como "terceiro personagem", sem precisar adicionar novas figuras no momento.
+- **Qualidade da História:** O pacing é mais lento, mas constrói tensão perfeitamente, estabelecendo um ambiente sufocante e perigoso nos esgotos antes de invadir o núcleo de Silas. A transição de presas a caçadores ganha forma.
+
+## Conclusão Final da Revisão (Todos os 66 Capítulos)
+A história de "O Legado de Silício" apresenta personagens altamente coerentes e com profunda agência até suas últimas consequências, o que foi mantido consistentemente ao longo dos 66 capítulos. A perda brutal de habilidades de Elara a força de volta à vulnerabilidade humana, as reações realistas e analíticas de Vex e o sacrifício corpóreo de Jaxon geram uma narrativa de sobrevivência suja e verossímil. A transição para um mundo corrompido, em uma Nova Aether desprovida do Nódulo Primário e imersa no caos de sindicatos e gangues (como Silas e o Cartel da Água), reflete perfeitamente os moldes do Noir Cyberpunk. Os capítulos finais não necessitaram da inserção de novos personagens principais fixos, mas utilizaram figuras como Silas de forma cirúrgica para desafiar os protagonistas através da ganância e da negociação tensa, em vez da força bruta. A trama amadureceu com brilhantismo, entregando um fechamento de arco orgânico focado em sobrevivência crível e inteligência das ruas.
