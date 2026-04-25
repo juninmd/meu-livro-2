@@ -71,3 +71,4 @@ jobs:
           else
             echo "Sem imagens novas para commitar."
           fi
+# Workflow created as requested
