@@ -74,6 +74,7 @@ export default defineConfig({
       { text: 'Capítulo 64', link: '/public/capitulos/capitulo-64' },
       { text: 'Capítulo 65', link: '/public/capitulos/capitulo-65' },
       { text: 'Capítulo 66', link: '/public/capitulos/capitulo-66' },
+      { text: 'Capítulo 67', link: '/public/capitulos/capitulo-67' },
       { text: 'Personagens', link: '/personagens' },
       { text: 'Sobre', link: '/sobre' }
     ],
@@ -161,6 +162,8 @@ export default defineConfig({
           { text: 'Reflexão: Capítulo 65', link: '/reflexoes/reflexao-65' },
           { text: 'Capítulo 66: Ecos do Esgoto', link: '/public/capitulos/capitulo-66' },
           { text: 'Reflexão: Capítulo 66', link: '/reflexoes/reflexao-66' },
+          { text: 'Capítulo 67: Colapso Analógico', link: '/public/capitulos/capitulo-67' },
+          { text: 'Reflexão: Capítulo 67', link: '/reflexoes/reflexao-67' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]
