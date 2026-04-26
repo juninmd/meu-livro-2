@@ -33,7 +33,7 @@ Este documento tem o objetivo de gerenciar o estado da revisão dos capítulos, 
 *   No momento, a ameaça imediata é a promessa de caçada do Cartel da Água de Silas. Não é necessário introduzir novos personagens por ora; o foco deve ser nas consequências da ação de Elara.
 
 ## Lote 22: Capítulos 64 a 66
-**Status:** Em Andamento
+**Status:** Revisado
 **Capítulos:** 64 (O Ponto Cego), 65 (A Engrenagem Analógica), 66 (Ecos do Esgoto)
 
 ### Coerência dos Personagens
@@ -46,3 +46,18 @@ Este documento tem o objetivo de gerenciar o estado da revisão dos capítulos, 
 
 ### Necessidade de Novos Personagens
 *   Nenhum personagem novo introduzido e nem é necessário agora. O foco principal tem sido resolver a infiltração de Jaxon e Elara e o conflito contra Silas usando soluções mecânicas em vez de Deus-Ex-Machina digitais.
+
+## Lote 23: Capítulos 67 e 68
+**Status:** Em Andamento
+**Capítulos:** 67 (Colapso Analógico), 68 (Sob as Ruínas Douradas)
+
+### Coerência dos Personagens
+*   **Elara:** A perda dos poderes ("Sobrecarga Sináptica") obriga-a a confrontar a dura realidade física, necessitando cooperação mútua com Jaxon para tarefas básicas como se erguer e caminhar. A aceitação de sua natureza "puramente humana" é evidenciada em sua exaustão.
+*   **Jaxon:** O curto-circuito de seu braço mecânico ilustra a falibilidade do cibernético. A sua determinação obstinada mantém a narrativa em movimento, focando na busca pragmática por abrigo e reparos.
+*   **Sanity Check:** A destruição do purificador não invalida as capacidades do Cartel de Silas, mudando a ameaça de um monitoramento por drones para um ataque físico direto ("capangas com dois braços"). A lore foi atualizada consistentemente.
+
+### Qualidade da História
+*   **Atmosfera e Ritmo:** Excelente ambientação no esgoto. O ritmo caiu de uma ação intensa para uma sobrevivência metódica. A introdução da "antiga estação de filtragem auxiliar" aponta um objetivo de curto prazo viável.
+
+### Necessidade de Novos Personagens
+*   Nenhum novo personagem foi introduzido. O foco recai na sobrevivência e recuperação do duo e em enfrentar os emissários humanos de Silas, mantendo o elenco enxuto.
