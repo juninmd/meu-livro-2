@@ -57,9 +57,9 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 68):** Detonou com sucesso a granada química no duto secundário do purificador de Silas, causando o colapso do maquinário. Ajudou Elara a escapar da inundação de água tóxica, mas seu braço metálico sofreu um curto-circuito irreparável pelas águas do esgoto, obrigando-o a buscar abrigo e peças na antiga estação de filtragem auxiliar (Cap. 68).
+    *   **Estado Atual (Cap. 69):** Chegou à estação de filtragem auxiliar com Elara. Removeu completamente seu braço cibernético frito e inútil, lidando com dores severas. Encontra-se exausto, mas ainda capaz de lutar com seu braço orgânico remanescente contra os capangas de Silas (Cap. 69).
 *   **Equipamento:**
-    *   Roupas rasgadas, pulmão cibernético recém-implantado (com falhas severas). Armado com pistola magnética recarregada com uma única bateria reserva, pronto para o combate.
+    *   Roupas rasgadas, pulmão cibernético recém-implantado (com falhas severas e chiados). Braço cibernético removido. Armado com pistola magnética recarregada, segurada com a mão orgânica.
 *   **Motivação:**
     *   Inicialmente dinheiro, mas sua lealdade muda à medida que ele vê em Elara a esperança que pensava ter perdido. Determinado a proteger Elara, mesmo que isso custe sua vida.
 
@@ -70,7 +70,7 @@
 *   **Descrição:**
     *   Um chefe de gangue movido pela ganância que controla os recursos vitais e os filtros de ar no Setor 4.
     *   Pragmático e implacável, ele subestima ameaças físicas menores, mas respeita perigos cibernéticos.
-    *   **Estado Atual (Cap. 68):** Seu nodo principal de purificação de água foi destruído em uma explosão massiva nos esgotos causada por Jaxon. O colapso estrutural paralisou suas máquinas e cortou a base do monopólio do Cartel da Água, provocando um apagão hidráulico no Setor 4. Seus drones agora importam menos do que os capangas armados que ele certamente enviará para caçar Elara e Jaxon (Cap. 68).
+    *   **Estado Atual (Cap. 69):** Seu nodo principal de purificação de água foi destruído, provocando um apagão hidráulico no Setor 4. Sem seus drones, Silas enviou capangas orgânicos fortemente armados que já conseguiram encurralar Elara e Jaxon na estação de filtragem auxiliar (Cap. 69).
 *   **Motivação:**
     *   Manter o monopólio e o poder do seu Cartel. Vingança contra Elara e Jaxon por humilhá-lo e roubar os filtros Classe-A vitais.
 
@@ -136,7 +136,7 @@
 *   **Definição:** Um aglomerado vertical de habitações precárias, mercados negros e clínicas ilegais. Possui também docas secas onde cartéis operam.
 *   **Atmosfera:** Quente, úmida e saturada de neon e poluição. O oposto absoluto do setor congelado abaixo. As docas cheiram a peixe podre e ozônio velho, com chuva ácida constante.
 *   **Habitantes:** Párias, criminosos, viciados em *stim* e aqueles que não podem pagar pela cidadania nos níveis superiores. Gangues como o Cartel da Água controlam recursos vitais.
-*   **Estado Atual (Cap. 68):** O ar superior d'A Pilha continua varrido pelos drones assassinos de Silas. No subsolo, o purificador de água e parte da infraestrutura desabaram após uma explosão química provocada por Jaxon, criando uma vasta inundação de água tóxica que abalou as fundações de poder do Cartel da Água. A água baixou, mas o setor sofre um blecaute hidráulico completo (Cap. 68).
+*   **Estado Atual (Cap. 69):** O ar superior d'A Pilha continua varrido pelos drones assassinos de Silas. No subsolo, o purificador de água e parte da infraestrutura desabaram criando uma vasta inundação. O setor sofre um blecaute hidráulico completo. Na antiga estação de filtragem auxiliar, gangues de Silas caçam Elara e Jaxon (Cap. 69).
 
 ### Setor 5
 *   **Estado Atual (Cap. 51):** Sem eletricidade pela queda da rede central, mergulhado na escuridão, pontuado apenas por parcos neons e fogueiras químicas. O Mercado Negro de Scrapyard, no limite com o Setor 4, tornou-se o epicentro de saques e caos.
