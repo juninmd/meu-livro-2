@@ -105,6 +105,7 @@ O mundo é uma mistura de natureza retomando seu espaço e esqueletos de megacid
 - [Capítulo 66: Ecos do Esgoto](/public/capitulos/capitulo-66) ([Reflexão](/reflexoes/reflexao-66))
 - [Capítulo 67: Colapso Analógico](/public/capitulos/capitulo-67) ([Reflexão](/reflexoes/reflexao-67))
 - [Capítulo 68: Sob as Ruínas Douradas](/public/capitulos/capitulo-68) ([Reflexão](/reflexoes/reflexao-68))
+- [Capítulo 69: Fios Desencapados e Falsas Esperanças](/public/capitulos/capitulo-69) ([Reflexão](/reflexoes/reflexao-69))
 
 <div class="story-card">
 <strong>O Legado de Silício</strong> explora a linha tênue entre tecnologia e magia em um futuro esquecido.
