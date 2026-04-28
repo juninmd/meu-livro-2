@@ -77,6 +77,7 @@ export default defineConfig({
       { text: 'Capítulo 67', link: '/public/capitulos/capitulo-67' },
       { text: 'Capítulo 68', link: '/public/capitulos/capitulo-68' },
       { text: 'Capítulo 69', link: '/public/capitulos/capitulo-69' },
+      { text: 'Capítulo 70', link: '/public/capitulos/capitulo-70' },
       { text: 'Personagens', link: '/personagens' },
       { text: 'Sobre', link: '/sobre' }
     ],
@@ -170,6 +171,8 @@ export default defineConfig({
           { text: 'Reflexão: Capítulo 68', link: '/reflexoes/reflexao-68' },
           { text: 'Capítulo 69: Fios Desencapados e Falsas Esperanças', link: '/public/capitulos/capitulo-69' },
           { text: 'Reflexão: Capítulo 69', link: '/reflexoes/reflexao-69' },
+          { text: 'Capítulo 70: Sangue na Ferrugem', link: '/public/capitulos/capitulo-70' },
+          { text: 'Reflexão: Capítulo 70', link: '/reflexoes/reflexao-70' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]
