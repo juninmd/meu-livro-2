@@ -57,7 +57,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 69):** Chegou à estação de filtragem auxiliar com Elara. Removeu completamente seu braço cibernético frito e inútil, lidando com dores severas. Encontra-se exausto, mas ainda capaz de lutar com seu braço orgânico remanescente contra os capangas de Silas (Cap. 69).
+    *   **Estado Atual (Cap. 70):** Sobreviveu a uma emboscada na estação de filtragem auxiliar. Mesmo sem o braço cibernético e exausto, conseguiu abater os capangas de Silas usando sua pistola magnética na mão orgânica e combate corpo a corpo brutal.
 *   **Equipamento:**
     *   Roupas rasgadas, pulmão cibernético recém-implantado (com falhas severas e chiados). Braço cibernético removido. Armado com pistola magnética recarregada, segurada com a mão orgânica.
 *   **Motivação:**
@@ -70,7 +70,7 @@
 *   **Descrição:**
     *   Um chefe de gangue movido pela ganância que controla os recursos vitais e os filtros de ar no Setor 4.
     *   Pragmático e implacável, ele subestima ameaças físicas menores, mas respeita perigos cibernéticos.
-    *   **Estado Atual (Cap. 69):** Seu nodo principal de purificação de água foi destruído, provocando um apagão hidráulico no Setor 4. Sem seus drones, Silas enviou capangas orgânicos fortemente armados que já conseguiram encurralar Elara e Jaxon na estação de filtragem auxiliar (Cap. 69).
+    *   **Estado Atual (Cap. 70):** Seu nodo principal de purificação de água foi destruído, provocando um apagão hidráulico no Setor 4. Seus capangas orgânicos fortemente armados conseguiram emboscar Elara e Jaxon na estação de filtragem auxiliar, mas foram brutalmente derrotados pela dupla.
 *   **Motivação:**
     *   Manter o monopólio e o poder do seu Cartel. Vingança contra Elara e Jaxon por humilhá-lo e roubar os filtros Classe-A vitais.
 
