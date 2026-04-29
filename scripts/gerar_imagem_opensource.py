@@ -6,6 +6,7 @@ import requests
 
 # Open source model endpoint for generating cyberpunk noir images inspired by nano banana
 # This script uses an open-source model to generate a high-quality image based on the chapter's writing and characters.
+# Includes metadata processing
 API_URL = "https://router.huggingface.co/hf-inference/models/stabilityai/stable-diffusion-xl-base-1.0"
 headers = {"Authorization": f"Bearer {os.environ.get('HF_TOKEN')}"}
 
