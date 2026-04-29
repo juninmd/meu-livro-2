@@ -27,6 +27,7 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
+      # Run the python script to generate images based on chapter metadata and text
       - name: Generate Image
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}

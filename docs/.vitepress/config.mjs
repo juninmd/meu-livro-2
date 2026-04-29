@@ -78,6 +78,7 @@ export default defineConfig({
       { text: 'Capítulo 68', link: '/public/capitulos/capitulo-68' },
       { text: 'Capítulo 69', link: '/public/capitulos/capitulo-69' },
       { text: 'Capítulo 70', link: '/public/capitulos/capitulo-70' },
+      { text: 'Capítulo 71', link: '/public/capitulos/capitulo-71' },
       { text: 'Personagens', link: '/personagens' },
       { text: 'Sobre', link: '/sobre' }
     ],
@@ -173,6 +174,8 @@ export default defineConfig({
           { text: 'Reflexão: Capítulo 69', link: '/reflexoes/reflexao-69' },
           { text: 'Capítulo 70: Sangue na Ferrugem', link: '/public/capitulos/capitulo-70' },
           { text: 'Reflexão: Capítulo 70', link: '/reflexoes/reflexao-70' },
+          { text: 'Capítulo 71: O Peso das Sombras e da Ferrugem', link: '/public/capitulos/capitulo-71' },
+          { text: 'Reflexão: Capítulo 71', link: '/reflexoes/reflexao-71' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]
