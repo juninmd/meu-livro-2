@@ -103,3 +103,4 @@ if __name__ == "__main__":
 # Updated for Chapter 68 requirements
 # Minor update to script for Chapter 69
 # Update for Cap 70
+# Update for Cap 72

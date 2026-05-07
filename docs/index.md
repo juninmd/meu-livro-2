@@ -108,6 +108,7 @@ O mundo é uma mistura de natureza retomando seu espaço e esqueletos de megacid
 - [Capítulo 69: Fios Desencapados e Falsas Esperanças](/public/capitulos/capitulo-69) ([Reflexão](/reflexoes/reflexao-69))
 - [Capítulo 70: Sangue na Ferrugem](/public/capitulos/capitulo-70) ([Reflexão](/reflexoes/reflexao-70))
 - [Capítulo 71: O Peso das Sombras e da Ferrugem](/public/capitulos/capitulo-71) ([Reflexão](/reflexoes/reflexao-71))
+- [Capítulo 72: A Margem do Abismo](/public/capitulos/capitulo-72) ([Reflexão](/reflexoes/reflexao-72))
 
 <div class="story-card">
 <strong>O Legado de Silício</strong> explora a linha tênue entre tecnologia e magia em um futuro esquecido.
