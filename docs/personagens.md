@@ -11,7 +11,7 @@
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Originalmente permitia acelerar a percepção do tempo e reagir a ameaças com precisão sobre-humana. No entanto, após o embate final, seu poder bioelétrico foi quase inteiramente extinto ("queimado").
     *   Seus poderes bioelétricos criavam uma ponte involuntária com o Deus-Máquina, mas essa conexão foi cortada de forma permanente.
-    *   **Estado Atual (Cap. 72):** Sobreviveu ao colapso do purificador e escapa pelos dutos de escoamento. Sua vulnerabilidade é testada ao limite ao precisar agir como suporte médico improvisado para Jaxon, dependendo puramente de inteligência analógica e ferramentas físicas (como uma chave de fenda) no lugar de sua antiga bioeletricidade.
+    *   **Estado Atual (Cap. 73):** Cruzou a fronteira e entrou no ambiente inóspito e gélido do Setor 5. Sentindo intensamente a dor da perda de sua bioeletricidade frente à impotência, consegue estabilizar momentaneamente Jaxon limpando manualmente seu filtro cibernético.
 *   **Motivação:**
     *   Inicialmente encontrar a "Fonte Primordial", que agora se revela uma lenda ilusória. Sua motivação central agora é pura e simplesmente a sobrevivência em uma Nova Aether desestabilizada e perigosa após a queda do núcleo da Ordem.
 
@@ -57,7 +57,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 72):** Foge pelos dutos de escoamento pluvial na fronteira do Setor 4 para o 5. Sofreu falha crítica no pulmão cibernético devido ao lodo e água suja, sendo salvo por uma intervenção de desentupimento ("gambiarra") manual de Elara. Segue extremamente debilitado e sem o braço esquerdo.
+    *   **Estado Atual (Cap. 73):** Alcançou um corredor de serviço abandonado no Setor 5. Seu pulmão cibernético entupiu quase completamente com o lodo do Setor 4, sendo salvo de sufocamento por uma limpeza desesperada e improvisada do filtro primário por Elara. Segue extremamente debilitado, à beira do colapso, sem o braço esquerdo.
 *   **Equipamento:**
     *   Roupas rasgadas, pulmão cibernético recém-implantado (com falhas severas e chiados). Braço cibernético removido. Armado com pistola magnética recarregada, segurada com a mão orgânica.
 *   **Motivação:**
