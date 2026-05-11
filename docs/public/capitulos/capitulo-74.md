@@ -13,7 +13,7 @@ Jaxon cambaleava ao meu lado. O peso dele sobre meu ombro não era mais uma alav
 
 — Tá piorando — ele grunhiu, a voz uma lixa raspando sobre vidro estilhaçado. O ruído do seu pulmão cibernético era agora um chocalho de engrenagens frouxas e fluidos que não deveriam estar ali. A improvisação com a manga da jaqueta havia dado a ele mais algumas horas de vida, mas a sujeira continuava infectando a filtragem de ar, enviando veneno lento pelas veias de silicone dele.
 
-— Fica comigo, Jaxon — menti. Eu detestava mentir, mas o cinismo da nossa realidade não oferecia nada melhor. O buraco onde antes ficava seu braço esquerdo manchava o pano grosseiro de um vermelho viscoso. Ele tinha uma arma na mão orgânica, o dedo vacilante no gatilho do rifle de plasma modificado que estava pesado demais.
+— Fica comigo, Jaxon — menti. Eu detestava mentir, mas o cinismo da nossa realidade não oferecia nada melhor. O buraco onde antes ficava seu braço direito manchava o pano grosseiro de um vermelho viscoso. Ele tinha uma arma na mão orgânica, o dedo vacilante no gatilho do rifle de plasma modificado que estava pesado demais.
 
 Eu parei, encostando Jaxon cuidadosamente na parede enferrujada de um terminal desativado.
 
