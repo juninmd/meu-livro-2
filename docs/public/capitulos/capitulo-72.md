@@ -9,7 +9,7 @@ personagens: [Elara, Jaxon]
 
 O som da água suja batendo contra as paredes curvas do duto de escoamento era o único compasso da nossa marcha fúnebre. A cada passo, a água gelada e espessa chicoteava meus tornozelos, misturando-se com o rastro avermelhado que escorria da lateral de Jaxon. A escuridão era quase sólida, quebrada apenas pela luz fraca e trêmula de um bastão químico de emergência que eu segurava com os dentes.
 
-Jaxon pesava como um bloco de chumbo. Seu braço esquerdo agora não passava de um ombro amarrado com trapos ensopados, e o chiado doentio que subia do seu peito me fazia apertar os dentes até a mandíbula doer. O pulmão cibernético estava falhando, engasgando com o ar saturado de mofo e ferrugem dos túneis.
+Jaxon pesava como um bloco de chumbo. Seu braço direito agora não passava de um ombro amarrado com trapos ensopados, e o chiado doentio que subia do seu peito me fazia apertar os dentes até a mandíbula doer. O pulmão cibernético estava falhando, engasgando com o ar saturado de mofo e ferrugem dos túneis.
 
 — Me deixa, garota... — a voz dele não passava de um arrastar de lixa molhada, tão fraca que o eco do túnel quase a engoliu.
 

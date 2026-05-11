@@ -11,7 +11,7 @@ A grade metálica gemeu sob a força combinada dos meus ombros e o peso que eu c
 
 Estávamos no vazio escuro das bordas esquecidas.
 
-Jaxon desabou contra a parede de concreto bruto assim que cruzamos a fronteira. O som da sua respiração era um arrastar mecânico e sibilante, o pulmão cibernético lutando para processar o ar gelado. O buraco onde ficava o braço esquerdo dele estava envolvido em trapos encharcados e endurecidos por sangue coagulado e lama.
+Jaxon desabou contra a parede de concreto bruto assim que cruzamos a fronteira. O som da sua respiração era um arrastar mecânico e sibilante, o pulmão cibernético lutando para processar o ar gelado. O buraco onde ficava o braço direito dele estava envolvido em trapos encharcados e endurecidos por sangue coagulado e lama.
 
 — Não para agora, grandalhão — eu murmurei, caindo de joelhos ao lado dele. Minhas pernas tremiam tanto que ameaçavam falhar, mas eu não podia me dar ao luxo de parar.
 
