@@ -31,6 +31,7 @@
 - [x] Capítulos 67, 68
 - [x] Capítulos 69, 70, 71
 - [x] Capítulo 72
+- [x] Capítulos 73, 74
 
 **Análise dos Capítulos 70, 71 e 72:**
 - **Coerência de Personagens:** Elara e Jaxon abraçam totalmente a fisicalidade de sua fuga analógica. A perda do braço de Jaxon no Capítulo 69 reverberou no esgotamento massivo que culminou na falha de seu pulmão cibernético no Capítulo 72. Elara se torna não uma heroína mágica, mas uma sobrevivente desesperada que faz "gambiarras" brutais para manter o parceiro vivo, perfeitamente alinhada com o tema Cyberpunk Noir de "carne contra máquina".
@@ -265,3 +266,8 @@ A história de "O Legado de Silício" apresenta personagens altamente coerentes 
 - **Coerência de Personagens:** Jaxon abraça um nível extremo de fatalismo e pragmatismo ao perceber que suas opções se esgotaram. A recusa de Elara em deixá-lo desistir consolida o vínculo entre eles, forjado pela adversidade mútua. A mudança no texto para corrigir a referência ao braço perdido foi feita (de "esquerdo" para "direito").
 - **Necessidade de Novos Personagens:** O capítulo foca em uma paisagem vazia onde eles são os únicos personagens ativos. A atmosfera é o principal adversário, eliminando a necessidade de qualquer interação com outros personagens.
 - **Qualidade da História:** O tema do isolamento da neve ácida e o cenário decadente trazem uma estética excelente para o ciberespaço, adicionando à desesperança e servindo como um epílogo sombrio para o seu atual arco narrativo.
+
+**Análise dos Capítulos 73 e 74:**
+- **Coerência de Personagens:** Elara e Jaxon continuam a jornada de puro esgotamento no Setor 5. A transição de Elara de uma "arma viva" para uma sobrevivente desesperada que faz reparos analógicos ("gambiarra", batendo no filtro com força braçal) ressalta excelentemente seu estado vulnerável. Jaxon cede cada vez mais ao fatalismo cibernético, aceitando seu corpo quebrado, mas a teimosia e força de vontade de Elara mantém a equipe em pé. É um trabalho primoroso de caracterização.
+- **Necessidade de Novos Personagens:** O foco restrito apenas nos dois, perdidos nas ruas gélidas sob neve ácida do Setor 5, serve para mostrar o isolamento completo da civilização. Qualquer novo personagem agora quebraria a tensão solitária e o foco no declínio físico dos protagonistas.
+- **Qualidade da História:** A atmosfera "sucata e ferrugem" atinge um pico sombrio. A narrativa utiliza elementos como o "frio estéril e cheiro de cobre queimado", a neve corrosiva e estática atmosférica para materializar a podridão daquele mundo e isolar de vez a dupla de Silas e do núcleo principal, marcando com eficácia um epílogo de fuga de tirar o fôlego.
