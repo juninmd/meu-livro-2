@@ -1,6 +1,6 @@
 ---
 title: Ecos no Escuro
-data: 2042.11.18
+data: 2042-11-18
 localização: Túneis de Contrabando, Subsolo do Setor 4
 personagens: Elara, Jaxon, Ratos-Drones
 ---

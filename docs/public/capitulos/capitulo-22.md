@@ -1,6 +1,6 @@
 ---
 title: Fios Desencapados
-data: 2042.11.18
+data: 2042-11-18
 localização: Clínica do Dr. Vex, Beco das Sombras, Setor 4
 personagens: Elara, Jaxon, Dr. Vex
 ---

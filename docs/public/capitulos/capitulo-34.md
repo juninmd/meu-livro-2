@@ -1,6 +1,6 @@
 ---
 title: O Sangue Frio do Maglev
-data: 2042.11.21
+data: 2042-11-21
 localização: Maglev Médico / Transição para o Setor 4
 personagens: Elara, Dr. Vex (via comunicador), Jaxon
 ---

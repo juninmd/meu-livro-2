@@ -1,6 +1,6 @@
 ---
 title: Fugas e Filamentos
-data: 2042.11.17
+data: 2042-11-17
 localizacao: Clínica do Dr. Vex, Setor 4 (A Pilha)
 personagens: Elara, Jaxon, Dr. Vex
 ---

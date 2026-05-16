@@ -1,6 +1,6 @@
 ---
 title: Cinzas e Silício
-data: 2042.11.17
+data: 2042-11-17
 localização: Ruínas do Núcleo Central, Nódulo Primário
 personagens: Elara, Jaxon
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ponto Cego
-data: 2042.11.20
+data: 2042-11-20
 localização: Abrigo Abandonado, Setor 3
 personagens: Elara, Jaxon
 ---

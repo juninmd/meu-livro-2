@@ -1,6 +1,6 @@
 ---
 title: Relíquias
-data: Ciclo Solar 302, Era Pós-Colapso
+data: 2042-11-02
 localizacao: Ruínas de Nova Aether – Corredores Subterrâneos (Setor 4)
 personagens: Elara, Jaxon, Sentinelas
 ---

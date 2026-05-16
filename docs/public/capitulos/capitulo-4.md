@@ -1,3 +1,10 @@
+---
+title: Sombras e Sinapses
+data: 2042-11-04
+localizacao: Setor Sombrio – Ruínas Inferiores de Nova Aether
+personagens: Elara, Jaxon
+---
+
 # Capítulo 4: Sombras e Sinapses
 
 **Data:** Ciclo Solar 302, Era Pós-Colapso

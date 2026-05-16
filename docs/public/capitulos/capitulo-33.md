@@ -1,6 +1,6 @@
 ---
 title: Trilhos de Prata e Sangue
-data: 2042.11.21
+data: 2042-11-21
 localização: Maglev Médico / Passagens do Oeste
 personagens: Elara, Sentinelas, Jaxon, Dr. Vex
 ---

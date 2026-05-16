@@ -1,3 +1,10 @@
+---
+title: Ressonância Fantasma
+data: 2042-11-05
+localizacao: Laboratório Subterrâneo – Profundezas do Setor Sombrio
+personagens: Elara, Jaxon
+---
+
 # Capítulo 5: Ressonância Fantasma
 
 **Data:** Ciclo Solar 302, Era Pós-Colapso

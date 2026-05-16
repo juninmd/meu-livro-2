@@ -1,6 +1,6 @@
 ---
 title: Fissuras Invisíveis
-data: 2042.11.19
+data: 2042-11-19
 localização: Túneis do Mercado Negro, Rota Sul
 personagens: Elara, Jaxon
 ---

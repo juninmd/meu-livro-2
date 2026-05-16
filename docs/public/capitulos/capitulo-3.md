@@ -1,6 +1,6 @@
 ---
 title: O Silêncio de Neon
-data: Ciclo Solar 302, Era Pós-Colapso
+data: 2042-11-03
 localizacao: Periferia de Nova Aether – A Zona Morta
 personagens: Elara, Jaxon, Sentinelas
 ---

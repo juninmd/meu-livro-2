@@ -1,6 +1,6 @@
 ---
 title: Ferrugem e Queda
-data: 2042.11.21
+data: 2042-11-21
 localização: Níveis Inferiores, Fronteira Setor 3/Setor 4
 personagens: Elara, Jaxon
 ---

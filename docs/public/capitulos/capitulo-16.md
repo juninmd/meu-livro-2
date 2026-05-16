@@ -1,6 +1,6 @@
 ---
 title: Ecos de Ferrugem e Neon
-data: 2042.11.16
+data: 2042-11-16
 localizacao: Mercado Negro do Setor 4 (A Pilha)
 personagens: Elara, Kaelen (O Exorcista)
 ---

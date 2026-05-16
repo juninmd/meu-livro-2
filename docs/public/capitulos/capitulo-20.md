@@ -1,6 +1,6 @@
 ---
 title: O Ventre da Besta
-data: 2042.11.17
+data: 2042-11-17
 localização: Núcleo Central do Nódulo Primário
 personagens: Elara, Jaxon, Deus-Máquina
 ---

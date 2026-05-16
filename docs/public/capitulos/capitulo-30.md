@@ -1,6 +1,6 @@
 ---
 title: O Preço do Sangue e Neon
-data: 2042.11.21
+data: 2042-11-21
 localização: Mercado Negro, Setor 4
 personagens: Elara, Kaelen, Sentinelas
 ---

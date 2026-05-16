@@ -1,6 +1,6 @@
 ---
 title: Sobrecarga e Estilhaços
-data: 2042.11.17
+data: 2042-11-17
 localização: Túneis do Setor 7 - Periferia do Nódulo Primário
 personagens: Elara, Jaxon, Sentinelas, Deus-Máquina
 ---

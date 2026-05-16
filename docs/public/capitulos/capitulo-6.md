@@ -1,3 +1,10 @@
+---
+title: Sombras do Setor 7
+data: 2042-11-06
+localizacao: Ruínas do Setor 7 – Zona de Exclusão
+personagens: Elara, Jaxon
+---
+
 # Capítulo 6: Sombras do Setor 7
 
 **Data:** Ciclo Solar 302, Era Pós-Colapso

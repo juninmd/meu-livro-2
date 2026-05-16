@@ -1,6 +1,6 @@
 ---
 title: Cidade Submersa
-data: 2042.11.21
+data: 2042-11-21
 localização: A Pilha, Setor 4
 personagens: Elara, Jaxon, Dr. Vex
 ---

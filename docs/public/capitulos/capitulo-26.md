@@ -1,6 +1,6 @@
 ---
 title: O Peso do Chumbo e do Neon
-data: 2042.11.20
+data: 2042-11-20
 localização: Fronteira do Setor 3, Nível Inferior
 personagens: Elara, Jaxon
 ---

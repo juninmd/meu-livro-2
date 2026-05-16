@@ -1,6 +1,6 @@
 ---
 title: O Ponto Cego do Deus-Máquina
-data: 2042.11.21
+data: 2042-11-21
 localização: Mercado Negro, Setor 4 (A Pilha)
 personagens: Elara, Kaelen, Sentinelas
 ---

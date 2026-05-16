@@ -1,6 +1,6 @@
 ---
 title: O Sangue e a Passagem
-data: 2042.11.21
+data: 2042-11-21
 localização: Passagens do Oeste / Setor 4
 personagens: Elara, Sentinelas, Jaxon, Dr. Vex
 ---
