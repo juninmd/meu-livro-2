@@ -1,6 +1,6 @@
 # Revisão de Capítulos
 
-## Segunda Revisão (Status)
+## Terceira Revisão (Status)
 
 - [x] Capítulos 1, 2, 3
 - [x] Capítulos 4, 5, 6
