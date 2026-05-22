@@ -4,7 +4,7 @@ import argparse
 import requests
 import time
 
-API_URL = "https://api-inference.huggingface.co/models/stabilityai/stable-diffusion-xl-base-1.0"
+API_URL = "https://router.huggingface.co/hf-inference/models/stabilityai/stable-diffusion-xl-base-1.0"
 HEADERS = {"Authorization": f"Bearer {os.environ.get('HF_TOKEN')}"}
 
 def generate_image(prompt, output_path):
