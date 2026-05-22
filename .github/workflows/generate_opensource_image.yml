@@ -15,7 +15,7 @@ jobs:
           fetch-depth: 0
 
       - name: Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
@@ -27,7 +27,13 @@ jobs:
       - name: Generate Image
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: python scripts/gerar_imagem_opensource.py
+        run: |
+          # Obter arquivos alterados
+          FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep 'docs/public/capitulos/.*\.md' || true)
+          for file in $FILES; do
+            echo "Generating image for $file"
+            python scripts/gerar_imagem_opensource.py "$file"
+          done
 
       - name: Commit Image
         run: |
