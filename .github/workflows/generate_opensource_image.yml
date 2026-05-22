@@ -1,0 +1,38 @@
+name: Generate Chapter Image (Open Source)
+
+on:
+  push:
+    paths:
+      - 'docs/public/capitulos/*.md'
+
+jobs:
+  generate_image:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Generate Image
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: python scripts/gerar_imagem_opensource.py
+
+      - name: Commit Image
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add docs/static/midia/
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-generated image for chapter"
+          git push

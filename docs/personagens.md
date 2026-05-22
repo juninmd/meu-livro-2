@@ -11,7 +11,7 @@
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Originalmente permitia acelerar a percepção do tempo e reagir a ameaças com precisão sobre-humana. No entanto, após o embate final, seu poder bioelétrico foi quase inteiramente extinto ("queimado").
     *   Seus poderes bioelétricos criavam uma ponte involuntária com o Deus-Máquina, mas essa conexão foi cortada de forma permanente.
-    *   **Estado Atual (Cap. 74):** Avançando pelas ruínas do Setor 5, sob a neve ácida, suportando fisicamente o peso de Jaxon na tentativa de encontrar um milagre ou equipamentos de filtragem antigos em uma sub-estação. O peso da sua humanidade analógica é um constante lembrete da "linha cortada" com as máquinas.
+    *   **Estado Atual (Cap. 75):** Conseguiu invadir uma sub-estação auxiliar no Setor 5, onde realizou um reparo improvisado e letal no pulmão cibernético de Jaxon utilizando filtros de autômatos industriais classe C e solvente tóxico. Refugiada na sub-estação.
 *   **Motivação:**
     *   Inicialmente encontrar a "Fonte Primordial", que agora se revela uma lenda ilusória. Sua motivação central agora é pura e simplesmente a sobrevivência em uma Nova Aether desestabilizada e perigosa após a queda do núcleo da Ordem.
 
@@ -57,7 +57,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 74):** À beira da exaustão total e do colapso sistêmico. Sendo arrastado por Elara no corrosivo Setor 5, seu pulmão cibernético continua falhando devido à sujeira que está espalhando infecção. Perdeu a esperança de sobrevivência, aceitando o fim como inevitável.
+    *   **Estado Atual (Cap. 75):** Sobreviveu a uma cirurgia improvisada na sub-estação auxiliar no Setor 5. Seu pulmão falho foi limpo com solvente e remendado com um filtro industrial classe C. Respira com dificuldade através do chiado mecânico, mas o colapso iminente foi temporariamente evitado.
 *   **Equipamento:**
     *   Roupas rasgadas, pulmão cibernético recém-implantado (com falhas severas e chiados). Braço cibernético removido. Armado com pistola magnética recarregada, segurada com a mão orgânica.
 *   **Motivação:**
