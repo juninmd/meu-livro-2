@@ -1,0 +1,24 @@
+name: Generate Image
+on:
+  push:
+    paths:
+      - 'docs/public/capitulos/**'
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - name: Install dependencies
+        run: |
+          pip install requests
+          if [ -f scripts/requirements.txt ]; then pip install -r scripts/requirements.txt; fi
+      - name: Run image generation script
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: python scripts/gerar_imagem_opensource.py
