@@ -25,7 +25,7 @@ def generate_image(prompt, output_path):
     for attempt in range(max_retries):
         try:
             print(f"Tentativa {attempt+1} para gerar a imagem...")
-            response = requests.post(API_URL, headers=HEADERS, json=payload)
+            response = requests.post(API_URL, headers=HEADERS, json=payload, timeout=60)
             response.raise_for_status()
 
             content_type = response.headers.get('content-type', '')

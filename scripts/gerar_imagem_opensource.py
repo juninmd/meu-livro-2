@@ -40,7 +40,7 @@ def extract_metadata_and_text(filepath):
 def query(payload):
     max_retries = 5
     for attempt in range(max_retries):
-        response = requests.post(API_URL, headers=headers, json=payload)
+        response = requests.post(API_URL, headers=headers, json=payload, timeout=60)
 
         if response.status_code == 200:
             return response.content
