@@ -40,7 +40,12 @@ def extract_metadata_and_text(filepath):
 def query(payload):
     max_retries = 5
     for attempt in range(max_retries):
-        response = requests.post(API_URL, headers=headers, json=payload, timeout=60)
+        try:
+            response = requests.post(API_URL, headers=headers, json=payload, timeout=60)
+        except requests.exceptions.RequestException as e:
+            print(f"Erro de conexão ({e})... esperando 5 segundos.")
+            time.sleep(5)
+            continue
 
         if response.status_code == 200:
             return response.content
