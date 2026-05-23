@@ -1,0 +1,48 @@
+name: Generate Open Source Image for Chapter
+
+on:
+  push:
+    paths:
+      - 'docs/public/capitulos/*.md'
+
+jobs:
+  generate_image:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
+          pip install requests
+
+      - name: Find Latest Markdown
+        id: get_latest_md
+        run: |
+          LATEST_FILE=$(ls -t docs/public/capitulos/*.md | head -n 1)
+          echo "filename=$LATEST_FILE" >> $GITHUB_OUTPUT
+
+      - name: Generate Image
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: |
+          if [ -z "$HF_TOKEN" ]; then
+            echo "HF_TOKEN not found, skipping image generation."
+            exit 0
+          fi
+          python scripts/gerar_imagem_opensource.py "${{ steps.get_latest_md.outputs.filename }}"
+
+      - name: Commit Generated Image
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add docs/static/midia/*.png
+          git commit -m "Auto-generate chapter image [skip ci]" || echo "No changes to commit"
+          git push
