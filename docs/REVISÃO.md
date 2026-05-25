@@ -47,17 +47,49 @@ Este documento tem o objetivo de gerenciar o estado da revisão dos capítulos, 
 ### Necessidade de Novos Personagens
 *   Nenhum personagem novo introduzido e nem é necessário agora. O foco principal tem sido resolver a infiltração de Jaxon e Elara e o conflito contra Silas usando soluções mecânicas em vez de Deus-Ex-Machina digitais.
 
-## Lote 23: Capítulos 67 e 68
-**Status:** Em Andamento
-**Capítulos:** 67 (Colapso Analógico), 68 (Sob as Ruínas Douradas)
+## Lote 23: Capítulos 67, 68 e 69
+**Status:** Revisado
+**Capítulos:** 67 (Colapso Analógico), 68 (Sob as Ruínas Douradas), 69 (Fios Desencapados e Falsas Esperanças)
 
 ### Coerência dos Personagens
-*   **Elara:** A perda dos poderes ("Sobrecarga Sináptica") obriga-a a confrontar a dura realidade física, necessitando cooperação mútua com Jaxon para tarefas básicas como se erguer e caminhar. A aceitação de sua natureza "puramente humana" é evidenciada em sua exaustão.
-*   **Jaxon:** O curto-circuito de seu braço mecânico ilustra a falibilidade do cibernético. A sua determinação obstinada mantém a narrativa em movimento, focando na busca pragmática por abrigo e reparos.
-*   **Sanity Check:** A destruição do purificador não invalida as capacidades do Cartel de Silas, mudando a ameaça de um monitoramento por drones para um ataque físico direto ("capangas com dois braços"). A lore foi atualizada consistentemente.
+*   **Elara:** A perda dos poderes ("Sobrecarga Sináptica") a obriga a confrontar a dura realidade física, necessitando cooperação mútua com Jaxon para tarefas básicas. A aceitação de sua natureza "puramente humana" é evidenciada pelo pavor instintivo de serem encontrados. Suas habilidades foram substituídas por instintos de sobrevivência puros e brutais.
+*   **Jaxon:** O curto-circuito e posterior remoção forçada de seu braço mecânico ilustram perfeitamente o sacrifício e a falibilidade do cibernético. A exigência pragmática de se livrar do membro morto para continuar lutando reflete com perfeição sua resiliência inabalável de mercenário veterano.
+*   **Sanity Check:** O desenvolvimento da trama respeita perfeitamente as regras de limite do corpo cibernético e o estado pós-perda de poderes de Elara. A vulnerabilidade dos protagonistas nunca foi tão palpável.
 
 ### Qualidade da História
-*   **Atmosfera e Ritmo:** Excelente ambientação no esgoto. O ritmo caiu de uma ação intensa para uma sobrevivência metódica. A introdução da "antiga estação de filtragem auxiliar" aponta um objetivo de curto prazo viável.
+*   **Atmosfera e Ritmo:** A narrativa traz uma transição do clímax de ação para a fisicalidade suja do pós-combate. A amputação a sangue-frio em um ambiente hostil como a estação auxiliar reforça o tom "sucata e ferrugem". O clímax rítmico encerra o lote com a promessa de embate de Silas.
 
 ### Necessidade de Novos Personagens
-*   Nenhum novo personagem foi introduzido. O foco recai na sobrevivência e recuperação do duo e em enfrentar os emissários humanos de Silas, mantendo o elenco enxuto.
+*   Nenhum personagem introduzido. O foco restringe-se organicamente a Jaxon e Elara lidando com a falência corporal num ambiente desolado, lidando apenas com capangas descartáveis como obstáculos de sobrevivência.
+
+## Lote 24: Capítulos 70, 71 e 72
+**Status:** Revisado
+**Capítulos:** 70 (Sangue na Ferrugem), 71 (O Peso das Sombras e da Ferrugem), 72 (A Margem do Abismo)
+
+### Coerência dos Personagens
+*   **Elara:** Elara consolida-se em seu papel não-mágico, utilizando uma barra de vergalhão e chaves de fenda (gambiarra bruta no pulmão de Jaxon) no lugar de eletricidade e blefes elaborados. Sua dedicação em carregar Jaxon prova a profunda conexão e desenvolvimento desde os primeiros capítulos.
+*   **Jaxon:** O personagem atinge seu limite fisiológico e mecânico. Lutando com um braço a menos, Jaxon demonstra um nível de brutalidade protetora que apenas acentua seu desgaste ("usou o próprio corpo como aríete"). O colapso do seu pulmão no Cap 72 é uma consequência orgânica de sua exposição constante aos esgotos.
+*   **Sanity Check:** Foi notada uma menção de continuidade onde o braço direito ferido manteve-se consistente (amarrado) no Capítulo 72.
+
+### Qualidade da História
+*   **Atmosfera e Ritmo:** Excelente ambientação de claustrofobia nos dutos de escoamento. O foco na degradação da tecnologia e nas feridas físicas eleva a tensão do Noir Cyberpunk. O ritmo é arrastado e agonizante de propósito, servindo perfeitamente a premissa de um afogamento lento em um túnel imundo.
+
+### Necessidade de Novos Personagens
+*   Os inimigos são mantidos como obstáculos situacionais. A inclusão de um novo personagem aliado nesse ponto diluiria a carga dramática de dependência extrema entre Jaxon e Elara. Apenas os dois sustentam brilhantemente a cena.
+
+## Lote 25: Capítulos 73 e 74
+**Status:** Revisado
+**Capítulos:** 73 (O Frio do Setor 5), 74 (Neve Ácida e Sangue Metálico)
+
+### Coerência dos Personagens
+*   **Elara:** Diante de uma morte certa por exaustão e falência de equipamentos, ela exibe uma teimosia cativante, não aceitando o fatalismo de Jaxon. A constante lembrança de suas antigas habilidades perdidas é muito bem retratada ("A perda do poder ainda doía como uma amputação fantasma"), tornando suas ações atuais muito mais expressivas de sua vontade real e humana de lutar.
+*   **Jaxon:** Aceita resignado sua provável morte no Setor 5. Suas frases curtas, irônicas e exaustas demonstram o ceticismo terminal ("Sabe… acho que o Setor 5 é um bom lugar pra acabar a bateria"), enquanto sua sobrevivência até agora prova a dureza impiedosa do personagem.
+
+### Qualidade da História
+*   **Atmosfera e Ritmo:** A mudança do Setor 4 para o ambiente inóspito, estéril e frio do Setor 5 traz um ar de desolação pós-apocalíptica final ("neve ácida", "neon rachado"). É um clímax sombrio e apropriado, construindo o clima para o fim do arco de fuga com um cenário descritivo fenomenal.
+
+### Necessidade de Novos Personagens
+*   O isolamento de ambos na cidade morta do Setor 5 faz deste um final de revisão de tom depressivo e introspectivo fantástico. Novos personagens estragariam este efeito.
+
+## Conclusão Final da Revisão
+A história de "O Legado de Silício" apresenta personagens altamente coerentes e com profunda agência até suas últimas consequências, mantida consistentemente ao longo dos 74 capítulos. A perda brutal de habilidades de Elara a força de volta à vulnerabilidade humana, contrastando com o sacrifício físico devastador de Jaxon, gera uma narrativa de sobrevivência suja, visceral e perfeitamente verossímil. A transição para o ambiente brutal e isolado do Setor 5 solidifica os moldes do Noir Cyberpunk, onde o próprio cenário atua como antagonista principal. A dinâmica central bastou para sustentar a tensão extrema dos últimos capítulos, não exigindo a inserção de novos personagens principais fixos, mas sim aprofundando o vínculo de desespero e codependência pragmática da dupla protagonista. A trama amadureceu com brilhantismo, entregando um arco orgânico focado na resiliência crível, nas falhas da tecnologia ('carne vs máquina') e no limite do espírito humano.
