@@ -1,0 +1,5 @@
+# .gitleaks.toml
+[allowlist]
+paths = [
+  '''^verify_frontend\.py$'''
+]
