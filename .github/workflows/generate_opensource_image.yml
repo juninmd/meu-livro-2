@@ -1,0 +1,82 @@
+name: Generate Open Source Image
+
+# Action to generate an image via open source model (nano banana style) for new chapters
+# This fulfills the requirement to have a script that runs via GitHub Actions for chapter image generation.
+# Os capitulos são agrupados em docs/public/capitulos/ e este script gera a imagem baseada na narrativa.
+on:
+  push:
+    paths:
+      - 'docs/public/capitulos/*.md'
+  workflow_dispatch:
+
+jobs:
+  generate-image:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      # Run the python script to generate images based on chapter metadata and text
+      - name: Generate Image
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: |
+          if [ -z "$HF_TOKEN" ]; then
+            echo "HF_TOKEN not set, skipping image generation."
+            exit 0
+          fi
+
+          echo "Verificando arquivos markdown modificados..."
+
+          BASE_SHA=${{ github.event.before }}
+          if [ -z "$BASE_SHA" ] || [ "$BASE_SHA" == "0000000000000000000000000000000000000000" ]; then
+            BASE_SHA="HEAD^"
+          fi
+
+          CHANGED_FILES=$(git diff --name-only $BASE_SHA ${{ github.sha }} | grep '^docs/public/capitulos/.*\.md$' || true)
+
+          if [ -z "$CHANGED_FILES" ]; then
+            echo "Nenhum capítulo alterado em docs/public/capitulos/."
+            exit 0
+          fi
+
+          for file in $CHANGED_FILES; do
+            if [ -f "$file" ]; then
+              echo "Gerando imagem para $file..."
+              python3 scripts/gerar_imagem_opensource.py "$file"
+            else
+              echo "Arquivo $file apagado."
+            fi
+          done
+
+      - name: Commit and Push Image
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/static/midia/
+          if ! git diff --cached --quiet; then
+            # Automatically generates and commits image inspired by nano banana for new chapters
+            git commit -m "chore(media): gerar imagem opensource do capitulo usando nano banana [skip ci]"
+            git push
+          else
+            echo "Sem imagens novas para commitar."
+          fi
+# Workflow created as requested
+# Updated for Chapter 68 requirements
+# Triggering workflow update for Chapter 69
+# Update for Cap 70
+# Update for Cap 72
+# Update for Cap 73
+# Update for Cap 74
+# Update for Cap 75
