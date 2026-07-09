@@ -31,7 +31,7 @@
 - [x] Capítulos 67, 68
 - [x] Capítulos 69, 70, 71
 - [x] Capítulo 72
-- [x] Capítulos 73, 74
+- [x] Capítulos 73, 74, 75
 
 **Análise dos Capítulos 70, 71 e 72:**
 - **Coerência de Personagens:** Elara e Jaxon abraçam totalmente a fisicalidade de sua fuga analógica. A perda do braço de Jaxon no Capítulo 69 reverberou no esgotamento massivo que culminou na falha de seu pulmão cibernético no Capítulo 72. Elara se torna não uma heroína mágica, mas uma sobrevivente desesperada que faz "gambiarras" brutais para manter o parceiro vivo, perfeitamente alinhada com o tema Cyberpunk Noir de "carne contra máquina".
