@@ -83,6 +83,7 @@ export default defineConfig({
       { text: 'Capítulo 73', link: '/public/capitulos/capitulo-73' },
       { text: 'Capítulo 74', link: '/public/capitulos/capitulo-74' },
       { text: 'Capítulo 75', link: '/public/capitulos/capitulo-75' },
+      { text: 'Capítulo 76', link: '/public/capitulos/capitulo-76' },
       { text: 'Personagens', link: '/personagens' },
       { text: 'Sobre', link: '/sobre' }
     ],
@@ -188,6 +189,8 @@ export default defineConfig({
           { text: 'Reflexão: Capítulo 74', link: '/reflexoes/reflexao-74' },
           { text: 'Capítulo 75: Estática e Decadência', link: '/public/capitulos/capitulo-75' },
           { text: 'Reflexão: Capítulo 75', link: '/reflexoes/reflexao-75' },
+          { text: 'Capítulo 76: Sangue e Solvente', link: '/public/capitulos/capitulo-76' },
+          { text: 'Reflexão: Capítulo 76', link: '/reflexoes/reflexao-76' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]
