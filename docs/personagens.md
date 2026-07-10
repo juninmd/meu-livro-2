@@ -11,7 +11,7 @@
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Originalmente permitia acelerar a percepção do tempo e reagir a ameaças com precisão sobre-humana. No entanto, após o embate final, seu poder bioelétrico foi quase inteiramente extinto ("queimado").
     *   Seus poderes bioelétricos criavam uma ponte involuntária com o Deus-Máquina, mas essa conexão foi cortada de forma permanente.
-    *   **Estado Atual (Cap. 75):** Infiltrada na Sub-estação Epsilon (Setor 5). Sem seus antigos poderes, Elara é forçada a usar a pistola magnética de Jaxon para render Scavengers e roubar um cilindro de solvente purificador industrial para salvar Jaxon.
+    *   **Estado Atual (Cap. 76):** Na Sub-estação Epsilon (Setor 5). Após atirar em um Scavenger e recuperar o solvente industrial, conseguiu estabilizar o pulmão cibernético de Jaxon. Agora depende completamente de meios mundanos de sobrevivência e violência física.
 *   **Motivação:**
     *   Inicialmente encontrar a "Fonte Primordial", que agora se revela uma lenda ilusória. Sua motivação central agora é pura e simplesmente a sobrevivência em uma Nova Aether desestabilizada e perigosa após a queda do núcleo da Ordem.
 
@@ -57,7 +57,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 75):** Deixado temporariamente inconsciente ou enfraquecido na entrada da Sub-estação Epsilon no Setor 5, enquanto Elara busca suprimentos para salvar sua vida. Seu pulmão cibernético apresenta agravamento (fluidos e sangue).
+    *   **Estado Atual (Cap. 76):** Seu pulmão cibernético foi estabilizado pelo solvente recuperado por Elara. Ele retomou a consciência na Sub-estação Epsilon, mas continua necessitando de recuperação em um ambiente seguro.
 *   **Equipamento:**
     *   Roupas rasgadas, pulmão cibernético recém-implantado (com falhas severas e chiados). Braço cibernético removido. A pistola magnética recarregada que carregava foi tomada por Elara (Cap. 75) para lidar com os Scavengers.
 *   **Motivação:**
