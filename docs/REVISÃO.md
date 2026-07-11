@@ -93,3 +93,17 @@ Este documento tem o objetivo de gerenciar o estado da revisão dos capítulos, 
 
 ## Conclusão Final da Revisão
 A história de "O Legado de Silício" apresenta personagens altamente coerentes e com profunda agência até suas últimas consequências, mantida consistentemente ao longo dos 74 capítulos. A perda brutal de habilidades de Elara a força de volta à vulnerabilidade humana, contrastando com o sacrifício físico devastador de Jaxon, gera uma narrativa de sobrevivência suja, visceral e perfeitamente verossímil. A transição para o ambiente brutal e isolado do Setor 5 solidifica os moldes do Noir Cyberpunk, onde o próprio cenário atua como antagonista principal. A dinâmica central bastou para sustentar a tensão extrema dos últimos capítulos, não exigindo a inserção de novos personagens principais fixos, mas sim aprofundando o vínculo de desespero e codependência pragmática da dupla protagonista. A trama amadureceu com brilhantismo, entregando um arco orgânico focado na resiliência crível, nas falhas da tecnologia ('carne vs máquina') e no limite do espírito humano.
+
+## Lote 26: Capítulos 75, 76 e 77
+**Status:** Revisado
+**Capítulos:** 75 (Estática e Decadência), 76 (Sangue e Solvente), 77 (A Fome do Frio)
+
+### Coerência dos Personagens
+*   **Elara:** A aceitação final da sua perda de poder é concluída. No capítulo 76, ao puxar o gatilho, ela rompe o limiar da hesitação, aceitando que para sobreviver terá que usar meios "sujos" e humanos. Sua liderança no capítulo 77, diante do frio, cristaliza seu amadurecimento em uma sobrevivente tática e proativa.
+*   **Jaxon:** Seu estado fragilizado não altera seu pragmatismo terminal. No capítulo 77, ele avalia os riscos (bateria falhando e o perigo de Scrapyard) mas aceita seguir, reforçando o respeito implícito à recém-descoberta resiliência de Elara. A dinâmica "mercenário protegendo garota" inverteu-se completamente de maneira orgânica.
+
+### Qualidade da História
+*   **Atmosfera e Ritmo:** A sub-estação foi um ótimo ambiente transitório. O ritmo frenético de desespero do 75 e 76 encontra um platô tenso no 77, com a ameaça física trocando de gangues para a pura hipotermia. O frio se tornando o vilão principal solidifica perfeitamente a abordagem noir, onde o mundo sempre pune de forma desapaixonada.
+
+### Necessidade de Novos Personagens
+*   As presenças rápidas dos Scavengers cumpriram seu papel. A introdução de novos aliados nesta fase tiraria o peso dramático do isolamento e do frio do Setor 5. A jornada para Scrapyard promete encontros intensos, tornando desnecessária e contraproducente qualquer inserção imediata e amigável.

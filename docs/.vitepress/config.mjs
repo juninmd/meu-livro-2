@@ -84,6 +84,7 @@ export default defineConfig({
       { text: 'Capítulo 74', link: '/public/capitulos/capitulo-74' },
       { text: 'Capítulo 75', link: '/public/capitulos/capitulo-75' },
       { text: 'Capítulo 76', link: '/public/capitulos/capitulo-76' },
+      { text: 'Capítulo 77', link: '/public/capitulos/capitulo-77' },
       { text: 'Personagens', link: '/personagens' },
       { text: 'Sobre', link: '/sobre' }
     ],
@@ -191,6 +192,8 @@ export default defineConfig({
           { text: 'Reflexão: Capítulo 75', link: '/reflexoes/reflexao-75' },
           { text: 'Capítulo 76: Sangue e Solvente', link: '/public/capitulos/capitulo-76' },
           { text: 'Reflexão: Capítulo 76', link: '/reflexoes/reflexao-76' },
+          { text: 'Capítulo 77: A Fome do Frio', link: '/public/capitulos/capitulo-77' },
+          { text: 'Reflexão: Capítulo 77', link: '/reflexoes/reflexao-77' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]

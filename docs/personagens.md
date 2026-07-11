@@ -11,7 +11,7 @@
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Originalmente permitia acelerar a percepção do tempo e reagir a ameaças com precisão sobre-humana. No entanto, após o embate final, seu poder bioelétrico foi quase inteiramente extinto ("queimado").
     *   Seus poderes bioelétricos criavam uma ponte involuntária com o Deus-Máquina, mas essa conexão foi cortada de forma permanente.
-    *   **Estado Atual (Cap. 76):** Na Sub-estação Epsilon (Setor 5). Após atirar em um Scavenger e recuperar o solvente industrial, conseguiu estabilizar o pulmão cibernético de Jaxon. Agora depende completamente de meios mundanos de sobrevivência e violência física.
+    *   **Estado Atual (Cap. 77):** Decidida a não esperar o fim congelante na Sub-estação Epsilon, ela assumiu a liderança para guiar Jaxon em direção a Scrapyard, aceitando sua nova realidade dura e vulnerável.
 *   **Motivação:**
     *   Inicialmente encontrar a "Fonte Primordial", que agora se revela uma lenda ilusória. Sua motivação central agora é pura e simplesmente a sobrevivência em uma Nova Aether desestabilizada e perigosa após a queda do núcleo da Ordem.
 
@@ -57,9 +57,9 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 76):** Seu pulmão cibernético foi estabilizado pelo solvente recuperado por Elara. Ele retomou a consciência na Sub-estação Epsilon, mas continua necessitando de recuperação em um ambiente seguro.
+    *   **Estado Atual (Cap. 77):** Em estado de exaustão extrema e com a bateria térmica esgotando-se frente ao frio implacável do Setor 5. Forçou-se a seguir Elara em uma marcha perigosa até Scrapyard.
 *   **Equipamento:**
-    *   Roupas rasgadas, pulmão cibernético recém-implantado (com falhas severas e chiados). Braço cibernético removido. A pistola magnética recarregada que carregava foi tomada por Elara (Cap. 75) para lidar com os Scavengers.
+    *   Roupas rasgadas, pulmão cibernético estabilizado provisoriamente com solvente industrial, bateria térmica quase esgotada. Braço cibernético ausente. A pistola magnética está agora sob a posse de Elara.
 *   **Motivação:**
     *   Inicialmente dinheiro, mas sua lealdade muda à medida que ele vê em Elara a esperança que pensava ter perdido. Determinado a proteger Elara, mesmo que isso custe sua vida.
 
