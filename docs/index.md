@@ -114,6 +114,7 @@ O mundo é uma mistura de natureza retomando seu espaço e esqueletos de megacid
 - [Capítulo 75: Estática e Decadência](/public/capitulos/capitulo-75) ([Reflexão](/reflexoes/reflexao-75))
 - [Capítulo 76: Sangue e Solvente](/public/capitulos/capitulo-76) ([Reflexão](/reflexoes/reflexao-76))
 - [Capítulo 77: A Fome do Frio](/public/capitulos/capitulo-77) ([Reflexão](/reflexoes/reflexao-77))
+- [Capítulo 78: Os Portões de Scrapyard](/public/capitulos/capitulo-78) ([Reflexão](/reflexoes/reflexao-78))
 
 <div class="story-card">
 <strong>O Legado de Silício</strong> explora a linha tênue entre tecnologia e magia em um futuro esquecido.
