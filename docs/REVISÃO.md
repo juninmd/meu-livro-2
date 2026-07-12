@@ -107,3 +107,18 @@ A história de "O Legado de Silício" apresenta personagens altamente coerentes 
 
 ### Necessidade de Novos Personagens
 *   As presenças rápidas dos Scavengers cumpriram seu papel. A introdução de novos aliados nesta fase tiraria o peso dramático do isolamento e do frio do Setor 5. A jornada para Scrapyard promete encontros intensos, tornando desnecessária e contraproducente qualquer inserção imediata e amigável.
+
+## Lote 27: Capítulo 78
+**Status:** Revisado
+**Capítulo:** 78 (Os Portões de Scrapyard)
+
+### Coerência dos Personagens
+*   **Elara:** A inversão de papéis é finalizada. Ela não está apenas aceitando a ausência de seus poderes, mas abraçando a crueldade necessária para sobreviver em Nova Aether. Ameaçar um guarda de Scrapyard para proteger um Jaxon debilitado coroa seu arco de desenvolvimento desde uma sucateira assustada até uma sobrevivente letal.
+*   **Jaxon:** Sua degradação física continua como uma contagem regressiva narrativa excelente. O silêncio dele perante a ameaça de Elara demonstra não fraqueza de caráter, mas pragmatismo total e confiança nela.
+*   **Sanity Check:** O plot mantém a coerência total da falta de poderes de Elara e o dano cibernético de Jaxon não curou "magicamente". A chegada a Scrapyard flui organicamente a partir da necessidade de abrigo do Capítulo 77.
+
+### Qualidade da História
+*   **Atmosfera e Ritmo:** O contraste atmosférico é o ponto alto. Sair do gelo cortante para o calor fétido e a opressão visual da sucata cria uma transição excelente, não deixando a história estagnar em um único cenário inóspito.
+
+### Necessidade de Novos Personagens
+*   Os guardas de Scrapyard serviram apenas como "obstáculos ambientais" antropomorfizados. Não foi introduzido nenhum novo personagem com nome, e a dinâmica continua estritamente focada na dupla principal sobrevivendo a mais um desafio geográfico e social.

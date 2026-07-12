@@ -57,7 +57,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 77):** Em estado de exaustão extrema e com a bateria térmica esgotando-se frente ao frio implacável do Setor 5. Forçou-se a seguir Elara em uma marcha perigosa até Scrapyard.
+    *   **Estado Atual (Cap. 78):** Chegou aos portões de Scrapyard em estado crítico, com a bateria de suporte de vida do seu pulmão cibernético falhando rapidamente. Depende inteiramente da proteção de Elara no momento.
 *   **Equipamento:**
     *   Roupas rasgadas, pulmão cibernético estabilizado provisoriamente com solvente industrial, bateria térmica quase esgotada. Braço cibernético ausente. A pistola magnética está agora sob a posse de Elara.
 *   **Motivação:**
@@ -139,4 +139,8 @@
 *   **Estado Atual (Cap. 69):** O ar superior d'A Pilha continua varrido pelos drones assassinos de Silas. No subsolo, o purificador de água e parte da infraestrutura desabaram criando uma vasta inundação. O setor sofre um blecaute hidráulico completo. Na antiga estação de filtragem auxiliar, gangues de Silas caçam Elara e Jaxon (Cap. 69).
 
 ### Setor 5
-*   **Estado Atual (Cap. 51):** Sem eletricidade pela queda da rede central, mergulhado na escuridão, pontuado apenas por parcos neons e fogueiras químicas. O Mercado Negro de Scrapyard, no limite com o Setor 4, tornou-se o epicentro de saques e caos.
+*   **Estado Atual (Cap. 51/78):** Sem eletricidade pela queda da rede central, mergulhado na escuridão, pontuado apenas por parcos neons e fogueiras químicas. Devido às temperaturas abaixo de zero da neve ácida, tornou-se um deserto de gelo letal.
+
+### Scrapyard
+*   **Definição:** Mercado negro e favela nas bordas do Setor 5, formado por sucata tecnológica e cascos de veículos antigos. Um território sem lei controlado por gangues e necrófagos.
+*   **Estado Atual (Cap. 78):** Mantém um microclima fétido e aquecido por fogueiras químicas. A entrada é guardada por sentinelas orgânicos armados com sucata, cobrando "carne ou cromo" como pedágio.
