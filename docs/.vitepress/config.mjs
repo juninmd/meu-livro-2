@@ -86,6 +86,7 @@ export default defineConfig({
       { text: 'Capítulo 76', link: '/public/capitulos/capitulo-76' },
       { text: 'Capítulo 77', link: '/public/capitulos/capitulo-77' },
       { text: 'Capítulo 78', link: '/public/capitulos/capitulo-78' },
+      { text: 'Capítulo 79', link: '/public/capitulos/capitulo-79' },
       { text: 'Personagens', link: '/personagens' },
       { text: 'Sobre', link: '/sobre' }
     ],
@@ -197,6 +198,8 @@ export default defineConfig({
           { text: 'Reflexão: Capítulo 77', link: '/reflexoes/reflexao-77' },
           { text: 'Capítulo 78: Os Portões de Scrapyard', link: '/public/capitulos/capitulo-78' },
           { text: 'Reflexão: Capítulo 78', link: '/reflexoes/reflexao-78' },
+          { text: 'Capítulo 79: O Preço da Sucata', link: '/public/capitulos/capitulo-79' },
+          { text: 'Reflexão: Capítulo 79', link: '/reflexoes/reflexao-79' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]
