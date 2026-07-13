@@ -122,3 +122,18 @@ A história de "O Legado de Silício" apresenta personagens altamente coerentes 
 
 ### Necessidade de Novos Personagens
 *   Os guardas de Scrapyard serviram apenas como "obstáculos ambientais" antropomorfizados. Não foi introduzido nenhum novo personagem com nome, e a dinâmica continua estritamente focada na dupla principal sobrevivendo a mais um desafio geográfico e social.
+
+## Lote 28: Capítulo 79
+**Status:** Revisado
+**Capítulo:** 79 (O Preço da Sucata)
+
+### Coerência dos Personagens
+*   **Elara:** Ameaçar o "ripperdoc" reforça a consolidação do arco de Elara (de garota amedrontada a ameaçadora e implacável protetora). A ausência da bioeletricidade afeta as ações; ao invés de controlar a tecnologia de forma passiva, ela confia em ameaça violenta nua e crua.
+*   **Jaxon:** O estado semi-inconsciente mantém a urgência dramática perfeitamente condizente com a "perda de fôlego" gradual originada desde a fuga no Capítulo 70 e agravada pelo frio. A limitação não diminui seu status no mundo, mas enaltece as adversidades mortais em Nova Aether.
+*   **Sanity Check:** Nenhuma quebra de regras previamente estabelecidas. Tudo o que aconteceu e as regras sobre "Cromo e Carne" operam dentro da lógica Cyberpunk da ambientação.
+
+### Qualidade da História
+*   **Atmosfera e Ritmo:** A urgência gerada pelo bipe rítmico do suporte à vida de Jaxon funcionou efetivamente como um *ticking clock*. As descrições sensoriais de cheiro, iluminação, frio/calor reforçam a premissa de um *noir* sem redenção aparente. A transição para dentro da cidade sucata mantém o pacing apertado, focado num objetivo imediato.
+
+### Necessidade de Novos Personagens
+*   A introdução do "*ripperdoc*" sem nome segue a estrutura do Capítulo 78 de compor obstáculos ambientais através de NPCs para manter os desafios altos para a dupla. A próxima fase, no entanto, necessitará que esse personagem saia do arquétipo raso de vendedor clandestino, mas não foi necessário para a urgência deste capítulo focar em sua história de fundo.
