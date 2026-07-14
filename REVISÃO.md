@@ -33,7 +33,7 @@
 - [x] Capítulo 72
 - [x] Capítulos 73, 74, 75
 - [x] Capítulos 76, 77, 78
-- [x] Capítulo 79
+- [x] Capítulos 79, 80
 
 **Análise dos Capítulos 70, 71 e 72:**
 - **Coerência de Personagens:** Elara e Jaxon abraçam totalmente a fisicalidade de sua fuga analógica. A perda do braço de Jaxon no Capítulo 69 reverberou no esgotamento massivo que culminou na falha de seu pulmão cibernético no Capítulo 72. Elara se torna não uma heroína mágica, mas uma sobrevivente desesperada que faz "gambiarras" brutais para manter o parceiro vivo, perfeitamente alinhada com o tema Cyberpunk Noir de "carne contra máquina".
@@ -294,10 +294,22 @@
 - **Necessidade de Novos Personagens:** O *ripperdoc* ("homem obeso") no balcão é introduzido eficientemente como um elemento hostil de cenário, essencial para a ambientação. Ele cumpre o papel de obstáculo no mercado negro de Scrapyard sem precisar expandir demais o elenco fixo.
 - **Qualidade da História:** A ambientação do mercado negro em Scrapyard é descrita de forma altamente imersiva, abraçando o Noir Cyberpunk com os elementos de sucata e neon decadente. A tensão da negociação sob o bipe decrescente do suporte vital cria um clima denso e memorável.
 
-## Conclusão Final da Revisão (Todos os 79 Capítulos)
-A história de "O Legado de Silício" apresenta personagens altamente coerentes e com profunda agência até suas últimas consequências, mantida consistentemente ao longo dos 79 capítulos. A perda brutal de habilidades de Elara a força de volta à vulnerabilidade humana, contrastando com o sacrifício físico devastador de Jaxon (que culmina na perda de seu braço cibernético e falência do pulmão), gera uma narrativa de sobrevivência suja, visceral e perfeitamente verossímil. A transição para o ambiente brutal e isolado do Setor 5 solidifica os moldes do Noir Cyberpunk, onde o próprio cenário atua como antagonista principal, e os conflitos pontuais contra figuras como os Scavengers intensificam a crueza do mundo. A dinâmica central sustenta magistralmente a tensão extrema dos últimos capítulos, não exigindo a inserção de novos personagens principais fixos, mas sim aprofundando o vínculo de desespero e codependência pragmática da dupla protagonista. A trama madureceu com brilhantismo, entregando um arco orgânico focado na resiliência crível, nas falhas da tecnologia ('carne vs máquina') e no limite do espírito humano.
-
 **Análise do Capítulo 80:**
 - **Coerência de Personagens:** Elara reforça seu pragmatismo nascido do desespero e do afeto por Jaxon, ao escolher a vida dele sobre a própria segurança física trocando a única arma que possuíam pela cirurgia. Jaxon, mesmo dilacerado, mantém sua essência áspera, reagindo com humor seco à nova realidade absurda da dupla: ele sem um braço, ela sem arma. Ambos refletem fielmente as perdas sofridas na narrativa.
 - **Necessidade de Novos Personagens:** O capítulo utiliza perfeitamente o *ripperdoc* do capítulo anterior como ferramenta de enredo para a troca. Não houve necessidade de introduzir nenhum novo personagem nesta cena, mantendo o foco intimista na decisão difícil de Elara e na sobrevivência de Jaxon.
 - **Qualidade da História:** A progressão da história apresenta um sacrifício crível e de grande peso dramático. A narrativa abraça a crueza da estética *cyberpunk noir* de "carne contra metal". O ritmo alinhou-se bem ao clímax da tensão médica de Jaxon, e as consequências (a completa desproteção da dupla no violento mercado negro de Scrapyard) criam uma excelente ponte para os próximos desafios, mantendo alta a imersão.
+
+## Conclusão Final da Revisão (Todos os 80 Capítulos)
+A história de "O Legado de Silício" apresenta personagens altamente coerentes e com profunda agência, sustentando suas identidades ao longo dos 80 capítulos.
+
+**Coerência dos Personagens:**
+- **Elara:** Sua jornada é de uma ascensão de poder ao sacrifício brutal. A perda total de suas habilidades bioelétricas a forçou de volta a uma mortalidade crua e vulnerável. O arco dela é extremamente coerente, transitando da dependência do extraordinário para o pragmatismo e inteligência das ruas para sobreviver, culminando na angustiante troca de sua única arma pela vida de Jaxon.
+- **Jaxon:** Mantém seu cinismo de mercenário e lealdade estoica intactos, sofrendo perdas físicas devastadoras de modo cumulativo (a falha do pulmão e a amputação de seu braço). Suas reações e humor sombrio frente a essas mutilações ancoram o realismo sujo da obra.
+- **Dr. Vex:** Como suporte médico ("ripperdoc"), Vex manteve sua consistência como uma figura clinicamente distante, pragmática, e crucial na transição dos personagens para a nova realidade após a queda do Deus-Máquina.
+- **Kaelen:** Funcionou bem como o hacker do submundo, proporcionando ferramentas e um refúgio ("ponto cego") essenciais, sendo descartado ou temporariamente abandonado na trama de forma que mantém o foco na dupla principal sem inchar a narrativa.
+
+**Necessidade de Novos Personagens:**
+O elenco central, mantido de forma enxuta, sustenta magistralmente a tensão extrema e o isolamento dos últimos arcos de perseguição no Setor 5. Inimigos pontuais (Scavengers, capangas de Silas, o ripperdoc de Scrapyard) cumprem bem o papel de antagonismo ambiental episódico, não havendo necessidade de novos personagens principais permanentes no momento. A história beneficia-se do foco microscópico e claustrofóbico na codependência desesperada de Elara e Jaxon.
+
+**Qualidade da História:**
+A trama madureceu brilhantemente para um "Noir Cyberpunk" focado na degradação da tecnologia e limites do espírito humano ("carne vs máquina"). A transição de inimigos como deuses (A Ordem) para os perigos críveis da sobrevivência imediata (frio, asfixia, sucateiros) foi conduzida com maestria. O ritmo ("Pacing") e a atmosfera estão impecáveis, com decisões de alto custo narrativo que solidificam a gravidade da obra, preparando terreno perfeitamente para as próximas etapas na selvageria de Scrapyard.
