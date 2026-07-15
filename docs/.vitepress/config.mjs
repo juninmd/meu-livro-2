@@ -203,6 +203,8 @@ export default defineConfig({
           { text: 'Reflexão: Capítulo 79', link: '/reflexoes/reflexao-79' },
           { text: 'Capítulo 80: O Peso do Chumbo', link: '/public/capitulos/capitulo-80' },
           { text: 'Reflexão: Capítulo 80', link: '/reflexoes/reflexao-80' },
+          { text: 'Capítulo 81: O Som de Sucata e Ossos', link: '/public/capitulos/capitulo-81' },
+          { text: 'Reflexão: Capítulo 81', link: '/reflexoes/reflexao-81' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]

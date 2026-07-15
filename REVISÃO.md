@@ -299,7 +299,12 @@
 - **Necessidade de Novos Personagens:** O capítulo utiliza perfeitamente o *ripperdoc* do capítulo anterior como ferramenta de enredo para a troca. Não houve necessidade de introduzir nenhum novo personagem nesta cena, mantendo o foco intimista na decisão difícil de Elara e na sobrevivência de Jaxon.
 - **Qualidade da História:** A progressão da história apresenta um sacrifício crível e de grande peso dramático. A narrativa abraça a crueza da estética *cyberpunk noir* de "carne contra metal". O ritmo alinhou-se bem ao clímax da tensão médica de Jaxon, e as consequências (a completa desproteção da dupla no violento mercado negro de Scrapyard) criam uma excelente ponte para os próximos desafios, mantendo alta a imersão.
 
-## Conclusão Final da Revisão (Todos os 80 Capítulos)
+**Análise do Capítulo 81:**
+- **Coerência de Personagens:** Elara e Jaxon agem precisamente conforme as consequências de suas escolhas nos Capítulos 79 e 80. O humor cínico de Jaxon sobre a decisão ruim de investimento de Elara ("Você pagou caro pelo ar que estou respirando") solidifica o estoicismo do veterano. Elara demonstra resiliência fria: em vez de se desesperar com a falta de armas, ela planeja o próximo passo de forma predatória (roubar uma faca e reciclar), mostrando sua adaptação definitiva à lógica de Nova Aether.
+- **Necessidade de Novos Personagens:** Não há introdução de novos personagens. Apenas os "necrófagos cromados" de fundo que enriquecem o ambiente noir sem tomar o foco principal, perfeitamente coerente com a vulnerabilidade absoluta da dupla, onde cada figura ao redor é uma ameaça latente.
+- **Qualidade da História:** O andamento é intencionalmente restrito para destacar a nova debilidade física ("coto envolto em ataduras", "ruído mecânico áspero", "frio cortante"). Essa restrição ajuda a firmar as bases do arco futuro (o roubo de sobrevivência) criando um Noir extremamente denso. A história é muito bem construída sem recair em facilidades.
+
+## Conclusão Final da Revisão (Todos os 81 Capítulos)
 A história de "O Legado de Silício" apresenta personagens altamente coerentes e com profunda agência, sustentando suas identidades ao longo dos 80 capítulos.
 
 **Coerência dos Personagens:**
