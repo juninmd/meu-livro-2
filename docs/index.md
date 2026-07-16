@@ -118,6 +118,7 @@ O mundo é uma mistura de natureza retomando seu espaço e esqueletos de megacid
 - [Capítulo 79: O Preço da Sucata](/public/capitulos/capitulo-79) ([Reflexão](/reflexoes/reflexao-79))
 - [Capítulo 80: O Peso do Chumbo](/public/capitulos/capitulo-80) ([Reflexão](/reflexoes/reflexao-80))
 - [Capítulo 81: O Som de Sucata e Ossos](/public/capitulos/capitulo-81) ([Reflexão](/reflexoes/reflexao-81))
+- [Capítulo 82: Fio de Corte](/public/capitulos/capitulo-82) ([Reflexão](/reflexoes/reflexao-82))
 
 <div class="story-card">
 <strong>O Legado de Silício</strong> explora a linha tênue entre tecnologia e magia em um futuro esquecido.

@@ -205,6 +205,8 @@ export default defineConfig({
           { text: 'Reflexão: Capítulo 80', link: '/reflexoes/reflexao-80' },
           { text: 'Capítulo 81: O Som de Sucata e Ossos', link: '/public/capitulos/capitulo-81' },
           { text: 'Reflexão: Capítulo 81', link: '/reflexoes/reflexao-81' },
+          { text: 'Capítulo 82: Fio de Corte', link: '/public/capitulos/capitulo-82' },
+          { text: 'Reflexão: Capítulo 82', link: '/reflexoes/reflexao-82' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]
