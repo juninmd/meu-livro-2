@@ -88,6 +88,9 @@ export default defineConfig({
       { text: 'Capítulo 78', link: '/public/capitulos/capitulo-78' },
       { text: 'Capítulo 79', link: '/public/capitulos/capitulo-79' },
       { text: 'Capítulo 80', link: '/public/capitulos/capitulo-80' },
+      { text: 'Capítulo 81', link: '/public/capitulos/capitulo-81' },
+      { text: 'Capítulo 82', link: '/public/capitulos/capitulo-82' },
+      { text: 'Capítulo 83', link: '/public/capitulos/capitulo-83' },
       { text: 'Personagens', link: '/personagens' },
       { text: 'Sobre', link: '/sobre' }
     ],
@@ -207,6 +210,8 @@ export default defineConfig({
           { text: 'Reflexão: Capítulo 81', link: '/reflexoes/reflexao-81' },
           { text: 'Capítulo 82: Fio de Corte', link: '/public/capitulos/capitulo-82' },
           { text: 'Reflexão: Capítulo 82', link: '/reflexoes/reflexao-82' },
+          { text: 'Capítulo 83: Sangue Frio e Escambo', link: '/public/capitulos/capitulo-83' },
+          { text: 'Reflexão: Capítulo 83', link: '/reflexoes/reflexao-83' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]
