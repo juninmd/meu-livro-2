@@ -91,6 +91,7 @@ export default defineConfig({
       { text: 'Capítulo 81', link: '/public/capitulos/capitulo-81' },
       { text: 'Capítulo 82', link: '/public/capitulos/capitulo-82' },
       { text: 'Capítulo 83', link: '/public/capitulos/capitulo-83' },
+      { text: 'Capítulo 84', link: '/public/capitulos/capitulo-84' },
       { text: 'Personagens', link: '/personagens' },
       { text: 'Sobre', link: '/sobre' }
     ],
@@ -212,6 +213,8 @@ export default defineConfig({
           { text: 'Reflexão: Capítulo 82', link: '/reflexoes/reflexao-82' },
           { text: 'Capítulo 83: Sangue Frio e Escambo', link: '/public/capitulos/capitulo-83' },
           { text: 'Reflexão: Capítulo 83', link: '/reflexoes/reflexao-83' },
+          { text: 'Capítulo 84: O Custo do Respiro', link: '/public/capitulos/capitulo-84' },
+          { text: 'Reflexão: Capítulo 84', link: '/reflexoes/reflexao-84' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]

@@ -152,3 +152,18 @@ A história de "O Legado de Silício" apresenta personagens altamente coerentes 
 
 ### Necessidade de Novos Personagens
 *   A introdução do mercador sem nome serviu novamente como um desafio tático/social para demonstrar a evolução mental de Elara. Não houve necessidade de expansão de *cast*, pois o foco precisava ser o choque da perda de recursos básicos e a capacidade de adaptação impiedosa de Elara.
+
+## Lote 30: Capítulo 84
+**Status:** Revisado
+**Capítulo:** 84 (O Custo do Respiro)
+
+### Coerência dos Personagens
+*   **Elara:** A aceitação da perda dos poderes atinge seu clímax emocional aqui. A frustração inicial e a constatação final de que ela é apenas "carne e raiva" consolidam a sua transição. A maneira como ela trata Jaxon evidencia o vínculo pragmático e essencial de sobrevivência que se formou entre os dois.
+*   **Jaxon:** O momento de extrema vulnerabilidade e a recuperação parcial pelo lubrificante sintético demonstram a resiliência sombria do personagem. Seu discurso cínico sobre sobreviver "hoje" é fundamental para a aceitação de Elara sobre a sua nova realidade.
+*   **Sanity Check:** O capítulo respeita plenamente a ausência da bioeletricidade de Elara, sem recaídas. A dependência de itens recuperados do capítulo 83 consolida a cadeia de eventos de sobrevivência.
+
+### Qualidade da História
+*   **Atmosfera e Ritmo:** O ritmo é consideravelmente mais lento, quase sufocante, focado na tensão emocional do cuidado médico improvisado. A atmosfera reflete a sujeira e a inadequação do ambiente (lubrificante Classe-C, lona mofada), aprofundando o subtexto cyberpunk focado em pobreza extrema e desespero.
+
+### Necessidade de Novos Personagens
+*   Nenhum novo personagem foi introduzido. O foco absoluto na dinâmica entre Elara e Jaxon é essencial neste ponto da narrativa para processar o trauma de curto prazo (quase-morte de Jaxon) e de longo prazo (perda da bioeletricidade de Elara), garantindo o *payoff* emocional dos capítulos anteriores.

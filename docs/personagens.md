@@ -11,7 +11,7 @@
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Originalmente permitia acelerar a percepção do tempo e reagir a ameaças com precisão sobre-humana. No entanto, após o embate final, seu poder bioelétrico foi quase inteiramente extinto ("queimado").
     *   Seus poderes bioelétricos criavam uma ponte involuntária com o Deus-Máquina, mas essa conexão foi cortada de forma permanente.
-    *   **Estado Atual (Cap. 83):** Após matar um necrófago de rua de forma furtiva no Capítulo 82, Elara trocou a faca de combate vibratória (suja de sangue) com um mercador em Scrapyard por lubrificante pulmonar, selante dérmico e um refúgio temporário para Jaxon, demonstrando extrema frieza e capacidade de sobrevivência nas ruas sem a sua bioeletricidade.
+    *   **Estado Atual (Cap. 84):** Utilizou suprimentos médicos comprados (selante dérmico e lubrificante pulmonar) para estabilizar os ferimentos e a respiração de Jaxon no refúgio do mercador. Aceitou de forma definitiva a perda de seus poderes bioelétricos e sua nova realidade como sobrevivente implacável.
 *   **Motivação:**
     *   Inicialmente encontrar a "Fonte Primordial", que agora se revela uma lenda ilusória. Sua motivação central agora é pura e simplesmente a sobrevivência em uma Nova Aether desestabilizada e perigosa após a queda do núcleo da Ordem.
 
@@ -57,7 +57,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 83):** Seu pulmão improvisado começou a chiar severamente. Foi arrastado por Elara até a barraca de um mercador de sucata, onde, graças às habilidades intimidadoras de Elara, garantiu acesso a lubrificante sintético pulmonar e um buraco seco e seguro provisório para se esconderem.
+    *   **Estado Atual (Cap. 84):** Estabilizado temporariamente com selante dérmico e lubrificante pulmonar Classe-C aplicados por Elara na tenda do mercador. Apesar do alívio momentâneo, encontra-se severamente exausto e cínico sobre as chances de sobrevivência a longo prazo.
 *   **Equipamento:**
     *   Roupas rasgadas, pulmão cibernético agora operando com uma bateria substituta obtida no mercado negro (assobiando de forma áspera). Braço cibernético ausente (coto com ataduras).
 *   **Motivação:**
