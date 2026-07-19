@@ -215,6 +215,8 @@ export default defineConfig({
           { text: 'Reflexão: Capítulo 83', link: '/reflexoes/reflexao-83' },
           { text: 'Capítulo 84: O Custo do Respiro', link: '/public/capitulos/capitulo-84' },
           { text: 'Reflexão: Capítulo 84', link: '/reflexoes/reflexao-84' },
+          { text: 'Capítulo 85: A Moeda de Carne', link: '/public/capitulos/capitulo-85' },
+          { text: 'Reflexão: Capítulo 85', link: '/reflexoes/reflexao-85' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]
