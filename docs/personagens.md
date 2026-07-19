@@ -11,7 +11,7 @@
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Originalmente permitia acelerar a percepção do tempo e reagir a ameaças com precisão sobre-humana. No entanto, após o embate final, seu poder bioelétrico foi quase inteiramente extinto ("queimado").
     *   Seus poderes bioelétricos criavam uma ponte involuntária com o Deus-Máquina, mas essa conexão foi cortada de forma permanente.
-    *   **Estado Atual (Cap. 84):** Utilizou suprimentos médicos comprados (selante dérmico e lubrificante pulmonar) para estabilizar os ferimentos e a respiração de Jaxon no refúgio do mercador. Aceitou de forma definitiva a perda de seus poderes bioelétricos e sua nova realidade como sobrevivente implacável.
+    *   **Estado Atual (Cap. 85):** Utilizou suprimentos médicos comprados (selante dérmico e lubrificante pulmonar) para estabilizar os ferimentos e a respiração de Jaxon no refúgio do mercador, mas agora negocia informações cruciais sobre a morte do Deus-Máquina com o "Açougueiro de Neve" para obter antibióticos e tratamentos de emergência. Aceitou de forma definitiva a perda de seus poderes bioelétricos e sua nova realidade como sobrevivente implacável.
 *   **Motivação:**
     *   Inicialmente encontrar a "Fonte Primordial", que agora se revela uma lenda ilusória. Sua motivação central agora é pura e simplesmente a sobrevivência em uma Nova Aether desestabilizada e perigosa após a queda do núcleo da Ordem.
 
@@ -57,9 +57,9 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 84):** Estabilizado temporariamente com selante dérmico e lubrificante pulmonar Classe-C aplicados por Elara na tenda do mercador. Apesar do alívio momentâneo, encontra-se severamente exausto e cínico sobre as chances de sobrevivência a longo prazo.
+    *   **Estado Atual (Cap. 85):** A infecção começou a se espalhar ao redor do metal exposto de seu braço decepado. O pulmão substituto falha com o lubrificante barato, produzindo gosma escura. Permanece deitado na tenda do mercador em estado febril e crítico.
 *   **Equipamento:**
-    *   Roupas rasgadas, pulmão cibernético agora operando com uma bateria substituta obtida no mercado negro (assobiando de forma áspera). Braço cibernético ausente (coto com ataduras).
+    *   Roupas rasgadas, pulmão cibernético agora operando com uma bateria substituta obtida no mercado negro (assobiando de forma áspera). Braço cibernético ausente (coto com ataduras infectadas).
 *   **Motivação:**
     *   Inicialmente dinheiro, mas sua lealdade muda à medida que ele vê em Elara a esperança que pensava ter perdido. Determinado a proteger Elara, mesmo que isso custe sua vida.
 
