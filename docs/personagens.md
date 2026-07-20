@@ -57,9 +57,9 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 85):** A infecção começou a se espalhar ao redor do metal exposto de seu braço decepado. O pulmão substituto falha com o lubrificante barato, produzindo gosma escura. Permanece deitado na tenda do mercador em estado febril e crítico.
+    *   **Estado Atual (Cap. 86):** Após ser levado à clínica do Açougueiro de Neve em Scrapyard, recebeu antibióticos militares que reverteram a infecção galopante. Passou por uma cirurgia sem anestesia para ancoragem de uma nova prótese cibernética de combate na clavícula. O pulmão substituto parou de expelir gosma após o tratamento.
 *   **Equipamento:**
-    *   Roupas rasgadas, pulmão cibernético agora operando com uma bateria substituta obtida no mercado negro (assobiando de forma áspera). Braço cibernético ausente (coto com ataduras infectadas).
+    *   Roupas rasgadas, pulmão cibernético agora operando de forma mais estável. Possui um novo braço cibernético pesado de combate (classe-B) de acabamento fosco, rústico e com tubulações expostas, recém-ancorado.
 *   **Motivação:**
     *   Inicialmente dinheiro, mas sua lealdade muda à medida que ele vê em Elara a esperança que pensava ter perdido. Determinado a proteger Elara, mesmo que isso custe sua vida.
 
