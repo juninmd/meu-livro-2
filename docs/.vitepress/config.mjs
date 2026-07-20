@@ -217,6 +217,8 @@ export default defineConfig({
           { text: 'Reflexão: Capítulo 84', link: '/reflexoes/reflexao-84' },
           { text: 'Capítulo 85: A Moeda de Carne', link: '/public/capitulos/capitulo-85' },
           { text: 'Reflexão: Capítulo 85', link: '/reflexoes/reflexao-85' },
+          { text: 'Capítulo 86: O Preço da Nova Carne', link: '/public/capitulos/capitulo-86' },
+          { text: 'Reflexão: Capítulo 86', link: '/reflexoes/reflexao-86' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]
