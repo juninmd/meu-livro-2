@@ -34,6 +34,8 @@
 - [x] Capítulos 73, 74, 75
 - [x] Capítulos 76, 77, 78
 - [x] Capítulos 79, 80
+- [x] Capítulos 81, 82, 83
+- [x] Capítulos 84, 85, 86
 
 **Análise dos Capítulos 70, 71 e 72:**
 - **Coerência de Personagens:** Elara e Jaxon abraçam totalmente a fisicalidade de sua fuga analógica. A perda do braço de Jaxon no Capítulo 69 reverberou no esgotamento massivo que culminou na falha de seu pulmão cibernético no Capítulo 72. Elara se torna não uma heroína mágica, mas uma sobrevivente desesperada que faz "gambiarras" brutais para manter o parceiro vivo, perfeitamente alinhada com o tema Cyberpunk Noir de "carne contra máquina".
@@ -299,35 +301,18 @@
 - **Necessidade de Novos Personagens:** O capítulo utiliza perfeitamente o *ripperdoc* do capítulo anterior como ferramenta de enredo para a troca. Não houve necessidade de introduzir nenhum novo personagem nesta cena, mantendo o foco intimista na decisão difícil de Elara e na sobrevivência de Jaxon.
 - **Qualidade da História:** A progressão da história apresenta um sacrifício crível e de grande peso dramático. A narrativa abraça a crueza da estética *cyberpunk noir* de "carne contra metal". O ritmo alinhou-se bem ao clímax da tensão médica de Jaxon, e as consequências (a completa desproteção da dupla no violento mercado negro de Scrapyard) criam uma excelente ponte para os próximos desafios, mantendo alta a imersão.
 
-**Análise do Capítulo 81:**
-- **Coerência de Personagens:** Elara e Jaxon agem precisamente conforme as consequências de suas escolhas nos Capítulos 79 e 80. O humor cínico de Jaxon sobre a decisão ruim de investimento de Elara ("Você pagou caro pelo ar que estou respirando") solidifica o estoicismo do veterano. Elara demonstra resiliência fria: em vez de se desesperar com a falta de armas, ela planeja o próximo passo de forma predatória (roubar uma faca e reciclar), mostrando sua adaptação definitiva à lógica de Nova Aether.
-- **Necessidade de Novos Personagens:** Não há introdução de novos personagens. Apenas os "necrófagos cromados" de fundo que enriquecem o ambiente noir sem tomar o foco principal, perfeitamente coerente com a vulnerabilidade absoluta da dupla, onde cada figura ao redor é uma ameaça latente.
-- **Qualidade da História:** O andamento é intencionalmente restrito para destacar a nova debilidade física ("coto envolto em ataduras", "ruído mecânico áspero", "frio cortante"). Essa restrição ajuda a firmar as bases do arco futuro (o roubo de sobrevivência) criando um Noir extremamente denso. A história é muito bem construída sem recair em facilidades.
+**Análise dos Capítulos 81, 82 e 83:**
+- **Coerência de Personagens:** A transição de Elara e Jaxon para vulnerabilidade absoluta está impecável. Nos Capítulos 81 e 82, Elara, agora desprovida de suas habilidades, adapta-se brutalmente roubando uma faca e matando um necrófago de rua para proteger o moribundo Jaxon. Jaxon mantém seu estoicismo e cinismo frente à amputação de seu braço. No Capítulo 83, Elara blefa perfeitamente com um mercador usando sua arma descarregada, consolidando seu arco de predadora pragmática.
+- **Necessidade de Novos Personagens:** O necrófago (Cap. 82) e o mercador (Cap. 83) atuam de forma brilhante como obstáculos ambientais efêmeros. O foco intimista e desesperador do casal em fuga beneficia-se da ausência de novos aliados ou protagonistas, intensificando a sensação de hostilidade do Setor 5.
+- **Qualidade da História:** A atmosfera é densa, com descrições fortes de ferrugem, chuva ácida e corpos mutilados. A ausência de poderes torna as cenas de ação (como o roubo da faca no Cap. 82) intensamente aterrorizantes, sustentando as bases de um Noir extremamente denso.
 
+**Análise dos Capítulos 84, 85 e 86:**
+- **Coerência de Personagens:** Elara e Jaxon mantêm sua coerência de forma admirável através de sua provação em Scrapyard. Nos Capítulos 84 e 85, Elara aceita a perda permanente de suas habilidades bioelétricas e age de forma implacável e predatória, usando informações como moeda para salvar a vida de Jaxon. Jaxon, mesmo dilacerado pela amputação e infecção respiratória, mantém seu cinismo. No Capítulo 86, a cirurgia consolida esse arco, com Jaxon aceitando seu novo braço rústico e Elara a responsabilidade por incendiar o submundo de Nova Aether com suas barganhas.
+- **Necessidade de Novos Personagens:** O 'Açougueiro de Neve' foi introduzido organicamente como um ripperdoc amoral, perfeitamente coerente com a vulnerabilidade absoluta da dupla. A dinâmica em trio fechada no mercado negro de Scrapyard funcionou perfeitamente, não havendo necessidade de expandir o elenco.
+- **Qualidade da História:** A trama amarra o clímax da tensão médica de Jaxon (Capítulo 84 e 85) à sua resolução brutal no Capítulo 86. A transição da série para um Noir Cyberpunk viscero de 'carne contra metal' é consolidada. As descrições da clínica e do sacrifício de Elara aumentam significativamente a imersão e as apostas da narrativa.
 
-**Análise do Capítulo 82:**
-- **Coerência de Personagens:** Elara e Jaxon mantêm total coerência narrativa. Elara, agora desprovida de suas habilidades bioelétricas, demonstra uma adaptação brutal à sua nova realidade "carnal", executando um roubo e um assassinato furtivo com uma faca não energizada. Isso consolida sua transição de "deusa-máquina" para sobrevivente pragmática. Jaxon, apesar de seu estado deplorável (sem um braço e com o pulmão falhando), mantém sua atitude estóica e humor negro, reagindo positivamente à nova arma.
-- **Necessidade de Novos Personagens:** Não há necessidade de novos personagens de apoio permanentes. O necrófago de rua serviu perfeitamente como um obstáculo circunstancial para testar as novas (e limitadas) capacidades de combate de Elara, além de reforçar a hostilidade visceral de Scrapyard.
-- **Qualidade da História:** A trama avança de forma orgânica e empolgante, mantendo a estética noir cyberpunk. A descrição do ambiente (chuva ácida, cheiro de urina sintética e cobre, fogueiras químicas) é altamente imersiva. A cena de ação é curta, letal e aterradora, destacando a vulnerabilidade contínua da protagonista e reafirmando as consequências das escolhas nos capítulos anteriores. O ritmo está excelente.
-
-**Análise do Capítulo 83:**
-- **Coerência de Personagens:** A coerência de Elara e Jaxon é perfeitamente mantida. Elara demonstra resiliência extrema; tendo perdido suas habilidades, ela abraça o cinismo e a brutalidade de Scrapyard para garantir a sobrevivência de Jaxon. A negociação fria usando apenas ameaça e uma lâmina descarregada cimenta sua nova fase. Jaxon, mesmo à beira da morte, não perde sua essência sarcástica e observadora ("Negociação hostil... Você aprende rápido, chefe").
-- **Necessidade de Novos Personagens:** O mercador de Scrapyard é um adendo excelente e cirúrgico à cena. Ele não incha o elenco principal, atuando puramente como um obstáculo ambiental que reage não à moralidade, mas ao perigo imediato, destacando as regras de sobrevivência do local. Não há necessidade de novos personagens recorrentes por enquanto.
-- **Qualidade da História:** A atmosfera é sufocante e imersiva. Descrições como "chuva ácida", "cheiro de carne queimada e solvente" trazem à tona o autêntico Noir Cyberpunk. O clímax do capítulo repousa inteiramente na tensão de um blefe arriscado, o que engrandece a evolução de Elara. O ritmo é muito bem controlado, criando uma ponte sólida para a estabilização médica temporária de Jaxon.
-
-
-**Análise do Capítulo 84:**
-- **Coerência de Personagens:** Elara e Jaxon mantêm sua coerência de forma admirável. Elara demonstra estar plenamente consciente de sua nova realidade, abdicando de tentar usar seus poderes ("O núcleo bioelétrico que um dia ardera dentro de mim estava apagado") em prol de ações pragmáticas e urgentes de primeiros socorros. Jaxon, apesar da agonia de estar sem um braço e com falhas no pulmão sintético, reafirma sua visão cínica do mundo ("carne e raiva sobrevivem mais do que profecias de silício"), sendo o pilar de aterramento de Elara para a crua sobrevivência de Scrapyard.
-- **Necessidade de Novos Personagens:** O capítulo não introduz novos personagens de forma proeminente, mantendo o foco intimista na relação de codependência da dupla e na tensão de seus ferimentos sob o teto improvisado do mercador do capítulo anterior. O foco se mantém hermético, perfeitamente alinhado à sensação de isolamento.
-- **Qualidade da História:** A narrativa adquire um tom profundo de aceitação e resignação às consequências. A tensão inicial do tratamento médico com o selante dérmico e lubrificante industrial barato reforça a estética _cyberpunk noir_ baseada na precariedade de recursos ("O gel químico sibilou... odor forte de ozônio e carne queimada"). A atmosfera opressiva e o diálogo que encerra as esperanças na "era da bioeletricidade" marcam um divisor de águas maduro e de alto impacto na trama.
-
-**Análise do Capítulo 85:**
-- **Coerência de Personagens:** Elara atinge o ápice de sua transição. Desprovida de suas habilidades, ela adota uma postura implacável e letal, utilizando o bem mais valioso de Nova Aether (a informação) como moeda de troca. Jaxon, apesar da febre e do estado terminal, mantém sua essência áspera e cínica, suportando a agonia com estoicismo e humor seco.
-- **Necessidade de Novos Personagens:** O "Açougueiro de Neve" (*Snow Butcher*) é introduzido de forma cirúrgica. Ele cumpre o papel essencial do ripperdoc no mercado negro, sendo um negociante amoral perfeito para o cenário decadente, sem inchar a narrativa desnecessariamente.
-- **Qualidade da História:** A trama apresenta um excelente uso dos eventos passados (a morte do Deus-Máquina) com consequências diretas no presente. O clímax do capítulo envolve uma negociação tensa onde Elara blefa com o destino de toda a cidade para salvar Jaxon, elevando as apostas e mantendo a atmosfera opressiva e crua do autêntico Noir Cyberpunk.
-
-## Conclusão Final da Revisão (Todos os 85 Capítulos)
-A história de "O Legado de Silício" apresenta personagens altamente coerentes e com profunda agência, sustentando suas identidades de forma sólida ao longo dos 85 capítulos.
+## Conclusão Final da Revisão (Todos os 86 Capítulos)
+A história de "O Legado de Silício" apresenta personagens altamente coerentes e com profunda agência, sustentando suas identidades de forma sólida ao longo dos 86 capítulos.
 
 **Coerência dos Personagens:**
 - **Elara:** Sua jornada reflete a dolorosa queda de um status de "deusa-máquina" a uma mortal encurralada. A perda de suas habilidades bioelétricas após a queda da Ordem exigiu dela uma adaptação brutal à lógica de Scrapyard. Ela abraça a mortalidade de forma pragmática, desde o planejamento frio até o uso da informação sobre a morte do Deus-Máquina como moeda de barganha para salvar Jaxon, cimentando seu papel como uma sobrevivente letal que depende do próprio sangue frio.
