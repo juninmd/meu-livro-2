@@ -219,6 +219,8 @@ export default defineConfig({
           { text: 'Reflexão: Capítulo 85', link: '/reflexoes/reflexao-85' },
           { text: 'Capítulo 86: O Preço da Nova Carne', link: '/public/capitulos/capitulo-86' },
           { text: 'Reflexão: Capítulo 86', link: '/reflexoes/reflexao-86' },
+          { text: 'Capítulo 87: Ferrugem e Fantasmas', link: '/public/capitulos/capitulo-87' },
+          { text: 'Reflexão: Capítulo 87', link: '/reflexoes/reflexao-87' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]

@@ -11,7 +11,7 @@
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Originalmente permitia acelerar a percepção do tempo e reagir a ameaças com precisão sobre-humana. No entanto, após o embate final, seu poder bioelétrico foi quase inteiramente extinto ("queimado").
     *   Seus poderes bioelétricos criavam uma ponte involuntária com o Deus-Máquina, mas essa conexão foi cortada de forma permanente.
-    *   **Estado Atual (Cap. 85):** Utilizou suprimentos médicos comprados (selante dérmico e lubrificante pulmonar) para estabilizar os ferimentos e a respiração de Jaxon no refúgio do mercador, mas agora negocia informações cruciais sobre a morte do Deus-Máquina com o "Açougueiro de Neve" para obter antibióticos e tratamentos de emergência. Aceitou de forma definitiva a perda de seus poderes bioelétricos e sua nova realidade como sobrevivente implacável.
+    *   **Estado Atual (Cap. 87):** Refugiada em uma barraca provisória em Scrapyard sob chuva ácida, lidando com o luto da perda definitiva de seus poderes bioelétricos enquanto auxilia Jaxon no processo doloroso de adaptação ao novo braço mecânico. A ameaça do Cartel de Silas e os restos da Ordem paira sobre eles.
 *   **Motivação:**
     *   Inicialmente encontrar a "Fonte Primordial", que agora se revela uma lenda ilusória. Sua motivação central agora é pura e simplesmente a sobrevivência em uma Nova Aether desestabilizada e perigosa após a queda do núcleo da Ordem.
 
@@ -57,9 +57,9 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 86):** Após ser levado à clínica do Açougueiro de Neve em Scrapyard, recebeu antibióticos militares que reverteram a infecção galopante. Passou por uma cirurgia sem anestesia para ancoragem de uma nova prótese cibernética de combate na clavícula. O pulmão substituto parou de expelir gosma após o tratamento.
+    *   **Estado Atual (Cap. 87):** Escondido em Scrapyard, está sofrendo para se adaptar à interface neural brutal de sua nova e pesada prótese classe-B. Seus sistemas estão em choque, forçando-o a tentar acelerar o processo para não se tornarem presas fáceis. O pulmão artificial parou de expelir a gosma preta graças aos antibióticos militares.
 *   **Equipamento:**
-    *   Roupas rasgadas, pulmão cibernético agora operando de forma mais estável. Possui um novo braço cibernético pesado de combate (classe-B) de acabamento fosco, rústico e com tubulações expostas, recém-ancorado.
+    *   Roupas rasgadas, pulmão cibernético operando com mais estabilidade. Possui um novo braço cibernético pesado de combate (classe-B, dezoito quilos) de acabamento fosco, rústico e com tubulações expostas, cujos atrasos de comando neural ainda lhe causam fortes tremores.
 *   **Motivação:**
     *   Inicialmente dinheiro, mas sua lealdade muda à medida que ele vê em Elara a esperança que pensava ter perdido. Determinado a proteger Elara, mesmo que isso custe sua vida.
 
