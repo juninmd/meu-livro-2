@@ -124,6 +124,7 @@ O mundo é uma mistura de natureza retomando seu espaço e esqueletos de megacid
 - [Capítulo 85: A Moeda de Carne](/public/capitulos/capitulo-85) ([Reflexão](/reflexoes/reflexao-85))
 - [Capítulo 86: O Preço da Nova Carne](/public/capitulos/capitulo-86) ([Reflexão](/reflexoes/reflexao-86))
 - [Capítulo 87: Ferrugem e Fantasmas](/public/capitulos/capitulo-87) ([Reflexão](/reflexoes/reflexao-87))
+- [Capítulo 88: O Peso da Escória](/public/capitulos/capitulo-88) ([Reflexão](/reflexoes/reflexao-88))
 
 <div class="story-card">
 <strong>O Legado de Silício</strong> explora a linha tênue entre tecnologia e magia em um futuro esquecido.

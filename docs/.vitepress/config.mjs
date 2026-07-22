@@ -221,6 +221,8 @@ export default defineConfig({
           { text: 'Reflexão: Capítulo 86', link: '/reflexoes/reflexao-86' },
           { text: 'Capítulo 87: Ferrugem e Fantasmas', link: '/public/capitulos/capitulo-87' },
           { text: 'Reflexão: Capítulo 87', link: '/reflexoes/reflexao-87' },
+          { text: 'Capítulo 88: O Peso da Escória', link: '/public/capitulos/capitulo-88' },
+          { text: 'Reflexão: Capítulo 88', link: '/reflexoes/reflexao-88' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]
