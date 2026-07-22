@@ -118,3 +118,4 @@ if __name__ == "__main__":
 # Trigger build for chapter 85
 # Update for Cap 86
 # Update for Cap 87
+# Update for Cap 88
