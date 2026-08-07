@@ -11,7 +11,7 @@
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Originalmente permitia acelerar a percepção do tempo e reagir a ameaças com precisão sobre-humana. No entanto, após o embate final, seu poder bioelétrico foi quase inteiramente extinto ("queimado").
     *   Seus poderes bioelétricos criavam uma ponte involuntária com o Deus-Máquina, mas essa conexão foi cortada de forma permanente.
-    *   **Estado Atual (Cap. 88):** Refugiada em Scrapyard. Foi forçada a abandonar a segurança temporária da barraca e iniciar uma fuga furtiva pelos tubos de ventilação industriais ao norte do setor, fugindo dos mercenários de Silas e de seus cães-robôs rastreadores. Ela agora conta apenas com seu pragmatismo, uma faca cega e sua capacidade de agir sob a pressão opressiva da mortalidade.
+    *   **Estado Atual (Cap. 89):** Em fuga pelos dutos de ventilação industriais ao norte de Scrapyard em direção às docas mortas do Setor 4. A perda de seus poderes afeta sua percepção e instintos de sobrevivência, forçando-a a suportar as dificuldades físicas extremas de navegar no labirinto enferrujado sem habilidades sobre-humanas.
 *   **Motivação:**
     *   Inicialmente encontrar a "Fonte Primordial", que agora se revela uma lenda ilusória. Sua motivação central agora é pura e simplesmente a sobrevivência em uma Nova Aether desestabilizada e perigosa após a queda do núcleo da Ordem.
 
@@ -57,7 +57,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 88):** Em fuga por Scrapyard, direcionando-se para rotas de ventilação industriais abandonadas. Seu novo braço classe-B de dezoito quilos ainda apresenta atrasos neurais, mas o tremor diminuiu, permitindo-lhe maior utilidade. Sem munição, ele depende unicamente de sua tática de combate e intuição para evadir as forças do Cartel de Silas que patrulham o local com cães-robôs. O pulmão artificial parou de expelir a gosma preta graças aos antibióticos militares.
+    *   **Estado Atual (Cap. 89):** Navegando o labirinto dos dutos industriais em direção ao Setor 4. O novo braço mecânico de dezoito quilos dificulta o rastejo nos espaços confinados e causa choques de dor fantasma severos devido à resistência da interface neural, enquanto seu pulmão artificial lida com o ar cáustico.
 *   **Equipamento:**
     *   Roupas rasgadas, pulmão cibernético operando com mais estabilidade. Possui um novo braço cibernético pesado de combate (classe-B, dezoito quilos) de acabamento fosco, rústico e com tubulações expostas, cujos atrasos de comando neural ainda lhe causam fortes tremores.
 *   **Motivação:**
