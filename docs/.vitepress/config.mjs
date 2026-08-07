@@ -225,6 +225,8 @@ export default defineConfig({
           { text: 'Reflexão: Capítulo 88', link: '/reflexoes/reflexao-88' },
           { text: 'Capítulo 89: O Labirinto de Ferrugem', link: '/public/capitulos/capitulo-89' },
           { text: 'Reflexão: Capítulo 89', link: '/reflexoes/reflexao-89' },
+          { text: 'Capítulo 90: Aranhas e Chaminés', link: '/public/capitulos/capitulo-90' },
+          { text: 'Reflexão: Capítulo 90', link: '/reflexoes/reflexao-90' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]

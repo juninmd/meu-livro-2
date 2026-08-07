@@ -190,3 +190,22 @@ A progressão da história desde o Capítulo 1 ao 89 demonstrou uma metamorfose 
 Jaxon teve seu arco baseado na erosão lenta e dolorosa: um veterano letal, que teve sua carne comprometida gradativamente. Ele perdeu e substituiu membros vitais com sucata barata (pulmão e braço), mostrando de forma explícita que a cibernética neste universo não é um *upgrade* glorioso, e sim uma âncora degradante que salva vidas a um alto custo físico e mental (como as atuais dores fantasmas e falhas de comando).
 
 Os antagonistas (A Ordem, e agora o Cartel da Água liderado por Silas) sempre demonstraram uma letalidade opressora, forçando a dupla a uma sobrevivência reativa. Os cenários da narrativa (do Setor 7 ao 4, a Scrapyard, aos dutos de ventilação) funcionam ativamente como vilões suplementares, constantemente submetendo os protagonistas aos seus limites e desconstruindo o tropo clássico de heróis indomáveis.
+
+## Lote 31: Capítulo 90
+**Status:** Revisado
+**Capítulo:** 90 (Aranhas e Chaminés)
+
+### Coerência dos Personagens
+*   **Elara:** Sua aceitação da falta da bioeletricidade é reforçada quando ela instintivamente busca o poder e encontra apenas o "vazio frio". Sua atitude corajosa perante o perigo imediato solidifica sua transição para a realidade pragmática do novo ambiente.
+*   **Jaxon:** As falhas em sua cibernética barata ("bloqueador de dor falhando") são vitais para mostrar o peso das modificações. Sua decisão de usar o rifle de plasma contra as aranhas demonstra o sacrifício pessoal e a proteção à Elara.
+*   **Sanity Check:** A perseguição das aranhas de Silas, um perigo estabelecido, age diretamente nas fraquezas atuais de Elara e Jaxon, forçando uma fuga tática sem a invenção de novos recursos ou saídas fáceis.
+
+### Qualidade da História
+*   **Atmosfera e Ritmo:** O foco nas texturas táteis do duto e nos horrores acústicos ("tique-tique-tique") intensifica o claustrofobia, acelerando drasticamente o ritmo no terço final. A transição de rastejo lento para corrida letal ocorre de forma natural.
+
+### Necessidade de Novos Personagens
+*   Nenhum novo personagem. A ameaça não-humana das aranhas de busca de Silas serviu ao propósito da tensão sem inchar o elenco narrativo.
+
+## Revisão Global de Todos os Personagens (Capítulos 1 ao 90)
+
+A evolução contínua da narrativa ressalta as profundas marcas de deterioração. Elara, que já foi capaz de controlar máquinas, agora enfrenta seu destino apenas com força de vontade e instinto de sobrevivência. Jaxon, outrora o músculo dominante, é constantemente lembrado pela dor de que as próteses que o mantêm vivo estão falhando sob o peso da realidade. Ambos permanecem na defensiva em um mundo cibernético que pune os fracos sem piedade.
