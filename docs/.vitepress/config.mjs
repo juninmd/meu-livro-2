@@ -227,6 +227,8 @@ export default defineConfig({
           { text: 'Reflexão: Capítulo 89', link: '/reflexoes/reflexao-89' },
           { text: 'Capítulo 90: Aranhas e Chaminés', link: '/public/capitulos/capitulo-90' },
           { text: 'Reflexão: Capítulo 90', link: '/reflexoes/reflexao-90' },
+          { text: 'Capítulo 91: O Fundo do Poço', link: '/public/capitulos/capitulo-91' },
+          { text: 'Reflexão: Capítulo 91', link: '/reflexoes/reflexao-91' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]
