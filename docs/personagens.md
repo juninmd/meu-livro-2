@@ -11,7 +11,7 @@
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Originalmente permitia acelerar a percepção do tempo e reagir a ameaças com precisão sobre-humana. No entanto, após o embate final, seu poder bioelétrico foi quase inteiramente extinto ("queimado").
     *   Seus poderes bioelétricos criavam uma ponte involuntária com o Deus-Máquina, mas essa conexão foi cortada de forma permanente.
-    *   **Estado Atual (Cap. 89):** Em fuga pelos dutos de ventilação industriais ao norte de Scrapyard em direção às docas mortas do Setor 4. A perda de seus poderes afeta sua percepção e instintos de sobrevivência, forçando-a a suportar as dificuldades físicas extremas de navegar no labirinto enferrujado sem habilidades sobre-humanas.
+    *   **Estado Atual (Cap. 91):** Sobrevivendo nas Docas Mortas após uma perigosa descida pela chaminé desativada. A perda de seus poderes afeta sua percepção e instintos de sobrevivência, forçando-a a suportar as dificuldades físicas extremas de navegar no labirinto enferrujado sem habilidades sobre-humanas.
 *   **Motivação:**
     *   Inicialmente encontrar a "Fonte Primordial", que agora se revela uma lenda ilusória. Sua motivação central agora é pura e simplesmente a sobrevivência em uma Nova Aether desestabilizada e perigosa após a queda do núcleo da Ordem.
 
@@ -57,7 +57,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 90):** Navegando o labirinto dos dutos industriais em direção às Docas Mortas do Setor 4. O novo braço mecânico de dezoito quilos dificulta o rastejo e causa choques de dor fantasma severos (o bloqueador de dor está falhando). Apesar do sofrimento, ele usa seu rifle de plasma para cobrir a fuga contra as aranhas de busca.
+    *   **Estado Atual (Cap. 91):** Nas Docas Mortas. O novo braço mecânico de dezoito quilos causou o colapso de seu bloqueador de dor, deixando-o sofrendo espasmos severos de dor fantasma e parcialmente incapacitado no fundo da chaminé.
 *   **Equipamento:**
     *   Roupas rasgadas, pulmão cibernético operando com mais estabilidade. Possui um novo braço cibernético pesado de combate (classe-B, dezoito quilos) de acabamento fosco, rústico e com tubulações expostas, cujos atrasos de comando neural ainda lhe causam fortes tremores.
 *   **Motivação:**
@@ -70,7 +70,7 @@
 *   **Descrição:**
     *   Um chefe de gangue movido pela ganância que controla os recursos vitais e os filtros de ar no Setor 4.
     *   Pragmático e implacável, ele subestima ameaças físicas menores, mas respeita perigos cibernéticos.
-    *   **Estado Atual (Cap. 90):** Seu nodo principal de purificação de água foi destruído, provocando um apagão hidráulico no Setor 4. Após a perda de parte de sua equipe, ele enviou aranhas de busca que conseguem infiltrar a rede de dutos de ventilação industriais, encurralando Elara e Jaxon rumo às chaminés desativadas.
+    *   **Estado Atual (Cap. 91):** Seu nodo principal de purificação de água foi destruído, provocando um apagão hidráulico no Setor 4. Enviou aranhas de busca pelos dutos, mas estas falharam em seguir Elara e Jaxon pela descida vertical da chaminé rumo às Docas Mortas.
 *   **Motivação:**
     *   Manter o monopólio e o poder do seu Cartel. Vingança contra Elara e Jaxon por humilhá-lo e roubar os filtros Classe-A vitais.
 
@@ -136,7 +136,7 @@
 *   **Definição:** Um aglomerado vertical de habitações precárias, mercados negros e clínicas ilegais. Possui também docas secas onde cartéis operam.
 *   **Atmosfera:** Quente, úmida e saturada de neon e poluição. O oposto absoluto do setor congelado abaixo. As docas cheiram a peixe podre e ozônio velho, com chuva ácida constante.
 *   **Habitantes:** Párias, criminosos, viciados em *stim* e aqueles que não podem pagar pela cidadania nos níveis superiores. Gangues como o Cartel da Água controlam recursos vitais.
-*   **Estado Atual (Cap. 90):** O ar superior d'A Pilha continua varrido pelos drones assassinos de Silas. O subsolo sofre um blecaute hidráulico completo após a destruição do purificador. Elara e Jaxon estão atualmente na rede de dutos de exaustão, fugindo de aranhas de busca em direção às docas mortas.
+*   **Estado Atual (Cap. 91):** O ar superior d'A Pilha continua varrido pelos drones assassinos de Silas. O subsolo sofre um blecaute hidráulico completo após a destruição do purificador. Elara e Jaxon desceram para as Docas Mortas abandonadas.
 
 ### Setor 5
 *   **Estado Atual (Cap. 51/78):** Sem eletricidade pela queda da rede central, mergulhado na escuridão, pontuado apenas por parcos neons e fogueiras químicas. Devido às temperaturas abaixo de zero da neve ácida, tornou-se um deserto de gelo letal.
