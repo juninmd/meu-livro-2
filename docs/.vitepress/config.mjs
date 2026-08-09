@@ -229,6 +229,8 @@ export default defineConfig({
           { text: 'Reflexão: Capítulo 90', link: '/reflexoes/reflexao-90' },
           { text: 'Capítulo 91: O Fundo do Poço', link: '/public/capitulos/capitulo-91' },
           { text: 'Reflexão: Capítulo 91', link: '/reflexoes/reflexao-91' },
+          { text: 'Capítulo 92: Gambiarra Sanguínea', link: '/public/capitulos/capitulo-92' },
+          { text: 'Reflexão: Capítulo 92', link: '/reflexoes/reflexao-92' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]
