@@ -11,7 +11,7 @@
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Originalmente permitia acelerar a percepção do tempo e reagir a ameaças com precisão sobre-humana. No entanto, após o embate final, seu poder bioelétrico foi quase inteiramente extinto ("queimado").
     *   Seus poderes bioelétricos criavam uma ponte involuntária com o Deus-Máquina, mas essa conexão foi cortada de forma permanente.
-    *   **Estado Atual (Cap. 91):** Sobrevivendo nas Docas Mortas após uma perigosa descida pela chaminé desativada. A perda de seus poderes afeta sua percepção e instintos de sobrevivência, forçando-a a suportar as dificuldades físicas extremas de navegar no labirinto enferrujado sem habilidades sobre-humanas.
+    *   **Estado Atual (Cap. 92):** Sobrevivendo nas Docas Mortas. Sem seus poderes, ela precisou recorrer aos seus conhecimentos como sucateira para criar um curto-circuito no braço cibernético de Jaxon, salvando-o do choque neuro-feedback e demonstrando sua capacidade de adaptação em situações de extrema pressão.
 *   **Motivação:**
     *   Inicialmente encontrar a "Fonte Primordial", que agora se revela uma lenda ilusória. Sua motivação central agora é pura e simplesmente a sobrevivência em uma Nova Aether desestabilizada e perigosa após a queda do núcleo da Ordem.
 
@@ -57,9 +57,9 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 91):** Nas Docas Mortas. O novo braço mecânico de dezoito quilos causou o colapso de seu bloqueador de dor, deixando-o sofrendo espasmos severos de dor fantasma e parcialmente incapacitado no fundo da chaminé.
+    *   **Estado Atual (Cap. 92):** Nas Docas Mortas. Após entrar em choque devido ao colapso do bloqueador de dor causado pelo seu braço cibernético, Elara realizou um curto-circuito em sua via sensorial. Ele agora não sente a dor fantasma, mas perdeu 70% da capacidade motora do braço de dezoito quilos.
 *   **Equipamento:**
-    *   Roupas rasgadas, pulmão cibernético operando com mais estabilidade. Possui um novo braço cibernético pesado de combate (classe-B, dezoito quilos) de acabamento fosco, rústico e com tubulações expostas, cujos atrasos de comando neural ainda lhe causam fortes tremores.
+    *   Roupas rasgadas, pulmão cibernético operando com mais estabilidade. Possui um novo braço cibernético pesado de combate (classe-B, dezoito quilos) que sofreu uma gambiarra (curto-circuito na via sensorial), perdendo a maior parte de sua força motriz, agindo parcialmente como um peso morto.
 *   **Motivação:**
     *   Inicialmente dinheiro, mas sua lealdade muda à medida que ele vê em Elara a esperança que pensava ter perdido. Determinado a proteger Elara, mesmo que isso custe sua vida.
 
