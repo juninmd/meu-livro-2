@@ -57,9 +57,9 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 92):** Nas Docas Mortas. Após entrar em choque devido ao colapso do bloqueador de dor causado pelo seu braço cibernético, Elara realizou um curto-circuito em sua via sensorial. Ele agora não sente a dor fantasma, mas perdeu 70% da capacidade motora do braço de dezoito quilos.
+    *   **Estado Atual (Cap. 93):** Sobrevivendo nas Docas Mortas. Após entrar em choque devido ao colapso do bloqueador de dor, teve a via sensorial do braço cibernético cortada por Elara. Sem 70% da capacidade motora e lidando com o peso inerte, sobreviveu a um ataque de predadores biomecânicos, sendo salvo pela astúcia ambiental de Elara.
 *   **Equipamento:**
-    *   Roupas rasgadas, pulmão cibernético operando com mais estabilidade. Possui um novo braço cibernético pesado de combate (classe-B, dezoito quilos) que sofreu uma gambiarra (curto-circuito na via sensorial), perdendo a maior parte de sua força motriz, agindo parcialmente como um peso morto.
+    *   Roupas rasgadas, pulmão cibernético operando com mais estabilidade. Possui um novo braço cibernético pesado de combate (classe-B, dezoito quilos) que sofreu uma gambiarra (curto-circuito na via sensorial), perdendo a maior parte de sua força motriz e agindo como um peso morto em combate de curto alcance.
 *   **Motivação:**
     *   Inicialmente dinheiro, mas sua lealdade muda à medida que ele vê em Elara a esperança que pensava ter perdido. Determinado a proteger Elara, mesmo que isso custe sua vida.
 
@@ -136,7 +136,7 @@
 *   **Definição:** Um aglomerado vertical de habitações precárias, mercados negros e clínicas ilegais. Possui também docas secas onde cartéis operam.
 *   **Atmosfera:** Quente, úmida e saturada de neon e poluição. O oposto absoluto do setor congelado abaixo. As docas cheiram a peixe podre e ozônio velho, com chuva ácida constante.
 *   **Habitantes:** Párias, criminosos, viciados em *stim* e aqueles que não podem pagar pela cidadania nos níveis superiores. Gangues como o Cartel da Água controlam recursos vitais.
-*   **Estado Atual (Cap. 91):** O ar superior d'A Pilha continua varrido pelos drones assassinos de Silas. O subsolo sofre um blecaute hidráulico completo após a destruição do purificador. Elara e Jaxon desceram para as Docas Mortas abandonadas.
+*   **Estado Atual (Cap. 93):** O ar superior d'A Pilha continua varrido pelos drones assassinos de Silas. O subsolo sofre um blecaute hidráulico completo após a destruição do purificador. Elara e Jaxon estão nas Docas Mortas, enfrentando necrófagos biomecânicos adaptados ao esgoto químico bioluminescente da região inferior.
 
 ### Setor 5
 *   **Estado Atual (Cap. 51/78):** Sem eletricidade pela queda da rede central, mergulhado na escuridão, pontuado apenas por parcos neons e fogueiras químicas. Devido às temperaturas abaixo de zero da neve ácida, tornou-se um deserto de gelo letal.
