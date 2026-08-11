@@ -233,6 +233,8 @@ export default defineConfig({
           { text: 'Reflexão: Capítulo 92', link: '/reflexoes/reflexao-92' },
           { text: 'Capítulo 93: Predadores da Ferrugem', link: '/public/capitulos/capitulo-93' },
           { text: 'Reflexão: Capítulo 93', link: '/reflexoes/reflexao-93' },
+          { text: 'Capítulo 94: O Casco Podre', link: '/public/capitulos/capitulo-94' },
+          { text: 'Reflexão: Capítulo 94', link: '/reflexoes/reflexao-94' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]

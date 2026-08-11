@@ -209,3 +209,41 @@ Os antagonistas (A Ordem, e agora o Cartel da Água liderado por Silas) sempre d
 ## Revisão Global de Todos os Personagens (Capítulos 1 ao 90)
 
 A evolução contínua da narrativa ressalta as profundas marcas de deterioração. Elara, que já foi capaz de controlar máquinas, agora enfrenta seu destino apenas com força de vontade e instinto de sobrevivência. Jaxon, outrora o músculo dominante, é constantemente lembrado pela dor de que as próteses que o mantêm vivo estão falhando sob o peso da realidade. Ambos permanecem na defensiva em um mundo cibernético que pune os fracos sem piedade.
+
+## Lote 32: Capítulos 91, 92 e 93
+**Status:** Revisado
+**Capítulos:** 91 (O Fundo do Poço), 92 (Gambiarra Sanguínea), 93 (Predadores da Ferrugem)
+
+### Coerência dos Personagens
+*   **Elara:** A perda dos poderes consolidou-a como uma sobrevivente letal, adaptando-se às regras brutais do submundo utilizando recursos ambientais (como causar um curto-circuito ou usar fios elétricos das docas).
+*   **Jaxon:** Seu corpo de mercenário continua a traí-lo sob o estresse extremo e o material barato das próteses, sendo um peso morto que Elara tem de gerenciar. Esta fragilidade humaniza-o sem destruir sua resiliência mental cínica.
+*   **Sanity Check:** O plot respeita plenamente as consequências do ambiente (Docas Mortas) e o estado físico debilitado de ambos.
+
+### Qualidade da História
+*   **Atmosfera e Ritmo:** O contraste atmosférico das Docas Mortas com a chaminé e as poças venenosas refina o terror *cyberpunk*. O ritmo passa de terror claustrofóbico (descida) à ação visceral, focando fortemente em detalhes sensoriais mórbidos (cheiros, luminescências letais).
+
+### Necessidade de Novos Personagens
+*   Os monstros biomecânicos substituem o perigo político por terror físico instintivo, poupando a introdução de novos personagens nomeados e mantendo o foco restrito nas provações físicas e psicológicas da dupla.
+
+## Lote 33: Capítulo 94
+**Status:** Revisado
+**Capítulo:** 94 (O Casco Podre)
+
+### Coerência dos Personagens
+*   **Elara:** Sua adaptação mental para ser fria e calculista diante do cansaço e sem depender do misticismo de seus antigos poderes encerra a desconstrução completa da sua identidade antiga, mostrando evolução.
+*   **Jaxon:** Seu pragmatismo assume uma face pessimista devido ao desgaste implacável e da inutilidade do seu braço robótico, o que ressoa perfeitamente com a fadiga prolongada do arco.
+*   **Sanity Check:** Nenhum poder novo ou salvador milagroso surgiu; eles dependem exclusivamente de se esconder em sucata para ganhar tempo.
+
+### Qualidade da História
+*   **Atmosfera e Ritmo:** O ritmo desacelera perfeitamente para permitir fôlego após a ação do capítulo anterior. O claustro dentro do submarino acentua a atmosfera sufocante e perigosa do *noir* tecnológico.
+
+### Necessidade de Novos Personagens
+*   Foco restrito em Elara e Jaxon, servindo perfeitamente ao isolamento do arco narrativo sem precisar introduzir nenhum novo NPC.
+
+## Revisão Global de Todos os Personagens (Capítulos 1 ao 94)
+
+A progressão da história desde o Capítulo 1 ao 94 demonstrou uma metamorfose drástica e sustentável. Elara passou de uma anomalia conectada ao "Deus-Máquina" (possuindo habilidades de curar e atacar com bioeletricidade) a uma lutadora endurecida pela dor, que perdeu seus poderes no clímax de destruição da inteligência biomecânica e que agora sobrevive puramente pelo aprendizado adquirido na sua jornada ao lado de Jaxon, e que acaba de aceitar de forma madura seu papel não como escolhida, mas como sucateira.
+
+Jaxon teve seu arco baseado na erosão lenta e dolorosa: um veterano letal, que teve sua carne comprometida gradativamente. Ele perdeu e substituiu membros vitais com sucata barata (pulmão e braço), mostrando de forma explícita que a cibernética neste universo não é um *upgrade* glorioso, e sim uma âncora degradante que salva vidas a um alto custo físico e mental (como as falhas de comando e exaustão).
+
+Os antagonistas (A Ordem, e agora o Cartel da Água liderado por Silas) sempre demonstraram uma letalidade opressora, forçando a dupla a uma sobrevivência reativa. Os cenários da narrativa (do Setor 7 ao 4, a Scrapyard, as chaminés, às Docas Mortas e ao submarino) funcionam ativamente como vilões suplementares, constantemente submetendo os protagonistas aos seus limites, desconstruindo o tropo clássico de heróis indomáveis.
