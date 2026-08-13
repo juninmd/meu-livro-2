@@ -235,6 +235,8 @@ export default defineConfig({
           { text: 'Reflexão: Capítulo 93', link: '/reflexoes/reflexao-93' },
           { text: 'Capítulo 94: O Casco Podre', link: '/public/capitulos/capitulo-94' },
           { text: 'Reflexão: Capítulo 94', link: '/reflexoes/reflexao-94' },
+          { text: 'Capítulo 95: O Som do Silêncio e da Ferrugem', link: '/public/capitulos/capitulo-95' },
+          { text: 'Reflexão: Capítulo 95', link: '/reflexoes/reflexao-95' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]

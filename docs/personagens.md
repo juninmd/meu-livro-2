@@ -11,7 +11,7 @@
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Originalmente permitia acelerar a percepção do tempo e reagir a ameaças com precisão sobre-humana. No entanto, após o embate final, seu poder bioelétrico foi quase inteiramente extinto ("queimado").
     *   Seus poderes bioelétricos criavam uma ponte involuntária com o Deus-Máquina, mas essa conexão foi cortada de forma permanente.
-    *   **Estado Atual (Cap. 94):** Abrindo mão do medo e aceitando plenamente a nova realidade sem poderes, Elara sobrevive puramente na base da perseverança física e astúcia de sucateira. Encontrou um refúgio temporário para ela e Jaxon num submarino apodrecido nas Docas Mortas, consolidando sua nova visão pragmática do mundo.
+    *   **Estado Atual (Cap. 95):** Presa no interior de um submarino apodrecido nas Docas Mortas com Jaxon. Lutando contra o confinamento claustrofóbico e o medo iminente, ela agora lidera a exploração das entranhas do cargueiro em busca de uma escotilha de evacuação submersa, aceitando cada vez mais sua vulnerabilidade orgânica.
 *   **Motivação:**
     *   Inicialmente encontrar a "Fonte Primordial", que agora se revela uma lenda ilusória. Sua motivação central agora é pura e simplesmente a sobrevivência em uma Nova Aether desestabilizada e perigosa após a queda do núcleo da Ordem.
 
@@ -57,7 +57,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 94):** Encurralado dentro de um antigo cargueiro submersível nas Docas Mortas ao lado de Elara. Após o combate contra os necrófagos, a exaustão o domina e o braço cibernético avariado continua a atuar como um peso morto que drena sua estamina orgânica, levando-o ao pessimismo absoluto.
+    *   **Estado Atual (Cap. 95):** Preso e severamente enfraquecido no interior do velho cargueiro com Elara. A gambiarra em seu braço cibernético começou a causar inflamação na junção neural, agravando seu sofrimento. Dominado pela exaustão e pela perspectiva sufocante, ele delega a busca por uma saída a Elara.
 *   **Equipamento:**
     *   Roupas rasgadas, pulmão cibernético operando com mais estabilidade. Possui um novo braço cibernético pesado de combate (classe-B, dezoito quilos) que sofreu uma gambiarra (curto-circuito na via sensorial), perdendo a maior parte de sua força motriz e agindo como um peso morto em combate de curto alcance.
 *   **Motivação:**
@@ -136,7 +136,7 @@
 *   **Definição:** Um aglomerado vertical de habitações precárias, mercados negros e clínicas ilegais. Possui também docas secas onde cartéis operam.
 *   **Atmosfera:** Quente, úmida e saturada de neon e poluição. O oposto absoluto do setor congelado abaixo. As docas cheiram a peixe podre e ozônio velho, com chuva ácida constante.
 *   **Habitantes:** Párias, criminosos, viciados em *stim* e aqueles que não podem pagar pela cidadania nos níveis superiores. Gangues como o Cartel da Água controlam recursos vitais.
-*   **Estado Atual (Cap. 94):** O ar superior d'A Pilha continua varrido pelos drones assassinos de Silas. O subsolo sofre um blecaute hidráulico completo após a destruição do purificador. Elara e Jaxon buscaram refúgio temporário no interior de um antigo submarino de contrabando apodrecido nas Docas Mortas.
+*   **Estado Atual (Cap. 95):** O ar superior d'A Pilha continua varrido pelos drones assassinos de Silas. O subsolo sofre um blecaute hidráulico completo. Nas Docas Mortas, Elara e Jaxon permanecem confinados em um antigo submarino de contrabando enferrujado, explorando o labirinto de suas entranhas na esperança de encontrar um tubo de evacuação.
 
 ### Setor 5
 *   **Estado Atual (Cap. 51/78):** Sem eletricidade pela queda da rede central, mergulhado na escuridão, pontuado apenas por parcos neons e fogueiras químicas. Devido às temperaturas abaixo de zero da neve ácida, tornou-se um deserto de gelo letal.
