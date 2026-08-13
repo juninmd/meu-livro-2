@@ -38,8 +38,7 @@
 - [x] Capítulos 84, 85, 86
 - [x] Capítulos 87, 88, 89
 - [x] Capítulos 90, 91, 92
-- [x] Capítulo 93
-- [x] Capítulo 94
+- [x] Capítulos 93, 94, 95
 
 **Análise dos Capítulos 13, 14 e 15:**
 - **Coerência de Personagens:** Elara transita de uma combatente exaurida para alguém que está disposta a negociar um pedaço de si mesma por Jaxon. Jaxon segue debilitado, e a introdução oficial do Dr. Vex é bem integrada à necessidade médica emergencial sem que ele ofusque o núcleo da equipe. A troca entre Vex e Elara e a intromissão do Deus-Máquina fluem naturalmente.
