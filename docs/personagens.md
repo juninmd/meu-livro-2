@@ -57,7 +57,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 95):** Preso e severamente enfraquecido no interior do velho cargueiro com Elara. A gambiarra em seu braço cibernético começou a causar inflamação na junção neural, agravando seu sofrimento. Dominado pela exaustão e pela perspectiva sufocante, ele delega a busca por uma saída a Elara.
+    *   **Estado Atual (Cap. 96):** Preso e definhando no interior do velho cargueiro nas Docas Mortas. A inflamação no soquete neural agravou-se consideravelmente, prendendo-o à proa e forçando Elara a buscar a rota de fuga pelos tubos de torpedo sozinha.
 *   **Equipamento:**
     *   Roupas rasgadas, pulmão cibernético operando com mais estabilidade. Possui um novo braço cibernético pesado de combate (classe-B, dezoito quilos) que sofreu uma gambiarra (curto-circuito na via sensorial), perdendo a maior parte de sua força motriz e agindo como um peso morto em combate de curto alcance.
 *   **Motivação:**
@@ -136,7 +136,7 @@
 *   **Definição:** Um aglomerado vertical de habitações precárias, mercados negros e clínicas ilegais. Possui também docas secas onde cartéis operam.
 *   **Atmosfera:** Quente, úmida e saturada de neon e poluição. O oposto absoluto do setor congelado abaixo. As docas cheiram a peixe podre e ozônio velho, com chuva ácida constante.
 *   **Habitantes:** Párias, criminosos, viciados em *stim* e aqueles que não podem pagar pela cidadania nos níveis superiores. Gangues como o Cartel da Água controlam recursos vitais.
-*   **Estado Atual (Cap. 95):** O ar superior d'A Pilha continua varrido pelos drones assassinos de Silas. O subsolo sofre um blecaute hidráulico completo. Nas Docas Mortas, Elara e Jaxon permanecem confinados em um antigo submarino de contrabando enferrujado, explorando o labirinto de suas entranhas na esperança de encontrar um tubo de evacuação.
+*   **Estado Atual (Cap. 96):** O ar superior d'A Pilha continua varrido pelos drones assassinos de Silas. O subsolo sofre um blecaute hidráulico completo. Nas Docas Mortas, Elara encontrou uma possível, porém letal, rota de fuga através dos velhos tubos de torpedo do submarino, mas Jaxon está fisicamente incapaz de segui-la sem ajuda.
 
 ### Setor 5
 *   **Estado Atual (Cap. 51/78):** Sem eletricidade pela queda da rede central, mergulhado na escuridão, pontuado apenas por parcos neons e fogueiras químicas. Devido às temperaturas abaixo de zero da neve ácida, tornou-se um deserto de gelo letal.

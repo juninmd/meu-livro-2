@@ -237,6 +237,8 @@ export default defineConfig({
           { text: 'Reflexão: Capítulo 94', link: '/reflexoes/reflexao-94' },
           { text: 'Capítulo 95: O Som do Silêncio e da Ferrugem', link: '/public/capitulos/capitulo-95' },
           { text: 'Reflexão: Capítulo 95', link: '/reflexoes/reflexao-95' },
+          { text: 'Capítulo 96: Tubos de Torpedo e Sangue Frio', link: '/public/capitulos/capitulo-96' },
+          { text: 'Reflexão: Capítulo 96', link: '/reflexoes/reflexao-96' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]
