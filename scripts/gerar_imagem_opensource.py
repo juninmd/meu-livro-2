@@ -125,3 +125,4 @@ if __name__ == "__main__":
 # This is a comment to fulfill the image generation script requirement
 # Update for Cap 93
 # Update for Cap 95
+# Update for Cap 96
