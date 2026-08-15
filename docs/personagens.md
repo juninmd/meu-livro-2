@@ -11,7 +11,7 @@
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Originalmente permitia acelerar a percepção do tempo e reagir a ameaças com precisão sobre-humana. No entanto, após o embate final, seu poder bioelétrico foi quase inteiramente extinto ("queimado").
     *   Seus poderes bioelétricos criavam uma ponte involuntária com o Deus-Máquina, mas essa conexão foi cortada de forma permanente.
-    *   **Estado Atual (Cap. 95):** Presa no interior de um submarino apodrecido nas Docas Mortas com Jaxon. Lutando contra o confinamento claustrofóbico e o medo iminente, ela agora lidera a exploração das entranhas do cargueiro em busca de uma escotilha de evacuação submersa, aceitando cada vez mais sua vulnerabilidade orgânica.
+    *   **Estado Atual (Cap. 97):** Após resgatar Jaxon no interior do cargueiro, os dois iniciaram uma perigosa fuga através de um tubo de torpedo adaptado, sendo violentamente ejetados nas águas gélidas e altamente tóxicas das Docas Mortas.
 *   **Motivação:**
     *   Inicialmente encontrar a "Fonte Primordial", que agora se revela uma lenda ilusória. Sua motivação central agora é pura e simplesmente a sobrevivência em uma Nova Aether desestabilizada e perigosa após a queda do núcleo da Ordem.
 
@@ -57,7 +57,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 96):** Preso e definhando no interior do velho cargueiro nas Docas Mortas. A inflamação no soquete neural agravou-se consideravelmente, prendendo-o à proa e forçando Elara a buscar a rota de fuga pelos tubos de torpedo sozinha.
+    *   **Estado Atual (Cap. 97):** Com o corpo quase falhando devido ao peso e inflamação severa do braço cibernético, ele precisou ser apoiado por Elara para alcançar a sala dos torpedos. Atualmente, lançou-se no escuro ao lado dela, em um desesperado salto cego rumo às águas cáusticas das Docas Mortas.
 *   **Equipamento:**
     *   Roupas rasgadas, pulmão cibernético operando com mais estabilidade. Possui um novo braço cibernético pesado de combate (classe-B, dezoito quilos) que sofreu uma gambiarra (curto-circuito na via sensorial), perdendo a maior parte de sua força motriz e agindo como um peso morto em combate de curto alcance.
 *   **Motivação:**
