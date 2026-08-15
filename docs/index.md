@@ -133,6 +133,7 @@ O mundo é uma mistura de natureza retomando seu espaço e esqueletos de megacid
 - [Capítulo 94: O Casco Podre](/public/capitulos/capitulo-94) ([Reflexão](/reflexoes/reflexao-94))
 - [Capítulo 95: O Som do Silêncio e da Ferrugem](/public/capitulos/capitulo-95) ([Reflexão](/reflexoes/reflexao-95))
 - [Capítulo 96: Tubos de Torpedo e Sangue Frio](/public/capitulos/capitulo-96) ([Reflexão](/reflexoes/reflexao-96))
+- [Capítulo 97: Cuspe no Escuro](/public/capitulos/capitulo-97) ([Reflexão](/reflexoes/reflexao-97))
 
 <div class="story-card">
 <strong>O Legado de Silício</strong> explora a linha tênue entre tecnologia e magia em um futuro esquecido.
