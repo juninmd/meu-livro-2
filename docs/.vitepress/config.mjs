@@ -241,6 +241,8 @@ export default defineConfig({
           { text: 'Reflexão: Capítulo 96', link: '/reflexoes/reflexao-96' },
           { text: 'Capítulo 97: Cuspe no Escuro', link: '/public/capitulos/capitulo-97' },
           { text: 'Reflexão: Capítulo 97', link: '/reflexoes/reflexao-97' },
+          { text: 'Capítulo 98: Afogamento em Ácido', link: '/public/capitulos/capitulo-98' },
+          { text: 'Reflexão: Capítulo 98', link: '/reflexoes/reflexao-98' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]
