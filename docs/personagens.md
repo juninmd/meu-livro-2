@@ -11,7 +11,7 @@
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Originalmente permitia acelerar a percepção do tempo e reagir a ameaças com precisão sobre-humana. No entanto, após o embate final, seu poder bioelétrico foi quase inteiramente extinto ("queimado").
     *   Seus poderes bioelétricos criavam uma ponte involuntária com o Deus-Máquina, mas essa conexão foi cortada de forma permanente.
-    *   **Estado Atual (Cap. 97):** Após resgatar Jaxon no interior do cargueiro, os dois iniciaram uma perigosa fuga através de um tubo de torpedo adaptado, sendo violentamente ejetados nas águas gélidas e altamente tóxicas das Docas Mortas.
+    *   **Estado Atual (Cap. 98):** Lançada nas águas corrosivas e geladas das Docas Mortas, precisou lutar contra a correnteza letal e forçar o desengate manual do braço cibernético de Jaxon debaixo d'água para impedir que ambos se afogassem. Estão atualmente boiando na lama tóxica, exaustos, buscando terra firme.
 *   **Motivação:**
     *   Inicialmente encontrar a "Fonte Primordial", que agora se revela uma lenda ilusória. Sua motivação central agora é pura e simplesmente a sobrevivência em uma Nova Aether desestabilizada e perigosa após a queda do núcleo da Ordem.
 
@@ -57,9 +57,9 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 97):** Com o corpo quase falhando devido ao peso e inflamação severa do braço cibernético, ele precisou ser apoiado por Elara para alcançar a sala dos torpedos. Atualmente, lançou-se no escuro ao lado dela, em um desesperado salto cego rumo às águas cáusticas das Docas Mortas.
+    *   **Estado Atual (Cap. 98):** Lançado nas águas corrosivas das Docas Mortas, o peso de seu braço cibernético danificado quase o arrastou para a morte. Ele perdeu o membro mecânico permanentemente após Elara forçar o desengate manual debaixo d'água. Agora boiando na lama cáustica com pulmões encharcados, luta para sobreviver ao esgotamento físico extremo.
 *   **Equipamento:**
-    *   Roupas rasgadas, pulmão cibernético operando com mais estabilidade. Possui um novo braço cibernético pesado de combate (classe-B, dezoito quilos) que sofreu uma gambiarra (curto-circuito na via sensorial), perdendo a maior parte de sua força motriz e agindo como um peso morto em combate de curto alcance.
+    *   Roupas rasgadas, pulmão cibernético operando sob estresse severo por inalação de água contaminada. Perdeu definitivamente seu braço cibernético pesado de combate (classe-B) nas Docas Mortas.
 *   **Motivação:**
     *   Inicialmente dinheiro, mas sua lealdade muda à medida que ele vê em Elara a esperança que pensava ter perdido. Determinado a proteger Elara, mesmo que isso custe sua vida.
 
