@@ -135,6 +135,7 @@ O mundo é uma mistura de natureza retomando seu espaço e esqueletos de megacid
 - [Capítulo 96: Tubos de Torpedo e Sangue Frio](/public/capitulos/capitulo-96) ([Reflexão](/reflexoes/reflexao-96))
 - [Capítulo 97: Cuspe no Escuro](/public/capitulos/capitulo-97) ([Reflexão](/reflexoes/reflexao-97))
 - [Capítulo 98: Afogamento em Ácido](/public/capitulos/capitulo-98) ([Reflexão](/reflexoes/reflexao-98))
+- [Capítulo 99: O Sabor da Ferrugem e do Chumbo](/public/capitulos/capitulo-99) ([Reflexão](/reflexoes/reflexao-99))
 
 <div class="story-card">
 <strong>O Legado de Silício</strong> explora a linha tênue entre tecnologia e magia em um futuro esquecido.

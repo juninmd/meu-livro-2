@@ -57,9 +57,9 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 98):** Lançado nas águas corrosivas das Docas Mortas, o peso de seu braço cibernético danificado quase o arrastou para a morte. Ele perdeu o membro mecânico permanentemente após Elara forçar o desengate manual debaixo d'água. Agora boiando na lama cáustica com pulmões encharcados, luta para sobreviver ao esgotamento físico extremo.
+    *   **Estado Atual (Cap. 99):** Resgatado das águas corrosivas das Docas Mortas para uma plataforma enferrujada. O trauma de perder permanentemente seu braço cibernético e inalar a água tóxica afetou severamente seu pulmão sintético. O toco de carne e fios expostos está em carne viva, improvisadamente estancado por Elara. Ele sobrevive à beira do colapso físico.
 *   **Equipamento:**
-    *   Roupas rasgadas, pulmão cibernético operando sob estresse severo por inalação de água contaminada. Perdeu definitivamente seu braço cibernético pesado de combate (classe-B) nas Docas Mortas.
+    *   Roupas esfarrapadas. Pulmão cibernético falhando criticamente ("soando como um motor morrendo") devido a inalação de água ácida. O soquete do braço cibernético destruído nas Docas Mortas está envolto em ataduras improvisadas.
 *   **Motivação:**
     *   Inicialmente dinheiro, mas sua lealdade muda à medida que ele vê em Elara a esperança que pensava ter perdido. Determinado a proteger Elara, mesmo que isso custe sua vida.
 
@@ -136,7 +136,7 @@
 *   **Definição:** Um aglomerado vertical de habitações precárias, mercados negros e clínicas ilegais. Possui também docas secas onde cartéis operam.
 *   **Atmosfera:** Quente, úmida e saturada de neon e poluição. O oposto absoluto do setor congelado abaixo. As docas cheiram a peixe podre e ozônio velho, com chuva ácida constante.
 *   **Habitantes:** Párias, criminosos, viciados em *stim* e aqueles que não podem pagar pela cidadania nos níveis superiores. Gangues como o Cartel da Água controlam recursos vitais.
-*   **Estado Atual (Cap. 96):** O ar superior d'A Pilha continua varrido pelos drones assassinos de Silas. O subsolo sofre um blecaute hidráulico completo. Nas Docas Mortas, Elara encontrou uma possível, porém letal, rota de fuga através dos velhos tubos de torpedo do submarino, mas Jaxon está fisicamente incapaz de segui-la sem ajuda.
+*   **Estado Atual (Cap. 99):** O ar superior d'A Pilha continua varrido pelos drones assassinos de Silas. O subsolo sofre um blecaute hidráulico completo. Nas Docas Mortas, Elara e Jaxon conseguiram fugir pela água letal e ácida após perderem partes importantes, e agora encontram-se temporariamente resguardados e isolados em uma ilha improvisada de metal enferrujado, de uma plataforma de submarinos em pedaços.
 
 ### Setor 5
 *   **Estado Atual (Cap. 51/78):** Sem eletricidade pela queda da rede central, mergulhado na escuridão, pontuado apenas por parcos neons e fogueiras químicas. Devido às temperaturas abaixo de zero da neve ácida, tornou-se um deserto de gelo letal.
