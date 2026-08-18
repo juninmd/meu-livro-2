@@ -260,6 +260,8 @@ export default defineConfig({
           { text: 'Reflexão: Capítulo 98', link: '/reflexoes/reflexao-98' },
           { text: 'Capítulo 99: O Sabor da Ferrugem e do Chumbo', link: '/public/capitulos/capitulo-99' },
           { text: 'Reflexão: Capítulo 99', link: '/reflexoes/reflexao-99' },
+          { text: 'Capítulo 100: Estruturas Ocas', link: '/public/capitulos/capitulo-100' },
+          { text: 'Reflexão: Capítulo 100', link: '/reflexoes/reflexao-100' },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]
