@@ -11,7 +11,7 @@
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Originalmente permitia acelerar a percepção do tempo e reagir a ameaças com precisão sobre-humana. No entanto, após o embate final, seu poder bioelétrico foi quase inteiramente extinto ("queimado").
     *   Seus poderes bioelétricos criavam uma ponte involuntária com o Deus-Máquina, mas essa conexão foi cortada de forma permanente.
-    *   **Estado Atual (Cap. 98):** Lançada nas águas corrosivas e geladas das Docas Mortas, precisou lutar contra a correnteza letal e forçar o desengate manual do braço cibernético de Jaxon debaixo d'água para impedir que ambos se afogassem. Estão atualmente boiando na lama tóxica, exaustos, buscando terra firme.
+    *   **Estado Atual (Cap. 100):** Isolada nas Docas Mortas ao lado de Jaxon, sua perda total dos poderes elétricos agora a define como humana comum. Encontrou suprimentos em uma torre de controle abandonada para suturar a amputação traumática do parceiro.
 *   **Motivação:**
     *   Inicialmente encontrar a "Fonte Primordial", que agora se revela uma lenda ilusória. Sua motivação central agora é pura e simplesmente a sobrevivência em uma Nova Aether desestabilizada e perigosa após a queda do núcleo da Ordem.
 
@@ -57,7 +57,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 99):** Resgatado das águas corrosivas das Docas Mortas para uma plataforma enferrujada. O trauma de perder permanentemente seu braço cibernético e inalar a água tóxica afetou severamente seu pulmão sintético. O toco de carne e fios expostos está em carne viva, improvisadamente estancado por Elara. Ele sobrevive à beira do colapso físico.
+    *   **Estado Atual (Cap. 100):** Resgatado das águas corrosivas das Docas Mortas para uma plataforma enferrujada. O trauma de perder permanentemente seu braço cibernético e inalar a água tóxica afetou severamente seu pulmão sintético. Seu ombro mutilado foi suturado e cauterizado com gel selante por Elara usando suprimentos encontrados em uma torre de controle. Ainda sobrevive à beira do colapso físico.
 *   **Equipamento:**
     *   Roupas esfarrapadas. Pulmão cibernético falhando criticamente ("soando como um motor morrendo") devido a inalação de água ácida. O soquete do braço cibernético destruído nas Docas Mortas está envolto em ataduras improvisadas.
 *   **Motivação:**
@@ -136,7 +136,7 @@
 *   **Definição:** Um aglomerado vertical de habitações precárias, mercados negros e clínicas ilegais. Possui também docas secas onde cartéis operam.
 *   **Atmosfera:** Quente, úmida e saturada de neon e poluição. O oposto absoluto do setor congelado abaixo. As docas cheiram a peixe podre e ozônio velho, com chuva ácida constante.
 *   **Habitantes:** Párias, criminosos, viciados em *stim* e aqueles que não podem pagar pela cidadania nos níveis superiores. Gangues como o Cartel da Água controlam recursos vitais.
-*   **Estado Atual (Cap. 99):** O ar superior d'A Pilha continua varrido pelos drones assassinos de Silas. O subsolo sofre um blecaute hidráulico completo. Nas Docas Mortas, Elara e Jaxon conseguiram fugir pela água letal e ácida após perderem partes importantes, e agora encontram-se temporariamente resguardados e isolados em uma ilha improvisada de metal enferrujado, de uma plataforma de submarinos em pedaços.
+*   **Estado Atual (Cap. 100):** O ar superior d'A Pilha continua varrido pelos drones assassinos de Silas. O subsolo sofre um blecaute hidráulico completo. Nas Docas Mortas, Elara e Jaxon encontraram refúgio temporário e suprimentos médicos dentro de uma torre de controle na velha plataforma de submarinos, embora ainda estejam cercados pela radiação e toxicidade.
 
 ### Setor 5
 *   **Estado Atual (Cap. 51/78):** Sem eletricidade pela queda da rede central, mergulhado na escuridão, pontuado apenas por parcos neons e fogueiras químicas. Devido às temperaturas abaixo de zero da neve ácida, tornou-se um deserto de gelo letal.
