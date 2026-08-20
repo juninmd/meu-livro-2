@@ -57,7 +57,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 100):** Resgatado das águas corrosivas das Docas Mortas para uma plataforma enferrujada. O trauma de perder permanentemente seu braço cibernético e inalar a água tóxica afetou severamente seu pulmão sintético. Seu ombro mutilado foi suturado e cauterizado com gel selante por Elara usando suprimentos encontrados em uma torre de controle. Ainda sobrevive à beira do colapso físico.
+    *   **Estado Atual (Cap. 101):** Refugiado com Elara em uma torre de controle nas Docas Mortas. Sobrevive à beira do colapso físico; seu pulmão sintético engasga severamente e seu ombro amputado está selado com gel corporativo.
 *   **Equipamento:**
     *   Roupas esfarrapadas. Pulmão cibernético falhando criticamente ("soando como um motor morrendo") devido a inalação de água ácida. O soquete do braço cibernético destruído nas Docas Mortas está envolto em ataduras improvisadas.
 *   **Motivação:**
@@ -136,7 +136,7 @@
 *   **Definição:** Um aglomerado vertical de habitações precárias, mercados negros e clínicas ilegais. Possui também docas secas onde cartéis operam.
 *   **Atmosfera:** Quente, úmida e saturada de neon e poluição. O oposto absoluto do setor congelado abaixo. As docas cheiram a peixe podre e ozônio velho, com chuva ácida constante.
 *   **Habitantes:** Párias, criminosos, viciados em *stim* e aqueles que não podem pagar pela cidadania nos níveis superiores. Gangues como o Cartel da Água controlam recursos vitais.
-*   **Estado Atual (Cap. 100):** O ar superior d'A Pilha continua varrido pelos drones assassinos de Silas. O subsolo sofre um blecaute hidráulico completo. Nas Docas Mortas, Elara e Jaxon encontraram refúgio temporário e suprimentos médicos dentro de uma torre de controle na velha plataforma de submarinos, embora ainda estejam cercados pela radiação e toxicidade.
+*   **Estado Atual (Cap. 101):** O ar superior d'A Pilha continua varrido pelos drones assassinos de Silas, que recuaram temporariamente devido ao apagão hidráulico. Nas Docas Mortas, Elara e Jaxon estão abrigados em uma velha torre de controle. Elara acessou um terminal antigo que revelou um elevador de carga profunda nas proximidades, levando a um complexo de purificação termal.
 
 ### Setor 5
 *   **Estado Atual (Cap. 51/78):** Sem eletricidade pela queda da rede central, mergulhado na escuridão, pontuado apenas por parcos neons e fogueiras químicas. Devido às temperaturas abaixo de zero da neve ácida, tornou-se um deserto de gelo letal.
