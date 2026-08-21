@@ -264,6 +264,8 @@ export default defineConfig({
           { text: 'Reflexão: Capítulo 100', link: '/reflexoes/reflexao-100' },
           { text: "Capítulo 101: O Eco das Máquinas Mortas", link: "/public/capitulos/capitulo-101" },
           { text: "Reflexão: Capítulo 101", link: "/reflexoes/reflexao-101" },
+          { text: "Capítulo 102: Batismo de Ácido", link: "/public/capitulos/capitulo-102" },
+          { text: "Reflexão: Capítulo 102", link: "/reflexoes/reflexao-102" },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]

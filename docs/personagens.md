@@ -136,7 +136,7 @@
 *   **Definição:** Um aglomerado vertical de habitações precárias, mercados negros e clínicas ilegais. Possui também docas secas onde cartéis operam.
 *   **Atmosfera:** Quente, úmida e saturada de neon e poluição. O oposto absoluto do setor congelado abaixo. As docas cheiram a peixe podre e ozônio velho, com chuva ácida constante.
 *   **Habitantes:** Párias, criminosos, viciados em *stim* e aqueles que não podem pagar pela cidadania nos níveis superiores. Gangues como o Cartel da Água controlam recursos vitais.
-*   **Estado Atual (Cap. 101):** O ar superior d'A Pilha continua varrido pelos drones assassinos de Silas, que recuaram temporariamente devido ao apagão hidráulico. Nas Docas Mortas, Elara e Jaxon estão abrigados em uma velha torre de controle. Elara acessou um terminal antigo que revelou um elevador de carga profunda nas proximidades, levando a um complexo de purificação termal.
+*   **Estado Atual (Cap. 102):** O ar superior d'A Pilha continua varrido pelos drones assassinos de Silas, mas o foco está voltado para o apagão hidráulico. Nas Docas Mortas, Elara e Jaxon sobreviveram à corrida pela chuva ácida sob o escrutínio dos drones de busca e alcançaram o elevador de carga profunda, fugindo rumo ao complexo de purificação termal inferior.
 
 ### Setor 5
 *   **Estado Atual (Cap. 51/78):** Sem eletricidade pela queda da rede central, mergulhado na escuridão, pontuado apenas por parcos neons e fogueiras químicas. Devido às temperaturas abaixo de zero da neve ácida, tornou-se um deserto de gelo letal.

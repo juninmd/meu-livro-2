@@ -138,6 +138,7 @@ O mundo é uma mistura de natureza retomando seu espaço e esqueletos de megacid
 - [Capítulo 99: O Sabor da Ferrugem e do Chumbo](/public/capitulos/capitulo-99) ([Reflexão](/reflexoes/reflexao-99))
 - [Capítulo 100: Estruturas Ocas](/public/capitulos/capitulo-100) ([Reflexão](/reflexoes/reflexao-100))
 - [Capítulo 101: O Eco das Máquinas Mortas](/public/capitulos/capitulo-101) ([Reflexão](/reflexoes/reflexao-101))
+- [Capítulo 102: Batismo de Ácido](/public/capitulos/capitulo-102) ([Reflexão](/reflexoes/reflexao-102))
 
 <div class="story-card">
 <strong>O Legado de Silício</strong> explora a linha tênue entre tecnologia e magia em um futuro esquecido.
