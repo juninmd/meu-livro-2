@@ -45,7 +45,7 @@ O som de hélices cortando a chuva fez o meu estômago despencar. Silas ainda n�
 
 Um feixe de luz âmbar varreu a escuridão, cortando a cortina de chuva pesada como uma lâmina. O som era agudo, de motores elétricos tentando compensar a rajada de vento. Ele não estava programado para abater; estava rastreando corpos. A luz passou a centímetros da perna ferida de Jaxon.
 
-— Se ele nos iluminar... — Jaxon tirou um revólver de tambor pesado do coldre, a mão mecânica tremendo, incapaz de segurar a arma com precisão.
+— Se ele nos iluminar... — Jaxon tirou um revólver de tambor pesado do coldre, a única mão restante tremendo, incapaz de segurar a arma com precisão.
 
 — Não. — Segurei o cano gelado da arma. — O estampido vai atrair os caçadores terrestres.
 
