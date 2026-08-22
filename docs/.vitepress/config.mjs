@@ -266,6 +266,8 @@ export default defineConfig({
           { text: "Reflexão: Capítulo 101", link: "/reflexoes/reflexao-101" },
           { text: "Capítulo 102: Batismo de Ácido", link: "/public/capitulos/capitulo-102" },
           { text: "Reflexão: Capítulo 102", link: "/reflexoes/reflexao-102" },
+          { text: "Capítulo 103: Queda Livre", link: "/public/capitulos/capitulo-103" },
+          { text: "Reflexão: Capítulo 103", link: "/reflexoes/reflexao-103" },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]
