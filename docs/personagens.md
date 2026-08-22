@@ -57,9 +57,9 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 101):** Refugiado com Elara em uma torre de controle nas Docas Mortas. Sobrevive à beira do colapso físico; seu pulmão sintético engasga severamente e seu ombro amputado está selado com gel corporativo.
+    *   **Estado Atual (Cap. 103):** Desceu ao Abismo Termal com Elara através de um elevador de carga profunda. Sobrevive à beira do colapso físico; seu pulmão sintético está severamente comprometido pela inalação prévia de água ácida, perdendo óleo e sangue do ombro amputado (agora com gel corporativo saturado).
 *   **Equipamento:**
-    *   Roupas esfarrapadas. Pulmão cibernético falhando criticamente ("soando como um motor morrendo") devido a inalação de água ácida. O soquete do braço cibernético destruído nas Docas Mortas está envolto em ataduras improvisadas.
+    *   Roupas esfarrapadas. Pulmão cibernético falhando criticamente devido a inalação de água ácida nas Docas Mortas. O soquete do braço cibernético destruído está envolto em ataduras improvisadas. Armado com um revólver de tambor pesado que manuseia apenas com uma mão.
 *   **Motivação:**
     *   Inicialmente dinheiro, mas sua lealdade muda à medida que ele vê em Elara a esperança que pensava ter perdido. Determinado a proteger Elara, mesmo que isso custe sua vida.
 
@@ -136,7 +136,12 @@
 *   **Definição:** Um aglomerado vertical de habitações precárias, mercados negros e clínicas ilegais. Possui também docas secas onde cartéis operam.
 *   **Atmosfera:** Quente, úmida e saturada de neon e poluição. O oposto absoluto do setor congelado abaixo. As docas cheiram a peixe podre e ozônio velho, com chuva ácida constante.
 *   **Habitantes:** Párias, criminosos, viciados em *stim* e aqueles que não podem pagar pela cidadania nos níveis superiores. Gangues como o Cartel da Água controlam recursos vitais.
-*   **Estado Atual (Cap. 102):** O ar superior d'A Pilha continua varrido pelos drones assassinos de Silas, mas o foco está voltado para o apagão hidráulico. Nas Docas Mortas, Elara e Jaxon sobreviveram à corrida pela chuva ácida sob o escrutínio dos drones de busca e alcançaram o elevador de carga profunda, fugindo rumo ao complexo de purificação termal inferior.
+*   **Estado Atual (Cap. 103):** O ar superior d'A Pilha continua varrido pelos drones assassinos de Silas. Nas Docas Mortas, Elara e Jaxon escaparam com sucesso da chuva ácida, descendo através de um elevador de carga profunda.
+
+### Abismo Termal (Complexo de Purificação)
+*   **Definição:** Uma fornalha colossal subterrânea e complexo industrial projetado para purgar os resíduos tóxicos da cidade.
+*   **Atmosfera:** Escaldante, opressiva. O ar cheira a enxofre e metal superaquecido, com vapor tóxico denso e visibilidade prejudicada pelo brilho incandescente. Rios de metal derretido cruzados por estreitas pontes de ferro.
+*   **Habitantes (Cap. 103):** Povoado por figuras retorcidas trajando uniformes de amianto e visores opacos ("técnicos" corrompidos ou operários descartados). O local opera sob domínio das lógicas fanáticas da Ordem do Silício.
 
 ### Setor 5
 *   **Estado Atual (Cap. 51/78):** Sem eletricidade pela queda da rede central, mergulhado na escuridão, pontuado apenas por parcos neons e fogueiras químicas. Devido às temperaturas abaixo de zero da neve ácida, tornou-se um deserto de gelo letal.
