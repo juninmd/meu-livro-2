@@ -57,7 +57,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 103):** Desceu ao Abismo Termal com Elara através de um elevador de carga profunda. Sobrevive à beira do colapso físico; seu pulmão sintético está severamente comprometido pela inalação prévia de água ácida, perdendo óleo e sangue do ombro amputado (agora com gel corporativo saturado).
+    *   **Estado Atual (Cap. 104):** No Abismo Termal. Sobrevive à beira do colapso físico; seu pulmão sintético está severamente comprometido e a degradação térmica acelerou suas dores. Conseguiu disparar seu revólver antes de escapar com Elara para um duto de manutenção obscuro, onde encontram refúgio temporário do calor extremo e dos operários de amianto.
 *   **Equipamento:**
     *   Roupas esfarrapadas. Pulmão cibernético falhando criticamente devido a inalação de água ácida nas Docas Mortas. O soquete do braço cibernético destruído está envolto em ataduras improvisadas. Armado com um revólver de tambor pesado que manuseia apenas com uma mão.
 *   **Motivação:**
@@ -141,7 +141,7 @@
 ### Abismo Termal (Complexo de Purificação)
 *   **Definição:** Uma fornalha colossal subterrânea e complexo industrial projetado para purgar os resíduos tóxicos da cidade.
 *   **Atmosfera:** Escaldante, opressiva. O ar cheira a enxofre e metal superaquecido, com vapor tóxico denso e visibilidade prejudicada pelo brilho incandescente. Rios de metal derretido cruzados por estreitas pontes de ferro.
-*   **Habitantes (Cap. 103):** Povoado por figuras retorcidas trajando uniformes de amianto e visores opacos ("técnicos" corrompidos ou operários descartados). O local opera sob domínio das lógicas fanáticas da Ordem do Silício.
+*   **Habitantes (Cap. 104):** Povoado por figuras retorcidas trajando uniformes de amianto e visores opacos ("técnicos" corrompidos ou operários descartados). O local opera sob domínio das lógicas fanáticas da Ordem do Silício. Eles empunham ganchos pneumáticos enferrujados e patrulham os níveis buscando "purgar as impurezas".
 
 ### Setor 5
 *   **Estado Atual (Cap. 51/78):** Sem eletricidade pela queda da rede central, mergulhado na escuridão, pontuado apenas por parcos neons e fogueiras químicas. Devido às temperaturas abaixo de zero da neve ácida, tornou-se um deserto de gelo letal.

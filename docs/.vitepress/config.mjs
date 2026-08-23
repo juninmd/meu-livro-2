@@ -268,6 +268,8 @@ export default defineConfig({
           { text: "Reflexão: Capítulo 102", link: "/reflexoes/reflexao-102" },
           { text: "Capítulo 103: Queda Livre", link: "/public/capitulos/capitulo-103" },
           { text: "Reflexão: Capítulo 103", link: "/reflexoes/reflexao-103" },
+          { text: "Capítulo 104: Forjas do Abismo", link: "/public/capitulos/capitulo-104" },
+          { text: "Reflexão: Capítulo 104", link: "/reflexoes/reflexao-104" },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]
