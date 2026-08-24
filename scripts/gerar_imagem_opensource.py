@@ -134,3 +134,4 @@ if __name__ == "__main__":
 # Update for Cap 102
 # Update for Cap 103
 # Trigger image generation update
+# Trigger image generation update for Cap 105
