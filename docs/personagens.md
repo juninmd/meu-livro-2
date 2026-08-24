@@ -11,7 +11,7 @@
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Originalmente permitia acelerar a percepção do tempo e reagir a ameaças com precisão sobre-humana. No entanto, após o embate final, seu poder bioelétrico foi quase inteiramente extinto ("queimado").
     *   Seus poderes bioelétricos criavam uma ponte involuntária com o Deus-Máquina, mas essa conexão foi cortada de forma permanente.
-    *   **Estado Atual (Cap. 100):** Isolada nas Docas Mortas ao lado de Jaxon, sua perda total dos poderes elétricos agora a define como humana comum. Encontrou suprimentos em uma torre de controle abandonada para suturar a amputação traumática do parceiro.
+    *   **Estado Atual (Cap. 105):** Isolada no Abismo Termal ao lado de Jaxon, sua perda total dos poderes elétricos a obriga a depender de puro instinto de sobrevivência. Sofreu queimaduras de vapor nas mãos e braços enquanto tentavam escapar dos operários de amianto para alcançar um elevador de carga secundário.
 *   **Motivação:**
     *   Inicialmente encontrar a "Fonte Primordial", que agora se revela uma lenda ilusória. Sua motivação central agora é pura e simplesmente a sobrevivência em uma Nova Aether desestabilizada e perigosa após a queda do núcleo da Ordem.
 
@@ -57,9 +57,9 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 104):** No Abismo Termal. Sobrevive à beira do colapso físico; seu pulmão sintético está severamente comprometido e a degradação térmica acelerou suas dores. Conseguiu disparar seu revólver antes de escapar com Elara para um duto de manutenção obscuro, onde encontram refúgio temporário do calor extremo e dos operários de amianto.
+    *   **Estado Atual (Cap. 105):** No Abismo Termal. Seu estado físico deteriorou drasticamente; o pulmão sintético pifou, deixando-o respirando com extrema dificuldade, e o gel corporativo em seu ferimento secou. No limite de suas forças, ele decide se sacrificar usando seu revólver pesado para atrair a atenção dos operários de amianto, ordenando que Elara fuja para o elevador de carga.
 *   **Equipamento:**
-    *   Roupas esfarrapadas. Pulmão cibernético falhando criticamente devido a inalação de água ácida nas Docas Mortas. O soquete do braço cibernético destruído está envolto em ataduras improvisadas. Armado com um revólver de tambor pesado que manuseia apenas com uma mão.
+    *   Roupas esfarrapadas. Pulmão cibernético completamente inoperante. O soquete do braço cibernético destruído está envolto em ataduras improvisadas carbonizadas pelo calor. Armado com um revólver de tambor pesado, tendo disparado contra os operários de amianto no Abismo Termal.
 *   **Motivação:**
     *   Inicialmente dinheiro, mas sua lealdade muda à medida que ele vê em Elara a esperança que pensava ter perdido. Determinado a proteger Elara, mesmo que isso custe sua vida.
 
