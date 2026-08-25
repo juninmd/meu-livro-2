@@ -271,7 +271,9 @@ export default defineConfig({
           { text: "Capítulo 104: Forjas do Abismo", link: "/public/capitulos/capitulo-104" },
           { text: "Reflexão: Capítulo 104", link: "/reflexoes/reflexao-104" },
           { text: "Capítulo 105: Ecos de Enxofre", link: "/public/capitulos/capitulo-105" },
-          { text: "Reflexão: Capítulo 105", link: "/reflexoes/reflexao-105" },
+                    { text: "Reflexão: Capítulo 105", link: "/reflexoes/reflexao-105" },
+          { text: "Capítulo 106: O Frio de Mentira", link: "/public/capitulos/capitulo-106" },
+          { text: "Reflexão: Capítulo 106", link: "/reflexoes/reflexao-106" },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]
