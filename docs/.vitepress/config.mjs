@@ -274,6 +274,8 @@ export default defineConfig({
                     { text: "Reflexão: Capítulo 105", link: "/reflexoes/reflexao-105" },
           { text: "Capítulo 106: O Frio de Mentira", link: "/public/capitulos/capitulo-106" },
           { text: "Reflexão: Capítulo 106", link: "/reflexoes/reflexao-106" },
+          { text: "Capítulo 107: A Névoa Congelada", link: "/public/capitulos/capitulo-107" },
+          { text: "Reflexão: Capítulo 107", link: "/reflexoes/reflexao-107" },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]

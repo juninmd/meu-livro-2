@@ -143,6 +143,7 @@ O mundo é uma mistura de natureza retomando seu espaço e esqueletos de megacid
 - [Capítulo 104: Forjas do Abismo](/public/capitulos/capitulo-104) ([Reflexão](/reflexoes/reflexao-104))
 - [Capítulo 105: Ecos de Enxofre](/public/capitulos/capitulo-105) ([Reflexão](/reflexoes/reflexao-105))
 - [Capítulo 106: O Frio de Mentira](/public/capitulos/capitulo-106) ([Reflexão](/reflexoes/reflexao-106))
+- [Capítulo 107: A Névoa Congelada](/public/capitulos/capitulo-107) ([Reflexão](/reflexoes/reflexao-107))
 
 <div class="story-card">
 <strong>O Legado de Silício</strong> explora a linha tênue entre tecnologia e magia em um futuro esquecido.
