@@ -276,6 +276,8 @@ export default defineConfig({
           { text: "Reflexão: Capítulo 106", link: "/reflexoes/reflexao-106" },
           { text: "Capítulo 107: A Névoa Congelada", link: "/public/capitulos/capitulo-107" },
           { text: "Reflexão: Capítulo 107", link: "/reflexoes/reflexao-107" },
+          { text: "Capítulo 108: A Mecânica da Fome", link: "/public/capitulos/capitulo-108" },
+          { text: "Reflexão: Capítulo 108", link: "/reflexoes/reflexao-108" },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]

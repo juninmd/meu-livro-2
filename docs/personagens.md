@@ -11,7 +11,7 @@
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Originalmente permitia acelerar a percepção do tempo e reagir a ameaças com precisão sobre-humana. No entanto, após o embate final, seu poder bioelétrico foi quase inteiramente extinto ("queimado").
     *   Seus poderes bioelétricos criavam uma ponte involuntária com o Deus-Máquina, mas essa conexão foi cortada de forma permanente.
-    *   **Estado Atual (Cap. 107):** Isolada nas congelantes Galerias de Escoamento (abaixo do Abismo Termal) com Jaxon. Sem sua bioeletricidade para curar, utilizou roupas rasgadas para enfaixar o cotoco sangrento do ombro de Jaxon e sofre agora com queimaduras anestesiadas pelo frio tóxico, avançando apenas por instinto e determinação.
+    *   **Estado Atual (Cap. 108):** Isolada nas congelantes Galerias de Escoamento (abaixo do Abismo Termal) com Jaxon. Sem sua bioeletricidade para curar, e com o frio tóxico a dominando, ela fez uma conexão analógica improvisada em um antigo painel de serviço, gerando um calor fraco para manter Jaxon e ela mesmos vivos temporariamente.
 *   **Motivação:**
     *   Inicialmente encontrar a "Fonte Primordial", que agora se revela uma lenda ilusória. Sua motivação central agora é pura e simplesmente a sobrevivência em uma Nova Aether desestabilizada e perigosa após a queda do núcleo da Ordem.
 
@@ -57,7 +57,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 107):** Nas Galerias de Escoamento. Seu estado físico é catastrófico. Com o pulmão sintético frito, engasga com o frio tóxico e tosse sangue negro. Seu ombro amputado recomeçou a vazar, sendo enfaixado de forma improvisada por Elara usando farrapos de roupa. Caminha arrastado com a ajuda de Elara, guiado por cinismo letal.
+    *   **Estado Atual (Cap. 108):** Nas Galerias de Escoamento. Seu estado físico é catastrófico. Seus receptores periféricos estão desligando e seu núcleo de fusão do coração biológico ameaça parar pelo frio intenso. Ele descansa temporariamente aquecido pela improvisação analógica de Elara.
 *   **Equipamento:**
     *   Roupas esfarrapadas. Pulmão cibernético completamente inoperante. O soquete do braço cibernético destruído está envolto em ataduras improvisadas da roupa de Elara. Armado com um revólver de tambor pesado, tendo disparado contra os operários de amianto no Abismo Termal.
 *   **Motivação:**
@@ -142,7 +142,7 @@
 *   **Definição:** Uma fornalha colossal subterrânea e complexo industrial projetado para purgar os resíduos tóxicos da cidade.
 *   **Atmosfera:** Escaldante, opressiva. O ar cheira a enxofre e metal superaquecido, com vapor tóxico denso e visibilidade prejudicada pelo brilho incandescente. Rios de metal derretido cruzados por estreitas pontes de ferro.
 *   **Habitantes (Cap. 104):** Povoado por figuras retorcidas trajando uniformes de amianto e visores opacos ("técnicos" corrompidos ou operários descartados). O local opera sob domínio das lógicas fanáticas da Ordem do Silício. Eles empunham ganchos pneumáticos enferrujados e patrulham os níveis buscando "purgar as impurezas".
-    *   **Estado Atual (Cap. 107):** Elara e Jaxon estão atualmente isolados nas profundezas conhecidas como "Galerias de Escoamento", onde o ambiente substitui o calor vulcânico por um frio artificial tátil e cortante gerado por produtos químicos anticongelantes e freon, criando uma névoa espectral sobre canais de água turva.
+    *   **Estado Atual (Cap. 108):** Elara e Jaxon estão atualmente isolados nas profundezas conhecidas como "Galerias de Escoamento", onde o ambiente substitui o calor vulcânico por um frio artificial tátil e cortante gerado por produtos químicos anticongelantes e freon. Eles encontraram uma antiga estação de manutenção e usaram-na para gerar calor de emergência.
 
 ### Setor 5
 *   **Estado Atual (Cap. 51/78):** Sem eletricidade pela queda da rede central, mergulhado na escuridão, pontuado apenas por parcos neons e fogueiras químicas. Devido às temperaturas abaixo de zero da neve ácida, tornou-se um deserto de gelo letal.
