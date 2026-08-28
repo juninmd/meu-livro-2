@@ -278,6 +278,8 @@ export default defineConfig({
           { text: "Reflexão: Capítulo 107", link: "/reflexoes/reflexao-107" },
           { text: "Capítulo 108: A Mecânica da Fome", link: "/public/capitulos/capitulo-108" },
           { text: "Reflexão: Capítulo 108", link: "/reflexoes/reflexao-108" },
+          { text: "Capítulo 109: Fagulha Analógica", link: "/public/capitulos/capitulo-109" },
+          { text: "Reflexão: Capítulo 109", link: "/reflexoes/reflexao-109" },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]
