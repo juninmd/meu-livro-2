@@ -57,7 +57,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 109):** Nas Galerias de Escoamento. Seu estado físico é catastrófico, com a pele do coto necrosando pela geada tóxica. Seu núcleo de fusão parou quase completamente até que Elara o reiniciou brutalmente com cabos de alta tensão antigos, permitindo que recuperasse um pouco da visão e ficasse de pé para combater os Ratos-Drones que se aproximam.
+    *   **Estado Atual (Cap. 110):** Nas Galerias de Escoamento. Tendo se recuperado minimamente após o choque no núcleo, conseguiu combater os Ratos-Drones atirando em um duto de refrigeração para congelar o enxame, permitindo que escapassem para uma tubulação lateral. Enfrentam agora frio extremo e exaustão iminente.
 *   **Equipamento:**
     *   Roupas esfarrapadas. Pulmão cibernético completamente inoperante. O soquete do braço cibernético destruído está envolto em ataduras improvisadas da roupa de Elara. Armado com um revólver de tambor pesado, tendo disparado contra os operários de amianto no Abismo Termal.
 *   **Motivação:**
@@ -94,7 +94,7 @@
     *   Pequenas máquinas aracnídeas projetadas para manutenção e limpeza de detritos.
     *   Atuam em enxames ("swarm") e possuem serras circulares e mandíbulas de trituração.
     *   Foram ativados/agressivados pela perturbação no Nódulo Primário, atacando qualquer matéria orgânica que considerem "lixo".
-    *   **Estado Atual (Cap. 24):** No auge de seu frenesi após o silenciamento do Nódulo, quase alcançaram Elara e Jaxon, mas foram bloqueados por um teto colapsado provocado pelo disparo de plasma de Jaxon nos túneis do Setor 4.
+    *   **Estado Atual (Cap. 110):** Atraídos pelo choque elétrico usado por Elara para salvar Jaxon, atacaram a dupla nas Galerias de Escoamento. A maior parte da vanguarda foi paralisada e congelada por um vazamento massivo de nitrogênio líquido provocado por um disparo de Jaxon.
 
 ## Tecnologias Proibidas e Substâncias
 
@@ -142,7 +142,7 @@
 *   **Definição:** Uma fornalha colossal subterrânea e complexo industrial projetado para purgar os resíduos tóxicos da cidade.
 *   **Atmosfera:** Escaldante, opressiva. O ar cheira a enxofre e metal superaquecido, com vapor tóxico denso e visibilidade prejudicada pelo brilho incandescente. Rios de metal derretido cruzados por estreitas pontes de ferro.
 *   **Habitantes (Cap. 104):** Povoado por figuras retorcidas trajando uniformes de amianto e visores opacos ("técnicos" corrompidos ou operários descartados). O local opera sob domínio das lógicas fanáticas da Ordem do Silício. Eles empunham ganchos pneumáticos enferrujados e patrulham os níveis buscando "purgar as impurezas".
-    *   **Estado Atual (Cap. 109):** Elara e Jaxon estão atualmente isolados nas profundezas conhecidas como "Galerias de Escoamento". Elara usou um antigo painel de serviço para gerar um choque elétrico maciço para salvar a vida de Jaxon, mas a "fagulha analógica" atraiu a matriz de segurança automatizada, revelando a presença de Ratos-Drones.
+    *   **Estado Atual (Cap. 110):** Elara e Jaxon escaparam temporariamente dos Ratos-Drones nas "Galerias de Escoamento" liberando um jato massivo de nitrogênio líquido, se refugiando em uma tubulação lateral, mas agora enfrentando risco severo de congelamento.
 
 ### Setor 5
 *   **Estado Atual (Cap. 51/78):** Sem eletricidade pela queda da rede central, mergulhado na escuridão, pontuado apenas por parcos neons e fogueiras químicas. Devido às temperaturas abaixo de zero da neve ácida, tornou-se um deserto de gelo letal.
