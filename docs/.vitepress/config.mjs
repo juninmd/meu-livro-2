@@ -280,6 +280,8 @@ export default defineConfig({
           { text: "Reflexão: Capítulo 108", link: "/reflexoes/reflexao-108" },
           { text: "Capítulo 109: Fagulha Analógica", link: "/public/capitulos/capitulo-109" },
           { text: "Reflexão: Capítulo 109", link: "/reflexoes/reflexao-109" },
+          { text: "Capítulo 110: A Dança do Fio de Aço", link: "/public/capitulos/capitulo-110" },
+          { text: "Reflexão: Capítulo 110", link: "/reflexoes/reflexao-110" },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]
