@@ -11,7 +11,7 @@
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Originalmente permitia acelerar a percepção do tempo e reagir a ameaças com precisão sobre-humana. No entanto, após o embate final, seu poder bioelétrico foi quase inteiramente extinto ("queimado").
     *   Seus poderes bioelétricos criavam uma ponte involuntária com o Deus-Máquina, mas essa conexão foi cortada de forma permanente.
-    *   **Estado Atual (Cap. 109):** Isolada nas congelantes Galerias de Escoamento com Jaxon. Ela conseguiu usar cabos elétricos expostos de uma velha estação de manutenção para criar um arco voltaico e reiniciar forçadamente o núcleo do coração biológico de Jaxon. O pico de energia, no entanto, alertou um enxame de Ratos-Drones mortais nas galerias.
+    *   **Estado Atual (Cap. 111):** Escaparam do ataque dos Ratos-Drones e da subsequente tubulação congelante. Agora, junto de Jaxon, ela sobreviveu à queda para o Subnível de Aquecimento Primário.
 *   **Motivação:**
     *   Inicialmente encontrar a "Fonte Primordial", que agora se revela uma lenda ilusória. Sua motivação central agora é pura e simplesmente a sobrevivência em uma Nova Aether desestabilizada e perigosa após a queda do núcleo da Ordem.
 
@@ -57,7 +57,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 110):** Nas Galerias de Escoamento. Tendo se recuperado minimamente após o choque no núcleo, conseguiu combater os Ratos-Drones atirando em um duto de refrigeração para congelar o enxame, permitindo que escapassem para uma tubulação lateral. Enfrentam agora frio extremo e exaustão iminente.
+    *   **Estado Atual (Cap. 111):** Escaparam da tubulação de exaustão congelante explodindo uma grade, caindo no Subnível de Aquecimento Primário. Sobreviveram ao frio letal, mas agora encontram-se em um enorme poço industrial escaldante.
 *   **Equipamento:**
     *   Roupas esfarrapadas. Pulmão cibernético completamente inoperante. O soquete do braço cibernético destruído está envolto em ataduras improvisadas da roupa de Elara. Armado com um revólver de tambor pesado, tendo disparado contra os operários de amianto no Abismo Termal.
 *   **Motivação:**
@@ -94,7 +94,7 @@
     *   Pequenas máquinas aracnídeas projetadas para manutenção e limpeza de detritos.
     *   Atuam em enxames ("swarm") e possuem serras circulares e mandíbulas de trituração.
     *   Foram ativados/agressivados pela perturbação no Nódulo Primário, atacando qualquer matéria orgânica que considerem "lixo".
-    *   **Estado Atual (Cap. 110):** Atraídos pelo choque elétrico usado por Elara para salvar Jaxon, atacaram a dupla nas Galerias de Escoamento. A maior parte da vanguarda foi paralisada e congelada por um vazamento massivo de nitrogênio líquido provocado por um disparo de Jaxon.
+    *   **Estado Atual (Cap. 111):** A maior parte da vanguarda foi paralisada e congelada por um vazamento de nitrogênio líquido; os restantes ficaram para trás nas Galerias de Escoamento enquanto Elara e Jaxon escaparam para os subníveis de aquecimento.
 
 ## Tecnologias Proibidas e Substâncias
 
@@ -142,7 +142,7 @@
 *   **Definição:** Uma fornalha colossal subterrânea e complexo industrial projetado para purgar os resíduos tóxicos da cidade.
 *   **Atmosfera:** Escaldante, opressiva. O ar cheira a enxofre e metal superaquecido, com vapor tóxico denso e visibilidade prejudicada pelo brilho incandescente. Rios de metal derretido cruzados por estreitas pontes de ferro.
 *   **Habitantes (Cap. 104):** Povoado por figuras retorcidas trajando uniformes de amianto e visores opacos ("técnicos" corrompidos ou operários descartados). O local opera sob domínio das lógicas fanáticas da Ordem do Silício. Eles empunham ganchos pneumáticos enferrujados e patrulham os níveis buscando "purgar as impurezas".
-    *   **Estado Atual (Cap. 110):** Elara e Jaxon escaparam temporariamente dos Ratos-Drones nas "Galerias de Escoamento" liberando um jato massivo de nitrogênio líquido, se refugiando em uma tubulação lateral, mas agora enfrentando risco severo de congelamento.
+    *   **Estado Atual (Cap. 111):** Escaparam da tubulação lateral congelante e caíram no Subnível de Aquecimento Primário. Agora estão em um poço colossal aquecido por imensas fornalhas e cercados por fumaça e engrenagens gigantes.
 
 ### Setor 5
 *   **Estado Atual (Cap. 51/78):** Sem eletricidade pela queda da rede central, mergulhado na escuridão, pontuado apenas por parcos neons e fogueiras químicas. Devido às temperaturas abaixo de zero da neve ácida, tornou-se um deserto de gelo letal.
