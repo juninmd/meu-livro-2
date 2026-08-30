@@ -39,6 +39,12 @@
 - [x] Capítulos 87, 88, 89
 - [x] Capítulos 90, 91, 92
 - [x] Capítulos 93, 94, 95
+- [x] Capítulos 96, 97, 98
+- [x] Capítulos 99, 100
+- [x] Capítulos 101, 102, 103
+- [x] Capítulos 104, 105, 106
+- [x] Capítulos 107, 108, 109
+- [x] Capítulos 110, 111
 
 **Análise dos Capítulos 13, 14 e 15:**
 - **Coerência de Personagens:** Elara transita de uma combatente exaurida para alguém que está disposta a negociar um pedaço de si mesma por Jaxon. Jaxon segue debilitado, e a introdução oficial do Dr. Vex é bem integrada à necessidade médica emergencial sem que ele ofusque o núcleo da equipe. A troca entre Vex e Elara e a intromissão do Deus-Máquina fluem naturalmente.
@@ -464,3 +470,13 @@ A trama atingiu um marco sombrio e extremamente cativante de "Noir Cyberpunk", d
 - **Coerência dos Personagens:** A progressão de Elara e Jaxon ao longo de 110 capítulos é um estudo exemplar de desconstrução de poder. A perda de bioeletricidade de Elara e as mutilações de Jaxon ancoram a narrativa em uma realidade cruel. O vínculo deles, pautado na dor compartilhada e sobrevivência instintiva, é o núcleo emocional inabalável da história.
 - **Necessidade de Novos Personagens:** O elenco atual, junto com a Ordem do Silício, o Cartel da Água, e as abominações mecânicas, forma um ecossistema hostil completo. Inserir mais aliados ou antagonistas com rosto neste ponto crítico do abismo diluiria a imersão de desolação e isolamento claustrofóbico que sustenta a obra.
 - **A História é Boa?** A obra *O Legado de Silício* atinge um patamar altíssimo como um épico de sobrevivência e horror industrial. O foco na "biologia imperfeita" e a recusa em conceder saídas fáceis (como curas milagrosas ou novos poderes) consolidam a história como uma das experiências Cyberpunk Noir mais genuínas e viscerais, onde a vitória é apenas respirar mais um dia no frio excruciante.
+
+**Análise do Capítulo 111:**
+- **Coerência de Personagens:** Elara e Jaxon demonstram resiliência em meio ao esgotamento absoluto. Elara continua sentindo o peso da perda de suas habilidades biológicas, recorrendo ao esforço físico extremo. Jaxon, mesmo à beira do colapso com seu pulmão artificial falhando pelo frio, mantém seu pragmatismo fatalista ("vamos virar picolés radioativos") e age decisivamente para abrir caminho usando força bruta. Ambos estão coerentes com a realidade opressiva de sua vulnerabilidade biológica.
+- **Necessidade de Novos Personagens:** O capítulo é estritamente focado no ambiente hostil das tubulações congeladas e no alívio opressivo do subnível de aquecimento. A ausência de novos personagens ou inimigos diretos serve perfeitamente para intensificar o isolamento e focar na batalha contra as forças impiedosas da cidade. Adicionar novos personagens quebraria essa atmosfera de sobrevivência elementar.
+- **Qualidade da História:** A transição atmosférica e sensorial do frio absoluto e letal das Galerias de Escoamento para o calor abrasador do Subnível de Aquecimento Primário é muito bem executada. O estilo Cyberpunk Noir brilha com descrições cruas ("fedia a metal morto e amônia", "rosto iluminado por um brilho artificial"), mantendo a tensão e reforçando a constante punição física infligida aos protagonistas.
+
+**Revisão Global de Todos os Personagens na Obra (Capítulos 1 a 111):**
+- **Coerência dos Personagens:** Ao longo de 111 capítulos, o arco de desconstrução dos protagonistas é extraordinariamente consistente. Elara passou de alguém que dependia de poderes inatos de bioeletricidade para uma sobrevivente forçada a se basear em intuição analógica e força de vontade. Jaxon perdeu partes do corpo e sofre com falhas sistêmicas em seus parcos implantes. O foco na deterioração de seus corpos ancorou a história, dando peso e urgência inegáveis a cada combate, tornando-os sobreviventes orgânicos destroçados cujas dores guiam suas ações.
+- **Necessidade de Novos Personagens:** A obra encontra sua força máxima no isolamento de Elara e Jaxon nas entranhas de Nova Aether. O ambiente implacável, juntamente com facções sem rosto definido nos abismos mais profundos, tem servido como o grande antagonista opressor. Neste arco profundo, a inclusão de novos personagens fragmentaria o clima de desolação e sobrevivência crua.
+- **A História é Boa?** A história se consolidou como um excelente épico visceral de horror industrial e sobrevivência. A decisão de subtrair o poder e o esplendor tecnológico, focando na "biologia imperfeita" e no custo doloroso da vida em Nova Aether, subverte as narrativas heroicas, consagrando a jornada como uma experiência autêntica, angustiante e profundamente enraizada no Noir mais sombrio.
