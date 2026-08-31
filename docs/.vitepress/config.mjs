@@ -284,6 +284,8 @@ export default defineConfig({
           { text: "Reflexão: Capítulo 110", link: "/reflexoes/reflexao-110" },
           { text: "Capítulo 111: Fogo e Ferrugem", link: "/public/capitulos/capitulo-111" },
           { text: "Reflexão: Capítulo 111", link: "/reflexoes/reflexao-111" },
+          { text: "Capítulo 112: Escória Incandescente", link: "/public/capitulos/capitulo-112" },
+          { text: "Reflexão: Capítulo 112", link: "/reflexoes/reflexao-112" },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]

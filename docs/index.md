@@ -148,6 +148,7 @@ O mundo é uma mistura de natureza retomando seu espaço e esqueletos de megacid
 - [Capítulo 109: Fagulha Analógica](/public/capitulos/capitulo-109) ([Reflexão](/reflexoes/reflexao-109))
 - [Capítulo 110: A Dança do Fio de Aço](/public/capitulos/capitulo-110) ([Reflexão](/reflexoes/reflexao-110))
 - [Capítulo 111: Fogo e Ferrugem](/public/capitulos/capitulo-111) ([Reflexão](/reflexoes/reflexao-111))
+- [Capítulo 112: Escória Incandescente](/public/capitulos/capitulo-112) ([Reflexão](/reflexoes/reflexao-112))
 
 <div class="story-card">
 <strong>O Legado de Silício</strong> explora a linha tênue entre tecnologia e magia em um futuro esquecido.
