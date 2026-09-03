@@ -11,7 +11,7 @@
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Originalmente permitia acelerar a percepção do tempo e reagir a ameaças com precisão sobre-humana. No entanto, após o embate final, seu poder bioelétrico foi quase inteiramente extinto ("queimado").
     *   Seus poderes bioelétricos criavam uma ponte involuntária com o Deus-Máquina, mas essa conexão foi cortada de forma permanente.
-    *   **Estado Atual (Cap. 113):** Alcançaram a plataforma de distribuição primária, mas continuaram sendo perseguidos por técnicos corrompidos. Com Jaxon perdendo a consciência, Elara precisou abrir manualmente um duto de ventilação secundário para escaparem da fornalha.
+    *   **Estado Atual (Cap. 114):** Após entrarem no duto de ventilação escuro para fugir dos cultistas da fornalha, Elara conseguiu estancar temporariamente o sangramento do braço de Jaxon usando tiras de seu próprio casaco, ajudando-o a se levantar para continuarem avançando através das tubulações geladas.
 *   **Motivação:**
     *   Inicialmente encontrar a "Fonte Primordial", que agora se revela uma lenda ilusória. Sua motivação central agora é pura e simplesmente a sobrevivência em uma Nova Aether desestabilizada e perigosa após a queda do núcleo da Ordem.
 
@@ -57,7 +57,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 113):** Atingiu a exaustão física e perda massiva de sangue do seu toco de braço na plataforma de distribuição primária, quase perdendo a consciência, sendo arrastado por Elara para a segurança de um duto de ventilação escuro.
+    *   **Estado Atual (Cap. 114):** Preso no duto escuro com Elara, ele teve a hemorragia do soquete de seu braço estancada temporariamente. Mantém-se de pé por teimosia, agarrando-se ao seu revólver, ciente de que cada passo em seu estado de choque hipovolêmico é letal.
 *   **Equipamento:**
     *   Roupas esfarrapadas. Pulmão cibernético completamente inoperante. O soquete do braço cibernético destruído está envolto em ataduras improvisadas da roupa de Elara. Armado com um revólver de tambor pesado, tendo disparado contra os operários de amianto no Abismo Termal.
 *   **Motivação:**
@@ -142,7 +142,7 @@
 *   **Definição:** Uma fornalha colossal subterrânea e complexo industrial projetado para purgar os resíduos tóxicos da cidade.
 *   **Atmosfera:** Escaldante, opressiva. O ar cheira a enxofre e metal superaquecido, com vapor tóxico denso e visibilidade prejudicada pelo brilho incandescente. Rios de metal derretido cruzados por estreitas pontes de ferro.
 *   **Habitantes (Cap. 104):** Povoado por figuras retorcidas trajando uniformes de amianto e visores opacos ("técnicos" corrompidos ou operários descartados). O local opera sob domínio das lógicas fanáticas da Ordem do Silício. Eles empunham ganchos pneumáticos enferrujados e patrulham os níveis buscando "purgar as impurezas".
-    *   **Estado Atual (Cap. 113):** Elara e Jaxon escaparam do calor e dos cultistas na plataforma de distribuição, infiltrando-se em um duto de ventilação secundário escuro e não pressurizado.
+    *   **Estado Atual (Cap. 114):** Elara e Jaxon estão presos e se movendo precariamente através de um duto de ventilação secundário escuro e não pressurizado, buscando fugir dos cultistas da Ordem que tentarão cortar a escotilha em poucos minutos.
 
 ### Setor 5
 *   **Estado Atual (Cap. 51/78):** Sem eletricidade pela queda da rede central, mergulhado na escuridão, pontuado apenas por parcos neons e fogueiras químicas. Devido às temperaturas abaixo de zero da neve ácida, tornou-se um deserto de gelo letal.
