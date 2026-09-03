@@ -288,6 +288,8 @@ export default defineConfig({
           { text: "Reflexão: Capítulo 112", link: "/reflexoes/reflexao-112" },
           { text: "Capítulo 113: O Respiro no Escuro", link: "/public/capitulos/capitulo-113" },
           { text: "Reflexão: Capítulo 113", link: "/reflexoes/reflexao-113" },
+          { text: "Capítulo 114: Suturas na Escuridão", link: "/public/capitulos/capitulo-114" },
+          { text: "Reflexão: Capítulo 114", link: "/reflexoes/reflexao-114" },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]

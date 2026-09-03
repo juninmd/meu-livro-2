@@ -261,3 +261,16 @@ Os antagonistas (A Ordem, e agora o Cartel da Água liderado por Silas) sempre d
 
 ### Necessidade de Novos Personagens
 *   Nenhum NPC introduzido. Foco contínuo no relacionamento e limite físico da dupla principal para aumentar a tensão da sobrevivência, não dependendo de novos atores para movimentar a trama no momento.
+
+**Capítulo:** 114 (Suturas na Escuridão)
+
+### Coerência dos Personagens
+*   **Elara:** A impotência de Elara fica ainda mais evidente ao não conseguir curar magicamente Jaxon com sua energia bioelétrica, forçando-a a adotar medidas rudimentares e demonstrando o quão longe a personagem evoluiu de "escolhida mística" para uma sobrevivente pragmática.
+*   **Jaxon:** Jaxon aceita seu provável fim, mas sua teimosia fala mais alto, exigindo levantar-se para enfrentar a ameaça em vez de morrer inerte. O avanço em seu estado de choque está alinhado à severidade de seus ferimentos, não o reduzindo a um alívio, mas mantendo a seriedade da sua mortalidade.
+*   **Sanity Check:** O estado físico de ambos e as restrições da narrativa (escuridão, perda das habilidades de Elara) mantêm a fidelidade aos capítulos anteriores. A ameaça na forma do arrombamento da escotilha estabelece um ritmo urgente para o próximo capítulo.
+
+### Qualidade da História
+*   **Atmosfera e Ritmo:** A alteração do ritmo agitado para uma quietude sufocante cria um contraste que respira o desespero e a intimidade forçada, enfatizando o peso e a iminência da morte no duto escuro e gélido.
+
+### Necessidade de Novos Personagens
+*   Não foram adicionados novos personagens. O foco exclusivo em Elara e Jaxon aumenta o isolamento e acentua a tensão claustrofóbica imposta pela trama, perfeitamente de acordo com o tom Noir esperado.
