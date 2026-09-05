@@ -57,7 +57,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 115):** Rastejando ferido pelos dutos gelados, dependendo de Elara como apoio físico. Sua hemorragia e a falta do braço cibernético o enfraquecem consideravelmente, além de seus pulmões estarem comprometidos. Em um ato de desespero para não ser pego pelos cultistas com maçaricos de plasma, Jaxon seguiu Elara descendo pela tubulação vertical às cegas.
+    *   **Estado Atual (Cap. 116):** Rastejando ferido e exausto após descer pela tubulação vertical às cegas. Aterrado no subnível de filtragem profundo do Setor 4, ele e Elara estão agora encurralados pela Ordem do Silício descendo acima deles e por um enxame de aranhas de busca de Silas à frente, escondidas na escuridão de um túnel de escoamento cheio de lama e solvente químico.
 *   **Equipamento:**
     *   Roupas esfarrapadas. Pulmão cibernético completamente inoperante. O soquete do braço cibernético destruído está envolto em ataduras improvisadas da roupa de Elara. Armado com um revólver de tambor pesado, tendo disparado contra os operários de amianto no Abismo Termal.
 *   **Motivação:**
@@ -70,7 +70,7 @@
 *   **Descrição:**
     *   Um chefe de gangue movido pela ganância que controla os recursos vitais e os filtros de ar no Setor 4.
     *   Pragmático e implacável, ele subestima ameaças físicas menores, mas respeita perigos cibernéticos.
-    *   **Estado Atual (Cap. 91):** Seu nodo principal de purificação de água foi destruído, provocando um apagão hidráulico no Setor 4. Enviou aranhas de busca pelos dutos, mas estas falharam em seguir Elara e Jaxon pela descida vertical da chaminé rumo às Docas Mortas.
+    *   **Estado Atual (Cap. 116):** Seu nodo principal de purificação de água foi destruído, provocando um apagão hidráulico no Setor 4. As aranhas de busca que enviou pelos dutos não falharam, elas se anteciparam; no nível de filtragem profunda de solventes químicos, o enxame armou uma emboscada no escuro e encurralou Elara e Jaxon.
 *   **Motivação:**
     *   Manter o monopólio e o poder do seu Cartel. Vingança contra Elara e Jaxon por humilhá-lo e roubar os filtros Classe-A vitais.
 
@@ -142,7 +142,7 @@
 *   **Definição:** Uma fornalha colossal subterrânea e complexo industrial projetado para purgar os resíduos tóxicos da cidade.
 *   **Atmosfera:** Escaldante, opressiva. O ar cheira a enxofre e metal superaquecido, com vapor tóxico denso e visibilidade prejudicada pelo brilho incandescente. Rios de metal derretido cruzados por estreitas pontes de ferro.
 *   **Habitantes (Cap. 104):** Povoado por figuras retorcidas trajando uniformes de amianto e visores opacos ("técnicos" corrompidos ou operários descartados). O local opera sob domínio das lógicas fanáticas da Ordem do Silício. Eles empunham ganchos pneumáticos enferrujados e patrulham os níveis buscando "purgar as impurezas".
-    *   **Estado Atual (Cap. 115):** Os executores da Ordem do Silício começaram a usar maçaricos de plasma para romper o aço da escotilha principal do duto secundário de ventilação. Sem escolhas viáveis no espaço confinado e horizontal, Elara e Jaxon foram forçados a tentar uma rota vertical cega por uma tubulação secundária instável.
+    *   **Estado Atual (Cap. 116):** Os executores da Ordem do Silício romperam a escotilha principal do duto secundário e começaram a descer em perseguição. Abaixo do sistema, no subnível profundo de filtragem repleto de lama viscosa e solvente, Elara e Jaxon caíram em uma emboscada das aranhas de busca de Silas.
 
 ### Setor 5
 *   **Estado Atual (Cap. 51/78):** Sem eletricidade pela queda da rede central, mergulhado na escuridão, pontuado apenas por parcos neons e fogueiras químicas. Devido às temperaturas abaixo de zero da neve ácida, tornou-se um deserto de gelo letal.

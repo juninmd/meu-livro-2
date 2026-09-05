@@ -152,6 +152,7 @@ O mundo é uma mistura de natureza retomando seu espaço e esqueletos de megacid
 - [Capítulo 113: O Respiro no Escuro](/public/capitulos/capitulo-113) ([Reflexão](/reflexoes/reflexao-113))
 - [Capítulo 114: Suturas na Escuridão](/public/capitulos/capitulo-114) ([Reflexão](/reflexoes/reflexao-114))
 - [Capítulo 115: Rastejando na Ferrugem](/public/capitulos/capitulo-115) ([Reflexão](/reflexoes/reflexao-115))
+- [Capítulo 116: Queda no Vazio](/public/capitulos/capitulo-116) ([Reflexão](/reflexoes/reflexao-116))
 
 <div class="story-card">
 <strong>O Legado de Silício</strong> explora a linha tênue entre tecnologia e magia em um futuro esquecido.
