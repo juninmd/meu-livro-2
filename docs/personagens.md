@@ -11,7 +11,7 @@
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Originalmente permitia acelerar a percepção do tempo e reagir a ameaças com precisão sobre-humana. No entanto, após o embate final, seu poder bioelétrico foi quase inteiramente extinto ("queimado").
     *   Seus poderes bioelétricos criavam uma ponte involuntária com o Deus-Máquina, mas essa conexão foi cortada de forma permanente.
-    *   **Estado Atual (Cap. 115):** Guiando Jaxon através do duto de ventilação secundário esfarrapada e exausta. A Ordem começou a abrir a escotilha de entrada com maçaricos de plasma. Para escapar do cerco que se fechava no duto estreito, Elara tomou a liderança deslizando por uma perigosa tubulação vertical e cega, segurando-se pelas alças de manutenção para não cair.
+    *   **Estado Atual (Cap. 117):** Escondida com Jaxon em uma fenda atrás da tubulação de um túnel de filtragem profunda. Sobreviveu à emboscada das aranhas de Silas causando o rompimento de um tanque corroído de solvente químico, o que gerou uma enxurrada negra e espessa que engoliu as máquinas e foi incendiada por um disparo de plasma da Ordem, criando uma parede de fogo temporária entre eles e seus caçadores.
 *   **Motivação:**
     *   Inicialmente encontrar a "Fonte Primordial", que agora se revela uma lenda ilusória. Sua motivação central agora é pura e simplesmente a sobrevivência em uma Nova Aether desestabilizada e perigosa após a queda do núcleo da Ordem.
 
@@ -57,9 +57,9 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 116):** Rastejando ferido e exausto após descer pela tubulação vertical às cegas. Aterrado no subnível de filtragem profundo do Setor 4, ele e Elara estão agora encurralados pela Ordem do Silício descendo acima deles e por um enxame de aranhas de busca de Silas à frente, escondidas na escuridão de um túnel de escoamento cheio de lama e solvente químico.
+    *   **Estado Atual (Cap. 117):** Tossindo fuligem e abrigado em uma fenda estreita no túnel de filtragem ao lado de Elara, após usar sua última gota de energia para atirar nos tanques químicos a pedido dela, varrendo as aranhas de Silas com uma onda de óleo denso.
 *   **Equipamento:**
-    *   Roupas esfarrapadas. Pulmão cibernético completamente inoperante. O soquete do braço cibernético destruído está envolto em ataduras improvisadas da roupa de Elara. Armado com um revólver de tambor pesado, tendo disparado contra os operários de amianto no Abismo Termal.
+    *   Roupas esfarrapadas. Pulmão cibernético completamente inoperante. O soquete do braço cibernético destruído está envolto em ataduras improvisadas da roupa de Elara. Armado com um revólver de tambor pesado (agora com pouca munição, após atirar nas aranhas e nos tanques).
 *   **Motivação:**
     *   Inicialmente dinheiro, mas sua lealdade muda à medida que ele vê em Elara a esperança que pensava ter perdido. Determinado a proteger Elara, mesmo que isso custe sua vida.
 
@@ -70,7 +70,7 @@
 *   **Descrição:**
     *   Um chefe de gangue movido pela ganância que controla os recursos vitais e os filtros de ar no Setor 4.
     *   Pragmático e implacável, ele subestima ameaças físicas menores, mas respeita perigos cibernéticos.
-    *   **Estado Atual (Cap. 116):** Seu nodo principal de purificação de água foi destruído, provocando um apagão hidráulico no Setor 4. As aranhas de busca que enviou pelos dutos não falharam, elas se anteciparam; no nível de filtragem profunda de solventes químicos, o enxame armou uma emboscada no escuro e encurralou Elara e Jaxon.
+    *   **Estado Atual (Cap. 117):** Seu nodo principal de purificação de água foi destruído, provocando um apagão hidráulico no Setor 4. O enxame de aranhas de busca que enviou para emboscar a dupla no nível de filtragem profunda foi inteiramente engolido por uma onda de lama química e destruído pelo subsequente incêndio provocado pelo fogo cruzado da Ordem.
 *   **Motivação:**
     *   Manter o monopólio e o poder do seu Cartel. Vingança contra Elara e Jaxon por humilhá-lo e roubar os filtros Classe-A vitais.
 
@@ -142,7 +142,7 @@
 *   **Definição:** Uma fornalha colossal subterrânea e complexo industrial projetado para purgar os resíduos tóxicos da cidade.
 *   **Atmosfera:** Escaldante, opressiva. O ar cheira a enxofre e metal superaquecido, com vapor tóxico denso e visibilidade prejudicada pelo brilho incandescente. Rios de metal derretido cruzados por estreitas pontes de ferro.
 *   **Habitantes (Cap. 104):** Povoado por figuras retorcidas trajando uniformes de amianto e visores opacos ("técnicos" corrompidos ou operários descartados). O local opera sob domínio das lógicas fanáticas da Ordem do Silício. Eles empunham ganchos pneumáticos enferrujados e patrulham os níveis buscando "purgar as impurezas".
-    *   **Estado Atual (Cap. 116):** Os executores da Ordem do Silício romperam a escotilha principal do duto secundário e começaram a descer em perseguição. Abaixo do sistema, no subnível profundo de filtragem repleto de lama viscosa e solvente, Elara e Jaxon caíram em uma emboscada das aranhas de busca de Silas.
+    *   **Estado Atual (Cap. 117):** No túnel transversal de filtragem profunda (um subnível alagado de lama, solventes inflamáveis e tanques corroídos), uma barreira de fogo escaldante separa temporariamente Elara e Jaxon dos Sentinelas da Ordem após uma reação em cadeia entre o solvente derramado e os disparos de plasma.
 
 ### Setor 5
 *   **Estado Atual (Cap. 51/78):** Sem eletricidade pela queda da rede central, mergulhado na escuridão, pontuado apenas por parcos neons e fogueiras químicas. Devido às temperaturas abaixo de zero da neve ácida, tornou-se um deserto de gelo letal.
