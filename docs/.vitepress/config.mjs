@@ -296,6 +296,8 @@ export default defineConfig({
           { text: "Reflexão: Capítulo 116", link: "/reflexoes/reflexao-116" },
           { text: "Capítulo 117: Maré de Óleo e Sangue", link: "/public/capitulos/capitulo-117" },
           { text: "Reflexão: Capítulo 117", link: "/reflexoes/reflexao-117" },
+          { text: "Capítulo 118: Cinzas no Pulmão", link: "/public/capitulos/capitulo-118" },
+          { text: "Reflexão: Capítulo 118", link: "/reflexoes/reflexao-118" },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]
