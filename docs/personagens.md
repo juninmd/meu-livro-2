@@ -11,7 +11,7 @@
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Originalmente permitia acelerar a percepção do tempo e reagir a ameaças com precisão sobre-humana. No entanto, após o embate final, seu poder bioelétrico foi quase inteiramente extinto ("queimado").
     *   Seus poderes bioelétricos criavam uma ponte involuntária com o Deus-Máquina, mas essa conexão foi cortada de forma permanente.
-    *   **Estado Atual (Cap. 118):** Após escapar de um paredão de chamas químicas no túnel de filtragem subindo com extrema dificuldade por um duto de ventilação, Elara encontra-se agora abrigada temporariamente em uma sala de controle industrial abandonada, completamente exausta, notando sinais de atividade sistêmica dormente na infraestrutura local.
+    *   **Estado Atual (Cap. 119):** Na sala de controle auxiliar, Elara conseguiu acessar a malha de segurança, descobrindo que a Ordem do Silício ativou um protocolo de purga térmica. Sem seus poderes bioelétricos, ela utilizou métodos manuais para acionar os freios magnéticos de um elevador de serviço abandonado, planejando uma descida arriscada para a malha de trânsito d'A Pilha.
 *   **Motivação:**
     *   Inicialmente encontrar a "Fonte Primordial", que agora se revela uma lenda ilusória. Sua motivação central agora é pura e simplesmente a sobrevivência em uma Nova Aether desestabilizada e perigosa após a queda do núcleo da Ordem.
 
@@ -142,7 +142,7 @@
 *   **Definição:** Uma fornalha colossal subterrânea e complexo industrial projetado para purgar os resíduos tóxicos da cidade.
 *   **Atmosfera:** Escaldante, opressiva. O ar cheira a enxofre e metal superaquecido, com vapor tóxico denso e visibilidade prejudicada pelo brilho incandescente. Rios de metal derretido cruzados por estreitas pontes de ferro.
 *   **Habitantes (Cap. 104):** Povoado por figuras retorcidas trajando uniformes de amianto e visores opacos ("técnicos" corrompidos ou operários descartados). O local opera sob domínio das lógicas fanáticas da Ordem do Silício. Eles empunham ganchos pneumáticos enferrujados e patrulham os níveis buscando "purgar as impurezas".
-    *   **Estado Atual (Cap. 118):** No túnel transversal de filtragem profunda, uma barreira de chamas engoliu as forças inimigas. Acima das chamas, no duto de exaustão, há uma sala de controle esquecida, com seus monitores empoeirados, onde uma luz verde piscante indica uma rede ainda parcialmente ativa.
+    *   **Estado Atual (Cap. 119):** O protocolo de purga térmica foi ativado pela Ordem do Silício, com o objetivo de inundar os níveis inferiores com gás sulfúrico superaquecido. O elevador de serviço principal para a malha de trânsito teve seus freios magnéticos destravados manualmente na sala de controle.
 
 ### Setor 5
 *   **Estado Atual (Cap. 51/78):** Sem eletricidade pela queda da rede central, mergulhado na escuridão, pontuado apenas por parcos neons e fogueiras químicas. Devido às temperaturas abaixo de zero da neve ácida, tornou-se um deserto de gelo letal.

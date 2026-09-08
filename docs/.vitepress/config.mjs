@@ -298,6 +298,8 @@ export default defineConfig({
           { text: "Reflexão: Capítulo 117", link: "/reflexoes/reflexao-117" },
           { text: "Capítulo 118: Cinzas no Pulmão", link: "/public/capitulos/capitulo-118" },
           { text: "Reflexão: Capítulo 118", link: "/reflexoes/reflexao-118" },
+          { text: "Capítulo 119: Protocolo de Purga", link: "/public/capitulos/capitulo-119" },
+          { text: "Reflexão: Capítulo 119", link: "/reflexoes/reflexao-119" },
           { text: 'Personagens', link: '/personagens' },
           { text: 'Sobre o Universo', link: '/sobre' }
         ]
