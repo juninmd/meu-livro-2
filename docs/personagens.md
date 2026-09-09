@@ -11,7 +11,7 @@
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Originalmente permitia acelerar a percepção do tempo e reagir a ameaças com precisão sobre-humana. No entanto, após o embate final, seu poder bioelétrico foi quase inteiramente extinto ("queimado").
     *   Seus poderes bioelétricos criavam uma ponte involuntária com o Deus-Máquina, mas essa conexão foi cortada de forma permanente.
-    *   **Estado Atual (Cap. 119):** Na sala de controle auxiliar, Elara conseguiu acessar a malha de segurança, descobrindo que a Ordem do Silício ativou um protocolo de purga térmica. Sem seus poderes bioelétricos, ela utilizou métodos manuais para acionar os freios magnéticos de um elevador de serviço abandonado, planejando uma descida arriscada para a malha de trânsito d'A Pilha.
+    *   **Estado Atual (Cap. 120):** Escapou da purga térmica na sala de controle descendo o poço de um elevador de carga. Depende inteiramente de esforço físico e correias improvisadas para deslizar pelos cabos magnéticos rumo à escuridão da malha de trânsito abandonada d'A Pilha.
 *   **Motivação:**
     *   Inicialmente encontrar a "Fonte Primordial", que agora se revela uma lenda ilusória. Sua motivação central agora é pura e simplesmente a sobrevivência em uma Nova Aether desestabilizada e perigosa após a queda do núcleo da Ordem.
 
@@ -57,7 +57,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 118):** Esgotado fisicamente e tossindo fuligem escura, Jaxon conseguiu escalar um duto de ventilação com o auxílio de Elara, abrigando-se no piso de uma sala de controle abandonada acima do incêndio químico, lutando contra o agravamento das suas condições orgânicas já comprometidas.
+    *   **Estado Atual (Cap. 120):** Em estado físico crítico, com um ombro ensanguentado e o braço mecânico inutilizado. Desce o poço do elevador pendurado em correias industriais amarradas ao cabo magnético, tossindo sangue enquanto o ar incandescente da purga queima acima deles.
 *   **Equipamento:**
     *   Roupas esfarrapadas. Pulmão cibernético completamente inoperante. O soquete do braço cibernético destruído está envolto em ataduras improvisadas da roupa de Elara. Armado com um revólver de tambor pesado (agora com pouca munição, após atirar nas aranhas e nos tanques).
 *   **Motivação:**
@@ -142,7 +142,7 @@
 *   **Definição:** Uma fornalha colossal subterrânea e complexo industrial projetado para purgar os resíduos tóxicos da cidade.
 *   **Atmosfera:** Escaldante, opressiva. O ar cheira a enxofre e metal superaquecido, com vapor tóxico denso e visibilidade prejudicada pelo brilho incandescente. Rios de metal derretido cruzados por estreitas pontes de ferro.
 *   **Habitantes (Cap. 104):** Povoado por figuras retorcidas trajando uniformes de amianto e visores opacos ("técnicos" corrompidos ou operários descartados). O local opera sob domínio das lógicas fanáticas da Ordem do Silício. Eles empunham ganchos pneumáticos enferrujados e patrulham os níveis buscando "purgar as impurezas".
-    *   **Estado Atual (Cap. 119):** O protocolo de purga térmica foi ativado pela Ordem do Silício, com o objetivo de inundar os níveis inferiores com gás sulfúrico superaquecido. O elevador de serviço principal para a malha de trânsito teve seus freios magnéticos destravados manualmente na sala de controle.
+    *   **Estado Atual (Cap. 120):** O protocolo de purga térmica está em andamento, varrendo as salas de controle e dutos superiores com ondas de gás sulfúrico incandescente. O poço do elevador de serviço atua como uma chaminé vertical perigosa para os fugitivos, mas liga o inferno termal aos subníveis esquecidos d'A Pilha.
 
 ### Setor 5
 *   **Estado Atual (Cap. 51/78):** Sem eletricidade pela queda da rede central, mergulhado na escuridão, pontuado apenas por parcos neons e fogueiras químicas. Devido às temperaturas abaixo de zero da neve ácida, tornou-se um deserto de gelo letal.
