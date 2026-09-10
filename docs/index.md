@@ -157,6 +157,7 @@ O mundo é uma mistura de natureza retomando seu espaço e esqueletos de megacid
 - [Capítulo 118: Cinzas no Pulmão](/public/capitulos/capitulo-118) ([Reflexão](/reflexoes/reflexao-118))
 - [Capítulo 119: Protocolo de Purga](/public/capitulos/capitulo-119) ([Reflexão](/reflexoes/reflexao-119))
 - [Capítulo 120: Queda Controlada](/public/capitulos/capitulo-120) ([Reflexão](/reflexoes/reflexao-120))
+- [Capítulo 121: Fundo do Poço](/public/capitulos/capitulo-121) ([Reflexão](/reflexoes/reflexao-121))
 
 <div class="story-card">
 <strong>O Legado de Silício</strong> explora a linha tênue entre tecnologia e magia em um futuro esquecido.
