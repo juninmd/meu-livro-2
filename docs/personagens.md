@@ -11,7 +11,7 @@
     *   Possui a habilidade única de interfacear mentalmente com tecnologias antigas sem a necessidade de implantes. Agora, consegue **projetar bioeletricidade** para forçar sistemas eletrônicos (Cap. 9) e **cauterizar ferimentos orgânicos** (Cap. 10).
     *   **Habilidade Especial:** **Sobrecarga Sináptica** — Originalmente permitia acelerar a percepção do tempo e reagir a ameaças com precisão sobre-humana. No entanto, após o embate final, seu poder bioelétrico foi quase inteiramente extinto ("queimado").
     *   Seus poderes bioelétricos criavam uma ponte involuntária com o Deus-Máquina, mas essa conexão foi cortada de forma permanente.
-    *   **Estado Atual (Cap. 121):** Atingiu o fundo do poço do elevador na antiga malha de trânsito subterrânea. Continua desprovida de seus poderes, ajudando a arrastar um Jaxon gravemente ferido através da água lamacenta e química dos subníveis esquecidos, onde uma nova ameaça metálica espreita.
+    *   **Estado Atual (Cap. 122):** Sobrevivendo sem seus poderes bioelétricos (perdidos no Capítulo 44) nos subníveis esquecidos d'A Pilha. Ela assumiu a vanguarda protetora, compensando a ausência de sua Sobrecarga Sináptica com brutalidade física e improvisação, combatendo com sucesso um autômato enferrujado nas águas fétidas com um tubo de pressão para proteger Jaxon.
 *   **Motivação:**
     *   Inicialmente encontrar a "Fonte Primordial", que agora se revela uma lenda ilusória. Sua motivação central agora é pura e simplesmente a sobrevivência em uma Nova Aether desestabilizada e perigosa após a queda do núcleo da Ordem.
 
@@ -57,7 +57,7 @@
     *   Um mercenário veterano, corpulento, com uma cicatriz profunda cruzando o rosto.
     *   Carrega um **rifle de plasma modificado** e tem um braço mecânico rústico.
     *   Cínico e pragmático, ele vê o mundo como um lugar onde apenas os fortes sobrevivem.
-    *   **Estado Atual (Cap. 121):** Sobreviveu à descida até a velha malha de trânsito, mas está quase incapacitado por seus ferimentos físicos e fuligem ácida nos pulmões. Apoia-se em Elara para caminhar pelos túneis inundados de lodo.
+    *   **Estado Atual (Cap. 122):** Gravemente ferido e mutilado (perdeu o braço cibernético no Capítulo 100). Quase incapacitado por seus ferimentos e exaustão, dependeu da intervenção brutal e desesperada de Elara para sobreviver ao ataque de um autômato de manutenção nos túneis inundados.
 *   **Equipamento:**
     *   Roupas esfarrapadas. Pulmão cibernético completamente inoperante. O soquete do braço cibernético destruído está envolto em ataduras improvisadas da roupa de Elara. Armado com um revólver de tambor pesado (agora com pouca munição, após atirar nas aranhas e nos tanques).
 *   **Motivação:**
@@ -150,3 +150,9 @@
 ### Scrapyard
 *   **Definição:** Mercado negro e favela nas bordas do Setor 5, formado por sucata tecnológica e cascos de veículos antigos. Um território sem lei controlado por gangues e necrófagos.
 *   **Estado Atual (Cap. 82):** Mantém um microclima fétido e aquecido por fogueiras químicas, opondo-se à chuva ácida. É uma "infecção" de tendas e barracas de cirurgias clandestinas, onde o ar recende a óleo lubrificante, ozônio, ferrugem e sangue exposto. Serve como refúgio marginal e armadilha letal para quem anda desarmado.
+
+
+### Subníveis Esquecidos da Malha de Trânsito
+*   **Definição:** A lixeira da cidade baixa e infraestrutura abandonada há meio século, localizada abaixo do Abismo Termal.
+*   **Atmosfera:** Escura, fria e úmida, com cheiro de lodo químico, metal esquecido e água negra coberta de óleo.
+*   **Habitantes (Cap. 122):** Povoado por abominações mecânicas mortas, como gigantescos autômatos de manutenção de ferro fundido corrompidos e hostis que operam sob lógicas obsoletas e atacam intrusos.
